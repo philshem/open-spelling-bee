@@ -12,7 +12,7 @@ MAX_PUZZLE_TRIES = 100000
 
 # file paths
 WORD_LIST_PATH = 'data' + os.sep + 'TWL06.txt'
-PUZZLE_PATH = 'data'+os.sep+'puzzles.json'
+PUZZLE_PATH = 'data'+os.sep+'1.puzzles.json'
 
 # set minimum word length and total letters used
 MIN_WORD_LENGTH = 4
