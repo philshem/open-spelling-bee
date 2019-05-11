@@ -22,8 +22,7 @@ Runtime depends on your parameters. For the default parameter settings, the code
 
 ---
 
-## game play
-
+## game play
 To play, build minimum 4-letter words using the letters provided.
 
 Each word must include the center letter at least once.
@@ -31,14 +30,14 @@ Each word must include the center letter at least once.
 Letters may be used as many times as you'd like.
 
 Scoring: 1 point for a 4 letter word, and 1 more point for each word longer than 4 letters.
-                Example:  WORD - 1 point
-                        WORDS - 2 points
-                        SPELLING - 5 points
-
 
 Each puzzle has 1 "pangram" that uses each of the 7 letters at least once. The pangram is worth 7 extra points.
 
-##Example play
+Dictionary: Scrabble word list [TWL06](https://www.wordgamedictionary.com/twl06/)
+
+
+## example play
+(based on test game found in data/1.puzzles.json)
 
 ```
 You selected a random puzzle, index: 0
