@@ -114,9 +114,10 @@ def play(puzl):
                 player_pangram = True
                 # pangrams are worth +7 extra
                 player_score += 7
-                print (guess, word_dict.get('score')+7, player_score, '(pangram!)')
+                print (guess+'\t'+'word score='+str(word_dict.get('score')+7)+'\t'+'total score='+str(player_score)+'\t'+'(pangram!)')
+                guess = guess+'*'
             else:
-                print (guess, word_dict.get('score'), player_score)
+                print (guess+'\t'+'word score='+str(word_dict.get('score')+7)+'\t'+'total score='+str(player_score))
 
             # add good guess to the list, so it can't be reused
             guess_list.append(guess)
@@ -146,7 +147,7 @@ def help(msg, letters, guess_list, player_score, player_words, player_pangram, t
                 The first letter in the sequence is the "key letter".
                 To play, guess words using the key letter.
                 Words must be minimum ''' + str(params.MIN_WORD_LENGTH) + ''' letters and letters may be used twice.
-                Each puzzle has ''' + str(params.PANGRAM_COUNT) + ''' pangram that uses each of the ''' + str(params.MIN_WORD_LENGTH) + ''' letters.
+                Each puzzle has ''' + str(params.COUNT_PANGRAMS) + ''' pangram that uses each of the ''' + str(params.MIN_WORD_LENGTH) + ''' letters.
                 Have Fun!'''
 
     msg_dict = {
