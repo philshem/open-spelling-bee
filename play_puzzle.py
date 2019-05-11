@@ -44,7 +44,7 @@ def play(puzl):
     print('Playing puzzle index:',puzl.get('index'))
 
     letters = puzl.get('letters')
-    print('Your letters are:',draw_letters(letters))
+    print('Your letters are:',draw_letters_honeycomb(letters))
 
     word_list = puzl.get('word_list')
     pangram_list = puzl.get('pangram_list')
@@ -142,10 +142,39 @@ def print_table(data, cols, wide):
     print(line.format(*data))
     print(last_line.format(*data[n*cols:]))
 
-def draw_letters(letters):
+def draw_letters_basic(letters):
 
     # simple one-line printing for now
     return letters[0]+' '+''.join(letters[1:])
+
+def shuffle_letters(letters):
+    # shuffles letters, excluding the center letter
+    # random.shuffle() only works in place
+    other_letters = list(letters[1:])
+    random.shuffle(other_letters)
+    return letters[0] + ''.join(other_letters)
+
+def draw_letters_honeycomb(letters):
+    hex_string = r'''
+            _____
+           /     \
+          /       \
+    ,----(    {}    )----.
+   /      \       /      \
+  /        \_____/        \
+  \   {}    /     \    {}   /
+   \      /       \      /
+    )----(    {}'   )----(
+   /      \       /      \
+  /        \_____/        \
+  \   {}    /     \    {}   /
+   \      /       \      /
+    `----(    {}    )----'
+          \       /
+           \_____/
+'''
+
+    return hex_string.format(letters[3], letters[1], letters[2], letters[0], letters[4], letters[5], letters[6])
 
 def ask_user():
     text = input('Your guess: ')
@@ -162,11 +191,11 @@ def help(msg, letters, guess_list, player_score, player_words, player_pangram, t
         print('Quitting...')
         exit(0)
 
-    help_msg = '!i : instructions\n!g : show letters\n!s : player stats\n!h : help\n!q : quit'
+    help_msg = '!i : instructions\n!g : show letters\n!f : shuffle letters\n!s : player stats\n!h : help\n!q : quit'
     instruction_msg = '''
     Welcome to the Open Source Spelling Bee puzzle!
-    The first letter in the sequence is the "key letter."
-    To play, build minimum ''' + str(params.MIN_WORD_LENGTH) + '''-letter words using the key letter.
+    To play, build minimum ''' + str(params.MIN_WORD_LENGTH) + '''-letter words.
+    Each word must include the center letter at least once.
     Letters may be used as many times as you'd like.
 
     Scoring: 1 point for a 4 letter word, and 1 more point for each word longer than 4 letters.
@@ -183,7 +212,8 @@ def help(msg, letters, guess_list, player_score, player_words, player_pangram, t
     msg_dict = {
         'h' : help_msg,
         'i' : instruction_msg,
-        'g' : draw_letters(letters),
+        'g' : draw_letters_honeycomb(letters),
+        'f' : draw_letters_honeycomb(shuffle_letters(letters)),
         's' : 'guessed: '+', '.join(guess_list[::-1])+'\n'
                 'player words: '+str(player_words)+' ('+str(round(player_words*100.0/word_count,1))+'%)'+'\n'
                 'player score: '+str(player_score)+' ('+str(round(player_score*100.0/total_score,1))+'%)'+'\n'
