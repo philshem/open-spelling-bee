@@ -11,7 +11,7 @@ MAX_PUZZLE_TRIES = 100000
 # file paths
 WORD_LIST_PATH = 'data' + os.sep + 'TWL06.txt'
 PUZZLE_PATH_WRITE = 'data'+os.sep+'100.puzzles.json'
-PUZZLE_PATH_READ = 'data'+os.sep+'10.puzzles.json'
+PUZZLE_PATH_READ = 'data'+os.sep+'100.puzzles.json'
 
 # multithreading if more than 1
 THREADS = 1

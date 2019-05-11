@@ -67,8 +67,7 @@ def get_score(word):
 def make_games():
 	pass
 
-if __name__ == "__main__":
-
+def main():
 	words = get_words(params.WORD_LIST_PATH)
 	
 	#words = words[0:10000] #debug
@@ -140,3 +139,6 @@ if __name__ == "__main__":
 			json.dump(puzl, json_file, indent=4)
 	
 	#print (puzl)
+
+if __name__ == "__main__":
+	main()

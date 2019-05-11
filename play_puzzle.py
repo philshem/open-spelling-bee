@@ -25,7 +25,7 @@ def select_puzzle(puzzles, puzl_idx=None):
     if puzl_idx is None:
         # return a random puzzle
         puzl = random.choice(puzzles)
-        print ('You selected a random puzzle, index:',str(puzzles.index(puzl)))
+        print ('You selected a random puzzle, index:',str(puzzles[puzzles.index(puzl)].get('index')))
 
     elif puzl_idx <= len(puzzles) and puzl_idx > 0:
         # get puzzle with specific index
@@ -75,7 +75,7 @@ def play(puzl):
 
         # already guessed that
         if guess in guess_list:
-            print ('You already guessed:',guess)
+            print ('You already found:',guess)
             continue
         
         # guess less than minimum letters
@@ -88,9 +88,9 @@ def play(puzl):
             print ('Invalid letter(s)')
             continue
 
-        # scenario 2: doesn't include key letter but all letters valid
+        # scenario 2: doesn't include center letter but all letters valid
         if letters[0] not in guess:
-            print ('Must include key letter:',letters[0])
+            print ('Must include center letter:',letters[0])
             continue
 
         # find index of array for matching word, if any
@@ -99,7 +99,11 @@ def play(puzl):
 
         if word_index is None:
             # scenario 4: not a valid word
-            print ('Sorry,',guess,'is not a valid word.')
+            print ('Sorry,',guess,'is not a valid word')
+            continue
+        elif guess in guess_list:
+            # scenario 5: good word but already found
+            print ('You already found',guess)
             continue
         else:
             # word is valid and found
@@ -145,6 +149,7 @@ def print_table(data, cols, wide):
 def draw_letters_basic(letters):
 
     # simple one-line printing for now
+    # currently not used
     return letters[0]+' '+''.join(letters[1:])
 
 def shuffle_letters(letters):
@@ -155,26 +160,29 @@ def shuffle_letters(letters):
     return letters[0] + ''.join(other_letters)
 
 def draw_letters_honeycomb(letters):
+    
+    # taken from http://ascii.co.uk/art/hexagon
+
     hex_string = r'''
             _____
            /     \
           /       \
-    ,----(    {}    )----.
+    ,----(    {2}    )----.
    /      \       /      \
   /        \_____/        \
-  \   {}    /     \    {}   /
+  \   {1}    /     \    {3}   /
    \      /       \      /
-    )----(    {}'   )----(
+    )----(    {0}'   )----(
    /      \       /      \
   /        \_____/        \
-  \   {}    /     \    {}   /
+  \   {4}    /     \    {5}   /
    \      /       \      /
-    `----(    {}    )----'
+    `----(    {6}    )----'
           \       /
            \_____/
 '''
 
-    return hex_string.format(letters[3], letters[1], letters[2], letters[0], letters[4], letters[5], letters[6])
+    return hex_string.format(*letters)
 
 def ask_user():
     text = input('Your guess: ')
@@ -215,16 +223,16 @@ def help(msg, letters, guess_list, player_score, player_words, player_pangram, t
         'g' : draw_letters_honeycomb(letters),
         'f' : draw_letters_honeycomb(shuffle_letters(letters)),
         's' : 'guessed: '+', '.join(guess_list[::-1])+'\n'
-                'player words: '+str(player_words)+' ('+str(round(player_words*100.0/word_count,1))+'%)'+'\n'
-                'player score: '+str(player_score)+' ('+str(round(player_score*100.0/total_score,1))+'%)'+'\n'
+                'player words: '+str(player_words)+' / '+str(word_count)+' ('+str(round(player_words*100.0/word_count,1))+'%)'+'\n'
+                'player score: '+str(player_score)+' / '+str(total_score)+' ('+str(round(player_score*100.0/total_score,1))+'%)'+'\n'
                 'pangram found: '+str(player_pangram),
     }
 
     print(msg_dict.get(clean_msg,'Unknown selection'))
     return
 
-if __name__ == "__main__":
-
+def main():
+    
     # read user input to select specific puzzle (not required)
     if len(sys.argv) > 1:
         try:
@@ -243,4 +251,8 @@ if __name__ == "__main__":
     puzl = select_puzzle(puzzles, puzzle_idx)
 
     play(puzl)
+
+if __name__ == "__main__":
+
+    main()
  
