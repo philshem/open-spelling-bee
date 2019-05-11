@@ -74,9 +74,11 @@ Your guess: GROUNDHOG
 ```
 
 Use the following commands for more details:
-```!i : instructions
+```
+!i : instructions
 !g : show letters
 !f : shuffle letters
 !s : player stats
 !h : help
-!q : quit```
+!q : quit
+```
