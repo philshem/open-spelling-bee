@@ -4,6 +4,7 @@
 
 import params
 
+import sys
 import json
 import random
 
@@ -17,9 +18,19 @@ def read_puzzles():
 
     return puzzles
 
-def select_puzzle(puzzles):
+def select_puzzle(puzzles, puzl_idx):
 
-    return random.choice(puzzles)
+    if puzl_idx is not None:
+        # get puzzle with specific index
+        try:
+            return [x for x in puzzles if x.get('index') == puzl_idx][0]
+        except:
+            puzzle_count = len(puzzles)
+            print ('Invalid puzzle selection. There are',str(puzzle_count),'puzzles to choose from.')
+            exit(0)
+    else:
+        # return a random puzzle
+        return random.choice(puzzles)
 
 def play(puzl):
     print('Type !help or !h for help')
@@ -63,12 +74,12 @@ def play(puzl):
         
         # guess less than minimum letters
         if len(guess) < params.MIN_WORD_LENGTH:
-            print ('Guessed word is too short.')
+            print ('Guessed word is too short. Minimum length:',str(params.MIN_WORD_LENGTH))
             continue           
 
         # scenario 1: includes letter not in a list
         if any([x for x in guess if x not in letters]):
-            print ('Invalid letter')
+            print ('Invalid letter(s)')
             continue
 
         # scenario 2: doesn't include key letter but all letters valid
@@ -140,11 +151,24 @@ def help(msg, letters, guess_list, player_score, player_words, player_pangram, t
 
 if __name__ == "__main__":
 
+    # read user input to select specific puzzle (not required)
+    if len(sys.argv) > 1:
+        try:
+            int(sys.argv[1])
+        except:
+            print ('Puzzle index must be an integer. Exiting...')
+            exit(0)
+ 
+    try:
+        puzzle_idx = int(sys.argv[1])
+    except:
+        puzzle_idx = None
+
     puzzles = read_puzzles()
 
     print(len(puzzles),'puzzle(s) loaded')
     
-    puzl = select_puzzle(puzzles)
+    puzl = select_puzzle(puzzles, puzzle_idx)
 
     play(puzl)
  
