@@ -4,8 +4,6 @@
 
 import os
 
-THREADS = 1
-
 # how many games to generate, and max number of attempts to try
 PUZZLE_COUNT = 100
 MAX_PUZZLE_TRIES = 100000
@@ -13,7 +11,10 @@ MAX_PUZZLE_TRIES = 100000
 # file paths
 WORD_LIST_PATH = 'data' + os.sep + 'TWL06.txt'
 PUZZLE_PATH_WRITE = 'data'+os.sep+'100.puzzles.json'
-PUZZLE_PATH_READ = 'data'+os.sep+'10.puzzles.json'
+PUZZLE_PATH_READ = 'data'+os.sep+'1.puzzles.json'
+
+# multithreading if more than 1
+THREADS = 1
 
 # set minimum word length and total letters used
 MIN_WORD_LENGTH = 4

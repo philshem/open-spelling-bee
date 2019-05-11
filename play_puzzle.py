@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-''' play puzzles '''
+''' play puzzles based on params.py PUZZLE_PATH_READ value'''
 
 import params
 
@@ -44,7 +44,7 @@ def play(puzl):
     print('Playing puzzle index:',puzl.get('index'))
 
     letters = puzl.get('letters')
-    print('Your letters are:',letters[0],letters[1:])
+    print('Your letters are:',draw_letters(letters))
 
     word_list = puzl.get('word_list')
     pangram_list = puzl.get('pangram_list')
@@ -57,11 +57,11 @@ def play(puzl):
 
     player_score = 0
     player_words = 0
-    player_pangram = False
 
     #print(word_list) # no cheating!
 
     guess_list = []
+    player_pangram = False
 
     # loop until game ends
     while True:
@@ -100,34 +100,55 @@ def play(puzl):
         if word_index is None:
             # scenario 4: not a valid word
             print ('Sorry,',guess,'is not a valid word.')
-
             continue
         else:
-            # word is found
+            # word is valid and found
             word_dict = word_list[word_index]
 
-            player_score += word_dict.get('score')
             player_words += 1
 
+            word_score = word_dict.get('score')
             if word_dict.get('word') in pangram_list:
-                # pangram found
-                player_pangram = True
                 # pangrams are worth +7 extra
-                player_score += 7
-                print (guess+'\t'+'word score='+str(word_dict.get('score')+7)+'\t'+'total score='+str(player_score)+'\t'+'(pangram!)')
-                guess = guess+'*'
-            else:
-                print (guess+'\t'+'word score='+str(word_dict.get('score')+7)+'\t'+'total score='+str(player_score))
+                word_score += 7
+                player_pangram = True
+                guess += '*'
+
+            player_score += word_score
+
+            print_list = ['✓ '+guess, \
+                'word score = '+str(word_score), \
+                'words found = '+str(player_words) + '/'+str(word_count), \
+                'total score = '+str(player_score) + '/'+str(total_score), \
+                    ]
+
+            # print success and running stats
+            print_table(print_list, len(print_list), 22)
 
             # add good guess to the list, so it can't be reused
             guess_list.append(guess)
         
-        # all words found (somehow)
+        # all words found (somehow this could be possible)
         if player_words == word_count:
             print ('Congratulations. You found them all!')
 
+def print_table(data, cols, wide):
+    '''Prints formatted data on columns of given width.'''
+    # https://stackoverflow.com/a/50215584/2327328
+    n, r = divmod(len(data), cols)
+    pat = '{{:{}}}'.format(wide)
+    line = '\n'.join(pat * cols for _ in range(n))
+    last_line = pat * r
+    print(line.format(*data))
+    print(last_line.format(*data[n*cols:]))
+
+def draw_letters(letters):
+
+    # simple one-line printing for now
+    return letters[0]+' '+''.join(letters[1:])
+
 def ask_user():
-    text = input("Your guess: ")
+    text = input('Your guess: ')
     text = text.strip().upper()
 
     return text
@@ -141,19 +162,28 @@ def help(msg, letters, guess_list, player_score, player_words, player_pangram, t
         print('Quitting...')
         exit(0)
 
-    help_msg = '!g : show letters\n!s : player stats\n!h : show help\n!q : quit'
+    help_msg = '!i : instructions\n!g : show letters\n!s : player stats\n!h : help\n!q : quit'
     instruction_msg = '''
-                Welcome to The Official Open Source Spelling Bee (TOOSSB), ripping off the NY Times since 2019!
-                The first letter in the sequence is the "key letter".
-                To play, guess words using the key letter.
-                Words must be minimum ''' + str(params.MIN_WORD_LENGTH) + ''' letters and letters may be used twice.
-                Each puzzle has ''' + str(params.COUNT_PANGRAMS) + ''' pangram that uses each of the ''' + str(params.MIN_WORD_LENGTH) + ''' letters.
-                Have Fun!'''
+    Welcome to the Open Source Spelling Bee puzzle!
+    The first letter in the sequence is the "key letter."
+    To play, build minimum ''' + str(params.MIN_WORD_LENGTH) + '''-letter words using the key letter.
+    Letters may be used as many times as you'd like.
+
+    Scoring: 1 point for a 4 letter word, and 1 more point for each word longer than 4 letters.
+                Example:  WORD - 1 point
+                          WORDS - 2 points
+                          SPELLING - 5 points
+
+    Each puzzle has ''' + str(params.COUNT_PANGRAMS) + ''' pangram(s) that uses each of the ''' + str(params.MIN_WORD_LENGTH) + ''' letters.
+    The pangram is worth 7 extra points.
+
+    Have fun!
+    '''
 
     msg_dict = {
         'h' : help_msg,
         'i' : instruction_msg,
-        'g' : letters[0]+' '+''.join(letters[1:]),
+        'g' : draw_letters(letters),
         's' : 'guessed: '+', '.join(guess_list[::-1])+'\n'
                 'player words: '+str(player_words)+' ('+str(round(player_words*100.0/word_count,1))+'%)'+'\n'
                 'player score: '+str(player_score)+' ('+str(round(player_score*100.0/total_score,1))+'%)'+'\n'
