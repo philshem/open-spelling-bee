@@ -126,7 +126,8 @@ if __name__ == "__main__":
 			    'letters' : letters,
 				'total_score' : total_score,
 				'word_count' : len(results),
-				'pangrams' : pangram_list,
+				'pangram_list' : pangram_list,
+				'pangram_count' : len(pangram_list),
 				'word_list' : results,
 			})
 

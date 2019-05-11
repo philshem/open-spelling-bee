@@ -51,14 +51,29 @@ def play(puzl):
         # ask user to guess a word
         guess = ask_user()
 
-        # need some help
+        # user need some help
         if guess.startswith('!'):
             help(guess, letters, guess_list, player_score, player_words, player_pangram, total_score, word_count)
             continue
 
         # already guessed that
         if guess in guess_list:
-            print ('You already guessed',guess)
+            print ('You already guessed:',guess)
+            continue
+        
+        # guess less than minimum letters
+        if len(guess) < params.MIN_WORD_LENGTH:
+            print ('Guessed word is too short.')
+            continue           
+
+        # scenario 1: includes letter not in a list
+        if any([x for x in guess if x not in letters]):
+            print ('Invalid letter')
+            continue
+
+        # scenario 2: doesn't include key letter but all letters valid
+        if letters[0] not in guess:
+            print ('Must include key letter:',letters[0])
             continue
 
         # find index of array for matching word, if any
@@ -66,8 +81,10 @@ def play(puzl):
         word_index = next((index for (index, d) in enumerate(word_list) if d['word'] == guess), None)
 
         if word_index is None:
-            # word not found
-            pass
+            # scenario 4: not a valid word
+            print ('Sorry,',guess,'is not a valid word.')
+
+            continue
         else:
             # word is found
             word_dict = word_list[word_index]
@@ -86,6 +103,8 @@ def play(puzl):
 
             # add good guess to the list, so it can't be reused
             guess_list.append(guess)
+        
+        # all words found (somehow)
         if player_words == word_count:
             print ('Congratulations. You found them all!')
 
@@ -108,6 +127,7 @@ def help(msg, letters, guess_list, player_score, player_words, player_pangram, t
 
     msg_dict = {
         'h' : help_msg,
+        'i' : 'instructions',
         'g' : letters[0]+' '+''.join(letters[1:]),
         's' : 'guessed: '+', '.join(guess_list[::-1])+'\n'
                 'player words: '+str(player_words)+' ('+str(round(player_words*100.0/word_count,1))+'%)'+'\n'
