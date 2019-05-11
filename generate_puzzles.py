@@ -103,7 +103,7 @@ if __name__ == "__main__":
 		print (i, letters, len(results), total_score, len(pangram_list))
 
 		# check if pangram count is allowed (default = 1)
-		if len(pangram_list) > params.MAX_PANGRAMS or len(pangram_list) < params.MIN_PANGRAMS:
+		if len(pangram_list) != params.COUNT_PANGRAMS:
 			# go to next letter group, incorrect number of pangrams
 			continue
 
@@ -136,7 +136,7 @@ if __name__ == "__main__":
 			break
 
 	if len(puzl) > 0:
-		with open(params.PUZZLE_PATH, 'w') as json_file:
+		with open(params.PUZZLE_PATH_WRITE, 'w') as json_file:
 			json.dump(puzl, json_file, indent=4)
 	
 	#print (puzl)

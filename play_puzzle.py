@@ -13,24 +13,30 @@ def main():
 
 def read_puzzles():
 
-    with open(params.PUZZLE_PATH,'r') as fp:
+    with open(params.PUZZLE_PATH_READ,'r') as fp:
         puzzles = json.load(fp)
+
+    print(len(puzzles),'total puzzle(s) were loaded')
 
     return puzzles
 
-def select_puzzle(puzzles, puzl_idx):
+def select_puzzle(puzzles, puzl_idx=None):
 
-    if puzl_idx is not None:
-        # get puzzle with specific index
-        try:
-            return [x for x in puzzles if x.get('index') == puzl_idx][0]
-        except:
-            puzzle_count = len(puzzles)
-            print ('Invalid puzzle selection. There are',str(puzzle_count),'puzzles to choose from.')
-            exit(0)
-    else:
+    if puzl_idx is None:
         # return a random puzzle
-        return random.choice(puzzles)
+        puzl = random.choice(puzzles)
+        print ('You selected a random puzzle, index:',str(puzzles.index(puzl)))
+
+    elif puzl_idx <= len(puzzles) and puzl_idx > 0:
+        # get puzzle with specific index
+        #puzl_idx = [x for x in puzzles if x.get('index') == puzl_idx]
+        puzl = puzzles[puzl_idx-1]
+        print ('You selected puzzle index:',str(puzl_idx))
+    else:
+        print ('Invalid puzzle selection. There are',str(len(puzzles)),'puzzles to choose from.')
+        exit(0)
+    
+    return puzl
 
 def play(puzl):
     print('Type !help or !h for help')
@@ -41,9 +47,9 @@ def play(puzl):
     print('Your letters are:',letters[0],letters[1:])
 
     word_list = puzl.get('word_list')
-    pangram_list = puzl.get('pangrams')
+    pangram_list = puzl.get('pangram_list')
     # pangram is worth 7 extra points
-    total_score = puzl.get('total_score') + 7 * len(pangram_list)
+    total_score = puzl.get('total_score') + 7 * int(puzl.get('pangram_count'))
     word_count = puzl.get('word_count')
     
     print ('Max score:',total_score)
@@ -135,10 +141,17 @@ def help(msg, letters, guess_list, player_score, player_words, player_pangram, t
         exit(0)
 
     help_msg = '!g : show letters\n!s : player stats\n!h : show help\n!q : quit'
+    instruction_msg = '''
+                Welcome to The Official Open Source Spelling Bee (TOOSSB), ripping off the NY Times since 2019!
+                The first letter in the sequence is the "key letter".
+                To play, guess words using the key letter.
+                Words must be minimum ''' + str(params.MIN_WORD_LENGTH) + ''' letters and letters may be used twice.
+                Each puzzle has ''' + str(params.PANGRAM_COUNT) + ''' pangram that uses each of the ''' + str(params.MIN_WORD_LENGTH) + ''' letters.
+                Have Fun!'''
 
     msg_dict = {
         'h' : help_msg,
-        'i' : 'instructions',
+        'i' : instruction_msg,
         'g' : letters[0]+' '+''.join(letters[1:]),
         's' : 'guessed: '+', '.join(guess_list[::-1])+'\n'
                 'player words: '+str(player_words)+' ('+str(round(player_words*100.0/word_count,1))+'%)'+'\n'
@@ -166,8 +179,6 @@ if __name__ == "__main__":
 
     puzzles = read_puzzles()
 
-    print(len(puzzles),'puzzle(s) loaded')
-    
     puzl = select_puzzle(puzzles, puzzle_idx)
 
     play(puzl)
