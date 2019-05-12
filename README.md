@@ -59,7 +59,7 @@ Dictionary: Scrabble word list [TWL06](https://www.wordgamedictionary.com/twl06/
 
 ## example play
 
-(based on game found in `data/RDGHNOU.json`)
+(based on game found by playing `python3 play_puzzle.py RDGHNOU`)
 
 ```
 Type !help or !h for help
@@ -86,12 +86,6 @@ Max score: 88
 Total words: 37
 Your guess: GROUND
 ✓ GROUND              word score = 3        words found = 1/37    total score = 3/88    
-
-Your guess: GURU     
-✓ GURU                word score = 1        words found = 2/37    total score = 4/88    
-
-Your guess: GROUNDHOG
-✓ GROUNDHOG*          word score = 13       words found = 3/37    total score = 17/88   
 ```
 
 Use the following commands for more details:

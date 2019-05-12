@@ -1,0 +1,262 @@
+{
+    "letters": "RWIOTHF",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 87,
+    "word_count": 48,
+    "pangram_count": 1,
+    "pangram_list": [
+        "FORTHWITH"
+    ],
+    "word_list": [
+        {
+            "word": "FIRTH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FORRIT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FORT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FORTH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FORTHWITH",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "FRIT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FRITH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FRITT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FROTH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FROW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HORROR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ORTHO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RIFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RIFT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RIOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROOF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROTI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROTO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROTOR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ROWTH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "THIR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "THORO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "THRIFT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "THRO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "THROW",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TIRO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOOTHWORT",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TORI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TORII",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TORO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOROT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TOROTH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TORR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TORT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TRIO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TROT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TROTH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TROW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TROWTH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WHIR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WHIRR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WHORT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WORRIT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WORT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WORTH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WRIT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WROTH",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}
