@@ -1,9 +1,8 @@
-# open-spelling-bee
+# Open Spelling Bee (OSB)
 
-Open source port of New York Times' puzzle game Spelling Bee
+Open source port of New York Times' puzzle game Spelling Bee for the command line.
 
 Requires Python 3.x and nothing but standard Python libraries.
-
 
 ## to play
 
@@ -40,14 +39,14 @@ For a list of the previous NY Times letter selections, see [William Shunn's page
 
 ---
 
-## game play
-To play, build minimum 4-letter words using the letters provided.
+# Game Play
+To play, build words with a minimum of 4 letters, using the letters provided.
 
 Each word must include the center letter at least once.
 
 Letters may be used as many times as you'd like.
 
-Scoring: 1 point for a 4 letter word, and 1 more point for each word longer than 4 letters.
+Scoring: 1 point for a 4 letter word, and 1 more point for each additional letter.
 
 Each puzzle has 1 "pangram" that uses each of the 7 letters at least once. The pangram is worth 7 extra points.
 
@@ -55,10 +54,10 @@ Dictionary: Scrabble word list [TWL06](https://www.wordgamedictionary.com/twl06/
 
 
 ## example play
-(based on test game found in data/1.puzzles.json)
+
+(based on game found in `data/RDGHNOU.json`)
 
 ```
-You selected a random puzzle, index: 0
 Type !help or !h for help
 Playing puzzle index: 1
 Your letters are: 
