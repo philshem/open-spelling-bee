@@ -1,5 +1,7 @@
 # Open Spelling Bee (OSB)
 
+# 🐝
+
 Open source port of New York Times' puzzle game Spelling Bee for the command line.
 
 Requires Python 3.x and nothing but standard Python libraries.
