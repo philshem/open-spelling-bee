@@ -90,22 +90,22 @@ def play(puzl):
 
         # already guessed that
         if guess in guess_list:
-            print ('You already found:',guess)
+            print ('You already found:',guess,'\n')
             continue
         
         # guess less than minimum letters
         if len(guess) < params.MIN_WORD_LENGTH:
-            print ('Guessed word is too short. Minimum length:',str(params.MIN_WORD_LENGTH))
+            print ('Guessed word is too short. Minimum length:',str(params.MIN_WORD_LENGTH),'\n')
             continue           
 
         # scenario 1: includes letter not in a list
         if any([x for x in guess if x not in letters]):
-            print ('Invalid letter(s)')
+            print ('Invalid letter(s)','\n')
             continue
 
         # scenario 2: doesn't include center letter but all other letters valid
         if letters[0] not in guess:
-            print ('Must include center letter:',letters[0])
+            print ('Must include center letter:',letters[0],'\n')
             continue
 
         # find index of array for matching word, if any
@@ -114,11 +114,11 @@ def play(puzl):
 
         if word_index is None:
             # scenario 4: not a valid word
-            print ('Sorry,',guess,'is not a valid word')
+            print ('Sorry,',guess,'is not a valid word','\n')
             continue
         elif guess in guess_list:
             # scenario 5: good word but already found
-            print ('You already found',guess)
+            print ('You already found',guess,'\n')
             continue
         else:
             # word is valid and found
@@ -131,6 +131,7 @@ def play(puzl):
                 # pangrams are worth +7 extra
                 word_score += 7
                 player_pangram = True
+                print ('\nPANGRAM!!!')
                 #guess += '*'
 
             player_score += word_score
@@ -152,7 +153,7 @@ def play(puzl):
         
         # all words found (somehow this could be possible)
         if player_words == word_count:
-            print ('Congratulations. You found them all!')
+            print ('Congratulations. You found them all!','\n')
 
 def print_table(data, cols, wide):
     '''Prints formatted data on columns of given width.'''
