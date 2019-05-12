@@ -3,8 +3,10 @@
 ''' generate puzzles based on criteria in params.py '''
 
 import params
+import functions
 
 import os
+import sys
 import string
 import random
 from multiprocessing import Pool as ThreadPool
@@ -64,81 +66,117 @@ def get_score(word):
 	# simple scoring algorithm, for now
 	return len(word) - params.MIN_WORD_LENGTH + 1
 
-def make_games():
-	pass
-
-def main():
-	words = get_words(params.WORD_LIST_PATH)
+def make_puzzles(word_list, letters=None):
 	
-	#words = words[0:10000] #debug
-	#words = ['AAHED']
-	#print (words)
-
-	puzl = []
-
-	idx = 0
-	for i in range(params.MAX_PUZZLE_TRIES):
-
+	if letters is not None:
+		manual_puzzle = True
+	else:
+		manual_puzzle = False
 		letters = get_letters()
 		#letters = 'WAHORTY' # debug
 
-		if params.THREADS > 1:
-			pool = ThreadPool(params.THREADS) 
-			results = pool.starmap(check_words, zip(itertools.repeat(letters), words))
-		else:
-			results = []
-			for word in words:
-				results.append(check_words(letters, word))
+	results = []
+	if params.THREADS > 1:
+		pool = ThreadPool(params.THREADS) 
+		results = pool.starmap(check_words, zip(itertools.repeat(letters), word_list))
+	else:
+		for word in word_list:
+			results.append(check_words(letters, word))
 
-		# remove None from list
-		results = list(filter(None.__ne__, results))
+	# remove None from list
+	results = list(filter(None.__ne__, results))
 
-		# get total score of all words
-		total_score = sum([x.get('score') for x in results])
+	# get total score of all words
+	total_score = sum([x.get('score') for x in results])
 
-		# generate list of pangrams
-		pangram_list = list(filter(lambda x: x.get('pangram'), results))
+	# generate list of pangrams
+	pangram_list = list(filter(lambda x: x.get('pangram'), results))
 
-		print (i, letters, len(results), total_score, len(pangram_list))
+	# check if generated answers are valid, based on params
+	if not manual_puzzle and ((len(pangram_list) != params.COUNT_PANGRAMS) \
+		or (total_score < params.MIN_TOTAL_SCORE or total_score > params.MAX_TOTAL_SCORE) \
+		or (len(results) < params.MIN_WORD_COUNT or len(results) > params.MAX_WORD_COUNT)):
+		# not valid! go to next letters (except when manual puzzle)
+		# incorrect number of pangrams
+		# OR total_score falls out of bounds
+		# OR total number of words falls out of bounds
+		print ('\t'.join((letters, str(len(results)), str(total_score), str(len(pangram_list)), str(0))))
+		return 0
 
-		# check if pangram count is allowed (default = 1)
-		if len(pangram_list) != params.COUNT_PANGRAMS:
-			# go to next letter group, incorrect number of pangrams
-			continue
+	print ('\t'.join((letters, str(len(results)), str(total_score), str(len(pangram_list)), str(1))))
 
-		elif total_score < params.MIN_TOTAL_SCORE or total_score > params.MAX_TOTAL_SCORE:
-			# go to next letter group, total_score falls out of bounds
-			continue
+	# if you made it this far, you have a valid word list
+	# and the game will be recorded
 
-		elif len(results) < params.MIN_WORD_COUNT or len(results) > params.MAX_WORD_COUNT:
-			# go to next letter group, total number of words falls out of bounds
-			continue
+	# WARNING! if puzzle already exists, it will be overwritten
 
-		# if you made it this far, you have a valid word list
-		# and the game will be recorded
-		idx += 1
+	pangram_list = [x.get('word') for x in pangram_list ]
+
+	generation_info = {
+		'path' : params.WORD_LIST_PATH,
+		'min_word_length' : params.MIN_WORD_LENGTH,
+		'total_letter_count' : params.TOTAL_LETTER_COUNT,
+		'min_word_count' : params.MIN_WORD_COUNT,
+		'max_word_count' : params.MAX_WORD_COUNT,
+		'min_total_score' : params.MIN_TOTAL_SCORE,
+		'max_total_score' : params.MAX_TOTAL_SCORE,
+		'count_pangrams' : params.COUNT_PANGRAMS,
+		'manual_puzzle' : manual_puzzle,
+	}
+
+	tmp = {
+			'letters' : letters, # key letter is always first in list
+			'generation_info' : generation_info,
+			'total_score' : total_score,
+			'word_count' : len(results),
+			'pangram_count' : len(pangram_list),
+			'pangram_list' : pangram_list,
+			'word_list' : results,
+		}
+
+	file_path = params.PUZZLE_DATA_PATH + os.sep + letters + '.json'
+	with open(file_path, 'w') as json_file:
+		json.dump(tmp, json_file, indent=4)
+
+	return 1
+
+def main(puzzle_input=None):
+
+	words = get_words(params.WORD_LIST_PATH)
+	#words = words[0:10000] #debug
+
+	# header for csv output
+	print ('\t'.join(('index', 'letters', 'word_count', 'total_score', 'pangram_count', 'is_valid')))
+
+	if len(sys.argv) > 1:
+		puzzle_input = sys.argv[1].strip().upper()
+	else:
+		puzzle_input = None
+
+	# user has requested a specific puzzle be created		
+	if puzzle_input is not None:		
+		# check validity of letters
+		functions.check_letters(puzzle_input)
+
+		# manually request one puzzle by defining letters  on command line
+		# alphabetize the non-center letters (all but first in array)
+		puzzle_input = functions.sort_letters(puzzle_input)
 		
-		pangram_list = [x.get('word') for x in pangram_list ]
+		make_puzzles(words, puzzle_input)
 
-		puzl.append({
-				'index' : idx,
-			    'letters' : letters,
-				'total_score' : total_score,
-				'word_count' : len(results),
-				'pangram_list' : pangram_list,
-				'pangram_count' : len(pangram_list),
-				'word_list' : results,
-			})
+	# user/code has no specific puzzle to create, generating many
+	else:
+		idx_valid = 0
 
-		if len(puzl) >= params.PUZZLE_COUNT:
+		# generating N puzzles based on params
+		for i in range(params.MAX_PUZZLE_TRIES):
+			idx_valid += make_puzzles(words, None)
+
 			# reached target count of puzzles, exiting loop
-			break
+			if idx_valid >= params.PUZZLE_COUNT:
+				exit(0)
 
-	if len(puzl) > 0:
-		with open(params.PUZZLE_PATH_WRITE, 'w') as json_file:
-			json.dump(puzl, json_file, indent=4)
-	
-	#print (puzl)
+	return puzzle_input
 
 if __name__ == "__main__":
 	main()

@@ -5,13 +5,12 @@
 import os
 
 # how many games to generate, and max number of attempts to try
-PUZZLE_COUNT = 100
+PUZZLE_COUNT = 3
 MAX_PUZZLE_TRIES = 100000
 
 # file paths
-WORD_LIST_PATH = 'data' + os.sep + 'TWL06.txt'
-PUZZLE_PATH_WRITE = 'data'+os.sep+'100.puzzles.json'
-PUZZLE_PATH_READ = 'data'+os.sep+'100.puzzles.json'
+WORD_LIST_PATH = 'word_lists' + os.sep + 'TWL06.txt'
+PUZZLE_DATA_PATH = 'data'
 
 # multithreading if more than 1
 THREADS = 1

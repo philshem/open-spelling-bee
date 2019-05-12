@@ -1,0 +1,237 @@
+{
+    "letters": "FASDGBE",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 87,
+    "word_count": 43,
+    "pangram_count": 1,
+    "pangram_list": [
+        "FEEDBAGS"
+    ],
+    "word_list": [
+        {
+            "word": "BAFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BAFFED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BAFFS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BEEF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BEEFED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BEEFS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DAFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DAFFED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DAFFS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DEAF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EFFS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FABS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FADE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FADED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FADES",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FADGE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FADGED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FADGES",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FADS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FAGGED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FAGS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FEASE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FEASED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FEASES",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FEDS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FEEB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FEEBS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FEED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FEEDBAG",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FEEDBAGS",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "FEEDS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FEES",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FESS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FESSE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FESSED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FESSES",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GAFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GAFFE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GAFFED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GAFFES",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GAFFS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SAFE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SAFES",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}
