@@ -1,0 +1,472 @@
+{
+    "letters": "RAFILMY",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 216,
+    "word_count": 90,
+    "pangram_count": 1,
+    "pangram_list": [
+        "FAMILIARLY"
+    ],
+    "word_list": [
+        {
+            "word": "AFAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AFFAIR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "AFFIRM",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "AFFRAY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "AIRILY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "AIRMAIL",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "AIRY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ALAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ALARM",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ALARY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ALFILARIA",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "AMIR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ARIA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ARIARY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ARIL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ARMILLA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ARMILLARY",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ARMY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ARRAY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ARRAYAL",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ARYL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FAIR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FAIRLY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FAIRY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FAMILIAR",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FAMILIARLY",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "FARFAL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FARL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FARM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FIAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FILAR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FILARIA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FILARIAL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FIRM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FIRMLY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FIRRY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FLAIR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FLIR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FRAIL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FRAILLY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FRAY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FRIAR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FRIARLY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FRIARY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FRILL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FRILLY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LAARI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LAIR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LARI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LIAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LIRA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LIRI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MAAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MAIR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MALAR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MALARIA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MALARIAL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MAMMARY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MAMMILLARY",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "MARA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MARIA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MARL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MARLY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MARRAM",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MARRY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MILIARIA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MILIARIAL",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MILIARY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MILLIARY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MIRI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MIRY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MYLAR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RAFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RAFFIA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RAIA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RAIL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RALLY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RAMAL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RAMI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RAMIFY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RAMMY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RARIFY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RAYA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RIAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RIFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RIFFRAFF",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RIMY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RIYAL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "YIRR",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}
