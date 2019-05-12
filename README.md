@@ -27,6 +27,10 @@ Set custom parameters in the `params.py` file, for example how many puzzles you 
 
     python3 generate_puzzles.py
 
+Or to save the word stats:
+
+    python3 generate_puzzles.py > stats.csv
+
 Runtime depends on your parameters. For the default parameter settings, the code takes approximately 8 hours to generate 100 7-letter puzzles that meet the criteria (total points, total words, pangram count).
 
 To generate a certain letter combination, use:

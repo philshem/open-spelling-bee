@@ -5,7 +5,7 @@
 import os
 
 # how many games to generate, and max number of attempts to try
-PUZZLE_COUNT = 3
+PUZZLE_COUNT = 100
 MAX_PUZZLE_TRIES = 100000
 
 # file paths

@@ -103,7 +103,7 @@ def play(puzl):
             print ('Invalid letter(s)')
             continue
 
-        # scenario 2: doesn't include center letter but all letters valid
+        # scenario 2: doesn't include center letter but all other letters valid
         if letters[0] not in guess:
             print ('Must include center letter:',letters[0])
             continue
@@ -131,7 +131,7 @@ def play(puzl):
                 # pangrams are worth +7 extra
                 word_score += 7
                 player_pangram = True
-                guess += '*'
+                #guess += '*'
 
             player_score += word_score
 
@@ -140,6 +140,9 @@ def play(puzl):
                 'words found = '+str(player_words) + '/'+str(word_count), \
                 'total score = '+str(player_score) + '/'+str(total_score), \
                     ]
+
+            if word_dict.get('word') in pangram_list:
+                print_list[0] += ' ***'
 
             # print success and running stats
             print_table(print_list, len(print_list), 22)

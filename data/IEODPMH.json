@@ -1,0 +1,272 @@
+{
+    "letters": "IEODPMH",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 111,
+    "word_count": 50,
+    "pangram_count": 1,
+    "pangram_list": [
+        "HIPPIEDOM"
+    ],
+    "word_list": [
+        {
+            "word": "DIDIE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DIDO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DIED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DIME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DIMMED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DIODE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DIPPED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EDDIED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EIDE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HEMOID",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HEMPIE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HIDE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HIDED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HIED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HIPPED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HIPPIE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HIPPIEDOM",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "HIPPO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HOMIE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HOODIE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "IDEM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "IDIOM",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "IMID",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "IMIDE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "IMIDO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "IMPED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "IMPEDE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "IMPEDED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "IMPHEE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "IMPI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "IODID",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "IODIDE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MEDII",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MIDI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MIME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MIMED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MIMEO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MIMEOED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MODI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOMI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OIDIOID",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "OPIOID",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PIED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PIMP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PIMPED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PIPE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PIPED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PIPPED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "POMMIE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "POPPIED",
+            "score": 4,
+            "pangram": false
+        }
+    ]
+}
