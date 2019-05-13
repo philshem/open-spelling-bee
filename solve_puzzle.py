@@ -33,7 +33,8 @@ def main():
     try:
         puzzle_idx = sys.argv[1].strip().upper()
     except:
-        puzzle_idx = None
+        print ('Please enter a puzzle. Exiting...')
+        exit(0)
 
     if puzzle_idx is not None:
         
