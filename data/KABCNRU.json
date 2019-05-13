@@ -1,5 +1,5 @@
 {
-    "letters": "KABCNRU",
+    "letters": "KURBNAC",
     "generation_info": {
         "path": "word_lists/TWL06.txt",
         "min_word_length": 4,
@@ -9,7 +9,7 @@
         "min_total_score": 80,
         "max_total_score": 120,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
     "total_score": 87,
     "word_count": 44,
