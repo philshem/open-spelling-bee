@@ -1,0 +1,202 @@
+{
+    "letters": "KEGINUY",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 83,
+    "word_count": 36,
+    "pangram_count": 1,
+    "pangram_list": [
+        "YEUKING"
+    ],
+    "word_list": [
+        {
+            "word": "EKING",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GEEK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GEEKY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GINK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GUNK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GUNKY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "INKING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "INKY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KEEK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KEEKING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "KEEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KEENING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "KEGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "KENNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "KEYING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KIKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KINE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KING",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KINGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "KININ",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KINK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KINKING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "KINKY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KNEE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KNEEING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "KUNE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NEUK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NUKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NUKING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "UNKINK",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "UNKINKING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "YEUK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YEUKING",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "YEUKY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "YUKKING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "YUKKY",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

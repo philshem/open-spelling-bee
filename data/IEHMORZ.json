@@ -1,0 +1,202 @@
+{
+    "letters": "IEHMORZ",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 91,
+    "word_count": 36,
+    "pangram_count": 1,
+    "pangram_list": [
+        "RHIZOME"
+    ],
+    "word_list": [
+        {
+            "word": "EERIE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EERIER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EMIR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HEIR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HEROIZE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HIRE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HIREE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HIRER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HOMIE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HOMIER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MEMOIR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MEMORIZE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MEMORIZER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MERRIER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MIME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MIMEO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MIMER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MIRE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MIRI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MIRIER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MIRROR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MOIRE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MOMI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOORIER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "OORIE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OOZIER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REHIRE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RHIZOME",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "RIME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RIMER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RIMIER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RIMMER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ROOMIE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ROOMIER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ZOOIER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ZORI",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

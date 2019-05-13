@@ -1,0 +1,257 @@
+{
+    "letters": "RCDLOTY",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 83,
+    "word_count": 47,
+    "pangram_count": 1,
+    "pangram_list": [
+        "DOCTORLY"
+    ],
+    "word_list": [
+        {
+            "word": "COLOR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CORD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CORODY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CORRODY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CORY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CROC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOCTOR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DOCTORLY",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "DOLOR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DOOR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DORR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DORTY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DORY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DROLL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DROLLY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DROOL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DROOLY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DRYLOT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DRYLY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LORD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LORDLY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LORRY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LORY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ODOR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ORDO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROCOCO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ROLL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROOD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROOTY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ROTL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROTO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROTOR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RYOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TORC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TORO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOROT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TORR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TORT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TORY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TROD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TROLL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TROLLY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TROT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TROTYL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TROY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TYRO",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

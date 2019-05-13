@@ -1,0 +1,212 @@
+{
+    "letters": "CBHKOTU",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 81,
+    "word_count": 38,
+    "pangram_count": 1,
+    "pangram_list": [
+        "BUCKTOOTH"
+    ],
+    "word_list": [
+        {
+            "word": "BOCK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BOOCOO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BOTCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BUCK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BUCKO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BUCKTOOTH",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "BUTCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BUTTOCK",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CHOCK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHOOK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHOTT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHUB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHUCK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COBB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COCK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COCO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COHO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COOCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COOCOO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COOK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COOKBOOK",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "COOKOUT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "COOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COUCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COUTH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CUCKOO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CUTCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CUTOUT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HOCK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HOOCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HOOTCH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HOTCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HUCK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HUTCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OUCH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OUTCOOK",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TOUCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TUCK",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

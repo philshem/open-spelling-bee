@@ -1,7 +1,7 @@
 *.code-workspace
 .vscode
 venv
-logs
+ignore
 stats.twb
 __pycache__
 *.log

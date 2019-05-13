@@ -1,0 +1,197 @@
+{
+    "letters": "UEFIKNR",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 80,
+    "word_count": 35,
+    "pangram_count": 1,
+    "pangram_list": [
+        "FUNKIER"
+    ],
+    "word_list": [
+        {
+            "word": "ENNUI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ENUF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ENURE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FUNK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FUNKER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FUNKIER",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "FUNNER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FUNNIER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FURFUR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FURRIER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FURRINER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "INRUN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "INURE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "INURN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KNUR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KUFI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KUKRI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KUNE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KURU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NEUK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NEURINE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "NUKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RERUN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RUER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RUFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RUFFE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RUIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RUINER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RUNE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RUNNER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RUNNIER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "UNFREE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "UNIFIER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "UNKINK",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "URINE",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

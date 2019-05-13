@@ -1,0 +1,237 @@
+{
+    "letters": "HABCINR",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 117,
+    "word_count": 43,
+    "pangram_count": 1,
+    "pangram_list": [
+        "BRANCHIA"
+    ],
+    "word_list": [
+        {
+            "word": "ABRACHIA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ANABRANCH",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ANARCH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ANARCHIC",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ARCH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ARCHAIC",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BACCHIC",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BACCHII",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BACH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BARCHAN",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BIRCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BRACH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BRACHIA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BRANCH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BRANCHIA",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "CANCHA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CHAI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHAIN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHAIR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHARABANC",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CHARACIN",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CHARR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHIA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHIC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHICA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHICHI",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CHIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHINA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHINCH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CHIRR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CINCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CRANCH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HAAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HAHA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HAIR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HARIANA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HIBACHI",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "INARCH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "INCH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "INHIBIN",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RANCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RICH",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

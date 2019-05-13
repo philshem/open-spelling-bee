@@ -1,0 +1,257 @@
+{
+    "letters": "RMNOPTY",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 87,
+    "word_count": 47,
+    "pangram_count": 1,
+    "pangram_list": [
+        "PROMONTORY"
+    ],
+    "word_list": [
+        {
+            "word": "MOONPORT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MOOR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOORY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MORN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MORON",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MORRO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MORT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOTOR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NONPOOR",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "NORM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POOR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PORN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PORNO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PORNY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PORT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PROM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PROMO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PROMONTORY",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "PROMPT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PRONTO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PROP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PROTON",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PYRO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROMP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RONYON",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ROOM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROOMY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ROOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROOTY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ROPY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROTO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROTOR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RYOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOMMYROT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TORN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TORO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOROT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TORPOR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TORR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TORT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TORY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TROMP",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TROOP",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TROP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TROT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TROY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TYRO",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

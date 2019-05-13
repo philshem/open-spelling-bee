@@ -1,0 +1,237 @@
+{
+    "letters": "CAFLOPW",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 84,
+    "word_count": 43,
+    "pangram_count": 1,
+    "pangram_list": [
+        "COWFLAP"
+    ],
+    "word_list": [
+        {
+            "word": "ALPACA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CACA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CACAO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CAFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CALF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CALL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CALLA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CALLALOO",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CALLOW",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CALO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CALPAC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CAPO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CLAP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CLAW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CLOACA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CLOACAL",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CLOP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COALA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COCA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COCCAL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COCO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COCOA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COLA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COLLOP",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COOCOO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COOF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COOL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COOP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COPAL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COWFLAP",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "COWFLOP",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "COWL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COWPLOP",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FLOC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FOCAL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LOCA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOCAL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LOCO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOCOFOCO",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PACA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POCO",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

@@ -1,0 +1,257 @@
+{
+    "letters": "FABCIRS",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 109,
+    "word_count": 47,
+    "pangram_count": 1,
+    "pangram_list": [
+        "FABRICS"
+    ],
+    "word_list": [
+        {
+            "word": "AFAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AFARS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AFFAIR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "AFFAIRS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ARFS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BAFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BAFFS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BARF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BARFS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BIFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BIFFS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CAFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CAFFS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FABRIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FABRICS",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "FABS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FACIA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FACIAS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FAIR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FAIRS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FARCI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FASCIA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FASCIAS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FIAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FIARS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FIBS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FIRS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FISC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FISCS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FRACAS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FRASS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FRIAR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FRIARS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RAFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RAFFIA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RAFFIAS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RAFFS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RIFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RIFFRAFF",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RIFFRAFFS",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "RIFFS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RIFS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SAFARI",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SAFARIS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "SASSAFRAS",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "SCARF",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SCARFS",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

@@ -1,0 +1,177 @@
+{
+    "letters": "YFGINPU",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 80,
+    "word_count": 31,
+    "pangram_count": 1,
+    "pangram_list": [
+        "YUPPIFYING"
+    ],
+    "word_list": [
+        {
+            "word": "FINNY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FUGGY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FUNNY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GINNY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GUNNY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GUPPY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GUYING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GYPPING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "IFFY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "IGNIFY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "IGNIFYING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "NINNY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NIPPY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PIGGY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PINNY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PINY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PINYIN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PIPY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PUFFY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PUGGY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PUNNY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PUNY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PUPPY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PYIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "UNFUNNY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "UNIFY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UNIFYING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "YIPPING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "YUPPIFY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "YUPPIFYING",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "YUPPY",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

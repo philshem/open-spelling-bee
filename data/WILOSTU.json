@@ -1,0 +1,247 @@
+{
+    "letters": "WILOSTU",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 87,
+    "word_count": 45,
+    "pangram_count": 1,
+    "pangram_list": [
+        "OUTWILLS"
+    ],
+    "word_list": [
+        {
+            "word": "IWIS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOWS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OUTWILL",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "OUTWILLS",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "OUTWIT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "OUTWITS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "OWLS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SLOW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SLOWS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SOWS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "STOW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "STOWS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SWILL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SWILLS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SWISS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SWOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SWOTS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TOWS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TWILIT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TWILL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TWILLS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TWIST",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TWISTS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TWIT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TWITS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TWOS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WILLOW",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WILLOWS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WILLS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WILT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WILTS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WISS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WIST",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WISTS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WITS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WITTOL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WITTOLS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WOOL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WOOLS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WOOS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WOST",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WOTS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WOWS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WUSS",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

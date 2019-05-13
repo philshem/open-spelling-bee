@@ -156,11 +156,11 @@ def main(puzzle_input=None):
 	# user has requested a specific puzzle be created		
 	if puzzle_input is not None:		
 		# check validity of letters
-		functions.check_letters(puzzle_input)
+		utils.check_letters(puzzle_input)
 
 		# manually request one puzzle by defining letters  on command line
 		# alphabetize the non-center letters (all but first in array)
-		puzzle_input = functions.sort_letters(puzzle_input)
+		puzzle_input = utils.sort_letters(puzzle_input)
 		
 		make_puzzles(words, puzzle_input)
 
