@@ -107,3 +107,11 @@ Use the following commands for more details:
 !h : help
 !q : quit
 ```
+
+---
+
+## interesting puzzles
+
++ `Q` as center letter: `QAHILSU`
+
++ `Z` as center letter: `ZADENRS`
