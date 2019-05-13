@@ -21,7 +21,7 @@ To play a non-random game:
 
     python3 play_puzzles.py RDGHNOU
 
-where A is the center letter. If the puzzle `RDGHNOU` does not exist, it will be created and saved to `data/RDGHNOU.json` (the file names are the first letter and the alphabetically sorted remaining letters).
+where `R` is the center letter that must be used at least once in each word. If the puzzle `RDGHNOU` does not exist, it will be created and saved to `data/RDGHNOU.json` (the file names are the first letter and the alphabetically sorted remaining letters).
 
 ⚠️ The word list used is from Scrabble: [TWL06](https://www.wordgamedictionary.com/twl06/), and at roungly 180k words, it's larger than what the NY Times uses. To reach "genius" level, you'll need to solve 50% of the words.
 
