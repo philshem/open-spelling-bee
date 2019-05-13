@@ -3,54 +3,13 @@
 ''' play puzzles based on params.py PUZZLE_PATH_READ value'''
 
 import params
-import generate_puzzles
-import functions
+import utils
 
 import os
 import sys
 import json
 import random
 import glob
-
-def main():
-    pass
-
-def select_puzzle(puzl_idx=None):
-
-    puzzles = glob.glob(params.PUZZLE_DATA_PATH + os.sep + '*.json')
-    puzl_idx_list = [x.split(os.sep)[-1].split('.')[0] for x in puzzles]
-
-    # scenario 1: no selection made, so return a random puzzle
-    if puzl_idx is None:
-        # return a random puzzle
-        puzl_path = random.choice(puzzles)
-        print ('You selected a random puzzle:',puzl_path)
-        return puzl_path
-
-    if len(puzl_idx) != params.TOTAL_LETTER_COUNT:
-        print ('Puzzles must be ',str(params.TOTAL_LETTER_COUNT),'letters long. Please try again.')
-        exit(0)
-
-    # scenario 2: specific puzzle requested but not already available
-    if puzl_idx in puzl_idx_list:
-        print('Existing puzzle will be played:',puzl_idx)
-        puzl_path = params.PUZZLE_DATA_PATH + os.sep + puzl_idx + '.json'
-    # scenario 3: create a new puzzle because an existing one was not found
-    else:
-        puzl_idx = generate_puzzles.main(puzl_idx)
-        print ('You created a new puzzle:',puzl_idx)
-        puzl_path = params.PUZZLE_DATA_PATH + os.sep + puzl_idx + '.json'
-    
-    return puzl_path
-
-def read_puzzle(puzl_path):
-
-    with open(puzl_path,'r') as fp:
-        puzzles = json.load(fp)
-
-    #print(len(puzzles.get('letters'),'total puzzle(s) were loaded')
-
-    return puzzles
 
 def play(puzl):
     print('Type !help or !h for help')
@@ -146,7 +105,8 @@ def play(puzl):
                 print_list[0] += ' ***'
 
             # print success and running stats
-            print_table(print_list, len(print_list), 22)
+            utils.print_table(print_list, len(print_list), 22)
+            print()
 
             # add good guess to the list, so it can't be reused
             guess_list.append(guess)
@@ -154,16 +114,6 @@ def play(puzl):
         # all words found (somehow this could be possible)
         if player_words == word_count:
             print ('Congratulations. You found them all!','\n')
-
-def print_table(data, cols, wide):
-    '''Prints formatted data on columns of given width.'''
-    # https://stackoverflow.com/a/50215584/2327328
-    n, r = divmod(len(data), cols)
-    pat = '{{:{}}}'.format(wide)
-    line = '\n'.join(pat * cols for _ in range(n))
-    last_line = pat * r
-    print(line.format(*data))
-    print(last_line.format(*data[n*cols:]))
 
 def shuffle_letters(letters):
     # shuffles letters, excluding the center letter
@@ -229,7 +179,7 @@ def help(msg, letters, guess_list, player_score, player_words, player_pangram, t
                           WORDS - 2 points
                           SPELLING - 5 points
 
-    Each puzzle has ''' + str(params.COUNT_PANGRAMS) + ''' pangram(s) that uses each of the ''' + str(params.MIN_WORD_LENGTH) + ''' letters.
+    Each puzzle has ''' + str(params.COUNT_PANGRAMS) + ''' pangram(s) that uses each of the ''' + str(params.TOTAL_LETTER_COUNT) + ''' letters.
     The pangram is worth 7 extra points.
 
     Have fun!
@@ -260,14 +210,14 @@ def main():
     if puzzle_idx is not None:
         
         # check validity of letters
-        functions.check_letters(puzzle_idx)
+        utils.check_letters(puzzle_idx)
 
         # choose standard sorting for all puzzle file names
-        puzzle_idx = functions.sort_letters(puzzle_idx)
+        puzzle_idx = utils.sort_letters(puzzle_idx)
 
-    puzl_path = select_puzzle(puzzle_idx)
+    puzl_path = utils.select_puzzle(puzzle_idx)
 
-    puzl = read_puzzle(puzl_path)
+    puzl = utils.read_puzzle(puzl_path)
 
     play(puzl)
 

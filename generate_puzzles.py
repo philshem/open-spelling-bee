@@ -3,7 +3,7 @@
 ''' generate puzzles based on criteria in params.py '''
 
 import params
-import functions
+import utils
 
 import os
 import sys

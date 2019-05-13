@@ -19,9 +19,19 @@ To play a random game:
 
 To play a non-random game:
 
-    python3 play_puzzles.py AGFEDCB
+    python3 play_puzzles.py RDGHNOU
 
-where A is the center letter. If the puzzle `AGFEDCB` does not exist, it will be created and saved to `data/ABCDEFG.json` (the file names are the first letter and the alphabetically sorted remaining letters).
+where A is the center letter. If the puzzle `RDGHNOU` does not exist, it will be created and saved to `data/RDGHNOU.json` (the file names are the first letter and the alphabetically sorted remaining letters).
+
+⚠️ The word list used is from Scrabble: [TWL06](https://www.wordgamedictionary.com/twl06/), and at roungly 180k words, it's larger than what the NY Times uses. To reach "genius" level, you'll need to solve 50% of the words.
+
+To solve a game (aka cheat-mode):
+
+    python3 solve_puzzles.py RDGHNOU
+
+If the game does not exist, it will be created and saved to the `data/` folder. 
+
+For a list of the previous NY Times letter selections, see [William Shunn's page](https://www.shunn.net/bee/?past=1).
 
 ## to generate new puzzles
 
@@ -41,11 +51,10 @@ To generate a certain letter combination, use:
 
 which will then be saved to `data/ABCDEFG.json`.
 
-For a list of the previous NY Times letter selections, see [William Shunn's page](https://www.shunn.net/bee/?past=1).
-
 ---
 
 # Game Play
+
 To play, build words with a minimum of 4 letters, using the letters provided.
 
 Each word must include the center letter at least once.
@@ -56,7 +65,6 @@ Scoring: 1 point for a 4 letter word, and 1 more point for each additional lette
 
 Each puzzle has 1 "pangram" that uses each of the 7 letters at least once. The pangram is worth 7 extra points.
 
-Dictionary: Scrabble word list [TWL06](https://www.wordgamedictionary.com/twl06/)
 
 
 ## example play
