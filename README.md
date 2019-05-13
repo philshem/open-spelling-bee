@@ -114,4 +114,4 @@ Use the following commands for more details:
 
 + `Q` as center letter: `QAHILSU`
 
-+ `Z` as center letter: `ZADENRS`
++ `Z` as center letter: `ZADEHJT`, `ZADENRS`
