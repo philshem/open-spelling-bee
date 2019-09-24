@@ -1,0 +1,187 @@
+{
+    "letters": "VOICANG",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 100,
+    "word_count": 33,
+    "pangram_count": 1,
+    "pangram_list": [
+        "CONCAVING"
+    ],
+    "word_list": [
+        {
+            "word": "AVIAN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AVION",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AVIONIC",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CAVING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CIVIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CONCAVING",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "CONNIVING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CONVINCING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "COVIN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COVING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GAINGIVING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "GINGIVA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GIVING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "INVOICING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "NOVA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OVONIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VACCINA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "VACCINIA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "VAGI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VAGINA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VAIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VANG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VANNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "VICING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VIGA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VIGIA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VINA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VINCA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VINIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VINING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VINO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VIVA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VOICING",
+            "score": 4,
+            "pangram": false
+        }
+    ]
+}

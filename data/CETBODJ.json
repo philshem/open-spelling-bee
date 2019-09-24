@@ -1,0 +1,207 @@
+{
+    "letters": "CETBODJ",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 98,
+    "word_count": 37,
+    "pangram_count": 1,
+    "pangram_list": [
+        "OBJECTED"
+    ],
+    "word_list": [
+        {
+            "word": "BOCCE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BOOCOO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CEDE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CEDED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CETE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COBB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COCO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COCOTTE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CODDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CODE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CODEC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CODED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COOCOO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COOED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COOEE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COOEED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COTE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COTED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DECO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DECOCT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DECOCTED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DECODE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DECODED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DEJECT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEJECTED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DETECT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DETECTED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "EJECT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EJECTED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "OBJECT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "OBJECTED",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "OBTECT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "OBTECTED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "OCTET",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OCTETTE",
+            "score": 4,
+            "pangram": false
+        }
+    ]
+}

@@ -1,0 +1,192 @@
+{
+    "letters": "CBAMLKP",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 83,
+    "word_count": 34,
+    "pangram_count": 1,
+    "pangram_list": [
+        "LAMPBLACK"
+    ],
+    "word_list": [
+        {
+            "word": "ABACA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ABACK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ALACK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ALPACA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BACCA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BACK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BACKPACK",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BLACK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BLACKBALL",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BLACKCAP",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CABAL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CABALA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CABBALA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CACA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CALK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CALL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CALLA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CALLBACK",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CALM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CALPAC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CALPACK",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CAMP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CLACK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CLAM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CLAMP",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CLAP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KALPAC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LACK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LAMPBLACK",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "MACK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MALACCA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PACA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PACK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PLACK",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

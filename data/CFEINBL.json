@@ -1,0 +1,177 @@
+{
+    "letters": "CFEINBL",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 86,
+    "word_count": 31,
+    "pangram_count": 1,
+    "pangram_list": [
+        "FENCIBLE"
+    ],
+    "word_list": [
+        {
+            "word": "BENEFIC",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BENEFICE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BENEFICENCE",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "BICE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CEIL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CEILI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CELEB",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CELLI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CILICE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CINE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CLEF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CLIFF",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CLINE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CLINIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FELICIFIC",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "FENCE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FENCIBLE",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "FENNEC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FICE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FICIN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FLEECE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FLIC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ICICLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "INCLINE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "LENIENCE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LICE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LICENCE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "LICENCEE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "NICE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NIECE",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

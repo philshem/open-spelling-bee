@@ -1,0 +1,222 @@
+{
+    "letters": "WLODAGY",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 89,
+    "word_count": 40,
+    "pangram_count": 1,
+    "pangram_list": [
+        "DAYGLOW"
+    ],
+    "word_list": [
+        {
+            "word": "AGALWOOD",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "AGLOW",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ALLOW",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ALOW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ALWAY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AWAY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AWOL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DAGWOOD",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DAYGLOW",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "DOGWOOD",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DOWDY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GADWALL",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GLOW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOLLYWOG",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GOWD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LAYAWAY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "LOGWAY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LOGWOOD",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "LOWLY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WADDLY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WADDY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WADY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WAGGLY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WALL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WALLA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WALLOW",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WALLY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WALY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WAWL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WAYLAY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WOAD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WOALD",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WOLD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WOOD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WOODY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WOOL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WOOLLY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WOOLY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "YAWL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YOWL",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

@@ -1,0 +1,257 @@
+{
+    "letters": "VBRAUEG",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 118,
+    "word_count": 47,
+    "pangram_count": 1,
+    "pangram_list": [
+        "BURGRAVE"
+    ],
+    "word_list": [
+        {
+            "word": "AGAVE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AVER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AVERAGE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BEAVER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BEREAVE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BEREAVER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BEVERAGE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BRAVA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BRAVE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BRAVER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BRAVURA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BRAVURE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BREVE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BURGRAVE",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "EAVE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EVER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GAVAGE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GAVE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GRAVE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GRAVER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GRAVURE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GREAVE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GUAVA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RAVAGE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RAVAGER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RAVE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RAVER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "REAVE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "REAVER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REEVE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "REGAVE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REVERB",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REVERE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REVERER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "REVUE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UVEA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VAGUE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VAGUER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VARA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VARVE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VEER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VERA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VERB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VERGE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VERGER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VERVE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VUGG",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

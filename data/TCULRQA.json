@@ -1,0 +1,197 @@
+{
+    "letters": "TCULRQA",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 85,
+    "word_count": 35,
+    "pangram_count": 1,
+    "pangram_list": [
+        "AQUACULTURAL"
+    ],
+    "word_list": [
+        {
+            "word": "ACTA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ACTUAL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ALTAR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AQUACULTURAL",
+            "score": 9,
+            "pangram": true
+        },
+        {
+            "word": "ARTAL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ATLATL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ATTAR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ATTRACT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CARAT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CART",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CATARACT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CATCALL",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CULT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CULTURAL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CURT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CURTAL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LATU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "QUART",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RATAL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RATATAT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TACT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TACTUAL",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TALA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TALAR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TALC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TALL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TART",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TARTAR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TATAR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TAUT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TRACT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TRULL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TUATARA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TUTU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ULTRA",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

@@ -1,0 +1,237 @@
+{
+    "letters": "WAKCHSN",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 93,
+    "word_count": 43,
+    "pangram_count": 1,
+    "pangram_list": [
+        "HACKSAWN"
+    ],
+    "word_list": [
+        {
+            "word": "AWASH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AWNS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CASHAW",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CASHAWS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CAWS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHAW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHAWS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HACKSAW",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HACKSAWN",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "HACKSAWS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "HAWK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HAWKS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HAWKSHAW",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "HAWKSHAWS",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "HAWS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HWAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KWACHA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KWACHAS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "SAWN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SAWS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SCHWA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SCHWAS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SHAW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SHAWN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SHAWS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SHWA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SHWAS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SNAW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SNAWS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SWAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SWANK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SWANKS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SWANS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SWASH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WACK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WACKS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WANK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WANKS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WANS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WASH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WAWS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WHACK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WHACKS",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}
