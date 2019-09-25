@@ -39,13 +39,32 @@ def get_letters():
 
 		# make sure each letter list includes at least one vowel
 		if [i for i in random_list if i in params.VOWEL_LIST]:
-			return ''.join(random_list)
+			return utils.sort_letters(''.join(random_list))
+
+def get_letters_from(letters_list):
+	# pick one entry at random, then shuffle the letters
+	letters = random.choice(letters_list)
+	letters = ''.join(random.sample(letters,len(letters)))
+	return utils.sort_letters(letters)
+
+def get_pangramable_letter_pool(all_words):
+	# reduce list of words to 7+ letter words that have exactly 7 unique letters
+	big_words = [w.strip() for w in all_words if len("".join(set(w)).strip()) == params.TOTAL_LETTER_COUNT]
+
+	# strip duplicate letters and sort
+	big_words = list(map(lambda word: ''.join(sorted(''.join(set(word)))), big_words))
+
+	# remove duplicate "words"
+	big_words = list(set(big_words))
+
+	return big_words
+
 
 def check_words(letters, word):
 
 	letters = list(letters)
 
-	# filter logic: must include any letter from list, as well as the first item 
+	# filter logic: must include any letter from list, as well as the first item
 	if all(x in set(letters) for x in word) and letters[0] in word:
 
 		# calculate the score of the word
@@ -66,18 +85,18 @@ def get_score(word):
 	# simple scoring algorithm, for now
 	return len(word) - params.MIN_WORD_LENGTH + 1
 
-def make_puzzles(word_list, letters=None):
-	
+def make_puzzles(word_list, pool, letters=None):
 	if letters is not None:
 		manual_puzzle = True
 	else:
 		manual_puzzle = False
-		letters = get_letters()
+		# letters = get_letters()
+		letters = get_letters_from(pool)
 		#letters = 'WAHORTY' # debug
 
 	results = []
 	if params.THREADS > 1:
-		pool = ThreadPool(params.THREADS) 
+		pool = ThreadPool(params.THREADS)
 		results = pool.starmap(check_words, zip(itertools.repeat(letters), word_list))
 	else:
 		for word in word_list:
@@ -100,7 +119,8 @@ def make_puzzles(word_list, letters=None):
 		# incorrect number of pangrams
 		# OR total_score falls out of bounds
 		# OR total number of words falls out of bounds
-		print ('\t'.join((letters, str(len(results)), str(total_score), str(len(pangram_list)), str(0))))
+		if params.PRINT_INVALID:
+			print ('\t'.join((letters, str(len(results)), str(total_score), str(len(pangram_list)), str(0))))
 		return 0
 
 	print ('\t'.join((letters, str(len(results)), str(total_score), str(len(pangram_list)), str(1))))
@@ -144,25 +164,28 @@ def main(puzzle_input=None):
 
 	words = get_words(params.WORD_LIST_PATH)
 	#words = words[0:10000] #debug
+	print ('total words: ', len(words))
+	pool = get_pangramable_letter_pool(words)
+	print (f'unique {params.TOTAL_LETTER_COUNT}-letter pool: ', len(pool))
 
 	# header for csv output
-	print ('\t'.join(('index', 'letters', 'word_count', 'total_score', 'pangram_count', 'is_valid')))
+	print ('\t'.join(('letters', 'word_count', 'total_score', 'pangram_count', 'is_valid')))
 
 	if len(sys.argv) > 1:
 		puzzle_input = sys.argv[1].strip().upper()
 	else:
 		puzzle_input = None
 
-	# user has requested a specific puzzle be created		
-	if puzzle_input is not None:		
+	# user has requested a specific puzzle be created
+	if puzzle_input is not None:
 		# check validity of letters
 		utils.check_letters(puzzle_input)
 
 		# manually request one puzzle by defining letters  on command line
 		# alphabetize the non-center letters (all but first in array)
 		puzzle_input = utils.sort_letters(puzzle_input)
-		
-		make_puzzles(words, puzzle_input)
+
+		make_puzzles(words, pool, puzzle_input)
 
 	# user/code has no specific puzzle to create, generating many
 	else:
@@ -170,7 +193,7 @@ def main(puzzle_input=None):
 
 		# generating N puzzles based on params
 		for i in range(params.MAX_PUZZLE_TRIES):
-			idx_valid += make_puzzles(words, None)
+			idx_valid += make_puzzles(words, pool, None)
 
 			# reached target count of puzzles, exiting loop
 			if idx_valid >= params.PUZZLE_COUNT:
