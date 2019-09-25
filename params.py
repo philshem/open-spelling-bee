@@ -31,3 +31,5 @@ MAX_WORD_COUNT = 50
 # total score limits
 MIN_TOTAL_SCORE = 80
 MAX_TOTAL_SCORE = 120
+
+PRINT_INVALID = False
