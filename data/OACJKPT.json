@@ -1,0 +1,242 @@
+{
+    "letters": "OACJKPT",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 84,
+    "word_count": 44,
+    "pangram_count": 1,
+    "pangram_list": [
+        "JACKPOT"
+    ],
+    "word_list": [
+        {
+            "word": "ACOCK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ATOP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CACAO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CAPO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COACT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COAPT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COCA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COCK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COCKAPOO",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "COCKATOO",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "COCO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COCOA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COOCOO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COOK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COOKTOP",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "COOP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COOPT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COTTA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "JACKPOT",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "JATO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "JOCK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "JOCKO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "JOTA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KAKAPO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KAPOK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KOOK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KOPPA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KOTO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OTTO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POCK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POCO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POOP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POPPA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "POTATO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "POTTO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TACO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TATTOO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TOCCATA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TOOK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOPCOAT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TOPO",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

@@ -1,0 +1,207 @@
+{
+    "letters": "DCGIKNU",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 104,
+    "word_count": 37,
+    "pangram_count": 1,
+    "pangram_list": [
+        "DUCKING"
+    ],
+    "word_list": [
+        {
+            "word": "DICING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DICK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DICKING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DIGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DIKDIK",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DIKING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DING",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DINGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DINING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DINK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DINKING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DINNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DUCI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUCK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUCKING",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "DUDING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DUKING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DUNG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUNGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DUNK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUNKING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DUNNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GUID",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GUIDING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "INDIGN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "INDUCING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "INDUING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "KIDDING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "KIND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KUDU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NIDI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NIDING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NUDGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "NUDNICK",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "NUDNIK",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "UNDID",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UNKIND",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

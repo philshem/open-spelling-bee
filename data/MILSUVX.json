@@ -1,0 +1,207 @@
+{
+    "letters": "MILSUVX",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 90,
+    "word_count": 37,
+    "pangram_count": 1,
+    "pangram_list": [
+        "LIXIVIUMS"
+    ],
+    "word_list": [
+        {
+            "word": "ILIUM",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ILLUVIUM",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ILLUVIUMS",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "IMMIX",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ISMS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LIMULI",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LIMULUS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "LIXIVIUM",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LIXIVIUMS",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "LUMS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MILIUM",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MILLILUX",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MILLS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MILS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MISS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MISSIS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MISSUS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MULLS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MUMM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MUMMS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MUMS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MUMU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MUMUS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MUSS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MUUMUU",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MUUMUUS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "SIMS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SLIM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SLIMS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SLUM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SLUMISM",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "SLUMISMS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "SLUMS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SUMS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VIMS",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

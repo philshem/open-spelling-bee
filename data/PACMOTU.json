@@ -1,0 +1,257 @@
+{
+    "letters": "PACMOTU",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 83,
+    "word_count": 47,
+    "pangram_count": 1,
+    "pangram_list": [
+        "CAMPOUT"
+    ],
+    "word_list": [
+        {
+            "word": "ATAP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ATOP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CAMP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CAMPO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CAMPOUT",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "CAPO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CAPUT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COAPT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COMP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COMPACT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "COMPO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COMPT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COOP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COOPT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COPOUT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COUP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CUPPA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CUTUP",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MUMP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OUTPUT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PACA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PACT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PAMPA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PAPA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PATACA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "POCO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POMATUM",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "POMO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POMP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POMPOM",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "POOP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POPPA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "POTATO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "POTTO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "POUT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PUMA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PUMP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PUPA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PUPU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PUTOUT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PUTT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PUTTO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TAMP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TAPA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOPCOAT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TOPO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TUMP",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

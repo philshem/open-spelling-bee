@@ -1,0 +1,212 @@
+{
+    "letters": "UBGINRX",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 106,
+    "word_count": 38,
+    "pangram_count": 1,
+    "pangram_list": [
+        "BRUXING"
+    ],
+    "word_list": [
+        {
+            "word": "BRUIN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BRUNG",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BRUX",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BRUXING",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "BUBU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BUGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BUNG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BUNGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BUNN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BURB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BURG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BURIN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BURN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BURNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BURR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BURRING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GRUB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GRUBBING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GRUGRU",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GUNNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GUNRUNNING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "GURGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GURU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "INRUN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "INURING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "INURN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "INURNING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "NUBBIN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RUBBING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RUGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RUIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RUING",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RUINING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RUNG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RUNNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "UNRIG",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UNRIGGING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "URGING",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

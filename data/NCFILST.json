@@ -1,0 +1,262 @@
+{
+    "letters": "NCFILST",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 118,
+    "word_count": 48,
+    "pangram_count": 1,
+    "pangram_list": [
+        "INFLICTS"
+    ],
+    "word_list": [
+        {
+            "word": "CLINIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CLINICS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FICIN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FICINS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FINIS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FINS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FLINT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FLINTS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "INFILL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "INFLICT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "INFLICTS",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "INNS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "INSIST",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "INSISTS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "INSTIL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "INSTILL",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "INSTILLS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "INSTILS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "INSTINCT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "INSTINCTS",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "INTI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "INTIS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LININ",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LININS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LINN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LINNS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LINS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LINT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LINTS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NILLS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NILS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NISI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NITS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SINS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SNIFF",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SNIFFS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SNIT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SNITS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "STINT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "STINTS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TIFFIN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TIFFINS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TINCT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TINCTS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TINS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TINT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TINTS",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

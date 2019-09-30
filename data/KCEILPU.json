@@ -1,0 +1,272 @@
+{
+    "letters": "KCEILPU",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 104,
+    "word_count": 50,
+    "pangram_count": 1,
+    "pangram_list": [
+        "CUPLIKE"
+    ],
+    "word_list": [
+        {
+            "word": "CLEEK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CLICK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CLUCK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CUKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CUPLIKE",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "EELLIKE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "EKUELE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EPICLIKE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ICELIKE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "KECK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KECKLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KEEK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KEEL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KEEP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KELEP",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KELP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KELPIE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KEPI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KICK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KICKUP",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KIKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KILLICK",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "KILLIE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KLICK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KLIK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LEEK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LEKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LEKU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LICK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LIKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LIPLIKE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "LUCK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LUCKIE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PECK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PEEK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PEKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PICK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PICKLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PICKUP",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PIKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PIKI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PIPELIKE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PLUCK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PUCK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PUKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PULIK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UKELELE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "UKULELE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "UPKEEP",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

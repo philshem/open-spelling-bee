@@ -1,0 +1,262 @@
+{
+    "letters": "VAEKNRY",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 99,
+    "word_count": 48,
+    "pangram_count": 1,
+    "pangram_list": [
+        "KNAVERY"
+    ],
+    "word_list": [
+        {
+            "word": "AVER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EAVE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ENVY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EVEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EVENER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EVER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EVERY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KAVA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KAVAKAVA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "KEEVE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KNAVE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KNAVERY",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "NAVAR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NAVE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NAVVY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NAVY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NERVE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NERVY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NEVE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NEVER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RAVE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RAVEN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RAVENER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RAVER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "REAVE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "REAVER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REEVE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "REVERE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REVERER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "REVERY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VANE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VANNER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VARA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VARNA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VARVE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VARY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VEENA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VEER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VEERY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VENA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VENAE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VENEER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VENEERER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "VENENE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VENERY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VERA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VERVE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VERY",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

@@ -1,0 +1,242 @@
+{
+    "letters": "ICEHOTV",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 100,
+    "word_count": 44,
+    "pangram_count": 1,
+    "pangram_list": [
+        "CHEVIOT"
+    ],
+    "word_list": [
+        {
+            "word": "CEVICHE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CHEVIOT",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "CHIC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHICHI",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CHICO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHIT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHIVE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHOICE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CITE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CIVET",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CIVIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CIVIE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COCCI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COCCIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COOTIE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ECHOIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ETHIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ETIC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EVICT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EVICTEE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "EVITE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HECTIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HITCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HIVE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HOOCHIE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HOTTIE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ICTIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ITCH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OTIC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OTITIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TECHIE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TECTITE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "THETIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "THIEVE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "THIO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TICTOC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TITHE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TITI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TITTIE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TOIT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VICE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VIVE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VOICE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VOTIVE",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

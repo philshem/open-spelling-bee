@@ -1,0 +1,207 @@
+{
+    "letters": "HDENOPU",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 87,
+    "word_count": 37,
+    "pangram_count": 1,
+    "pangram_list": [
+        "UNHOPED"
+    ],
+    "word_list": [
+        {
+            "word": "EPHOD",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HEED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HEEDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HODDEN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HOED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HONE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HONED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HOOD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HOODED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HOODOO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HOODOOED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "HOOP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HOOPED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HOOPOE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HOOPOO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HOPE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HOPED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HOPPED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HOUND",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HOUNDED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HUED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HUNH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OHED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OOHED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OUPH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OUPHE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PHON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PHONE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PHONED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PHONO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PHONON",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "POOH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POOHED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "UNHEEDED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "UNHOOD",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "UNHOODED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "UNHOPED",
+            "score": 4,
+            "pangram": true
+        }
+    ]
+}

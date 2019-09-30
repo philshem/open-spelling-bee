@@ -1,0 +1,222 @@
+{
+    "letters": "PACDNOT",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 82,
+    "word_count": 40,
+    "pangram_count": 1,
+    "pangram_list": [
+        "OCTOPODAN"
+    ],
+    "word_list": [
+        {
+            "word": "ADAPT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ADOPT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "APOD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ATAP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ATOP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CAPO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CAPON",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CAPONATA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CAPTAN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CATNAP",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COAPT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COOP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COOPT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DOPA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOPANT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NAPA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NAPPA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OCTOPOD",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "OCTOPODAN",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "PACA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PACT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PANADA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PANDA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PANT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PANTO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PAPA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PATACA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "POCO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PONTON",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PONTOON",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "POOD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POOP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POPPA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "POTATO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "POTTO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TAPA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOPCOAT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TOPO",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

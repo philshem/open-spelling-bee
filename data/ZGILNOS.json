@@ -1,0 +1,187 @@
+{
+    "letters": "ZGILNOS",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 116,
+    "word_count": 33,
+    "pangram_count": 1,
+    "pangram_list": [
+        "SNOOZLING"
+    ],
+    "word_list": [
+        {
+            "word": "GINZO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GLOZING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GONZO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "IONIZING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LIONIZING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "NONIONIZING",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "OOZING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "OZONISING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "OZONIZING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "SIZING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SIZINGS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "SIZZLING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "SNOOZING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "SNOOZLING",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "SOZIN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SOZINS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ZIGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ZIGS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ZILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ZILLION",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ZILLIONS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ZILLS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ZING",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ZINGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ZINGS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ZINS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ZIZZLING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ZONING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ZOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ZOONING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ZOONOSIS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ZOONS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ZOOS",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

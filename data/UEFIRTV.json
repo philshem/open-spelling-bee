@@ -1,0 +1,212 @@
+{
+    "letters": "UEFIRTV",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 102,
+    "word_count": 38,
+    "pangram_count": 1,
+    "pangram_list": [
+        "FURTIVE"
+    ],
+    "word_list": [
+        {
+            "word": "ETUI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FRUIT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FRUITER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FRUITERER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "FRUITIER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FURFUR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FURRIER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FURTIVE",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "FUTURE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REFUTE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REFUTER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "REUTTER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "REVUE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RUER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RUFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RUFFE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RUTTIER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TRUE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TRUER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TRUFFE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TUFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TUFFET",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TUFT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TUFTER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TUFTIER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TURF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TURFIER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TURRET",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TUTEE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TUTTI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TUTU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "URETER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "UTERI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UTTER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UTTERER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "VERTU",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VIRTU",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VIRTUE",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

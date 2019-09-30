@@ -1,0 +1,262 @@
+{
+    "letters": "WABCORS",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 116,
+    "word_count": 48,
+    "pangram_count": 1,
+    "pangram_list": [
+        "CROWBARS"
+    ],
+    "word_list": [
+        {
+            "word": "ARROW",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ARROWS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BARROW",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BARROWS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BORROW",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BORROWS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BOWS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BOWWOW",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BOWWOWS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BRAW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BRAWS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BROW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BROWS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CARASSOW",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CARASSOWS",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CAWS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COWS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CRAW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CRAWS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CROSSBOW",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CROSSBOWS",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CROW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CROWBAR",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CROWBARS",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "CROWS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RAWS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROWS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SAWS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SCOW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SCOWS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SORROW",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SORROWS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "SOWAR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SOWARS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SOWCAR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SOWCARS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "SOWS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SWAB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SWABS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SWOB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SWOBS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WABS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WARS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WARSAW",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WARSAWS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WAWS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WOOS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WOWS",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

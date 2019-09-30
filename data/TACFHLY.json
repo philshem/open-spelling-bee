@@ -1,0 +1,222 @@
+{
+    "letters": "TACFHLY",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 88,
+    "word_count": 40,
+    "pangram_count": 1,
+    "pangram_list": [
+        "CATCHFLY"
+    ],
+    "word_list": [
+        {
+            "word": "ACTA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ATALAYA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ATLATL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ATTACH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CATCALL",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CATCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CATCHALL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CATCHFLY",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "CATCHY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CATFALL",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CATTY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHATTY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FACT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FATAL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FATALLY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FATLY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FATTY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FLAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FLATLY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HAFT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HALT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HATCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HATH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LATCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LATH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LATHY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LYTTA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TACH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TACT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TAFFY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TALA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TALC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TALL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TALLY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TATTY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "THAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "THATCH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "THATCHY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "YACHT",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

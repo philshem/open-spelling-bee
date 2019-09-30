@@ -1,0 +1,212 @@
+{
+    "letters": "FAIMNRY",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 81,
+    "word_count": 38,
+    "pangram_count": 1,
+    "pangram_list": [
+        "INFIRMARY"
+    ],
+    "word_list": [
+        {
+            "word": "AFAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AFFAIR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "AFFIRM",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "AFFRAY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FAIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FAIR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FAIRY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FANNY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FARINA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FARM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FIAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FINNY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FIRM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FIRMAN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FIRN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FIRRY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FRAY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FRIAR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FRIARY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "IFFY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "INFAMY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "INFIRM",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "INFIRMARY",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "INFRA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MAFFIA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MAFIA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MIFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MIFFY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MINIFY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NAFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NAIF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RAFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RAFFIA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RAMIFY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RARIFY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RIFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RIFFRAFF",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "YAFF",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

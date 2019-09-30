@@ -1,0 +1,187 @@
+{
+    "letters": "UDGNORW",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 83,
+    "word_count": 33,
+    "pangram_count": 1,
+    "pangram_list": [
+        "GROUNDWOOD"
+    ],
+    "word_list": [
+        {
+            "word": "DOUR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DRUG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUGONG",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DUNG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DURN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DURO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DURR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOURD",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GROUND",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GROUNDWOOD",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "GRUGRU",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GUNDOG",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GURU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NONDRUG",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "NOUN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NURD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ODOUR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ROUND",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ROUNDWOOD",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "RUDD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RUNDOWN",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RUNG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RUNROUND",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "UDON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "UNDO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "UNGROUND",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "UNROUND",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "UNWON",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UNWORN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "UNWOUND",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "UNWRUNG",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WOUND",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WRUNG",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

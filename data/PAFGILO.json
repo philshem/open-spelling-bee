@@ -1,0 +1,272 @@
+{
+    "letters": "PAFGILO",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 112,
+    "word_count": 50,
+    "pangram_count": 1,
+    "pangram_list": [
+        "GIGAFLOP"
+    ],
+    "word_list": [
+        {
+            "word": "AGAPAI",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "APOLLO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "APOLOG",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "APOLOGAL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "APOLOGIA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "APPAL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "APPALL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FILLIP",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FLAP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FLIP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FLIPFLOP",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FLOP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GALLOP",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GALOP",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GIGAFLOP",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "GLOP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOOP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LAPILLI",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "LIPA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOLLIPOP",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LOLLOP",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LOOP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OPAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PAIL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PALAPA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PALL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PALLIA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PALLIAL",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PALP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PALPAL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PALPI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PAPA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PAPAL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PAPILLA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PAPPI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PIAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PILAF",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PILAFF",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PILI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PIPAL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PLAGAL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PLOP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POLIO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "POLL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POLO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POOF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POOL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POOP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POPPA",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

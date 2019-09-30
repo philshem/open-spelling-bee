@@ -1,0 +1,222 @@
+{
+    "letters": "IHMNOPR",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 82,
+    "word_count": 40,
+    "pangram_count": 1,
+    "pangram_list": [
+        "MORPHIN"
+    ],
+    "word_list": [
+        {
+            "word": "HIPPO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "IMINO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "IMPI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "INION",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "INRO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "IRON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MINI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MINIM",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MINION",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MINOR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MIRI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MIRIN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MIRROR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MOMI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MORION",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MORPHIN",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "MORRION",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "NINON",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NOIR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NOMOI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NONIRON",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "NORI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ONION",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OPINION",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ORPIN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PIMP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PINION",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PINON",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PION",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PIPPIN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PIRN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POORI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PRIM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PRIMI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PRIMO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PRIMP",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PRION",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PRIOR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RHINO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RONION",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

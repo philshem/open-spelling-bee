@@ -1,0 +1,237 @@
+{
+    "letters": "CEGISTX",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 111,
+    "word_count": 43,
+    "pangram_count": 1,
+    "pangram_list": [
+        "EXEGETICS"
+    ],
+    "word_list": [
+        {
+            "word": "CECITIES",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CEES",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CESS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CESSES",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CESTI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CETE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CETES",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CIGS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CISSIES",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CIST",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CISTS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CITE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CITES",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CITIES",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ECESIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ECESIS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ECESISES",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ETIC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EXCESS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EXCESSES",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "EXCISE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EXCISES",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "EXCITE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EXCITES",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "EXEC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EXECS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EXEGETIC",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "EXEGETICS",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "EXSECT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EXSECTS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GESTIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ICES",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ICIEST",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ICTIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SECS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SECT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SECTS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SICE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SICES",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SICS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TECTITE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TECTITES",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TICS",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

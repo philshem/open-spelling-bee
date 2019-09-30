@@ -1,0 +1,207 @@
+{
+    "letters": "BEHILMT",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 84,
+    "word_count": 37,
+    "pangram_count": 1,
+    "pangram_list": [
+        "THIMBLE"
+    ],
+    "word_list": [
+        {
+            "word": "BEEBEE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BEET",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BEETLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BELIE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BELITTLE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BELLE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BELT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BETEL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BETH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BETHEL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BETIME",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BIBB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BIBLE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BILE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BILLET",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BILLIE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BIMBETTE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BITE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BITT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BLEB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BLET",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BLITE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BLITHE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EBBET",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EMBLEM",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HEBE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "IMBIBE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LIBEL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LIBELEE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "LIBELLEE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LIMB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LIMBI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "THEBE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "THIMBLE",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "TITBIT",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

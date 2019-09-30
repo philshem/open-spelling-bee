@@ -1,0 +1,262 @@
+{
+    "letters": "CADGNOT",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 118,
+    "word_count": 48,
+    "pangram_count": 1,
+    "pangram_list": [
+        "CANTDOG"
+    ],
+    "word_list": [
+        {
+            "word": "ACTA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ANACONDA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ANCON",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CACA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CACAO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CANCAN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CANNA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CANNON",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CANNOT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CANON",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CANT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CANTATA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CANTDOG",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "CANTO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CANTON",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COACT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COCA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COCO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COCOA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COCOON",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CODA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CODON",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COGNAC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COGON",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CONCOCT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CONDO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CONGA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CONGO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CONN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CONODONT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CONTACT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CONTO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COOCOO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COONCAN",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "COOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COTAN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COTTA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COTTON",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NONCONTACT",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "OCTAD",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OCTAGON",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "OCTAN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OCTANT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TACO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TACT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOCCATA",
+            "score": 4,
+            "pangram": false
+        }
+    ]
+}

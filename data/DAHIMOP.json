@@ -1,0 +1,232 @@
+{
+    "letters": "DAHIMOP",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 91,
+    "word_count": 42,
+    "pangram_count": 1,
+    "pangram_list": [
+        "AMPHIPOD"
+    ],
+    "word_list": [
+        {
+            "word": "AMID",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AMIDO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AMPHIPOD",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "APHID",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "APOD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DADA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DADO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DAIMIO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DAMP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DIDO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DODO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOODAD",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DOODOO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DOOM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOPA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HAMADA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HAMMADA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HODAD",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HOOD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HOODOO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "IDIOM",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "IMID",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "IMIDO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "IODID",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MADAM",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MAID",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MAIDHOOD",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MIDI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MODI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOOD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ODAH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OIDIA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OIDIOID",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "OPIOID",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PADI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PAID",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PAPADAM",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PAPADOM",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PAPPADAM",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PODIA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "POOD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POPPADOM",
+            "score": 5,
+            "pangram": false
+        }
+    ]
+}

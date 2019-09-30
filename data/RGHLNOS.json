@@ -1,0 +1,192 @@
+{
+    "letters": "RGHLNOS",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 97,
+    "word_count": 34,
+    "pangram_count": 1,
+    "pangram_list": [
+        "LONGHORNS"
+    ],
+    "word_list": [
+        {
+            "word": "GORGON",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GORGONS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GROG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GROGS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GROSS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HONOR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HONORS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HORN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HORNS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HORROR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HORRORS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "LOGROLL",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "LOGROLLS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LONGHORN",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LONGHORNS",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "LORGNON",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "LORGNONS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LORN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OLOROSO",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "OLOROSOS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ORLON",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ORLONS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RHOS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROLL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROLLS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SHORL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SHORLS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SHORN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SORGHO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SORGHOS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "SORGO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SORGOS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SORN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SORNS",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

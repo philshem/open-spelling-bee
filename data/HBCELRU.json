@@ -1,0 +1,242 @@
+{
+    "letters": "HBCELRU",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 101,
+    "word_count": 44,
+    "pangram_count": 1,
+    "pangram_list": [
+        "BLUCHER"
+    ],
+    "word_list": [
+        {
+            "word": "BEECH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BELCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BELCHER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BLUCHER",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "BREECH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BUHL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BUHR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHEBEC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CHEER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHEERER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CHERUB",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CHUB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHURCH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CHURL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHURR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CRECHE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CULCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CURCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ECHE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ECHELLE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "EUCHRE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HEBE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HEEL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HEELER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HELLER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HERB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HERE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HERL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HEUCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HUBBUB",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HULLER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HURL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HURLER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LECH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LECHER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LEECH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LEHR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LURCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LURCHER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RECHERCHE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "REHEEL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RUCHE",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

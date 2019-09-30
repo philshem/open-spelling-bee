@@ -1,0 +1,212 @@
+{
+    "letters": "BDEHMRY",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 108,
+    "word_count": 38,
+    "pangram_count": 1,
+    "pangram_list": [
+        "BERHYMED"
+    ],
+    "word_list": [
+        {
+            "word": "BEDDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BEDDER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BEEBEE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BEER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BEERY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BERHYME",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BERHYMED",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "BERM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BERME",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BERMED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BERRY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BRED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BREDE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BREE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BREED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BREEDER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BRRR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BYRE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DEBYE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DEERBERRY",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DERBY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EBBED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EMBED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EMBEDDED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "EMBER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HEBE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HERB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HERBED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HERBY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HEREBY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MEMBER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MEMBERED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "REBBE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "REBRED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REBREED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "REMEMBER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "REMEMBERED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "REMEMBERER",
+            "score": 7,
+            "pangram": false
+        }
+    ]
+}

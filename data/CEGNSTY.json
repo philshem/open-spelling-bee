@@ -1,0 +1,207 @@
+{
+    "letters": "CEGNSTY",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 107,
+    "word_count": 37,
+    "pangram_count": 1,
+    "pangram_list": [
+        "CYGNETS"
+    ],
+    "word_list": [
+        {
+            "word": "CEES",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CENSE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CENSES",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CENT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CENTESES",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CENTS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CESS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CESSES",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CETE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CETES",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CYESES",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CYGNET",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CYGNETS",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "CYST",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CYSTS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ENCYST",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ENCYSTS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ESSENCE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ESSENCES",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "SCENE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SCENES",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SCENT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SCENTS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SECS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SECT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SECTS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SENESCENCE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "SENESCENCES",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "SENESCENT",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "SENTENCE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "SENTENCES",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "SYCE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SYCEE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SYCEES",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SYCES",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SYNC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SYNCS",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

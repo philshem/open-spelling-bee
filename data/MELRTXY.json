@@ -1,0 +1,242 @@
+{
+    "letters": "MELRTXY",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 105,
+    "word_count": 44,
+    "pangram_count": 1,
+    "pangram_list": [
+        "EXTREMELY"
+    ],
+    "word_list": [
+        {
+            "word": "ELMY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EMEER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EMERY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EMMER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EMMET",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EMMY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EXTREME",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "EXTREMELY",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "EXTREMER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LEXEME",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MEET",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MEETER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MEETLY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MELEE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MELT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MELTER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MELTY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MEME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MERE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MERELY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MERER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MERL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MERLE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MERRY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "METE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "METER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "METRE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "METTLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MYRTLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REMEET",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REMELT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REMET",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "REMEX",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RETEM",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TEEM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TEEMER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TELEMETER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TELEMETRY",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TERM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TERMER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TERMLY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "XYLEM",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "YLEM",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

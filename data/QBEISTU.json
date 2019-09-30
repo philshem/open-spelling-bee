@@ -1,0 +1,187 @@
+{
+    "letters": "QBEISTU",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 115,
+    "word_count": 33,
+    "pangram_count": 1,
+    "pangram_list": [
+        "UBIQUITIES"
+    ],
+    "word_list": [
+        {
+            "word": "BEQUEST",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BEQUESTS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BISQUE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BISQUES",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "EQUITES",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "EQUITIES",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ETIQUETTE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ETIQUETTES",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "QUBIT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "QUBITS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "QUEST",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "QUESTS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "QUEUE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "QUEUES",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "QUIET",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "QUIETEST",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "QUIETIST",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "QUIETISTS",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "QUIETS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "QUIETUS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "QUIETUSES",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "QUIT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "QUITE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "QUITS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SQUIB",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SQUIBS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SUQS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TUQUE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TUQUES",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "UBIQUE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "UBIQUITIES",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "USQUE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "USQUES",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

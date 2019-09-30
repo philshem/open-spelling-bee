@@ -1,0 +1,197 @@
+{
+    "letters": "CINQSTU",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 91,
+    "word_count": 35,
+    "pangram_count": 1,
+    "pangram_list": [
+        "QUINTICS"
+    ],
+    "word_list": [
+        {
+            "word": "CIST",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CISTS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CISTUS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CUNT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CUNTS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CUSCUS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CUSS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CUTIN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CUTINS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CUTIS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CUTS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ICTIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ICTUS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "INCUS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "INSTINCT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "INSTINCTS",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "QUINIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "QUINTIC",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "QUINTICS",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "SCUT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SCUTS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SICS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SUCCINCT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "SUCCINIC",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "SUCCUSS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TICS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TINCT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TINCTS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TUNIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TUNICS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "UNCI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "UNCINI",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "UNCINUS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "UNCUS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UNCUT",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

@@ -1,0 +1,237 @@
+{
+    "letters": "IOPRSVY",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 101,
+    "word_count": 43,
+    "pangram_count": 1,
+    "pangram_list": [
+        "PROVISORY"
+    ],
+    "word_list": [
+        {
+            "word": "IRIS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ISOSPORY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "IVORY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ORRIS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PIPS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PIPY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PISO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PISOS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PISS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PISSOIR",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PISSOIRS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "POIS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POORI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "POORIS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PRIOR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PRIORS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PRIORY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PRISS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PRISSY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PRIVY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PROVISO",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PROVISORY",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "PROVISOS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PSIS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PYOSIS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PYROSIS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RIPS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SIPS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SIRS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SISSY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SORI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SOROSIS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "SPIRY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SPIV",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SPIVS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SPIVVY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SRIS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VIROSIS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "VISOR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VISORS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "YIPS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YIRR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YIRRS",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

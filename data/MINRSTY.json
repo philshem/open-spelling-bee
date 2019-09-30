@@ -1,0 +1,217 @@
+{
+    "letters": "MINRSTY",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 81,
+    "word_count": 39,
+    "pangram_count": 1,
+    "pangram_list": [
+        "MINISTRY"
+    ],
+    "word_list": [
+        {
+            "word": "IMMY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "INTIMIST",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "INTIMISTS",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ISMS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MINI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MINIM",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MINIMS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MINIS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MINISTRY",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "MINNY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MINT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MINTS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MINTY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MIRI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MIRIN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MIRINS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MIRS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MIRY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MISS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MISSIS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MISSY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MIST",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MISTRYST",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MISTRYSTS",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MISTS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MISTY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MITIS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MITT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MITTS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MITY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NIMS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RIMS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RIMY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SIMS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SMIT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "STIMY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "STYMY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TRIM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TRIMS",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

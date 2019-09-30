@@ -1,0 +1,272 @@
+{
+    "letters": "MBEHIOT",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 92,
+    "word_count": 50,
+    "pangram_count": 1,
+    "pangram_list": [
+        "BOEHMITE"
+    ],
+    "word_list": [
+        {
+            "word": "BEHEMOTH",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BETIME",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BIMBETTE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BIMBO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BIOME",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BOEHMITE",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "BOMB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BOMBE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BOOM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BOTTOM",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EMIT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EMMET",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EMOTE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HEME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HOME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HOMIE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HOMO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "IMBIBE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ITEM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MEET",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MEME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MEMO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "METE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "METH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MIME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MIMEO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MIMETITE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MITE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MITT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOMI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOTE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOTET",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MOTH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOTMOT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MOTT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOTTE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MOTTO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OMIT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TEEM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "THEM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "THEME",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TIME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOMB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOMTIT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TOOM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOTEM",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TOTEMITE",
+            "score": 5,
+            "pangram": false
+        }
+    ]
+}

@@ -1,0 +1,192 @@
+{
+    "letters": "MBDEGHU",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 86,
+    "word_count": 34,
+    "pangram_count": 1,
+    "pangram_list": [
+        "HUMBUGGED"
+    ],
+    "word_list": [
+        {
+            "word": "BEDUMB",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BEDUMBED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BEGUM",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BUMMED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEEM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DEEMED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEGUM",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DEGUMMED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DEME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUMB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUMBED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DUMDUM",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EMBED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EMBEDDED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "EMEU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GEMMED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GEUM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GUMMED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HEME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HEMMED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HUMBUG",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HUMBUGGED",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "HUMMED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MEED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MEME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MUDBUG",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MUDDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MUGG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MUGGED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MUGGEE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MUMM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MUMMED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MUMU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MUUMUU",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

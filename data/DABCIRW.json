@@ -1,0 +1,252 @@
+{
+    "letters": "DABCIRW",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 107,
+    "word_count": 46,
+    "pangram_count": 1,
+    "pangram_list": [
+        "BAWDRIC"
+    ],
+    "word_list": [
+        {
+            "word": "ABRACADABRA",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "ACARID",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ACCIDIA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ACID",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ACIDIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ACRID",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AIRWARD",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ARCADIA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ARID",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AWARD",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BARD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BARDIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BAWD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BAWDRIC",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "BIDI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BIRD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BRAD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BRAID",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BRIARD",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CADI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CAID",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CAIRD",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CARABID",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CARD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CARDIA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CARDIAC",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CICADA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CRAWDAD",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DADA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DARB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DARBAR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DARIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DIACID",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DIACIDIC",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DRAB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DRAW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DRAWBAR",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DRIB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "IRID",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "IRIDIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RABID",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RADAR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RADII",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RAID",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WADI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WARD",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

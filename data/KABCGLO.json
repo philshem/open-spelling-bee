@@ -1,0 +1,222 @@
+{
+    "letters": "KABCGLO",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 91,
+    "word_count": 40,
+    "pangram_count": 1,
+    "pangram_list": [
+        "BACKLOG"
+    ],
+    "word_list": [
+        {
+            "word": "ABACK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ABAKA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ACOCK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ALACK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BABKA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BACK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BACKBLOCK",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BACKLOG",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "BALK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BLACK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BLACKBALL",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BLACKCOCK",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BLOCK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BOCK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BOOK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BOOKOO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CALK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CALLBACK",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CLACK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CLOAK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CLOCK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COCK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COOK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COOKBOOK",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GOOK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KABAB",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KABAKA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KABALA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KABBALA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "KABOB",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KAKA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KOALA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KOBO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KOLA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KOLO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KOOK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LACK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOCK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOGBOOK",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "LOOK",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

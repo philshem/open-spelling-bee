@@ -1,0 +1,252 @@
+{
+    "letters": "KCEFORW",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 107,
+    "word_count": 46,
+    "pangram_count": 1,
+    "pangram_list": [
+        "WORKFORCE"
+    ],
+    "word_list": [
+        {
+            "word": "COCK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COCKCROW",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "COCKER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COOK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COOKER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COOKOFF",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CORK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CORKER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COWORKER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CREEK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CROCK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CROOK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CROOKER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FECK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FORK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FORKER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FROCK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KECK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KEEF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KEEK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KERF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KOOK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KORE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KREWE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OCKER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RECK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RECOCK",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RECOOK",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RECORK",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REEK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "REEKER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REWOKE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REWORK",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ROCK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROCKER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ROCKWORK",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ROOK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WEEK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WOKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WORK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WORKER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WORKFORCE",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "WORKWEEK",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "WRECK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WRECKER",
+            "score": 4,
+            "pangram": false
+        }
+    ]
+}

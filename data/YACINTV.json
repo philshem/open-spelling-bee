@@ -1,0 +1,217 @@
+{
+    "letters": "YACINTV",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 105,
+    "word_count": 39,
+    "pangram_count": 1,
+    "pangram_list": [
+        "INACTIVITY"
+    ],
+    "word_list": [
+        {
+            "word": "ACTIVITY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ANTICITY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "AYIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CANINITY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CANNY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CANTY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CATTY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CAVITY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CAVY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CITY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CIVVY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CYAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CYANIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CYANIN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CYANITIC",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CYNIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "INACTIVITY",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "INANITY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "NANCY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NANNY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NATIVITY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "NATTY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NAVVY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NAVY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NINNY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NITTY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TANTIVY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TATTY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TINNY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TINY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TITTY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TIVY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TYIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TYIYN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VACANCY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "VANITY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VICINITY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "VINY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VIVACITY",
+            "score": 5,
+            "pangram": false
+        }
+    ]
+}

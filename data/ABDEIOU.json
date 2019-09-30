@@ -1,0 +1,267 @@
+{
+    "letters": "ABDEIOU",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 99,
+    "word_count": 49,
+    "pangram_count": 1,
+    "pangram_list": [
+        "ABOIDEAU"
+    ],
+    "word_list": [
+        {
+            "word": "ABBA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ABBE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ABED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ABIDE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ABIDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ABODE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ABODED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ABOIDEAU",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "ADDED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ADIEU",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ADOBE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ADOBO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AIDE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AIDED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AOUDAD",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "AUBADE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "AUDAD",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AUDIO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BAAED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BABA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BABE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BABIED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BABOO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BABU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BADDIE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BADE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BAOBAB",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BAUBEE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BAUD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BEAD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BEADED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BEAU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BEDAUB",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BEDAUBED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BUBBA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DABBED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DADA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DADO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DADOED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DAUB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DAUBE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DAUBED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEAD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOODAD",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DUAD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "IDEA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OBIA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ODEA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OIDIA",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

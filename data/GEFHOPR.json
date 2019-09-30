@@ -1,0 +1,227 @@
+{
+    "letters": "GEFHOPR",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 95,
+    "word_count": 41,
+    "pangram_count": 1,
+    "pangram_list": [
+        "FROGHOPPER"
+    ],
+    "word_list": [
+        {
+            "word": "EGER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EGGER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ERGO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FOGGER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FOREGO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FOREGOER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FORGE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FORGER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FORGO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FORGOER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FROG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FROGHOPPER",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "GHEE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOFER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GOFFER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GOGO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOOF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOOP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOPHER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GORE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GORGE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GORGER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GORP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GREE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GREEGREE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GREGO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GROG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GROPE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GROPER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HOGG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HOGGER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "OGEE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OGRE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PREPREG",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PROG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PROGGER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "REFORGE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "REGORGE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "REPEG",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ROGER",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

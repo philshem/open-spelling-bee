@@ -1,0 +1,192 @@
+{
+    "letters": "UGIJMNP",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 99,
+    "word_count": 34,
+    "pangram_count": 1,
+    "pangram_list": [
+        "JUMPING"
+    ],
+    "word_list": [
+        {
+            "word": "GUMMING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GUNNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "IMPUGN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "IMPUGNING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "JUGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "JUGUM",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "JUJU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "JUMP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "JUMPING",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "MINIMUM",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MINIUM",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MUGG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MUGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MUMM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MUMMING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MUMP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MUMPING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MUMU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MUNI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MUUMUU",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PINUP",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PUGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PUMP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PUMPING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PUNG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PUNJI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PUNNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PUPPING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PUPU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "UMPING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "UNPIN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UNPINNING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "UNUNUNIUM",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "UPPING",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

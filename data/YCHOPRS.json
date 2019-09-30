@@ -1,0 +1,227 @@
+{
+    "letters": "YCHOPRS",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 89,
+    "word_count": 41,
+    "pangram_count": 1,
+    "pangram_list": [
+        "HOROSCOPY"
+    ],
+    "word_list": [
+        {
+            "word": "CHOOSY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CHOPPY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COPY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CORY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COSY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COYS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CRYOSCOPY",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "HOPPY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HOROSCOPY",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "HORSY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HOYS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HYPO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HYPOS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HYPS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HYSSOP",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HYSSOPS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "OCHRY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "POPPY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "POPSY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PORPHYRY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "POSY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PROSY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PSYCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PSYCHO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PSYCHOS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PSYCHS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PSYOPS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PYRO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PYROS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ROPY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROSY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SCRY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SOPHY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SOPPY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SORRY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SOYS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SPRY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SYPH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SYPHS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SYSOP",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SYSOPS",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

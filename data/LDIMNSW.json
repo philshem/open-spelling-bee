@@ -1,0 +1,222 @@
+{
+    "letters": "LDIMNSW",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 87,
+    "word_count": 40,
+    "pangram_count": 1,
+    "pangram_list": [
+        "WINDMILLS"
+    ],
+    "word_list": [
+        {
+            "word": "DILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DILLS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DISLIMN",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DISLIMNS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ILLS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LIDS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LIMN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LIMNS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LININ",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LININS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LINN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LINNS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LINS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MILD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MILDS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MILLS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MILS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MINIMILL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MINIMILLS",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "NILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NILLS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NILS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SILD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SILDS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SILLS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SIMLIN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SIMLINS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "SLID",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SLIM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SLIMS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SWILL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SWILLS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WILD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WILDS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WILLS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WINDMILL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "WINDMILLS",
+            "score": 6,
+            "pangram": true
+        }
+    ]
+}

@@ -1,0 +1,197 @@
+{
+    "letters": "CGHIKNR",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 106,
+    "word_count": 35,
+    "pangram_count": 1,
+    "pangram_list": [
+        "CHIRKING"
+    ],
+    "word_list": [
+        {
+            "word": "CHIC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHICHI",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CHICK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHINCH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CHINING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CHINK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHINKING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CHINNING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CHIRK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHIRKING",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "CHIRR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHIRRING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CINCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CINCHING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CIRRI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CRICK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CRICKING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CRINGING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GRINCH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HICK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ICING",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "INCH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "INCHING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "KICK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KICKING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "KINNIKINNICK",
+            "score": 9,
+            "pangram": false
+        },
+        {
+            "word": "NICHING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "NICK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NICKING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RICH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RICIN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RICING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RICK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RICKING",
+            "score": 4,
+            "pangram": false
+        }
+    ]
+}

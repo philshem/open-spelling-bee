@@ -1,0 +1,187 @@
+{
+    "letters": "HGIKLNO",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 92,
+    "word_count": 33,
+    "pangram_count": 1,
+    "pangram_list": [
+        "HOLKING"
+    ],
+    "word_list": [
+        {
+            "word": "HIGGLING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "HIGH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HIKING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HILI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HILLING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HILLO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HILLOING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "HINGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HOGG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HOGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HOKING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HOLING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HOLK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HOLKING",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "HOLLO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HOLLOING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "HOLLOO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HOLLOOING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "HONG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HONGI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HONGIING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "HONING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HONK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HONKING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HOOK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HOOKING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "KOHL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NIGH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NIGHING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "NIHIL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OHING",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OOHING",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

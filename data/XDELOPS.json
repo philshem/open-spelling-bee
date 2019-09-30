@@ -1,0 +1,182 @@
+{
+    "letters": "XDELOPS",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 92,
+    "word_count": 32,
+    "pangram_count": 1,
+    "pangram_list": [
+        "EXPLODES"
+    ],
+    "word_list": [
+        {
+            "word": "DESEX",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DESEXED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DESEXES",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DEXES",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EXED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EXES",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EXODOS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EXPEL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EXPELLED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "EXPELLEE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "EXPELLEES",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "EXPELS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EXPLODE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "EXPLODED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "EXPLODES",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "EXPO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EXPOS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EXPOSE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EXPOSED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "EXPOSES",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "LEXES",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LOXED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LOXES",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OXES",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PLEX",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PLEXES",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "POLLEX",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "POXED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "POXES",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SEXED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SEXES",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SEXLESS",
+            "score": 4,
+            "pangram": false
+        }
+    ]
+}

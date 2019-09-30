@@ -1,0 +1,172 @@
+{
+    "letters": "UAEILVX",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 84,
+    "word_count": 30,
+    "pangram_count": 1,
+    "pangram_list": [
+        "EXUVIAL"
+    ],
+    "word_list": [
+        {
+            "word": "ALLELUIA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ALLUVIA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ALLUVIAL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ALULA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ALULAE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EAUX",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ELUVIA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ELUVIAL",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "EXUVIA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EXUVIAE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "EXUVIAL",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "ILLUVIA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ILLUVIAL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LIEU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LUAU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LULU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LUXE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ULVA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "UVEA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "UVEAL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UVULA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UVULAE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VALUE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VALVULA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "VALVULAE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "VALVULE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "VULVA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VULVAE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VULVAL",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

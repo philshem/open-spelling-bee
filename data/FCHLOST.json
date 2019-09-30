@@ -1,0 +1,222 @@
+{
+    "letters": "FCHLOST",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 113,
+    "word_count": 40,
+    "pangram_count": 1,
+    "pangram_list": [
+        "FOOTCLOTHS"
+    ],
+    "word_list": [
+        {
+            "word": "COFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COFFS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COFT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COLTSFOOT",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "COLTSFOOTS",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "COOF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COOFS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FLOC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FLOCS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FLOSS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FOOL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FOOLS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FOOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FOOTCLOTH",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "FOOTCLOTHS",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "FOOTS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FOOTSTOOL",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "FOOTSTOOLS",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "FOSS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HOOF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HOOFS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HOTFOOT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HOTFOOTS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LOCOFOCO",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LOCOFOCOS",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "LOFT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOFTS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LOOF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOOFS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OFFS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OFFSHOOT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "OFFSHOOTS",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "SCOFF",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SCOFFS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SOFT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SOFTS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TOFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOFFS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TOFT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOFTS",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

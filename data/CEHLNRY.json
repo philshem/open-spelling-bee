@@ -1,0 +1,217 @@
+{
+    "letters": "CEHLNRY",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 111,
+    "word_count": 39,
+    "pangram_count": 1,
+    "pangram_list": [
+        "LYNCHER"
+    ],
+    "word_list": [
+        {
+            "word": "CELERY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CERE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHEER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHEERER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CHEERLY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CHEERY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CHERRY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CHYLE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CLENCH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CLENCHER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CRECHE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CREEL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CRENEL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CRENELLE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CYCLE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CYCLER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CYCLERY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ECHE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ECHELLE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HENCE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LECH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LECHER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LECHERY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "LEECH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LYCEE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LYCH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LYCHEE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LYNCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LYNCHER",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "RECCE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RECENCY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RECHERCHE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "RECYCLE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RECYCLER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "REECHY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "YECCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "YECH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YECHY",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

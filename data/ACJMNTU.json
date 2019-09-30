@@ -1,0 +1,232 @@
+{
+    "letters": "ACJMNTU",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 80,
+    "word_count": 42,
+    "pangram_count": 1,
+    "pangram_list": [
+        "MUNTJAC"
+    ],
+    "word_list": [
+        {
+            "word": "ACTA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ANNA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ANTA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ATAMAN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ATMA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ATMAN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AUNT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AUTUMN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CACA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CANCAN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CANNA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CANT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CANTATA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "JACANA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "JAUNT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "JNANA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "JUNTA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MAMA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MAMMA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MANA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MANANA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MANAT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MANNA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MANNAN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MANTA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MANTUA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MATT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MAUN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MAUT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MUNTJAC",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "MUTANT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NAAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NANA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NATANT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NUTANT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TACT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TAUNT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TAUT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TUNA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "UNAU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "UNJAM",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UNMAN",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

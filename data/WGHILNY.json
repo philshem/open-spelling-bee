@@ -1,0 +1,172 @@
+{
+    "letters": "WGHILNY",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 96,
+    "word_count": 30,
+    "pangram_count": 1,
+    "pangram_list": [
+        "WHININGLY"
+    ],
+    "word_list": [
+        {
+            "word": "WHIG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WHILING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WHIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WHINGING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "WHINING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WHININGLY",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "WHINNY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WHINNYING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "WHINY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WIGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WIGGLING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "WIGGLY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WIGGY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WILILY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WILING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WILLING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WILLINGLY",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "WILLY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WILLYING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "WILY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WING",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WINGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WINGY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WINING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WINNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WINNINGLY",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "WINY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WYLING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WYNN",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

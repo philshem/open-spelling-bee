@@ -1,0 +1,227 @@
+{
+    "letters": "UCDEIMO",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 103,
+    "word_count": 41,
+    "pangram_count": 1,
+    "pangram_list": [
+        "DUODECIMO"
+    ],
+    "word_list": [
+        {
+            "word": "CECUM",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COCCIDIUM",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "COUDE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CUDDIE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CUED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DEDUCE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEDUCED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DEUCE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DEUCED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DOUCE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DOUM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUCE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUCI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUDDIE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DUDE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUDED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DUMDUM",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DUMMIED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DUODECIMO",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "DUOMI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DUOMO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EDUCE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EDUCED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EMEU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MEDIUM",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MEOU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MEOUED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MODICUM",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MOUE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MUCID",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MUCOID",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MUDDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MUDDIED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MUMM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MUMMED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MUMMIED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MUMU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MUUMUU",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ODEUM",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ODIUM",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OIDIUM",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

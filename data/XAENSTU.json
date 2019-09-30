@@ -1,0 +1,212 @@
+{
+    "letters": "XAENSTU",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 112,
+    "word_count": 38,
+    "pangram_count": 1,
+    "pangram_list": [
+        "EXTENUATES"
+    ],
+    "word_list": [
+        {
+            "word": "ANNEX",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ANNEXE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ANNEXES",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "AUXESES",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "AXES",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EAUX",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EXES",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EXEUNT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EXTANT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EXTENT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EXTENTS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "EXTENUATE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "EXTENUATES",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "NEXT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NEXUS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NEXUSES",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "SAXES",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SEXES",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SEXT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SEXTAN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SEXTANS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "SEXTANT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "SEXTANTS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "SEXTET",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SEXTETS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "SEXTETTE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "SEXTETTES",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "SEXTS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TAXA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TAXES",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TAXUS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TEXAS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TEXASES",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TEXT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TEXTS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TUXES",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UNSEX",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UNSEXES",
+            "score": 4,
+            "pangram": false
+        }
+    ]
+}

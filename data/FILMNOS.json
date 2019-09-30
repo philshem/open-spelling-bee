@@ -1,0 +1,262 @@
+{
+    "letters": "FILMNOS",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 112,
+    "word_count": 48,
+    "pangram_count": 1,
+    "pangram_list": [
+        "MONOFILS"
+    ],
+    "word_list": [
+        {
+            "word": "FILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FILLO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FILLOS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FILLS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FILM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FILMI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FILMIS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FILMS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FILO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FILOS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FILS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FINIS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FINO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FINOS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FINS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FISSION",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FISSIONS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FLOSS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FOIL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FOILS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FOIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FOINS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FOISON",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FOISONS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FOLIO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FOLIOS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FOLLIS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FONS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FOOL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FOOLS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FOSS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FOSSIL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FOSSILS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "INFILL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "INFO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "INFOS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LOOF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOOFS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MIFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MIFFS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MILFOIL",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MILFOILS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MONOFIL",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MONOFILS",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "NONFOSSIL",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "OFFS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SNIFF",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SNIFFS",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

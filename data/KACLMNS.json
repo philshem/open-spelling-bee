@@ -1,0 +1,257 @@
+{
+    "letters": "KACLMNS",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 105,
+    "word_count": 47,
+    "pangram_count": 1,
+    "pangram_list": [
+        "ALMANACKS"
+    ],
+    "word_list": [
+        {
+            "word": "ALACK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ALASKA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ALASKAS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ALMANACK",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ALMANACKS",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "ASKS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CALK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CALKS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CASK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CASKS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CLACK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CLACKS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CLANK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CLANKS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KAAS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KAKA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KAKAS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KALAM",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KALAMS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KAMALA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KAMALAS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "KANA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KANAKA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KANAKAS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "KANAS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KNACK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KNACKS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LACK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LACKS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LANK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MACK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MACKS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MASK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MASKS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SACK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SACKS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SANK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SKANK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SKANKS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SKAS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SLACK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SLACKS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SLANK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SMACK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SMACKS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SNACK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SNACKS",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

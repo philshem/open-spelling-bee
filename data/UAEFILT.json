@@ -1,0 +1,242 @@
+{
+    "letters": "UAEFILT",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 93,
+    "word_count": 44,
+    "pangram_count": 1,
+    "pangram_list": [
+        "FAUTEUIL"
+    ],
+    "word_list": [
+        {
+            "word": "ALLELUIA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ALULA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ALULAE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ELUATE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ELUTE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ETUI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FATEFUL",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FAULT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FAUTEUIL",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "FITFUL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FLAUTA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FLUE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FLUFF",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FLUTE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FUEL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FULFIL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FULFILL",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FUTILE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LATU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LIEU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LIFEFUL",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "LITU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LUAU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LUFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LUFFA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LULU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LUTE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LUTEA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LUTEAL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TAUT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TUFA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TUFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TUFFET",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TUFT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TUILLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TULE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TULLE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TUTEE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TUTTI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TUTU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ULULATE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "UTILE",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

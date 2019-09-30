@@ -1,0 +1,257 @@
+{
+    "letters": "UCHMNOR",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 111,
+    "word_count": 47,
+    "pangram_count": 1,
+    "pangram_list": [
+        "CRUMHORN"
+    ],
+    "word_list": [
+        {
+            "word": "CHUM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHURCH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CHURN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHURR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHURRO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CONCUR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CORNU",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COUCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CROUCH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CRUMHORN",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "CRUNCH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CRUOR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CURCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CURN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CURR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HONOUR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HOUR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HUMOR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HUMOUR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HUNCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HUNH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOHUR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MONURON",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MOUCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MOURN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MUCH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MUCHO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MUCOR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MUCRO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MUMM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MUMU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MUNCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MUON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MURMUR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MURR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MUUMUU",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NONCHURCH",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "NONCONCUR",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "NOUN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OCCUR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OUCH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RUMOR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RUMOUR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "UNCHURCH",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "UNCO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "UNCOMMON",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "UNMOOR",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

@@ -1,0 +1,207 @@
+{
+    "letters": "CELNRTY",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 116,
+    "word_count": 37,
+    "pangram_count": 1,
+    "pangram_list": [
+        "RECENTLY"
+    ],
+    "word_list": [
+        {
+            "word": "CELERY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CELT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CENT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CENTER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CENTNER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CENTRE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CERE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CETE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CREEL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CRENEL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CRENELLE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CYCLE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CYCLER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CYCLERY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ELECT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ELECTEE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ELECTRET",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ERECT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ERECTER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ERECTLY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "LECTERN",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "LYCEE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RECCE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RECENCY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RECENT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RECENTER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RECENTLY",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "RECYCLE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RECYCLER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "REELECT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "REERECT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TENREC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TERCE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TERCEL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TERCELET",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TERCET",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

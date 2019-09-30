@@ -1,0 +1,272 @@
+{
+    "letters": "MACGNOP",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 103,
+    "word_count": 50,
+    "pangram_count": 1,
+    "pangram_list": [
+        "CAMPONG"
+    ],
+    "word_list": [
+        {
+            "word": "AGAMA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AGMA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AMMO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AMMONO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "AMONG",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CAMO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CAMP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CAMPAGNA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CAMPO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CAMPONG",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "COMA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COMMA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COMMON",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COMP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COMPO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GAGMAN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GAMA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GAMMA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GAMMON",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GAMP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GNOMON",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MACACO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MACON",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MAGMA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MAMA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MAMMA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MAMMON",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MANA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MANANA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MANGA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MANGO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MANNA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MANNAN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MANO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOMMA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MONGO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MONO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NOMA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NONCOM",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NONMAN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "OGAM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PAMPA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PANAMA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "POMO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POMP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POMPANO",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "POMPOM",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "POMPON",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

@@ -1,0 +1,232 @@
+{
+    "letters": "KCDORSW",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 110,
+    "word_count": 42,
+    "pangram_count": 1,
+    "pangram_list": [
+        "CORKWOODS"
+    ],
+    "word_list": [
+        {
+            "word": "COCK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COCKCROW",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "COCKCROWS",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "COCKS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COOK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COOKS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CORK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CORKS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CORKWOOD",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CORKWOODS",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "CROCK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CROCKS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CROOK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CROOKS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DOCK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOCKS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DORK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DORKS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KOODOO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KOODOOS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "KOOK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KOOKS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KORS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KOSS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROCK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROCKS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ROCKWORK",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ROCKWORKS",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ROOK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROOKS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SOCK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SOCKO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SOCKS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SOOK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SOOKS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WOKS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WOODCOCK",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "WOODCOCKS",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "WOODWORK",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "WOODWORKS",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "WORK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WORKS",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

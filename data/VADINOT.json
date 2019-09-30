@@ -1,0 +1,192 @@
+{
+    "letters": "VADINOT",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 98,
+    "word_count": 34,
+    "pangram_count": 1,
+    "pangram_list": [
+        "DIVINATION"
+    ],
+    "word_list": [
+        {
+            "word": "AVADAVAT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "AVANT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AVIAN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AVIATION",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "AVID",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AVIDIN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "AVION",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AVOID",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DAVIT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DIVA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DIVAN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DIVINATION",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "DIVOT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "INNOVATION",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "INVITATION",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "NAVAID",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NOVA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NOVATION",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "OTTAVA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "OVATION",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "OVOID",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TITIVATION",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "VAIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VANDA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VIAND",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VINA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VINO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VITA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VITIATION",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "VITTA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VIVA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VIVID",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VOID",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VOODOO",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

@@ -1,0 +1,192 @@
+{
+    "letters": "UEINPTV",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 86,
+    "word_count": 34,
+    "pangram_count": 1,
+    "pangram_list": [
+        "PUNITIVE"
+    ],
+    "word_list": [
+        {
+            "word": "ENNUI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ETUI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "INPUT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "INTUIT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "INTUITIVE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PINUP",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PTUI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PUNITIVE",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "PUNNET",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PUNT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PUPPET",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PUPU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PUTT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PUTTEE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PUTTI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PUTTIE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TENUTI",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TITTUP",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TUNE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TUNEUP",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TUTEE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TUTTI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TUTU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "UNEVEN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "UNINVENTIVE",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "UNIT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "UNITE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UNITIVE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "UNPEN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UNPENT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "UNPIN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UNTIE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UNTUNE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VENUE",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

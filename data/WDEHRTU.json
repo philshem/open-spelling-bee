@@ -1,0 +1,242 @@
+{
+    "letters": "WDEHRTU",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 111,
+    "word_count": 44,
+    "pangram_count": 1,
+    "pangram_list": [
+        "WUTHERED"
+    ],
+    "word_list": [
+        {
+            "word": "DEERWEED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DEWED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DREW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ETWEE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EWER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HEWED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HEWER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "REDREW",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REWED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "REWEDDED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "REWET",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "REWETTED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TEWED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "THEW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "THREW",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TWEE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TWEED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TWEET",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TWEETED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TWEETER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WEDDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WEDDER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WEED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WEEDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WEEDER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WEER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WEET",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WEETED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WEEWEE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WEEWEED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WERE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WERT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WETHER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WETTED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WETTER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WHEE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WHERE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WHET",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WHETHER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WHETTED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WHETTER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WHEW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WUTHER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WUTHERED",
+            "score": 5,
+            "pangram": true
+        }
+    ]
+}

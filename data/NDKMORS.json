@@ -1,0 +1,272 @@
+{
+    "letters": "NDKMORS",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 117,
+    "word_count": 50,
+    "pangram_count": 1,
+    "pangram_list": [
+        "KOMONDORS"
+    ],
+    "word_list": [
+        {
+            "word": "DONOR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DONORS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DONS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DROMON",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DROMOND",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DROMONDS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DROMONS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "KOMONDOR",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "KOMONDOROK",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "KOMONDORS",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "KONK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KONKS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KRONOR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KROON",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KROONS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MONDO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MONDOS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MONK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MONKS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MONO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MONOS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MONS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MONSOON",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MONSOONS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOONS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MORN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MORNS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MORON",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MORONS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NODS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NOMOS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NOMS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NOOK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NOOKS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NOONS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NORM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NORMS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ONOS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RONDO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RONDOS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SNOOD",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SNOODS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SNOOK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SNOOKS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SONS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SORN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SORNS",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

@@ -1,0 +1,207 @@
+{
+    "letters": "IEGHTWY",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 80,
+    "word_count": 37,
+    "pangram_count": 1,
+    "pangram_list": [
+        "WEIGHTY"
+    ],
+    "word_list": [
+        {
+            "word": "EIGHT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EIGHTH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EIGHTIETH",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "EIGHTY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GIGHE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GITE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HEIGH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HEIGHT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HEIGHTH",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HIGH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HIGHT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HIGHTH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "THIGH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TIGHT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TITHE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TITI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TITTIE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TITTY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TWIG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TWIGGY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TWIT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WEIGH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WEIGHT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WEIGHTY",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "WHIG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WHIT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WHITE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WHITEY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WHITY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WIGGY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WIGHT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WITE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WITH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WITHE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WITHY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WITTY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "YETI",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

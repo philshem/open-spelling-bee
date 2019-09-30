@@ -1,0 +1,202 @@
+{
+    "letters": "CDEGIKM",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 87,
+    "word_count": 36,
+    "pangram_count": 1,
+    "pangram_list": [
+        "GIMMICKED"
+    ],
+    "word_list": [
+        {
+            "word": "CEDE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CEDED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CEDI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DECIDE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DECIDED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DECK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DECKED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEICE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DEICED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEICIDE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DEMIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DICE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DICED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DICK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DICKED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DICKIE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EMCEE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EMCEED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EMIC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GECK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GECKED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GIMMICK",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GIMMICKED",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "ICED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "IMIDIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KECK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KECKED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KICK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KICKED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MEDIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MEDICIDE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MEDICK",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MICE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MICK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MIMIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MIMICKED",
+            "score": 5,
+            "pangram": false
+        }
+    ]
+}

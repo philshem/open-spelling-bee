@@ -1,0 +1,232 @@
+{
+    "letters": "UACILMY",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 98,
+    "word_count": 42,
+    "pangram_count": 1,
+    "pangram_list": [
+        "IMMACULACY"
+    ],
+    "word_list": [
+        {
+            "word": "ACICULA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ACICULUM",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ALLIUM",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ALULA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ALUM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AMYLUM",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "AULIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CALCIUM",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CALCULI",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CALYCULI",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CAUL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CILIUM",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CULLAY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CULLY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CULM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CUMULI",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ILIUM",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "IMAUM",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "IMMACULACY",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "LIMULI",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LUAU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LULU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LUMA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MACULA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MAUL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MIAUL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MILIUM",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MUCLUC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MULLA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MUMM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MUMMY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MUMU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MUUMUU",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ULAMA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UMAMI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UMIAC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "YUCA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YUCCA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "YUMMY",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

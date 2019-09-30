@@ -1,0 +1,222 @@
+{
+    "letters": "WDEFNOU",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 116,
+    "word_count": 40,
+    "pangram_count": 1,
+    "pangram_list": [
+        "NEWFOUND"
+    ],
+    "word_list": [
+        {
+            "word": "DEWED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DOWED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DOWN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOWNED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ENDOW",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ENDOWED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ENOW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ENWOUND",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "NEWFOUND",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "OWED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OWNED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UNENDOWED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "UNOWNED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "UNWED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UNWEDDED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "UNWEEDED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "UNWON",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UNWOODED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "UNWOOED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "UNWOUND",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "UNWOUNDED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "WEDDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WEED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WEEDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WEEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WEENED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WEEWEE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WEEWEED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WEND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WENDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WONNED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WOOD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WOODED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WOODEN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WOOED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WOOF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WOOFED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WOUND",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WOUNDED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WOWED",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

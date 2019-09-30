@@ -1,0 +1,207 @@
+{
+    "letters": "VABILNO",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 90,
+    "word_count": 37,
+    "pangram_count": 1,
+    "pangram_list": [
+        "BOLIVIANO"
+    ],
+    "word_list": [
+        {
+            "word": "ANVIL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AVAIL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AVIAN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AVION",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BOLIVIA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BOLIVIANO",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "LAVA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LAVABO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LAVALAVA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "NAVAL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NIVAL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NONNAVAL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "NOVA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OBLIVION",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "OVAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OVOLI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OVOLO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VAIL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VAIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VALONIA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "VALVAL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VANILLA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "VANILLIN",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "VIAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VILLA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VILLAIN",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "VILLI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VINA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VINAL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VINO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VIOL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VIOLA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VIOLIN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VIVA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VOILA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VOLVA",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

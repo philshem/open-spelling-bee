@@ -1,0 +1,202 @@
+{
+    "letters": "FDEIKNZ",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 89,
+    "word_count": 36,
+    "pangram_count": 1,
+    "pangram_list": [
+        "ZINKIFIED"
+    ],
+    "word_list": [
+        {
+            "word": "DEFEND",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEFENDED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DEFI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DEFIED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEFINE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEFINED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DEIFIED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DIFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EDIFIED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "EFFENDI",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FEED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FEEZE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FEEZED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FEND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FENDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FEZZED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FIEF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FIEND",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FIFE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FIFED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FIND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FINE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FINED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FINIKIN",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FINK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FINKED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FINNED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FIZZ",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FIZZED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KEEF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KIEF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KNIFE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KNIFED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NEIF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NIDIFIED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ZINKIFIED",
+            "score": 6,
+            "pangram": true
+        }
+    ]
+}

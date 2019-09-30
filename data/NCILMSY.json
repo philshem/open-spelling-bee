@@ -1,0 +1,237 @@
+{
+    "letters": "NCILMSY",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 103,
+    "word_count": 43,
+    "pangram_count": 1,
+    "pangram_list": [
+        "CYMLINS"
+    ],
+    "word_list": [
+        {
+            "word": "CLINIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CLINICS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CYCLIN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CYCLINS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CYMLIN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CYMLINS",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "CYNIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CYNICISM",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CYNICISMS",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CYNICS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "INLY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "INNS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LIMN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LIMNIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LIMNS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LININ",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LININS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LINN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LINNS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LINS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LINY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LYSIN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LYSINS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MINCY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MINI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MINIM",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MINIMILL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MINIMILLS",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MINIMS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MINIS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MINNY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NILLS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NILS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NIMS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NINNY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NISI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SIMLIN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SIMLINS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "SINS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SYNC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SYNCS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "YINS",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

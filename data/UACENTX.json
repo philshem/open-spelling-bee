@@ -1,0 +1,182 @@
+{
+    "letters": "UACENTX",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 92,
+    "word_count": 32,
+    "pangram_count": 1,
+    "pangram_list": [
+        "EXECUTANT"
+    ],
+    "word_list": [
+        {
+            "word": "ACCENTUATE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "ACTUATE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ACUATE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ACUTANCE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ACUTE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ATTENUATE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ATTUNE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "AUNT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CENTU",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CUNEATE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CUNT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CUTE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EAUX",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EXECUTANT",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "EXECUTE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "EXEUNT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EXTENUATE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "NUANCE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NUTANT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NUTATE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TAUNT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TAUT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TAUTEN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TUNA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TUNE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TUTEE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TUTU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "UNAU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "UNCUT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UNCUTE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "UNEATEN",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "UNTUNE",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

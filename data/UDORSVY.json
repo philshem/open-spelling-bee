@@ -1,0 +1,237 @@
+{
+    "letters": "UDORSVY",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 85,
+    "word_count": 43,
+    "pangram_count": 1,
+    "pangram_list": [
+        "DYVOURS"
+    ],
+    "word_list": [
+        {
+            "word": "DOUR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUDDY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DUDS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUOS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DURO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUROS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DURR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DURRS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DYVOUR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DYVOURS",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "ODOROUS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ODOUR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ODOURS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ORDUROUS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "OUDS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OURS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RUDD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RUDDS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RUDDY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SORUS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SOUR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SOURS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SOUS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SUDD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SUDDS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SUDOR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SUDORS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SUDS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SUDSY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SURD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SURDS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SUSS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SUSURROUS",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "SUSURRUS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "UDOS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "URDS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "URUS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "USURY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VODOU",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VODOUS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "YOUR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YOURS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "YOUS",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

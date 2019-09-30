@@ -1,0 +1,202 @@
+{
+    "letters": "HFGINRT",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 110,
+    "word_count": 36,
+    "pangram_count": 1,
+    "pangram_list": [
+        "FRIGHTING"
+    ],
+    "word_list": [
+        {
+            "word": "FIFTH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FIGHT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FIGHTING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FIRTH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FRIGHT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FRIGHTING",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "FRITH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GIRTH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GIRTHING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GRITH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HIGH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HIGHT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HIGHTH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HIGHTING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "HINGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HINT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HINTING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HIRING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HITTING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "INFIGHT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "INFIGHTING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "NIGH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NIGHING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "NIGHT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NINTH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RIGHT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RIGHTING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "THIGH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "THIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "THING",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "THINNING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "THIR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "THRIFT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TIGHT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TITHING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TRITHING",
+            "score": 5,
+            "pangram": false
+        }
+    ]
+}

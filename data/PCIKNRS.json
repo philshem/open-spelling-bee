@@ -1,0 +1,272 @@
+{
+    "letters": "PCIKNRS",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 112,
+    "word_count": 50,
+    "pangram_count": 1,
+    "pangram_list": [
+        "PINPRICKS"
+    ],
+    "word_list": [
+        {
+            "word": "CRISP",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CRISPS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KIPS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KIPSKIN",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "KIPSKINS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "NIPS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PICK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PICKS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PICNIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PICNICS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PICRIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PICS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PIKI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PIKIS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PINK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PINKS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PINPRICK",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PINPRICKS",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "PINS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PIPKIN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PIPKINS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PIPPIN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PIPPINS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PIPS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PIRN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PIRNS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PISS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PRICK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PRICKS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PRINCIPI",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PRINK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PRINKS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PRISS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PSIS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RIPS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SCRIP",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SCRIPS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SIPS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SKIP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SKIPS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SNIP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SNIPS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SPIC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SPICK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SPICKS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SPICS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SPIK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SPIKS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SPIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SPINS",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

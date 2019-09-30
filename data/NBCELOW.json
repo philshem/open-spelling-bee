@@ -1,0 +1,272 @@
+{
+    "letters": "NBCELOW",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 100,
+    "word_count": 50,
+    "pangram_count": 1,
+    "pangram_list": [
+        "BECLOWN"
+    ],
+    "word_list": [
+        {
+            "word": "BECLOWN",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "BEEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BELON",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BENE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BENNE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BLOWN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BONBON",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BONE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BONNE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BONOBO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CLON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CLONE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CLOWN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COCOON",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COLLEEN",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "COLON",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COLONE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COLONEL",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CONE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CONN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EBON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ENNOBLE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ENOL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ENOW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EOCENE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LEBEN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LENO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LEONE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LONE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOWN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NENE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NEOCON",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NEON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NEWEL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NOBBLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NOBLE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NOEL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NOLO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NONCE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NONE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NONNOBLE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "NONWOOL",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "NOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ONCE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WEEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WOOLEN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WOOLLEN",
+            "score": 4,
+            "pangram": false
+        }
+    ]
+}

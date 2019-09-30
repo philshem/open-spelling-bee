@@ -1,0 +1,247 @@
+{
+    "letters": "HNOPRTU",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 100,
+    "word_count": 45,
+    "pangram_count": 1,
+    "pangram_list": [
+        "HORNPOUT"
+    ],
+    "word_list": [
+        {
+            "word": "HONOR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HONOUR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HOOP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HOOPOO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HOOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HORN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HORNPOUT",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "HORROR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HOUR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HUNH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HUNT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HURT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NONTRUTH",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "NORTH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ORTHO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OUPH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OUTHUNT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PHON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PHONO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PHONON",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PHOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PHOTO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PHOTON",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PHPHT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PHUT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POOH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PROTOTROPH",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "PRUTOTH",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ROUTH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RUTH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "THORN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "THORO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "THORON",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "THORP",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "THOU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "THRO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "THRU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "THRUPUT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TOOTH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TOPH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOROTH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TROTH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TRUTH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UNHURT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "UNTRUTH",
+            "score": 4,
+            "pangram": false
+        }
+    ]
+}

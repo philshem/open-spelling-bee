@@ -1,0 +1,257 @@
+{
+    "letters": "OBEGHTU",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 99,
+    "word_count": 47,
+    "pangram_count": 1,
+    "pangram_list": [
+        "BETHOUGHT"
+    ],
+    "word_list": [
+        {
+            "word": "BEGOT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BETHOUGHT",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "BHOOT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BOHO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BOOB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BOOBOO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BOOHOO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BOOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BOOTEE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BOOTH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BOTH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BOTT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BOUBOU",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BOUGH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BOUGHT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BOUT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BUBO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BUGOUT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BUTEO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GHETTO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GOBBET",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GOBO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOGO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOTH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOUGE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GOUT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HOBO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HOGG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HOGGET",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HOOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OBOE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OGEE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OTTO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OUGHT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OUTBEG",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "OUTBOUGHT",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "OUTGO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OUTTHOUGHT",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "THOU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "THOUGH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "THOUGHT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TOGUE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TOOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOOTH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TOTE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOUGH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TOUT",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

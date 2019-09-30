@@ -1,0 +1,247 @@
+{
+    "letters": "MBDEHRY",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 120,
+    "word_count": 45,
+    "pangram_count": 1,
+    "pangram_list": [
+        "BERHYMED"
+    ],
+    "word_list": [
+        {
+            "word": "BERHYME",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BERHYMED",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "BERM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BERME",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BERMED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEEM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DEEMED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DEMY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DERM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EMBED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EMBEDDED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "EMBER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EMEER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EMERY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EMMER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EMMY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EMYD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EMYDE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HEME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HEMMED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HEMMER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HERM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MEED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MEMBER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MEMBERED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MEME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MERDE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MERE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MERER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MERRY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MYRRH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "REDEEM",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REDEEMED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "REDEEMER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "REHEM",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "REHEMMED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "REMEDY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REMEMBER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "REMEMBERED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "REMEMBERER",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "RHEME",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RHYME",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RHYMED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RHYMER",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

@@ -1,0 +1,212 @@
+{
+    "letters": "VABLOST",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 93,
+    "word_count": 38,
+    "pangram_count": 1,
+    "pangram_list": [
+        "ABVOLTS"
+    ],
+    "word_list": [
+        {
+            "word": "ABVOLT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ABVOLTS",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "AVAST",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AVOS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LAVA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LAVABO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LAVABOS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "LAVALAVA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LAVALAVAS",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "LAVAS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LAVS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOVAT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LOVATS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "OTTAVA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "OTTAVAS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "OVAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OVALS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OVOLO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OVOLOS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SALVO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SALVOS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TAVS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VALVAL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VASA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VASAL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VASSAL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VASSALS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "VAST",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VASTS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VATS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VAVS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VOLOST",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VOLOSTS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "VOLT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VOLTA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VOLTS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VOLVA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VOLVAS",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

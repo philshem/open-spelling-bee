@@ -1,0 +1,257 @@
+{
+    "letters": "BACHKSW",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 111,
+    "word_count": 47,
+    "pangram_count": 1,
+    "pangram_list": [
+        "BACKWASH"
+    ],
+    "word_list": [
+        {
+            "word": "ABACA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ABACAS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ABACK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ABAKA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ABAKAS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ABAS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ABASH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ABBA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ABBAS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BAAS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BABA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BABAS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BABKA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BABKAS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BACCA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BACH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BACK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BACKS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BACKSAW",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BACKSAWS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BACKWASH",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "BASH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BASHAW",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BASHAWS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BASK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BASKS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BASS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CABS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CASABA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CASABAS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CASBAH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CASBAHS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CASSABA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CASSABAS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "KABAB",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KABABS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KABAKA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KABAKAS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "KABS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KASBAH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KASBAHS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "SABS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SCAB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SCABS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SWAB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SWABS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WABS",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

@@ -1,0 +1,272 @@
+{
+    "letters": "UABCDIL",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 107,
+    "word_count": 50,
+    "pangram_count": 1,
+    "pangram_list": [
+        "BICAUDAL"
+    ],
+    "word_list": [
+        {
+            "word": "ABULIA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ABULIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ACAUDAL",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ACICULA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ALULA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AUCUBA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "AUDAD",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AUDIAL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "AULD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AULIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BABU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BABUL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BACULA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BAUD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BICAUDAL",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "BLUB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BUBAL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BUBBA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BUBU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BUCCAL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BUILD",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BULB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BULBIL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BULBUL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BULLA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CALCULI",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CAUDAD",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CAUDAL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CAUL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CAULD",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CLUB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CUBIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CUBICAL",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CUBICULA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CULICID",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DAUB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUAD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUCAL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DUCI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DULIA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LAUD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LUAU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LUCID",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LUDIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LULU",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

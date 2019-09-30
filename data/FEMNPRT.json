@@ -1,0 +1,192 @@
+{
+    "letters": "FEMNPRT",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 100,
+    "word_count": 34,
+    "pangram_count": 1,
+    "pangram_list": [
+        "PREFERMENT"
+    ],
+    "word_list": [
+        {
+            "word": "EFFERENT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "EFFETE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ENFETTER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FEET",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FEME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FEMME",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FERE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FERMENT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FERMENTER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "FERN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FERRET",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FERRETER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FETE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FETTER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FETTERER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FREE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FREEMEN",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FREER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FRERE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FRET",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FRETTER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PFFT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PREFER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PREFERMENT",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "PREFERRER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "REEF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "REEFER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REFER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "REFEREE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "REFERENT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "REFERRER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "REFT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TEFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TREF",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

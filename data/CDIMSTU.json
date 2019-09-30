@@ -1,0 +1,237 @@
+{
+    "letters": "CDIMSTU",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 93,
+    "word_count": 43,
+    "pangram_count": 1,
+    "pangram_list": [
+        "DICTUMS"
+    ],
+    "word_list": [
+        {
+            "word": "CIST",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CISTS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CISTUS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CUDS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CUSCUS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CUSS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CUTIS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CUTS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DICTUM",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DICTUMS",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "DISC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DISCI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DISCS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DISCUS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DISCUSS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DUCI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUCT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUCTS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ICTIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ICTUS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "IMIDIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MICS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MIMIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MIMICS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MISCUT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MISCUTS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MUCID",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MUCUS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MUSCID",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MUSCIDS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MUSIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MUSICS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SCUD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SCUDI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SCUDS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SCUM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SCUMS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SCUT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SCUTS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SCUTUM",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SICS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SUCCUSS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TICS",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

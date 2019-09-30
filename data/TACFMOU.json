@@ -1,0 +1,262 @@
+{
+    "letters": "TACFMOU",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 91,
+    "word_count": 48,
+    "pangram_count": 1,
+    "pangram_list": [
+        "FACTOTUM"
+    ],
+    "word_list": [
+        {
+            "word": "ACTA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AFOOT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ATMA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ATOM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AUTO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AUTOMAT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "AUTOMATA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "COACT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COCOMAT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "COFT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COMMATA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "COOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COTTA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CUTOFF",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CUTOUT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FACT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FACTOTUM",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "FOOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MATT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MAUT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOTMOT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MOTT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOTTO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MUTT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OFFCUT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "OTTO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OUTACT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "OUTFOOT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TACO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TACT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TATTOO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TAUT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOCCATA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TOFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOFT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOFU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOMATO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TOMCAT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TOOM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOUT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TUFA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TUFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TUFT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TUTU",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}
