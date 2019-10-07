@@ -1,0 +1,242 @@
+{
+    "letters": "MACDEUV",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 100,
+    "word_count": 44,
+    "pangram_count": 1,
+    "pangram_list": [
+        "VACUUMED"
+    ],
+    "word_list": [
+        {
+            "word": "ACADEME",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ACME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ADEEM",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ADEEMED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CAECUM",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CAME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CECUM",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DAME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DAMMED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEEM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DEEMED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUMA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUMDUM",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EDEMA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EMCEE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EMCEED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EMEU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MACADAM",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MACE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MACED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MADAM",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MADAME",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MADDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MADE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MAMA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MAMMA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MAMMAE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MAMMEE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MAUD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MAUVE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MEAD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MECCA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MEDEVAC",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MEDEVACED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MEED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MEME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MUDDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MUMM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MUMMED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MUMU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MUUMUU",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VACUUM",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VACUUMED",
+            "score": 5,
+            "pangram": true
+        }
+    ]
+}

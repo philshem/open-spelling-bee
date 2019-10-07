@@ -1,0 +1,202 @@
+{
+    "letters": "FDGINRT",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 113,
+    "word_count": 36,
+    "pangram_count": 1,
+    "pangram_list": [
+        "DRIFTING"
+    ],
+    "word_list": [
+        {
+            "word": "DIFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DRIFT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DRIFTING",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "FIDGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FIFING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FIGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FIND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FINDING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FINING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FINNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FIRING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FIRN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FITTING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FRIG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FRIGGING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FRIGID",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FRINGING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FRIT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FRITT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FRITTING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GIFT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GIFTING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GRIFF",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GRIFFIN",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GRIFT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GRIFTING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "INFRINGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "RIFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RIFFING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RIFT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RIFTING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TIFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TIFFIN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TIFFING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TIFFINING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TRIFID",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

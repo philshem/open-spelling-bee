@@ -1,0 +1,197 @@
+{
+    "letters": "ICJOSTY",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 88,
+    "word_count": 35,
+    "pangram_count": 1,
+    "pangram_list": [
+        "JOCOSITY"
+    ],
+    "word_list": [
+        {
+            "word": "CISCO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CISCOS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CISSY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CIST",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CISTS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CITY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COCCI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COCCIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CYSTIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CYSTITIS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ICTIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "JOCOSITY",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "JOIST",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "JOISTS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "OSTOSIS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "OTIC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OTIOSITY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "OTITIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "OTITIS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "OTOCYSTIC",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "SICS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SISSY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SITS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "STOIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "STOICS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SYCOSIS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TICS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TICTOC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TICTOCS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TITI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TITIS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TITS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TITTY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TOIT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOITS",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

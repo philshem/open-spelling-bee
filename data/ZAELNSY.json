@@ -1,0 +1,172 @@
+{
+    "letters": "ZAELNSY",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 80,
+    "word_count": 30,
+    "pangram_count": 1,
+    "pangram_list": [
+        "ANALYZES"
+    ],
+    "word_list": [
+        {
+            "word": "ANALYZE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ANALYZES",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "AZALEA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "AZALEAS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "AZAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AZANS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LAZE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LAZES",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LAZY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LEZZES",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LEZZY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SLEAZE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SLEAZES",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "SLEAZY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SNAZZY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SNEEZE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SNEEZES",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "SNEEZY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ZANANA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ZANANAS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ZANY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ZANZA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ZANZAS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ZAZEN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ZAZENS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ZEAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ZEALS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ZEES",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ZENANA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ZENANAS",
+            "score": 4,
+            "pangram": false
+        }
+    ]
+}

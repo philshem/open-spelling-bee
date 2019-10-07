@@ -1,0 +1,267 @@
+{
+    "letters": "ICHMNOY",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 113,
+    "word_count": 49,
+    "pangram_count": 1,
+    "pangram_list": [
+        "HOMONYMIC"
+    ],
+    "word_list": [
+        {
+            "word": "CHIC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHICHI",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CHICO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHINCH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CHINCHY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CHINO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHYMIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CINCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CINCHONIC",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CION",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COCCI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COCCIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COCHIN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COMIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CONI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CONIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CONIN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CYNIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HINNY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HOMINY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HOMONYMIC",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "ICON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ICONIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "IMINO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "IMMY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "INCH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "INCONY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "INION",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "IONIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MIMIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MINCY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MINI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MINIM",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MINION",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MINNY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MOMI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NINNY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NINON",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NOMOI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NONIONIC",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "NONOHMIC",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "OHMIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ONION",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ONIONY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "YOMIM",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "YONI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YONIC",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

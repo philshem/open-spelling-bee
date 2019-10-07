@@ -1,0 +1,252 @@
+{
+    "letters": "YACDINR",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 95,
+    "word_count": 46,
+    "pangram_count": 1,
+    "pangram_list": [
+        "RADIANCY"
+    ],
+    "word_list": [
+        {
+            "word": "ACIDY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AIRY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ARIARY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ARRAY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AYIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CADDY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CAIRNY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CANARY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CANDIDACY",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CANDY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CANNY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CARNY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CARRY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CRANNY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CYAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CYANIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CYANID",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CYANIN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CYCAD",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CYNIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DADDY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DAIRY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DANDY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DIARY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DIDY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DRAY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DRYAD",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DRYADIC",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DYAD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DYADIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NANCY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NANNY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NARY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NINNY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RACY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RADIANCY",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "RAINY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RANDY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RAYA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RINDY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RYND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YAIRD",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "YARD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YARN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YIRD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YIRR",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

@@ -1,0 +1,227 @@
+{
+    "letters": "YAFIMNR",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 83,
+    "word_count": 41,
+    "pangram_count": 1,
+    "pangram_list": [
+        "INFIRMARY"
+    ],
+    "word_list": [
+        {
+            "word": "AFFRAY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "AIRY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ARIARY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ARMY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ARRAY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AYIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FAIRY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FANNY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FINNY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FIRRY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FRAY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FRIARY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "IFFY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "IMMY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "INFAMY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "INFIRMARY",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "MAMMARY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MAMMY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MANY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MARRY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MAYA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MAYAN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MIFFY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MINIFY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MINNY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MINYAN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MINYANIM",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MIRY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MYNA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NANNY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NARY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NINNY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RAINY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RAMIFY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RAMMY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RARIFY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RAYA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RIMY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YAFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YARN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YIRR",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

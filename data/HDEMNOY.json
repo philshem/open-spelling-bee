@@ -1,0 +1,207 @@
+{
+    "letters": "HDEMNOY",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 100,
+    "word_count": 37,
+    "pangram_count": 1,
+    "pangram_list": [
+        "HONEYMOONED"
+    ],
+    "word_list": [
+        {
+            "word": "HEED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HEEDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HEME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HEMMED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HEYDEY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HODDEN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HOED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HOME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HOMED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HOMEY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HOMO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HOMONYM",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HOMONYMY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "HOMY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HONE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HONED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HONEY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HONEYED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HONEYMOON",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "HONEYMOONED",
+            "score": 8,
+            "pangram": true
+        },
+        {
+            "word": "HOOD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HOODED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HOODOO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HOODOOED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "HOODY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HOOEY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HOYDEN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HOYDENED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "HYMEN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HYMN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HYMNED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HYMNODY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "NONHEME",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "NONHOME",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "OHED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OOHED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "YODH",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

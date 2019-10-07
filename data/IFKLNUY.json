@@ -1,0 +1,212 @@
+{
+    "letters": "IFKLNUY",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 81,
+    "word_count": 38,
+    "pangram_count": 1,
+    "pangram_list": [
+        "FUNKILY"
+    ],
+    "word_list": [
+        {
+            "word": "FILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FILLY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FINIKIN",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FINK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FINNY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FLUFFILY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FLUKILY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FULFIL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FULFILL",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FUNKILY",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "FUNNILY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "IFFY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ILLY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "INFILL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "INKY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "INLY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "INULIN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KILN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KININ",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KINK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KINKILY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "KINKY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KLIK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KUFI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LILY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LININ",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LINK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LINKY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LINN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LINY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NINNY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NULLIFY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "UNIFY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UNKINK",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "UNLINK",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "YILL",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

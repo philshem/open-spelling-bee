@@ -1,0 +1,192 @@
+{
+    "letters": "BCDEHNU",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 83,
+    "word_count": 34,
+    "pangram_count": 1,
+    "pangram_list": [
+        "BUNCHED"
+    ],
+    "word_list": [
+        {
+            "word": "BEDDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BEDU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BEDUNCE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BEDUNCED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BEEBEE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BEECH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BEECHEN",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BEEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BENCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BENCHED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BEND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BENDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BENDEE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BENE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BENNE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BUBU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BUDDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BUNCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BUNCHED",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "BUND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BUNN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHEBEC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CHUB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CUBE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CUBEB",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CUBED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DUBBED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EBBED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HEBE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HUBBUB",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "UNBE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "UNBEND",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "UNBENDED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "UNDUBBED",
+            "score": 5,
+            "pangram": false
+        }
+    ]
+}

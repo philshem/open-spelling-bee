@@ -1,0 +1,212 @@
+{
+    "letters": "EAIQRUZ",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 94,
+    "word_count": 38,
+    "pangram_count": 1,
+    "pangram_list": [
+        "QUEAZIER"
+    ],
+    "word_list": [
+        {
+            "word": "AERIE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AERIER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "AIRER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AIRIER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "AQUAE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AREA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AREAE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ARREAR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "AURAE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AUREI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AZURE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EERIE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EERIER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "QUAERE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "QUARE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "QUARRIER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "QUEAZIER",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "QUEER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "QUEERER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "QUERIER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "QUEUE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "QUEUER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "QUIRE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "QUIZZER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RARE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RARER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RAZE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RAZEE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RAZER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "REAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "REARER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REQUIRE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "REQUIRER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RUER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "URAEI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "URARE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UREA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ZAIRE",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

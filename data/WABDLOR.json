@@ -1,0 +1,222 @@
+{
+    "letters": "WABDLOR",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 91,
+    "word_count": 40,
+    "pangram_count": 1,
+    "pangram_list": [
+        "WALLBOARD"
+    ],
+    "word_list": [
+        {
+            "word": "ALLOW",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ALOW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ARROW",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ARROWWOOD",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "AWARD",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AWOL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BARLOW",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BARROW",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BAWD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BAWL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BLAW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BLOW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BLOWBALL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BORROW",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BOWL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BOWWOW",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BRADAWL",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BRAW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BRAWL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BROW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DRAW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DRAWBAR",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DRAWL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LOWBALL",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "LOWBROW",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WALL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WALLA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WALLAROO",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "WALLBOARD",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "WALLOW",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WARD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WARLORD",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WAWL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WOAD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WOALD",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WOLD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WOOD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WOOL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WORD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WORLD",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

@@ -1,0 +1,267 @@
+{
+    "letters": "KAEFORW",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 103,
+    "word_count": 49,
+    "pangram_count": 1,
+    "pangram_list": [
+        "WORKFARE"
+    ],
+    "word_list": [
+        {
+            "word": "AKEE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ARAK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AWAKE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AWOKE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FAKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FAKEER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FAKER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FORK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FORKER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FREAK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KAKA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KARAOKE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "KAROO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KARROO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KEEF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KEEK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KERF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KOOK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KORA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KORE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KREWE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OKRA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RAKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RAKEE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RAKEOFF",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RAKER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "REAWAKE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "REAWOKE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "REEK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "REEKER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REWAKE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REWOKE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REWORK",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ROOK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WAKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WAKER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WARK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WARWORK",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WEAK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WEAKER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WEEK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WEKA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WOKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WORK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WORKER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WORKFARE",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "WORKWEEK",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "WREAK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WREAKER",
+            "score": 4,
+            "pangram": false
+        }
+    ]
+}

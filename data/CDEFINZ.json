@@ -1,0 +1,182 @@
+{
+    "letters": "CDEFINZ",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 92,
+    "word_count": 32,
+    "pangram_count": 1,
+    "pangram_list": [
+        "ZINCIFIED"
+    ],
+    "word_list": [
+        {
+            "word": "CEDE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CEDED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CEDI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CINE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DECIDE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DECIDED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DEFENCE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DEFENCED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DEICE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DEICED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEICIDE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DEIFIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEZINC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEZINCED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DICE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DICED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DIFFIDENCE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "EDENIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EDIFICE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FENCE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FENCED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FENNEC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FICE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FICIN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ICED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "INCIDENCE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "NICE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NIECE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ZINC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ZINCED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ZINCIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ZINCIFIED",
+            "score": 6,
+            "pangram": true
+        }
+    ]
+}

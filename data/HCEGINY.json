@@ -1,0 +1,227 @@
+{
+    "letters": "HCEGINY",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 112,
+    "word_count": 41,
+    "pangram_count": 1,
+    "pangram_list": [
+        "HYGIENIC"
+    ],
+    "word_list": [
+        {
+            "word": "CHIC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHICHI",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CHIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHINCH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CHINCHY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CHINE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHINING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CHINNING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CINCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CINCHING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ECHE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ECHING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ECHINI",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GHEE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GIGHE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HEIGH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HEINIE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HENCE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HENGE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HIEING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HIGH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HINGE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HINGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HINNY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HINNYING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "HYENIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HYENINE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HYGIENE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HYGIENIC",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "HYING",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "INCH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "INCHING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "NEIGH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NEIGHING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "NICHE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NICHING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "NIGH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NIGHING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "YECCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "YECH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YECHY",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

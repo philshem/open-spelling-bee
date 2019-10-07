@@ -1,0 +1,217 @@
+{
+    "letters": "DACIOXY",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 90,
+    "word_count": 39,
+    "pangram_count": 1,
+    "pangram_list": [
+        "OXYACID"
+    ],
+    "word_list": [
+        {
+            "word": "ACCIDIA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ACID",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ACIDIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ACIDY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ADDAX",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CADDY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CADI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CAID",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CICADA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COCCID",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COCCIDIA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "COCCOID",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CODA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CYCAD",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DADA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DADDY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DADO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DIACID",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DIACIDIC",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DIDO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DIDY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DIOXID",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DODO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOODAD",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DOODOO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DOODY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DOXY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DYAD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DYADIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "IDIOCY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "IODIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "IODID",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "IXODID",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ODIC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OIDIA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OIDIOID",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "OXID",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OXIDIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "OXYACID",
+            "score": 4,
+            "pangram": true
+        }
+    ]
+}

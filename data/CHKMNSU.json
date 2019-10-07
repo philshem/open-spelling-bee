@@ -1,0 +1,197 @@
+{
+    "letters": "CHKMNSU",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 83,
+    "word_count": 35,
+    "pangram_count": 1,
+    "pangram_list": [
+        "NUMCHUCKS"
+    ],
+    "word_list": [
+        {
+            "word": "CHUCK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHUCKS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CHUM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHUMS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHUNK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHUNKS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CUSCUS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CUSK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CUSKS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CUSS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HUCK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HUCKS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HUNCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MUCH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MUCK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MUCKS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MUCUS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MUNCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NUMCHUCK",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "NUMCHUCKS",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "SCHMUCK",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "SCHMUCKS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "SCHUSS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SCUM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SCUMS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SHMUCK",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SHMUCKS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "SHUCK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SHUCKS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SNUCK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SUCCUSS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "SUCH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SUCK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SUCKS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UNCUS",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

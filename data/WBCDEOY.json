@@ -1,0 +1,202 @@
+{
+    "letters": "WBCDEOY",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 96,
+    "word_count": 36,
+    "pangram_count": 1,
+    "pangram_list": [
+        "COWBOYED"
+    ],
+    "word_list": [
+        {
+            "word": "BEDEW",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BEDEWED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BOWED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BOWWOW",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BOWWOWED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "COBWEB",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COBWEBBED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "COBWEBBY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "COWBOY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COWBOYED",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "COWED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COWY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DEWED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DEWY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOWDY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DOWED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DWEEB",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DWEEBY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DYEWEED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DYEWOOD",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "OWED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WEBBED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WEBBY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WEDDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WEED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WEEDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WEEDY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WEEWEE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WEEWEED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WOOD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WOODED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WOODY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WOOED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WOWED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "YOWE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YOWED",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

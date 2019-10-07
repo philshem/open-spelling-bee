@@ -1,0 +1,252 @@
+{
+    "letters": "DCIMSTU",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 91,
+    "word_count": 46,
+    "pangram_count": 1,
+    "pangram_list": [
+        "DICTUMS"
+    ],
+    "word_list": [
+        {
+            "word": "CUDS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DICTUM",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DICTUMS",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "DIDST",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DIMS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DISC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DISCI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DISCS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DISCUS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DISCUSS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DISMISS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DISS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DITS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUCI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUCT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUCTS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DUDS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUIT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUITS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DUMDUM",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DUMDUMS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DUST",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUSTS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "IMID",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "IMIDIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "IMIDS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MIDI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MIDIS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MIDS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MIDST",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MIDSTS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MISDID",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MUCID",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MUDS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MUSCID",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MUSCIDS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "SCUD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SCUDI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SCUDS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "STUD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "STUDS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SUDD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SUDDS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SUDS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TIMID",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TUMID",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

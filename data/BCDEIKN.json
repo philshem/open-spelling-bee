@@ -1,0 +1,222 @@
+{
+    "letters": "BCDEIKN",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 90,
+    "word_count": 40,
+    "pangram_count": 1,
+    "pangram_list": [
+        "BENEDICK"
+    ],
+    "word_list": [
+        {
+            "word": "BECK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BECKED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BEDDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BEDECK",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BEDECKED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BEEBEE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BEEDI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BEEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BEND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BENDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BENDEE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BENE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BENEDICK",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "BENNE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BENNI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BIBB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BIBBED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BICE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BIDDEN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BIDE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BIDED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BIDI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BIKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BIKED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BIKIE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BIKINI",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BIKINIED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BIND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BINDI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BINE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BINNED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CEBID",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DIBBED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EBBED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KEBBIE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KIBBE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KIBBI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KIBE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KIBEI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NIBBED",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

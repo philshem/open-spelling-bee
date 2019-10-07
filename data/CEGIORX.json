@@ -1,0 +1,207 @@
+{
+    "letters": "CEGIORX",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 82,
+    "word_count": 37,
+    "pangram_count": 1,
+    "pangram_list": [
+        "EXOERGIC"
+    ],
+    "word_list": [
+        {
+            "word": "CERCI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CERE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CERIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CERO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CICERO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CICOREE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CIRE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CIRRI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COCCI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COCCIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COCO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COERCE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COERCER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "COIR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COOCOO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COOEE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COOER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CORE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CORER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CORGI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CORRIE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CRIER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CROC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CROCI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CRORE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EXEC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EXOERGIC",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "GEORGIC",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GROCER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ICIER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ORGIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ORRICE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RECCE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RICE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RICER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ROCOCO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "XERIC",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

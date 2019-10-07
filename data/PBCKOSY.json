@@ -1,0 +1,217 @@
+{
+    "letters": "PBCKOSY",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 90,
+    "word_count": 39,
+    "pangram_count": 1,
+    "pangram_list": [
+        "COPYBOOKS"
+    ],
+    "word_list": [
+        {
+            "word": "BOPS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COOP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COOPS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COPS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COPY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COPYBOOK",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "COPYBOOKS",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "COPYBOY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "COPYBOYS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "KOPS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OOPS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POBOY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "POBOYS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "POCK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POCKS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "POCKY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "POCO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POKY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POOP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POOPS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "POOS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POPPY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "POPPYCOCK",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "POPPYCOCKS",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "POPS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POPSY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "POSY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PSYOPS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SCOOP",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SCOOPS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SCOP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SCOPS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SOPPY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SOPS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SPOOK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SPOOKS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SPOOKY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SYSOP",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SYSOPS",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

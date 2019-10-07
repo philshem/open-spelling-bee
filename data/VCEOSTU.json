@@ -1,0 +1,172 @@
+{
+    "letters": "VCEOSTU",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 80,
+    "word_count": 30,
+    "pangram_count": 1,
+    "pangram_list": [
+        "COVETOUS"
+    ],
+    "word_list": [
+        {
+            "word": "COVE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COVES",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COVET",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COVETOUS",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "COVETS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CUVEE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CUVEES",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CUVETTE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CUVETTES",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "EVES",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OUTVOTE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "OUTVOTES",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "OVOTESTES",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "STEEVE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "STEEVES",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "STOVE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "STOVES",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "UVEOUS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VEES",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VEST",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VESTEE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VESTEES",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "VESTS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VETO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VETOES",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VETS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VOCES",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VOES",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VOTE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VOTES",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

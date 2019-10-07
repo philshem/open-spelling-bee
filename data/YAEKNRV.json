@@ -1,0 +1,247 @@
+{
+    "letters": "YAEKNRV",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 80,
+    "word_count": 45,
+    "pangram_count": 1,
+    "pangram_list": [
+        "KNAVERY"
+    ],
+    "word_list": [
+        {
+            "word": "AERY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ARRAY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ARRAYER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "EERY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ENVY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EVERY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EYEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EYER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EYNE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EYRA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EYRE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EYRY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KAYAK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KAYAKER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "KERRY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KNARRY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KNAVERY",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "KYAK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KYAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NANNY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NARKY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NARY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NAVVY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NAVY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NERVY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RAYA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "REEKY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "REKEY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "REVERY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RYKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VARY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VEERY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VENERY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VERY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YAKKER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "YANK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YARE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YARER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "YARN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YARNER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "YEAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YEAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YEARN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "YEARNER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "YERK",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

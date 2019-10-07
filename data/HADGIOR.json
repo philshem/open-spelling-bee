@@ -1,0 +1,187 @@
+{
+    "letters": "HADGIOR",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 84,
+    "word_count": 33,
+    "pangram_count": 1,
+    "pangram_list": [
+        "HIGHROAD"
+    ],
+    "word_list": [
+        {
+            "word": "AARGH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AARRGH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "AARRGHH",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "AGGADAH",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "AGHA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DHOORA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GHARRI",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GODHOOD",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HAAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HAGGADA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HAGGADAH",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "HAGGARD",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HAHA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HAIR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HAIRDO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HARD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HARDIHOOD",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "HIGH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HIGHROAD",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "HOAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HOARD",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HODAD",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HOGG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HOOD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HOODOO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HOORAH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HORA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HORAH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HORRID",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HORROR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ODAH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OHIA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RHODORA",
+            "score": 4,
+            "pangram": false
+        }
+    ]
+}

@@ -1,0 +1,267 @@
+{
+    "letters": "ACDITUV",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 111,
+    "word_count": 49,
+    "pangram_count": 1,
+    "pangram_list": [
+        "VIADUCT"
+    ],
+    "word_list": [
+        {
+            "word": "ACACIA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ACCIDIA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ACID",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ACIDIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ACTA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ADDICT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ADDUCT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ADIT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ATACTIC",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ATAVIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ATTIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AUDAD",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AUDIT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AVADAVAT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "AVIATIC",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "AVID",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CACA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CACTI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CADI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CAID",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CAUDAD",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CICADA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DADA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DATA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DAUT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DAVIT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DIACID",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DIACIDIC",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DICTA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DIDACT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DIDACTIC",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DITA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DIVA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUAD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUCAT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TACIT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TACT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TACTIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TAUT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TICTAC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VACUA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VATIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VATU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VIADUCT",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "VIATIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VIATICA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "VITA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VITTA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VIVA",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

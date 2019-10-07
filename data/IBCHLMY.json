@@ -1,0 +1,217 @@
+{
+    "letters": "IBCHLMY",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 87,
+    "word_count": 39,
+    "pangram_count": 1,
+    "pangram_list": [
+        "CHIMBLY"
+    ],
+    "word_list": [
+        {
+            "word": "BIBB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BICYCLIC",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BILBY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BILLY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BLIMY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHIC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHICHI",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CHICLY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CHILI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHILL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHILLI",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CHILLILY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CHILLY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CHIMB",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHIMBLY",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "CHYMIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CLIMB",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CYCLIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CYCLICLY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "HILI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HILLBILLY",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "HILLY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ICILY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ILLY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "IMMY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LICH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LICHI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LILY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LIMB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LIMBI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LIMBIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LIMBY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LIMY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MILCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MIMIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "YILL",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

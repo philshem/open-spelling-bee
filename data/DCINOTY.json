@@ -1,0 +1,252 @@
+{
+    "letters": "DCINOTY",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 112,
+    "word_count": 46,
+    "pangram_count": 1,
+    "pangram_list": [
+        "DICYNODONT"
+    ],
+    "word_list": [
+        {
+            "word": "COCCID",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COCCOID",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CODON",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CONDITION",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CONDO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CONODONT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CONOID",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DICOT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DICTION",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DICTY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DICYNODONT",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "DIDO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DIDY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DINO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DINT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DITTO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DITTY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DODO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOIT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOODOO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DOODY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DOTTY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DOTY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "IDIOCY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "IDIOT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "IDIOTIC",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "INDICT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "INDICTION",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "IODIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "IODID",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "IODIN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NIDI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NITID",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NODDY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NODI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ODDITY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ODIC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ODONTOID",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "OIDIOID",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "OOTID",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TIDY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TODDY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TODY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TONDI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TONDO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "YOND",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

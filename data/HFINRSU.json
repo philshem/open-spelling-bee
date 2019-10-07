@@ -1,0 +1,202 @@
+{
+    "letters": "HFINRSU",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 81,
+    "word_count": 36,
+    "pangram_count": 1,
+    "pangram_list": [
+        "FURNISH"
+    ],
+    "word_list": [
+        {
+            "word": "FINFISH",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FINISH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FISH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FURNISH",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "HINS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HISN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HISS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HUFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HUFFISH",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HUFFS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HUNH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HUNNISH",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HUNS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HUSH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "INRUSH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NUNNISH",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RHUS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RISHI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RISHIS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RUSH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SHIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SHINS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SHIRR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SHIRRS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SHRI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SHRIS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SHUN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SHUNS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SHUSH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SINH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SINHS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SNIFFISH",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "SUNFISH",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "SURFFISH",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "SUSHI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SUSHIS",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

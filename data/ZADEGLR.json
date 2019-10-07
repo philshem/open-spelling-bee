@@ -1,0 +1,212 @@
+{
+    "letters": "ZADEGLR",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 94,
+    "word_count": 38,
+    "pangram_count": 1,
+    "pangram_list": [
+        "REGLAZED"
+    ],
+    "word_list": [
+        {
+            "word": "ADZE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ADZED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AGAZE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AZALEA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DAZE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DAZED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DAZZLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DAZZLED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DAZZLER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DEGLAZE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DEGLAZED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GAZAR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GAZE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GAZED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GAZELLE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GAZER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GEEZ",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GEEZER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GLAZE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GLAZED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GLAZER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GRAZE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GRAZED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GRAZER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LAZAR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LAZE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LAZED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RAZE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RAZED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RAZEE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RAZEED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RAZER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RAZZ",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RAZZED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REGLAZE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "REGLAZED",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "ZAGGED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ZEAL",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

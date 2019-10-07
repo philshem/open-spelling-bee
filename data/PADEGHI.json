@@ -1,0 +1,257 @@
+{
+    "letters": "PADEGHI",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 109,
+    "word_count": 47,
+    "pangram_count": 1,
+    "pangram_list": [
+        "PIGHEADED"
+    ],
+    "word_list": [
+        {
+            "word": "AGAPAE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "AGAPAI",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "AGAPE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "APED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "APHAGIA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "APHID",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DAPPED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEEP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DIPPED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EPEE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EPHA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EPHAH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GAPE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GAPED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GAPPED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GIDDAP",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GIPPED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HAPPED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HEAP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HEAPED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HEDGEPIG",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "HIPPED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HIPPIE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PADDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PADI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PAGE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PAGED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PAID",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PAPA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PAPPI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PEAG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PEAGE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PEED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PEEP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PEEPED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PEGGED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PEPPED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PHAGE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PIED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PIGGED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PIGGIE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PIGHEADED",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "PIPAGE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PIPE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PIPEAGE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PIPED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PIPPED",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

@@ -1,0 +1,177 @@
+{
+    "letters": "WAMORTY",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 91,
+    "word_count": 31,
+    "pangram_count": 1,
+    "pangram_list": [
+        "MOTORWAY"
+    ],
+    "word_list": [
+        {
+            "word": "ARMYWORM",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ARROW",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ARROWROOT",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ARROWWORM",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ARROWY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "AWAY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AWRY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MARROW",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MARROWY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MOORWORT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MORROW",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MOTORWAY",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "ROOTWORM",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TOMORROW",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TOWAWAY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TOWY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TRAMWAY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TROW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TWAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WARM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WART",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WARTY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WARY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WATT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WORM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WORMROOT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "WORMY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WORRY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WORRYWART",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "WORT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YARROW",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

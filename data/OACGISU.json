@@ -1,0 +1,237 @@
+{
+    "letters": "OACGISU",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 94,
+    "word_count": 43,
+    "pangram_count": 1,
+    "pangram_list": [
+        "SAGACIOUS"
+    ],
+    "word_list": [
+        {
+            "word": "AGIO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AGIOS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AGOG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CACAO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CACAOS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CIAO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CISCO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CISCOS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COCA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COCAS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COCCI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COCCIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COCCOUS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "COCCUS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COCO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COCOA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COCOAS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COCOS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COGS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COOCOO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COOS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COSS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COUSCOUS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CUSSO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CUSSOS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GOAS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOGO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOGOS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GOOS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GUACO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GUACOS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ISAGOGIC",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ISAGOGICS",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "OASIS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OCAS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OSSA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OSSIA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SAGACIOUS",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "SAGO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SAGOS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SOCA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SOCAS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SOUS",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

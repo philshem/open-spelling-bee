@@ -1,0 +1,232 @@
+{
+    "letters": "UDILMNR",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 95,
+    "word_count": 42,
+    "pangram_count": 1,
+    "pangram_list": [
+        "DRUMLIN"
+    ],
+    "word_list": [
+        {
+            "word": "DIRDUM",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DRUID",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DRUM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DRUMLIN",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "DULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUMDUM",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DUNLIN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DURN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DURR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DURUM",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ILIUM",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ILLINIUM",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "INDIUM",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "INDULIN",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "INRUN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "INULIN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "INURN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "IRIDIUM",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "LIMULI",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LINUM",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LULU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LURID",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MILIUM",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MILLRUN",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MINIMUM",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MINIUM",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MUMM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MUMU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MUNI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MURID",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MURMUR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MURR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MUUMUU",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NURD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NURL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RUDD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RUIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "UNDID",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UNUNUNIUM",
+            "score": 6,
+            "pangram": false
+        }
+    ]
+}

@@ -1,0 +1,272 @@
+{
+    "letters": "BIKMNSU",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 106,
+    "word_count": 50,
+    "pangram_count": 1,
+    "pangram_list": [
+        "BUMKINS"
+    ],
+    "word_list": [
+        {
+            "word": "BIBB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BIBBS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BIBS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BIKINI",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BIKINIS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BINS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BISK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BISKS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BUBS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BUBU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BUBUS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BUMKIN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BUMKINS",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "BUMS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BUNK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BUNKS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BUNKUM",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BUNKUMS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BUNN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BUNNS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BUNS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BUSK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BUSKIN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BUSKINS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BUSKS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BUSS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "IBIS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KIBBI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KIBBIS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MIBS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MINIBUS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "NIBS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NIMBI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NIMBUS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NUBBIN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NUBBINS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "NUBS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NUMB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NUMBS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SIBB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SIBBS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SIBS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SNIB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SNIBS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SNUB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SNUBS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SUBMISS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "SUBS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "UNUNBIUM",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "UNUNBIUMS",
+            "score": 6,
+            "pangram": false
+        }
+    ]
+}

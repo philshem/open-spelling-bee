@@ -1,0 +1,212 @@
+{
+    "letters": "WCEHKOR",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 89,
+    "word_count": 38,
+    "pangram_count": 1,
+    "pangram_list": [
+        "CHECKROW"
+    ],
+    "word_list": [
+        {
+            "word": "CHECKROW",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "CHEW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHEWER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CHOW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHOWCHOW",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "COCKCROW",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "COWER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COWORKER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CREW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CROW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CROWER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EWER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HEWER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HOWE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HOWK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KREWE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RECHEW",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REWOKE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REWORE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REWORK",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ROCKWORK",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ROWER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WEEK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WEER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WEEWEE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WERE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WHEE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WHERE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WHEW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WHORE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WOKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WOOER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WORE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WORK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WORKER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WORKWEEK",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "WRECK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WRECKER",
+            "score": 4,
+            "pangram": false
+        }
+    ]
+}

@@ -1,0 +1,262 @@
+{
+    "letters": "LEHIPTZ",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 93,
+    "word_count": 48,
+    "pangram_count": 1,
+    "pangram_list": [
+        "EPITHELIZE"
+    ],
+    "word_list": [
+        {
+            "word": "ELHI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ELITE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EPITHELIZE",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "HEEL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HEIL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HELP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HILI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HILT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ILLITE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LEET",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LEPT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LETHE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LEZZIE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LILT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LIPE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LITE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LITHE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LITTLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PEEL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PELE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PELITE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PELLET",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PELLETIZE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PELT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PETTLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PILE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PILEI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PILI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PIZZELLE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PIZZLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PLIE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TEEL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TELE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "THILL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TILE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TILLITE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TILT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TILTH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TIPPLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TITLE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TITTLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ZILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ZIZZLE",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

@@ -1,0 +1,172 @@
+{
+    "letters": "CBEHLNR",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 86,
+    "word_count": 30,
+    "pangram_count": 1,
+    "pangram_list": [
+        "BLENCHER"
+    ],
+    "word_list": [
+        {
+            "word": "BEECH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BEECHEN",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BELCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BELCHER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BENCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BENCHER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BLENCH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BLENCHER",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "BREECH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CELEB",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CERE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHEBEC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CHEER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHEERER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CLENCH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CLENCHER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CRECHE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CREEL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CRENEL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CRENELLE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ECHE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ECHELLE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HENCE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LECH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LECHER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LEECH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "REBEC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RECCE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RECHERCHE",
+            "score": 6,
+            "pangram": false
+        }
+    ]
+}

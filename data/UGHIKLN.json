@@ -1,0 +1,222 @@
+{
+    "letters": "UGHIKLN",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 119,
+    "word_count": 40,
+    "pangram_count": 1,
+    "pangram_list": [
+        "HULKING"
+    ],
+    "word_list": [
+        {
+            "word": "GLUG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GLUGGING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GLUING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GUGGLING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GUILING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GULLING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GUNK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GUNNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HUGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HULK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HULKING",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "HULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HULLING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HUNG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HUNH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HUNK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "IGLU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "INULIN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KLUGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "LINGUINI",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LUGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "LUGING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LULLING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "LULU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LUNG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LUNGI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LUNGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "LUNK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NUKING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NULLING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "UNGLUING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "UNHINGING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "UNHUNG",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "UNKINK",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "UNKINKING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "UNLINK",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "UNLINKING",
+            "score": 6,
+            "pangram": false
+        }
+    ]
+}

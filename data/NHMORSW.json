@@ -1,0 +1,247 @@
+{
+    "letters": "NHMORSW",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 84,
+    "word_count": 45,
+    "pangram_count": 1,
+    "pangram_list": [
+        "HORNWORMS"
+    ],
+    "word_list": [
+        {
+            "word": "HONOR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HONORS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HONS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HORN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HORNS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HORNWORM",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "HORNWORMS",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "MONO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MONOS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MONS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MONSOON",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MONSOONS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOONS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MORN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MORNS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MORON",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MORONS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MOWN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NOHOW",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NOMOS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NOMS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NOONS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NORM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NORMS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NOSH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NOWS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ONOS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OWNS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SHOON",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SHORN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SHOWN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SNOW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SNOWS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SONS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SORN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SORNS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SOWN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SWOON",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SWOONS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SWORN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WONS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WORN",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

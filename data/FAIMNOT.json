@@ -1,0 +1,207 @@
+{
+    "letters": "FAIMNOT",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 83,
+    "word_count": 37,
+    "pangram_count": 1,
+    "pangram_list": [
+        "ANTIFOAM"
+    ],
+    "word_list": [
+        {
+            "word": "AFFIANT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "AFOOT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ANTIFAT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ANTIFOAM",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "FAIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FAINT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FANION",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FANO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FANON",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FANTOM",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FIAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FINFOOT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FINITO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FINO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FOAM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FOIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FONT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FONTINA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FOOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FOOTMAN",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "INFANT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "INFANTA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "INFO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MAFFIA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MAFIA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MIFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOTIF",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NAFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NAIF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NONFAN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NONFAT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TAFFIA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TAFIA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TIFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TIFFIN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TOFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOFT",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

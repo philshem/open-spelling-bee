@@ -1,0 +1,267 @@
+{
+    "letters": "PAHMOTY",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 91,
+    "word_count": 49,
+    "pangram_count": 1,
+    "pangram_list": [
+        "MYOPATHY"
+    ],
+    "word_list": [
+        {
+            "word": "APATHY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "APHTHA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ATAP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ATOP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ATOPY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HAPPY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HOOP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HOOPOO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HOPPY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HYPHA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HYPO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MAYHAP",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MAYPOP",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MOPY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MYOPATHY",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "MYOPY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OOMPAH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "OOMPH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OPAH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PAMPA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PAPA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PAPAYA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PAPPY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PATH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PATTY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PATY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PHAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PHOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PHOTO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PHOTOMAP",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PHPHT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "POMMY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "POMO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POMP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POMPOM",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "POOH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POOP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POPPA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "POPPY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "POTATO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "POTTO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "POTTY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TAMP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TAPA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOPH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOPO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TYPO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TYPP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TYPY",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

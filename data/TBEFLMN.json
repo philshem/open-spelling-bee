@@ -1,0 +1,227 @@
+{
+    "letters": "TBEFLMN",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 86,
+    "word_count": 41,
+    "pangram_count": 1,
+    "pangram_list": [
+        "ENFEEBLEMENT"
+    ],
+    "word_list": [
+        {
+            "word": "BEET",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BEETLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BELT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BENNET",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BENT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BETEL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BLENT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BLET",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EBBET",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EFFETE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ELEMENT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "EMMET",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ENFEEBLEMENT",
+            "score": 9,
+            "pangram": true
+        },
+        {
+            "word": "ENTENTE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FEET",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FELT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FETE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FETTLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FLEET",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LEET",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LEFT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LENT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LENTEN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MEET",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MELT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MENTEE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "METE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "METTLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NETT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NETTLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TEEL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TEEM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TEEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TEFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TELE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TELEMEN",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TELNET",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TENEMENT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TENET",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TENT",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

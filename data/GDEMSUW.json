@@ -1,0 +1,252 @@
+{
+    "letters": "GDEMSUW",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 106,
+    "word_count": 46,
+    "pangram_count": 1,
+    "pangram_list": [
+        "GUMWEEDS"
+    ],
+    "word_list": [
+        {
+            "word": "DEGUM",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DEGUMMED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DEGUMS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DUGS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EDGE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EDGED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EDGES",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EGGED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EGGS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GEDS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GEED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GEES",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GEESE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GEMMED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GEMS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GEUM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GEUMS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GUDE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GUDES",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GUESS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GUESSED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GUESSES",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GUMMED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GUMS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GUMWEED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GUMWEEDS",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "MEGS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MUGG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MUGGED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MUGGEE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MUGGEES",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MUGGS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MUGS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SEDGE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SEDGES",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SEGS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SEGUE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SEGUED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SEGUES",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SMUDGE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SMUDGED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "SMUDGES",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "SMUG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WEDGE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WEDGED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WEDGES",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

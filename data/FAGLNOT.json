@@ -1,0 +1,272 @@
+{
+    "letters": "FAGLNOT",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 108,
+    "word_count": 50,
+    "pangram_count": 1,
+    "pangram_list": [
+        "FLATLONG"
+    ],
+    "word_list": [
+        {
+            "word": "AFLOAT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "AFOOT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ALFA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ALFALFA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ALOFT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ALOOF",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FAGGOT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FAGOT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FALL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FALLAL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FALLOFF",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FANG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FANGA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FANO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FANON",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FATAL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FLAG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FLAGON",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FLAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FLAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FLATFOOT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FLATLONG",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "FLOAT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FLOG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FLONG",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FLOTA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FOAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FONT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FONTAL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FOOL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FOOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FOOTFALL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GAFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GANOF",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GOLF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GONFALON",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GONFANON",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GONOF",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GOOF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOAF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOFT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOOF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOOFA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NAFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NONFAN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NONFAT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NONFATAL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "OFFAL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TOFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOFT",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

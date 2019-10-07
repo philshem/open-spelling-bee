@@ -1,0 +1,212 @@
+{
+    "letters": "CAIMNPU",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 92,
+    "word_count": 38,
+    "pangram_count": 1,
+    "pangram_list": [
+        "PANICUM"
+    ],
+    "word_list": [
+        {
+            "word": "ACACIA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ACAPNIA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ACINI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ACINIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ACMIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AMICI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AMINIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "AMNIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CACA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CAIMAN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CAIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CAMP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CAMPI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CANCAN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CANNA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CINNAMIC",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CUMIN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CUMMIN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CUPPA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MANIAC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MANIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MICA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MIMIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MINICAM",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MINICAMP",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MUCIN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NIACIN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PACA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PANIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PANICUM",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "PIANIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PICA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PICNIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "UMIAC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UNCAP",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UNCI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "UNCIA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UNCINI",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

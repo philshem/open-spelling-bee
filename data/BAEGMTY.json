@@ -1,0 +1,252 @@
+{
+    "letters": "BAEGMTY",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 84,
+    "word_count": 46,
+    "pangram_count": 1,
+    "pangram_list": [
+        "MEGABYTE"
+    ],
+    "word_list": [
+        {
+            "word": "ABATE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ABAYA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ABBA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ABBE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ABBEY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ABEAM",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ABET",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ABYE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AMBAGE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "AMEBA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AMEBAE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BABA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BABE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BABY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BAGGAGE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BAGGY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BATE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BATT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BATTY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BEAM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BEAMY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BEAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BEEBEE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BEET",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BEGAT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BEGET",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BEMA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BEMATA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BETA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BETTA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BYTE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EBBET",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EMBAY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EYEBEAM",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GABBY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GABY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GAMB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GAMBA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GAMBE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GYBE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MABE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MAMBA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MAYBE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MEGABYTE",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "TABBY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "YABBY",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

@@ -1,0 +1,202 @@
+{
+    "letters": "YCINOTU",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 107,
+    "word_count": 36,
+    "pangram_count": 1,
+    "pangram_list": [
+        "CONTINUITY"
+    ],
+    "word_list": [
+        {
+            "word": "CITY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CONCINNITY",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "CONICITY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CONTINUITY",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "CONY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COTTONY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "COUNTY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CUTTY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CYNIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CYTON",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ICONICITY",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "INCONCINNITY",
+            "score": 9,
+            "pangram": false
+        },
+        {
+            "word": "INCONY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "IONICITY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "NINNY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NITTY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NONCOUNTY",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "NUTTY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ONIONY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "OUTCITY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TINNY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TINY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TITTY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TONICITY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TONY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOYO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOYON",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TUNNY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TUTTY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TYCOON",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TYIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TYIYN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UNCOY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UNITY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "YONI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YONIC",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

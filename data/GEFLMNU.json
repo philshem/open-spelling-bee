@@ -1,0 +1,217 @@
+{
+    "letters": "GEFLMNU",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 86,
+    "word_count": 39,
+    "pangram_count": 1,
+    "pangram_list": [
+        "FUGLEMEN"
+    ],
+    "word_list": [
+        {
+            "word": "EFFULGE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ENGULF",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FLUNG",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FUGLE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FUGLEMEN",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "FUGU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FUGUE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GELEE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GEMMULE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GENE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GENU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GEUM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GLEE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GLEEFUL",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GLEEMEN",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GLEG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GLEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GLUE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GLUG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GLUM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GLUME",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GUFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GUGGLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GULF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GUNMEN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GUNNEL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GUNNEN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LEGMEN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LEGUME",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LUGE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LUNG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LUNGE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LUNGEE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LUNGFUL",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MUGFUL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MUGG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MUGGEE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "UNGLUE",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

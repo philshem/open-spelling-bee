@@ -1,0 +1,217 @@
+{
+    "letters": "NCEIMYZ",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 90,
+    "word_count": 39,
+    "pangram_count": 1,
+    "pangram_list": [
+        "ENZYMIC"
+    ],
+    "word_list": [
+        {
+            "word": "CINE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CYMENE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CYNIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EMINENCE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "EMINENCY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ENEMY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ENZYM",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ENZYME",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ENZYMIC",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "EYEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EYNE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ICEMEN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "IMINE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "IMMINENCE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "IMMINENCY",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MEINIE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MEINY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MIEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MINCE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MINCY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MINE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MINI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MINIM",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MINIMIZE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MINNY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MIZEN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MIZZEN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NEEM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NENE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NICE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NIECE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NINE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NINNY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "YINCE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ZEIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ZINC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ZINCIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ZINCY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ZINE",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

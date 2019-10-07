@@ -1,0 +1,212 @@
+{
+    "letters": "FEGIMNT",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 111,
+    "word_count": 38,
+    "pangram_count": 1,
+    "pangram_list": [
+        "FIGMENT"
+    ],
+    "word_list": [
+        {
+            "word": "EFFETE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FEEING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FEET",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FEIGN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FEIGNING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FEINT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FEINTING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FEME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FEMINIE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FEMININE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FEMME",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FETE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FETING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FETTING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FIEF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FIFE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FIFING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FIFTEEN",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FIGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FIGMENT",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "FINE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FINING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FINITE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FINNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FITMENT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FITTING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GIFT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GIFTEE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GIFTING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "INFINITE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MIFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MIFFING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "NEIF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TEFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TIFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TIFFIN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TIFFING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TIFFINING",
+            "score": 6,
+            "pangram": false
+        }
+    ]
+}

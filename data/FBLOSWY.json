@@ -1,0 +1,207 @@
+{
+    "letters": "FBLOSWY",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 88,
+    "word_count": 37,
+    "pangram_count": 1,
+    "pangram_list": [
+        "FLYBLOWS"
+    ],
+    "word_list": [
+        {
+            "word": "BLOWFLY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BLOWOFF",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BLOWOFFS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BOFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BOFFO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BOFFOS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BOFFS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FLOOSY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FLOSS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FLOSSY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FLOW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FLOWS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FLYBLOW",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FLYBLOWS",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "FLYBOY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FLYBOYS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FLYBY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FLYBYS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FLYOFF",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FLYOFFS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FOBS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FOLLOW",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FOLLOWS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FOLLY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FOOL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FOOLS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FOSS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FOWL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FOWLS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FOYS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOOF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOOFS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OFFS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WOLF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WOLFS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WOOF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WOOFS",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

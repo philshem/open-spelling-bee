@@ -1,0 +1,252 @@
+{
+    "letters": "TACFMPR",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 103,
+    "word_count": 46,
+    "pangram_count": 1,
+    "pangram_list": [
+        "CAMPCRAFT"
+    ],
+    "word_list": [
+        {
+            "word": "ACTA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AMTRAC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "APART",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "APPARAT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ATAP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ATMA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ATTAR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ATTRACT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CAMPCRAFT",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "CARAT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CART",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CATARACT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CRAFT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FACT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FART",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FRAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MART",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MATT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PACT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PARAMATTA",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PART",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PATACA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PATAMAR",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PATTAMAR",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PFFT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PRAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RAFT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RAMPART",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RAPT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RATATAT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RATTRAP",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TACT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TAMP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TAPA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TARAMA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TARMAC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TARP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TART",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TARTAR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TATAR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TRACT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TRAM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TRAMCAR",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TRAMP",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TRAP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TRAPT",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

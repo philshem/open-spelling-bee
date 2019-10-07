@@ -1,0 +1,207 @@
+{
+    "letters": "HEGLMPS",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 93,
+    "word_count": 37,
+    "pangram_count": 1,
+    "pangram_list": [
+        "PHLEGMS"
+    ],
+    "word_list": [
+        {
+            "word": "EGGSHELL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "EGGSHELLS",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "GHEE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GHEES",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HEEL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HEELLESS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "HEELS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HEHS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HELLS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HELM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HELMLESS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "HELMS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HELP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HELPLESS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "HELPS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HEME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HEMES",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HEMP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HEMPS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HEMS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MESH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MESHES",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PEHS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PHELLEM",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PHELLEMS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PHLEGM",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PHLEGMS",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "SHEEP",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SHEESH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SHELL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SHELLS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SHES",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SHLEP",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SHLEPP",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SHLEPPS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "SHLEPS",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

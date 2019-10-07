@@ -1,0 +1,197 @@
+{
+    "letters": "VDEMNOT",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 100,
+    "word_count": 35,
+    "pangram_count": 1,
+    "pangram_list": [
+        "DEVOTEMENT"
+    ],
+    "word_list": [
+        {
+            "word": "DEVON",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DEVOTE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEVOTED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DEVOTEE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DEVOTEMENT",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "DOVE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOVEN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DOVENED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ENVENOM",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ENVENOMED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "EVEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EVENED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EVENT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MOVE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOVED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MOVEMENT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "NEVE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NONEVENT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "OVEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VEDETTE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "VEND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VENDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VENDEE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VENENE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VENOM",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VENOMED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "VENT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VENTED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VETO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VETOED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VETTED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VOODOO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VOODOOED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "VOTE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VOTED",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

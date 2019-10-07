@@ -1,0 +1,262 @@
+{
+    "letters": "RFGHISU",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 98,
+    "word_count": 48,
+    "pangram_count": 1,
+    "pangram_list": [
+        "GRUFFISH"
+    ],
+    "word_list": [
+        {
+            "word": "FIRS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FRIG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FRIGS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FRUG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FRUGS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FURFUR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FURS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GIRSH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GRIFF",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GRIFFS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GRIG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GRIGRI",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GRIGRIS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GRIGS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GRUFF",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GRUFFISH",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "GRUFFS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GRUGRU",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GRUGRUS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GURSH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GURU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GURUS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "IRIS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RHUS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RIFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RIFFS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RIFS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RIGS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RISHI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RISHIS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RISUS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RUFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RUFFS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RUGS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RUSH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SHIRR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SHIRRS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SHRI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SHRIS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SHRUG",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SHRUGS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SIRS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SRIS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SURF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SURFFISH",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "SURFS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SUSURRUS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "URUS",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

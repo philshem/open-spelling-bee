@@ -1,0 +1,227 @@
+{
+    "letters": "MEHINOZ",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 81,
+    "word_count": 41,
+    "pangram_count": 1,
+    "pangram_list": [
+        "HOMINIZE"
+    ],
+    "word_list": [
+        {
+            "word": "HEME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HEMIN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HOME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HOMIE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HOMININE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "HOMINIZE",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "HOMO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "IMINE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "IMINO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MEINIE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MEME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MEMO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MENO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MEZE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MEZZO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MIEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MIME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MIMEO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MINE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MINI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MINIM",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MINIMIZE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MINION",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MIZEN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MIZZEN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MOME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOMI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MONIE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MONO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOZO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NEEM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NOME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NOMEN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NOMINEE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "NOMOI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NONHEME",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "NONHOME",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "NONMEN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "OMEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ZOOM",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

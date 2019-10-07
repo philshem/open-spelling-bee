@@ -1,0 +1,262 @@
+{
+    "letters": "CAHKNSW",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 119,
+    "word_count": 48,
+    "pangram_count": 1,
+    "pangram_list": [
+        "HACKSAWN"
+    ],
+    "word_list": [
+        {
+            "word": "ASHCAN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ASHCANS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CACA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CACAS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CANCAN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CANCANS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CANCHA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CANCHAS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CANNA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CANNAS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CANS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CASA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CASAS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CASH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CASHAW",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CASHAWS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CASK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CASKS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CAWS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHACHKA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CHACHKAS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CHAW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHAWS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HACK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HACKS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HACKSAW",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HACKSAWN",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "HACKSAWS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "KNACK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KNACKS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KWACHA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KWACHAS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "NACHAS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SACK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SACKS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SACS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SCAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SCANS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SCHWA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SCHWAS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SHACK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SHACKS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SNACK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SNACKS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WACK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WACKS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WHACK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WHACKS",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

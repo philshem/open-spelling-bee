@@ -1,0 +1,232 @@
+{
+    "letters": "HABGNRS",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 89,
+    "word_count": 42,
+    "pangram_count": 1,
+    "pangram_list": [
+        "BHANGRAS"
+    ],
+    "word_list": [
+        {
+            "word": "AAHS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AARGH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AARRGH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "AARRGHH",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ABASH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AGHA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AGHAS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BASH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BHANG",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BHANGRA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BHANGRAS",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "BHANGS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BRASH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GASH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GNASH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HAAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HAARS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HAGS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HAHA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HAHAS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HAHS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HANG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HANGAR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HANGARS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HANGS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HANSA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HANSAS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HARASS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HARSH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HASH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RASH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SAGANASH",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "SANGH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SANGHS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SASH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SHAG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SHAGS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SHAH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SHAHS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SHARN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SHARNS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SNASH",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

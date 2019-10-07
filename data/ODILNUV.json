@@ -1,0 +1,272 @@
+{
+    "letters": "ODILNUV",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 95,
+    "word_count": 50,
+    "pangram_count": 1,
+    "pangram_list": [
+        "DILUVION"
+    ],
+    "word_list": [
+        {
+            "word": "DIDO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DILDO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DILUVION",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "DINO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DIOL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DODO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOLL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOODOO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "IDOL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "INDOL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "INION",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "IODID",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "IODIN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LIDO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LILO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LINO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LION",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOID",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOLL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOUD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NINON",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NODI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NOIL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NOLO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NONILLION",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "NONUNION",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "NOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NOUN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OIDIOID",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "OLIO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ONION",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OVOID",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OVOLI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OVOLO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UDON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "UNDO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "UNION",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VINO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VIOL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VIOLIN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VODOU",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VODOUN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VODUN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VOID",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VOLVULI",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "VOODOO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VOUDON",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VOUDOUN",
+            "score": 4,
+            "pangram": false
+        }
+    ]
+}

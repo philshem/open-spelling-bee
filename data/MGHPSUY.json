@@ -1,0 +1,237 @@
+{
+    "letters": "MGHPSUY",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 80,
+    "word_count": 43,
+    "pangram_count": 1,
+    "pangram_list": [
+        "SPHYGMUS"
+    ],
+    "word_list": [
+        {
+            "word": "GUMMY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GUMS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GYMS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GYPSUM",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GYPSUMS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HUMMUS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HUMP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HUMPH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HUMPHS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HUMPS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HUMPY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HUMS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HUMUS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MUGG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MUGGS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MUGGY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MUGS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MUMM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MUMMS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MUMMY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MUMP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MUMPS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MUMS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MUMU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MUMUS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MUSH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MUSHY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MUSS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MUSSY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MUUMUU",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MUUMUUS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PUMP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PUMPS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PYGMY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SMUG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SMUSH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SPHYGMUS",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "SPUMY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SUMP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SUMPS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SUMS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "UMPS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YUMMY",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

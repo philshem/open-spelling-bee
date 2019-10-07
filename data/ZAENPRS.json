@@ -1,0 +1,202 @@
+{
+    "letters": "ZAENPRS",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 96,
+    "word_count": 36,
+    "pangram_count": 1,
+    "pangram_list": [
+        "PANZERS"
+    ],
+    "word_list": [
+        {
+            "word": "AZAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AZANS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PANZER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PANZERS",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "PAZAZZ",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PAZAZZES",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PREZ",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PREZES",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RAZE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RAZEE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RAZEES",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RAZER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RAZERS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RAZES",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RAZZ",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RAZZES",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SNEEZE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SNEEZER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "SNEEZERS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "SNEEZES",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "SPAZ",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SPAZZ",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SPAZZES",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ZANANA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ZANANAS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ZANZA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ZANZAS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ZAPPER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ZAPPERS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ZAPS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ZAZEN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ZAZENS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ZEES",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ZENANA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ZENANAS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ZEPS",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

@@ -1,0 +1,252 @@
+{
+    "letters": "CBDKNOS",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 104,
+    "word_count": 46,
+    "pangram_count": 1,
+    "pangram_list": [
+        "BOONDOCKS"
+    ],
+    "word_list": [
+        {
+            "word": "BOCK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BOCKS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BONNOCK",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BONNOCKS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BOOCOO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BOOCOOS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BOONDOCK",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BOONDOCKS",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "COBB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COBBS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COBS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COCK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COCKS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COCO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COCOON",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COCOONS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "COCOS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CODON",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CODONS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CODS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CONDO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CONDOS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CONK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CONKS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CONN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CONNS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CONS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COOCOO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COOK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COOKBOOK",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "COOKBOOKS",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "COOKS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COONS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COOS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COSS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOCK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOCKS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DOCS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KNOCK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KNOCKS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NOCK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NOCKS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SOCK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SOCKO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SOCKS",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

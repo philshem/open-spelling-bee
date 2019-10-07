@@ -1,0 +1,222 @@
+{
+    "letters": "BACIKNT",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 107,
+    "word_count": 40,
+    "pangram_count": 1,
+    "pangram_list": [
+        "ANTIKICKBACK"
+    ],
+    "word_list": [
+        {
+            "word": "ABACA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ABACI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ABACK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ABAKA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ABBA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ANABATIC",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ANTIKICKBACK",
+            "score": 9,
+            "pangram": true
+        },
+        {
+            "word": "BABA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BABBITT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BABKA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BACCA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BACK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BACKBIT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BAIT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BANANA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BANI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BANIAN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BANK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BANKIT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BATIK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BATT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BATTIK",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BIBB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BIKINI",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BINIT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BINT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BITT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CABANA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CABIN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CANNABIC",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CANNABIN",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "KABAB",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KABAKA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KABIKI",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KANBAN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KATABATIC",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "KIBBI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KICKBACK",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TIBIA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TITBIT",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

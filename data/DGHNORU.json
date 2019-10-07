@@ -1,0 +1,227 @@
+{
+    "letters": "DGHNORU",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 88,
+    "word_count": 41,
+    "pangram_count": 1,
+    "pangram_list": [
+        "GROUNDHOG"
+    ],
+    "word_list": [
+        {
+            "word": "DODO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOGGO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DONG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DONOR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DOODOO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DOOR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DORR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOUGH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DOUR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DRONGO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DRUG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUGONG",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DUNG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DURN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DURO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DURR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GODHOOD",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GODROON",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GOOD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOURD",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GROUND",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GROUNDHOG",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "GUNDOG",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HOOD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HOODOO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HOUND",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NONDRUG",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "NURD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ODOR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ODOUR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ORDO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RONDO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ROOD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROUND",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RUDD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RUNROUND",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "UDON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "UNDO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "UNGROUND",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "UNHOOD",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "UNROUND",
+            "score": 4,
+            "pangram": false
+        }
+    ]
+}

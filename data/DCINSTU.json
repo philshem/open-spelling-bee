@@ -1,0 +1,242 @@
+{
+    "letters": "DCINSTU",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 92,
+    "word_count": 44,
+    "pangram_count": 1,
+    "pangram_list": [
+        "INDUCTS"
+    ],
+    "word_list": [
+        {
+            "word": "CUDS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DIDST",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DINS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DINT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DINTS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DISC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DISCI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DISCS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DISCUS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DISCUSS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DISS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DISTINCT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DITS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUCI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUCT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUCTS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DUDS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUIT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUITS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DUNITIC",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DUNS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUNT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUNTS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DUST",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUSTS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "INDICT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "INDICTS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "INDISTINCT",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "INDUCT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "INDUCTS",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "NIDI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NIDUS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NITID",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NUDIST",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NUDISTS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "SCUD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SCUDI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SCUDS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "STUD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "STUDS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SUDD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SUDDS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SUDS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "UNDID",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

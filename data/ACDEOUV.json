@@ -1,0 +1,222 @@
+{
+    "letters": "ACDEOUV",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 83,
+    "word_count": 40,
+    "pangram_count": 1,
+    "pangram_list": [
+        "COUVADE"
+    ],
+    "word_list": [
+        {
+            "word": "ACCEDE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ACCEDED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ACED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ADDED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ADDUCE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ADDUCED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "AOUDAD",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "AUDAD",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AVOCADO",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CACA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CACAO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CADE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CAECA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CAUDAD",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CAVE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CAVED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CECA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COCA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COCOA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CODA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COUVADE",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "DACE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DADA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DADO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DADOED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEAD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DEAVE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DEAVED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DECADE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEVA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOODAD",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DUAD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EAVE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EAVED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EVACUEE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "EVADE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EVADED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ODEA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "UVEA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VACUA",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

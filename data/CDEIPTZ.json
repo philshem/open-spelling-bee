@@ -1,0 +1,212 @@
+{
+    "letters": "CDEIPTZ",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 103,
+    "word_count": 38,
+    "pangram_count": 1,
+    "pangram_list": [
+        "PECTIZED"
+    ],
+    "word_list": [
+        {
+            "word": "CEDE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CEDED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CEDI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CEPE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CETE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CITE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CITED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CITIED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DECEIT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DECIDE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DECIDED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DEICE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DEICED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEICIDE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DEICTIC",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DEPICT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEPICTED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DETECT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DETECTED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DICE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DICED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DIETETIC",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "EDICT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EIDETIC",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "EPIC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ETIC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ICED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ICTIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PECTIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PECTIZE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PECTIZED",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "PEPTIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PEPTIDIC",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PICE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PIECE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PIECED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TECTITE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TICCED",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

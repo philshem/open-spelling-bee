@@ -1,0 +1,222 @@
+{
+    "letters": "RCEFNQU",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 96,
+    "word_count": 40,
+    "pangram_count": 1,
+    "pangram_list": [
+        "FREQUENCE"
+    ],
+    "word_list": [
+        {
+            "word": "CERE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CUNNER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CURE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CURER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CURF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CURN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CURR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ECRU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ENURE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ERNE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FENCER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FERE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FERN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FREE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FREER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FREQUENCE",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "FRERE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FUNNER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FURFUR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "QUEER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "QUEERER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "QUERN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "QUEUER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RECCE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RECUR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RECURRENCE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "REEF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "REEFER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REFENCE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "REFER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "REFEREE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "REFERENCE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "REFERRER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RERUN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RUER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RUFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RUFFE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RUNE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RUNNER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "UNFREE",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

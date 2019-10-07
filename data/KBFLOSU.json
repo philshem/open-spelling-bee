@@ -1,0 +1,242 @@
+{
+    "letters": "KBFLOSU",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 91,
+    "word_count": 44,
+    "pangram_count": 1,
+    "pangram_list": [
+        "BOOKFULS"
+    ],
+    "word_list": [
+        {
+            "word": "BOOK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BOOKFUL",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BOOKFULS",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "BOOKOO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BOOKOOS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BOOKS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BOSK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BOSKS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BULK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BULKS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BUSK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BUSKS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FOLK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FOLKS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KLOOF",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KLOOFS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KOBO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KOBOS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KOBS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KOLO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KOLOS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KOOK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KOOKS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KOSS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KOUSSO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KOUSSOS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "KUSSO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KUSSOS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LOOK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOOKS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SKULK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SKULKS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SKULL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SKULLS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SOKOL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SOKOLS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SOOK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SOOKS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SOUK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SOUKOUS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "SOUKS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SUKS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SULK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SULKS",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

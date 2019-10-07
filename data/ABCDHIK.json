@@ -1,0 +1,257 @@
+{
+    "letters": "ABCDHIK",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 103,
+    "word_count": 47,
+    "pangram_count": 1,
+    "pangram_list": [
+        "DABCHICK"
+    ],
+    "word_list": [
+        {
+            "word": "ABACA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ABACI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ABACK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ABAKA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ABBA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ACACIA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ACCIDIA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ACID",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ACIDIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BABA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BABKA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BACCA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BACCHIC",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BACCHII",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BACH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BACK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CACA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CADI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CAID",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHACHKA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CHAD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHAI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHIA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHICA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CICADA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DABCHICK",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "DACHA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DADA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DAHABIAH",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DHAK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DIACID",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DIACIDIC",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "HACK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HAHA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HAIK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HAIKA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HIBACHI",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "KABAB",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KABAKA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KABIKI",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KADI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KAIAK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KAKA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KAKI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KHADI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KHAKI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KICKBACK",
+            "score": 5,
+            "pangram": false
+        }
+    ]
+}

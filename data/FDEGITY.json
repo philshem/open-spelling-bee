@@ -1,0 +1,207 @@
+{
+    "letters": "FDEGITY",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 84,
+    "word_count": 37,
+    "pangram_count": 1,
+    "pangram_list": [
+        "FIDGETY"
+    ],
+    "word_list": [
+        {
+            "word": "DEFI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DEFIED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEFT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DEFY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DEIFIED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DEIFY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DIFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EDIFIED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "EDIFY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EFFETE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EFFIGY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FEED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FEET",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FETE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FETED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FETID",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FETIDITY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FETTED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FIDGE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FIDGED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FIDGET",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FIDGETED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FIDGETY",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "FIEF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FIFE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FIFED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FIFTY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FIGGED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FITTED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FYTTE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GIFT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GIFTED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GIFTEE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "IFFY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TEFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TIFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TIFFED",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

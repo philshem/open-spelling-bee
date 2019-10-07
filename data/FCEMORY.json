@@ -1,0 +1,267 @@
+{
+    "letters": "FCEMORY",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 119,
+    "word_count": 49,
+    "pangram_count": 1,
+    "pangram_list": [
+        "COMFREY"
+    ],
+    "word_list": [
+        {
+            "word": "COFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COFFEE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COFFER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COMFREY",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "COMFY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COOF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CORF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FEME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FEMME",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FEOFF",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FEOFFEE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FEOFFER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FEOFFOR",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FERE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FERRY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FEYER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FORCE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FORCER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FORE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FORM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FORME",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FORMEE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FORMER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FOYER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FREE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FREEFORM",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FREER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FRERE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FROE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FROM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FRORE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FRYER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FYCE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OFFER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OFFERER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "OFFEROR",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "REEF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "REEFER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REEFY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "REFER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "REFEREE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "REFERRER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "REFORM",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REFORMER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "REFRY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "REOFFER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "REROOF",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ROOF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROOFER",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

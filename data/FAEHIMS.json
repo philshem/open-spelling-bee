@@ -1,0 +1,227 @@
+{
+    "letters": "FAEHIMS",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 84,
+    "word_count": 41,
+    "pangram_count": 1,
+    "pangram_list": [
+        "FAMISHES"
+    ],
+    "word_list": [
+        {
+            "word": "EFFS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FAME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FAMES",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FAMISH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FAMISHES",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "FASH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FASHES",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FEASE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FEASES",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FEES",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FEHS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FEME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FEMES",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FEMME",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FEMMES",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FEMS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FESS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FESSE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FESSES",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FIEF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FIEFS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FIFE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FIFES",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FISH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FISHES",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HAAF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HAAFS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MAFFIA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MAFFIAS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MAFIA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MAFIAS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MASSIF",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MASSIFS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MIFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MIFFS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SAFE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SAFES",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SEIF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SEIFS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SHEAF",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SHEAFS",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

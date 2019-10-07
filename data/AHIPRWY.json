@@ -1,0 +1,257 @@
+{
+    "letters": "AHIPRWY",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 86,
+    "word_count": 47,
+    "pangram_count": 1,
+    "pangram_list": [
+        "WHIPRAY"
+    ],
+    "word_list": [
+        {
+            "word": "AIRWAY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "AIRY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "APIARY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ARIA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ARIARY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ARRAY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AWAY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AWRY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AYAH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HAAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HAHA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HAIR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HAIRY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HAPPY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HARP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HARPY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HARRY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HYPHA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PAIR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PAPA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PAPAW",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PAPAYA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PAPPI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PAPPY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PAPYRI",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PARA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PARAPH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PARIAH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PARR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PARRY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PAWPAW",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PIRAYA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PRAY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PRIAPI",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RAIA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RAPHIA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RAYA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RAYAH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RIPRAP",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WAIR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WARP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WARY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WHAP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WHIPRAY",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "WIRRA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WRAP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YAWP",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

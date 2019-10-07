@@ -1,0 +1,177 @@
+{
+    "letters": "UGHINRY",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 96,
+    "word_count": 31,
+    "pangram_count": 1,
+    "pangram_list": [
+        "HURRYING"
+    ],
+    "word_list": [
+        {
+            "word": "GRUGRU",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GRUNGY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GUNNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GUNNY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GUNRUNNING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "GURGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GURRY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GURU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GUYING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HUGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HUNG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HUNGRY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HUNH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HURRY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HURRYING",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "INRUN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "INURING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "INURN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "INURNING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RUGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RUIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RUING",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RUINING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RUNG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RUNNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RUNNY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UNHINGING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "UNHUNG",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "UNRIG",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UNRIGGING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "URGING",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

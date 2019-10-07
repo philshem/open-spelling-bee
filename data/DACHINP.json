@@ -1,0 +1,202 @@
+{
+    "letters": "DACHINP",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 90,
+    "word_count": 36,
+    "pangram_count": 1,
+    "pangram_list": [
+        "HANDICAP"
+    ],
+    "word_list": [
+        {
+            "word": "ACCIDIA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ACID",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ACIDIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ADIPIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "APHID",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "APHIDIAN",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CADI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CAID",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CANDID",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CANDIDA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CANID",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHAD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHID",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CICADA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CNIDA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DACHA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DADA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DAPHNIA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DIACID",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DIACIDIC",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "HAND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HANDICAP",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "HIND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "INDICAN",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "INDICIA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "NADA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NAIAD",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NANDIN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NANDINA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "NICAD",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NIDI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PADI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PAID",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PANADA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PANDA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PANDANI",
+            "score": 4,
+            "pangram": false
+        }
+    ]
+}

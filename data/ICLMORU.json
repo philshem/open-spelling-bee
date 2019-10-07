@@ -1,0 +1,222 @@
+{
+    "letters": "ICLMORU",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 97,
+    "word_count": 40,
+    "pangram_count": 1,
+    "pangram_list": [
+        "CIRROCUMULI"
+    ],
+    "word_list": [
+        {
+            "word": "CILIUM",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CIRRI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CIRROCUMULI",
+            "score": 8,
+            "pangram": true
+        },
+        {
+            "word": "COCCI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COCCIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COIL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COIR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COLIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COMIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CORIUM",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COULOIR",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CRIOLLO",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CROCI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CUMULI",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CURCULIO",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CURIO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CURIUM",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CURRICULUM",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "ILIUM",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LILO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LIMO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LIMULI",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LIRI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOCI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOCULI",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MICRO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MICROCOCCI",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "MILIUM",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MILO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MIMIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MIRI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MIRROR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MOIL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOMI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OCULI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OLIO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROIL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "URIC",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

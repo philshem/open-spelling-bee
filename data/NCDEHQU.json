@@ -1,0 +1,192 @@
+{
+    "letters": "NCDEHQU",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 92,
+    "word_count": 34,
+    "pangram_count": 1,
+    "pangram_list": [
+        "QUENCHED"
+    ],
+    "word_list": [
+        {
+            "word": "DENE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DENNED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DENUDE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DENUDED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DUDEEN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DUENDE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DUNCE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DUNCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DUNE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUNNED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ENDED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ENDUE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ENDUED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EUNUCH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HENCE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HENEQUEN",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "HUNCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HUNCHED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HUNH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NEED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NEEDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NENE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NUDE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "QUEEN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "QUEENED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "QUENCH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "QUENCHED",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "UNCEDED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "UNDE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "UNDEE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UNDUE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UNENDED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "UNHEEDED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "UNNEEDED",
+            "score": 5,
+            "pangram": false
+        }
+    ]
+}

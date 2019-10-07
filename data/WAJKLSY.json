@@ -1,0 +1,222 @@
+{
+    "letters": "WAJKLSY",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 100,
+    "word_count": 40,
+    "pangram_count": 1,
+    "pangram_list": [
+        "JAYWALKS"
+    ],
+    "word_list": [
+        {
+            "word": "ALWAY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ALWAYS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "AWAY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AWLS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "JAWS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "JAYWALK",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "JAYWALKS",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "LAWS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LAYAWAY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "LAYAWAYS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "SAWS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SKYWALK",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "SKYWALKS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "SKYWAY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SKYWAYS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "SLAW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SLAWS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SWAY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SWAYS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WALK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WALKAWAY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "WALKAWAYS",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "WALKS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WALKWAY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WALKWAYS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "WALL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WALLA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WALLAS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WALLS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WALLY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WALY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WAWL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WAWLS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WAWS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WAYLAY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WAYLAYS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WAYS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YAWL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YAWLS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "YAWS",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

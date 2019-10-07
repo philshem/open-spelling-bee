@@ -1,0 +1,242 @@
+{
+    "letters": "TACDEVX",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 115,
+    "word_count": 44,
+    "pangram_count": 1,
+    "pangram_list": [
+        "EXCAVATED"
+    ],
+    "word_list": [
+        {
+            "word": "ACETA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ACETATE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ACETATED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ACTA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ACTED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ADVECT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ADVECTED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "AVADAVAT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CADET",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CATE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CATTED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CAVEAT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CAVEATED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CETE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DATA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DATE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DATED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DEET",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DETECT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DETECTED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "EXACT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EXACTA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EXACTED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "EXCAVATE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "EXCAVATED",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "TACE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TACET",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TACT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TATE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TATTED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TAXA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TAXED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TEAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TEATED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TECTA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TEDDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TEED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TEXT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VACATE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VACATED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "VATTED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VEDETTE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "VETTED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VEXT",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

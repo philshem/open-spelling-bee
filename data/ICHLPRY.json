@@ -1,0 +1,272 @@
+{
+    "letters": "ICHLPRY",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 110,
+    "word_count": 50,
+    "pangram_count": 1,
+    "pangram_list": [
+        "CHIRPILY"
+    ],
+    "word_list": [
+        {
+            "word": "CHIC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHICHI",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CHICLY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CHILI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHILL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHILLI",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CHILLILY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CHILLY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CHIP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHIPPY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CHIRP",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHIRPILY",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "CHIRPY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CHIRR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CIRRI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CLIP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CYCLIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CYCLICLY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "HILI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HILLY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HIPLY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HIPPY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ICILY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ILLY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LICH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LICHI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LILY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LIPPY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LIRI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LYRIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PHILIPPIC",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PHYLIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PICRIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PILI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PILY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PIPY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PRICILY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PRICY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PRILL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PYIC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PYRIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PYRRHIC",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RICH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RICHLY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RIPPLY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "YILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YIRR",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

@@ -1,0 +1,182 @@
+{
+    "letters": "CDIMOTY",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 84,
+    "word_count": 32,
+    "pangram_count": 1,
+    "pangram_list": [
+        "COMMODITY"
+    ],
+    "word_list": [
+        {
+            "word": "CITY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COCCI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COCCIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COCCID",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COCCOID",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "COCO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COMIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COMITY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COMMIT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COMMODITY",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "COMMY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COOCOO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CYMOID",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DICOT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DICTY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DOMIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ICTIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "IDIOCY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "IDIOTIC",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "IMIDIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "IODIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MIMIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MIOTIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MITOTIC",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MYCOTIC",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MYOTIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ODIC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OTIC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OTITIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TICTOC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TOMCOD",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

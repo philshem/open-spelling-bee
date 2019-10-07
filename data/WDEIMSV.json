@@ -1,0 +1,257 @@
+{
+    "letters": "WDEIMSV",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 106,
+    "word_count": 47,
+    "pangram_count": 1,
+    "pangram_list": [
+        "MIDWIVES"
+    ],
+    "word_list": [
+        {
+            "word": "DEWED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DEWS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EWES",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "IWIS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MEWED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MEWS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MIDWIVED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MIDWIVES",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "SEWED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SEWS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SIDEWISE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "SMEW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SMEWS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SWEDE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SWEDES",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SWIM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SWIMS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SWISS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SWISSES",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "SWIVE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SWIVED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SWIVES",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VIEW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VIEWED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VIEWS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WEDDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WEDS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WEED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WEEDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WEEDS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WEES",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WEEWEE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WEEWEED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WEEWEES",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WIDDIE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WIDDIES",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WIDE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WIDES",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WISE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WISED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WISES",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WISS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WISSED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WISSES",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WIVE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WIVED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WIVES",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

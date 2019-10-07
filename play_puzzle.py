@@ -7,9 +7,7 @@ import utils
 
 import os
 import sys
-import json
 import random
-import glob
 
 def play(puzl):
     print('Type !help or !h for help')

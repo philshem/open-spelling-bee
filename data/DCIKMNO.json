@@ -1,0 +1,222 @@
+{
+    "letters": "DCIKMNO",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 86,
+    "word_count": 40,
+    "pangram_count": 1,
+    "pangram_list": [
+        "DOMINICK"
+    ],
+    "word_list": [
+        {
+            "word": "COCCID",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COCCOID",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CODON",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CONDO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CONDOM",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CONOID",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DICK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DIDO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DIKDIK",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DINK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DINO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOCK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DODO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOMIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DOMINICK",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "DOMINION",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DOMINO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DOODOO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DOOM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "IDIOM",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "IMID",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "IMIDIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "IMIDO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "IODIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "IODID",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "IODIN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KIDDO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KIND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KOODOO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MIDI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MIDNOON",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MIND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MODI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MONDO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MONODIC",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MOOD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NIDI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NODI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ODIC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OIDIOID",
+            "score": 4,
+            "pangram": false
+        }
+    ]
+}

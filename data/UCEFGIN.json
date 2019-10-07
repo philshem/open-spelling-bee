@@ -1,0 +1,187 @@
+{
+    "letters": "UCEFGIN",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 97,
+    "word_count": 33,
+    "pangram_count": 1,
+    "pangram_list": [
+        "UNFENCING"
+    ],
+    "word_list": [
+        {
+            "word": "CUEING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CUFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CUFFING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CUIF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CUING",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CUNNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ENNUI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ENUF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EUGENIC",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FEUING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FUCI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FUGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FUGU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FUGUE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FUGUING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FUNGI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FUNGIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FUNNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GENU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GENUINE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GIGUE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GUFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GUNNEN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GUNNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "INGENUE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "UNCI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "UNCINI",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "UNCUFF",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "UNCUFFING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "UNFENCE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "UNFENCING",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "UNGENUINE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "UNIFIC",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

@@ -1,0 +1,202 @@
+{
+    "letters": "UABCIOR",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 85,
+    "word_count": 36,
+    "pangram_count": 1,
+    "pangram_list": [
+        "CARIBOU"
+    ],
+    "word_list": [
+        {
+            "word": "ARAUCARIA",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ARBOUR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "AUCUBA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "AURA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AURAR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AURIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AURORA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BABU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BOUBOU",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BUBBA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BUBO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BUBU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BURA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BURB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BURR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BURRO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CARIBOU",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "CRUOR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CRURA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CUBIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CURACAO",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CURACOA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CURARA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CURARI",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CURB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CURIA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CURIO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CURR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OCCUR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OURARI",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RUBABOO",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RUBBABOO",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RUBRIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "URARI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "URBIA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "URIC",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

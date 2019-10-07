@@ -1,0 +1,227 @@
+{
+    "letters": "RGILMPS",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 89,
+    "word_count": 41,
+    "pangram_count": 1,
+    "pangram_list": [
+        "PILGRIMS"
+    ],
+    "word_list": [
+        {
+            "word": "GIRL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GIRLS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GRIG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GRIGRI",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GRIGRIS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GRIGS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GRILL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GRILLS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GRIM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GRIP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GRIPS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "IMPRIMIS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "IRIS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LIRI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MIRI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MIRS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PILGRIM",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PILGRIMS",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "PRIG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PRIGGISM",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PRIGGISMS",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PRIGS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PRILL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PRILLS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PRIM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PRIMI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PRIMP",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PRIMPS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PRIMS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PRISM",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PRISMS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PRISS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RIGS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RILLS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RIMS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RIPS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SIRS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SPRIG",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SPRIGS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SRIS",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

@@ -1,0 +1,217 @@
+{
+    "letters": "KDEORVW",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 109,
+    "word_count": 39,
+    "pangram_count": 1,
+    "pangram_list": [
+        "OVERWORKED"
+    ],
+    "word_list": [
+        {
+            "word": "DEKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DEKED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DEKKO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DORK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DREK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EKED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EVOKE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EVOKED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EVOKER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KEEK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KEEKED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KEEVE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KOODOO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KOOK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KORE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KREWE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OVERWORK",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "OVERWORKED",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "REEK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "REEKED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REEKER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REEVOKE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "REEVOKED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "REVOKE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REVOKED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "REVOKER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "REWOKE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REWORK",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REWORKED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ROOK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROOKED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WEEK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WOKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WOODWORK",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "WOODWORKER",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "WORK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WORKED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WORKER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WORKWEEK",
+            "score": 5,
+            "pangram": false
+        }
+    ]
+}

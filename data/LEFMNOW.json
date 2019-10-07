@@ -1,0 +1,262 @@
+{
+    "letters": "LEFMNOW",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 88,
+    "word_count": 48,
+    "pangram_count": 1,
+    "pangram_list": [
+        "FELLOWMEN"
+    ],
+    "word_list": [
+        {
+            "word": "ENOL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FEEL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FELLOE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FELLOW",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FELLOWMEN",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "FELON",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FENNEL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FLEE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FLEW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FLOE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FLOW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FLOWN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FOLLOW",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FOOL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FOWL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LEMON",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LENO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LEONE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LOLL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LONE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOOF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOOM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOWE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOWN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MELEE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MELLOW",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MELON",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MEWL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOLE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOLL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOOL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NEWEL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NOEL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NOLO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NONWOOL",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "OENOMEL",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "OLEO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WEEL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WOLF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WOOL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WOOLEN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WOOLFELL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "WOOLLEN",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WOOLMEN",
+            "score": 4,
+            "pangram": false
+        }
+    ]
+}

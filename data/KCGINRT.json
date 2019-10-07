@@ -1,0 +1,172 @@
+{
+    "letters": "KCGINRT",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 83,
+    "word_count": 30,
+    "pangram_count": 1,
+    "pangram_list": [
+        "TRICKING"
+    ],
+    "word_list": [
+        {
+            "word": "CRICK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CRICKING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GINK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "INKING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "IRKING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KICK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KICKING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "KING",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KINGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "KININ",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KINK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KINKING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "KINNIKINNICK",
+            "score": 9,
+            "pangram": false
+        },
+        {
+            "word": "KIRK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KIRN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KIRNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "KITING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KITTING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "KNIT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KNITTING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "NICK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NICKING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RICK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RICKING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RINK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TICK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TICKING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TIKI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TRICK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TRICKING",
+            "score": 5,
+            "pangram": true
+        }
+    ]
+}

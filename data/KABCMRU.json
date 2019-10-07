@@ -1,0 +1,212 @@
+{
+    "letters": "KABCMRU",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 82,
+    "word_count": 38,
+    "pangram_count": 1,
+    "pangram_list": [
+        "BUCKRAM"
+    ],
+    "word_list": [
+        {
+            "word": "ABACK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ABAKA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AMUCK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ARAK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ARRACK",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BABKA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BACK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BARK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BARRACK",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BUCK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BUCKRA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BUCKRAM",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "BURKA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CARACK",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CARK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CARRACK",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CRACK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CRACKBACK",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CRUCK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KABAB",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KABAKA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KABAR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KAKA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KARMA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KBAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KURU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MACK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MAKAR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MARK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MARKA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MARKKA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MARKKAA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MUCK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MUCKAMUCK",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MURK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RACK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RAKU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RUCK",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

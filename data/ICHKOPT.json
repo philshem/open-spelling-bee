@@ -1,0 +1,257 @@
+{
+    "letters": "ICHKOPT",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 100,
+    "word_count": 47,
+    "pangram_count": 1,
+    "pangram_list": [
+        "TOOTHPICK"
+    ],
+    "word_list": [
+        {
+            "word": "CHIC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHICHI",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CHICK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHICO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHIP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHIT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COCCI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COCCIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COCKPIT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HICK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HIPPO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HITCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HOICK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ICTIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ITCH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KICK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KITH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OCTOPI",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "OPHITIC",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "OPTIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OTIC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OTITIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PHOTIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PHOTOPIC",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PICK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PICOT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PIKI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PIPIT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PITCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PITH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PTOTIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "THICK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "THIO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TICK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TICKTOCK",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TICTOC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TIKI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TIPI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TIPTOP",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TITI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOIT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOOTHPICK",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "TOPHI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TOPI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOPIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TOPKICK",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TOPOI",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

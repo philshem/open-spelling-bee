@@ -1,0 +1,222 @@
+{
+    "letters": "FABEHKL",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 90,
+    "word_count": 40,
+    "pangram_count": 1,
+    "pangram_list": [
+        "HALFBEAK"
+    ],
+    "word_list": [
+        {
+            "word": "AFFABLE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ALEF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ALFA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ALFALFA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BAFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BAFFLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BEEF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BEFALL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BEFELL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BEFLEA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BEHALF",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BLAFF",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EFFABLE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FABLE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FAKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FALAFEL",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FALBALA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FALL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FALLAL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FEAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FEEB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FEEBLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FEEL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FELAFEL",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FELLA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FELLABLE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FELLAH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FLAB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FLABELLA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FLAK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FLAKE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FLEA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FLEE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HAAF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HALF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HALFBEAK",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "KEEF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KHAF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LEAF",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

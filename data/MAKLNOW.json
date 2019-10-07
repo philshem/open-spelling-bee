@@ -1,0 +1,237 @@
+{
+    "letters": "MAKLNOW",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 80,
+    "word_count": 43,
+    "pangram_count": 1,
+    "pangram_list": [
+        "MOONWALK"
+    ],
+    "word_list": [
+        {
+            "word": "ALAMO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ALMA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AMMO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AMMONAL",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "AMMONO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "AMOK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KALAM",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KAMALA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LAMA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LAWMAN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LLAMA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LOAM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOOM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MAKO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MALL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MALLOW",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MALM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MAMA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MAMMA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MAMMAL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MAMMON",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MANA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MANANA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MANNA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MANNAN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MANO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MAWN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOLA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOLAL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MOLL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOMMA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MONK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MONO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOOL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOOLA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOONWALK",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "MOWN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NOMA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NONMAN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WOMAN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WOOLMAN",
+            "score": 4,
+            "pangram": false
+        }
+    ]
+}

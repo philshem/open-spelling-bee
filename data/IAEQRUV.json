@@ -1,0 +1,232 @@
+{
+    "letters": "IAEQRUV",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 115,
+    "word_count": 42,
+    "pangram_count": 1,
+    "pangram_list": [
+        "AQUIVER"
+    ],
+    "word_list": [
+        {
+            "word": "AERIE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AERIER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "AIRER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AIRIER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "AIVER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AQUARIA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "AQUIVER",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "ARIA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ARRIVE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ARRIVER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "AUREI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EERIE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EERIER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "QUAI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "QUARRIER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "QUERIER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "QUIRE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "QUIVER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "QUIVERER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RAIA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "REIVE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "REIVER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REQUIRE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "REQUIRER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "REVERIE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "REVIVE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REVIVER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RIEVER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RIVE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RIVER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RIVIERA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RIVIERE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "URAEI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "URARI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VAIR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VARIA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VARIER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VERIER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VIER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VIVA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VIVARIA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "VIVE",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

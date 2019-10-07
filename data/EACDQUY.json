@@ -1,0 +1,222 @@
+{
+    "letters": "EACDQUY",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 92,
+    "word_count": 40,
+    "pangram_count": 1,
+    "pangram_list": [
+        "ADEQUACY"
+    ],
+    "word_list": [
+        {
+            "word": "ACCEDE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ACCEDED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ACED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ADDED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ADDUCE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ADDUCED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ADEQUACY",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "AQUACADE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "AQUAE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CADE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CAECA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CECA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CEDE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CEDED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CUED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DACE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DEAD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DEADEYE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DECADE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DECAY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DECAYED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DEDUCE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEDUCED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DEED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DEEDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEEDY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DEUCE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DEUCED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DUCE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUDE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUDED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DYED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EDDY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EDUCE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EDUCED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EYED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "QUADDED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "QUEUE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "QUEUED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "QUEY",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

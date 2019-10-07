@@ -1,0 +1,187 @@
+{
+    "letters": "XAEGRST",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 100,
+    "word_count": 33,
+    "pangram_count": 1,
+    "pangram_list": [
+        "EXAGGERATES"
+    ],
+    "word_list": [
+        {
+            "word": "AXES",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EXAGGERATE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "EXAGGERATES",
+            "score": 8,
+            "pangram": true
+        },
+        {
+            "word": "EXEGESES",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "EXEGETE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "EXEGETES",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "EXERT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EXERTS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EXES",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EXSERT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EXSERTS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "EXTRA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EXTRAS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RAXES",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RETAX",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RETAXES",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "REXES",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SAXES",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SEXES",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SEXT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SEXTET",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SEXTETS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "SEXTETTE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "SEXTETTES",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "SEXTS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TAXA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TAXER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TAXERS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TAXES",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TEXAS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TEXASES",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TEXT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TEXTS",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

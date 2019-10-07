@@ -1,0 +1,242 @@
+{
+    "letters": "YACLMNU",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 96,
+    "word_count": 44,
+    "pangram_count": 1,
+    "pangram_list": [
+        "CALUMNY"
+    ],
+    "word_list": [
+        {
+            "word": "ACYL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ALANYL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ALLAY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ALLY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ALLYL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AMYL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AMYLUM",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ANALLY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ANNUALLY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CALMLY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CALUMNY",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "CANNY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CAYMAN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CLAMMY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CLAY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CULLAY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CULLY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CYAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CYMA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LACY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LAYMAN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LUNACY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LUNY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MALMY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MAMMY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MANLY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MANUALLY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MANY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MAYA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MAYAN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MUMMY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MYNA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NANCY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NANNY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NYALA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UNCANNY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "UNLAY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UNMANLY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "YAMUN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "YUAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YUCA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YUCCA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "YULAN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "YUMMY",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}
