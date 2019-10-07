@@ -1,0 +1,212 @@
+{
+    "letters": "UACDEHP",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 99,
+    "word_count": 38,
+    "pangram_count": 1,
+    "pangram_list": [
+        "CAPUCHED"
+    ],
+    "word_list": [
+        {
+            "word": "ADDUCE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ADDUCED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "AUDAD",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CACHUCHA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CAPUCHE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CAPUCHED",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "CAUDAD",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CHAPEAU",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CHUDDAH",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CHUPPA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CHUPPAH",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CUED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CUPPA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CUPPED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEDUCE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEDUCED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DEUCE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DEUCED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DUAD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUCE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUDE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUDED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DUPE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUPED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DUPPED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EDUCE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EDUCED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HEUCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HUED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HUPPAH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PUCE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PUPA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PUPAE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PUPPED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PUPU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "UPHEAP",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "UPHEAPED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "UPPED",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

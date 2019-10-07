@@ -1,0 +1,227 @@
+{
+    "letters": "HACEKMN",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 86,
+    "word_count": 41,
+    "pangram_count": 1,
+    "pangram_list": [
+        "HACKMEN"
+    ],
+    "word_list": [
+        {
+            "word": "ACHE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ACHENE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "AHEM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AMAH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ANKH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CACHE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CANCHA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CHACHKA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CHACMA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CHAM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHANCE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CHECK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHEEK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EACH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ECHE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ENHANCE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HACEK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HACK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HACKEE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HACKMAN",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HACKMEN",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "HAEM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HAEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HAHA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HAKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HAKEEM",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HAME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HAMMAM",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HANCE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HANK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HECK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HEME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HENCE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HENCHMAN",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "HENCHMEN",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "HENNA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KENCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KHAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MACH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MACHE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MANCHE",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

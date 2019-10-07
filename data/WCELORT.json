@@ -1,0 +1,247 @@
+{
+    "letters": "WCELORT",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 100,
+    "word_count": 45,
+    "pangram_count": 1,
+    "pangram_list": [
+        "COLEWORT"
+    ],
+    "word_list": [
+        {
+            "word": "CLEW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COLEWORT",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "COWER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COWL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COWROTE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CREW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CREWEL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CROW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CROWER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ETWEE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EWER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOWE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOWER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OWLET",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "REWET",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "REWORE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REWROTE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ROWEL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ROWER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TOWEL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TOWELETTE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TOWER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TROW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TROWEL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TROWELER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TROWELLER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TWEE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TWEET",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TWEETER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WEEL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WEER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WEET",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WEEWEE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WELT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WELTER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WERE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WERT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WETTER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WOOER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WOOL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WOOLER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WORE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WORT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WROTE",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

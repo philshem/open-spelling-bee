@@ -1,0 +1,237 @@
+{
+    "letters": "YAKLMOW",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 87,
+    "word_count": 43,
+    "pangram_count": 1,
+    "pangram_list": [
+        "MOLLYMAWK"
+    ],
+    "word_list": [
+        {
+            "word": "ALKY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ALKYL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ALLAY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ALLOY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ALLY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ALLYL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ALWAY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AMYL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AWAY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KAYAK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KAYO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KOOKY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KYAK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LAKY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LAYAWAY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "LOAMY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LOLLY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LOWLY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LOYAL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LOYALLY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MALMY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MAMMY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MAYA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MAYO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOLLY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MOLLYMAWK",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "MOLY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOMMY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MYOMA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OAKY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OKAY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WALKAWAY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "WALKWAY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WALLY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WALY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WAYLAY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WOOLLY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WOOLY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "YAMALKA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "YAWL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YOLK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YOLKY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "YOWL",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

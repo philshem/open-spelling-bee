@@ -166,7 +166,7 @@ def main(puzzle_input=None):
 	#words = words[0:10000] #debug
 	print ('total words: ', len(words))
 	pool = get_pangramable_letter_pool(words)
-	print (f'unique {params.TOTAL_LETTER_COUNT}-letter pool: ', len(pool))
+	print ('unique {params.TOTAL_LETTER_COUNT}-letter pool: ', len(pool))
 
 	# header for csv output
 	print ('\t'.join(('letters', 'word_count', 'total_score', 'pangram_count', 'is_valid')))

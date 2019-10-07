@@ -1,0 +1,272 @@
+{
+    "letters": "MCDEHOP",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 101,
+    "word_count": 50,
+    "pangram_count": 1,
+    "pangram_list": [
+        "CHOMPED"
+    ],
+    "word_list": [
+        {
+            "word": "CHEMO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHOMP",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHOMPED",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "COME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COMEDO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COMMODE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "COMP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COMPED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COMPO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DEEM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DEEMED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DEMO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DEMODE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEMODED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DEMOED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DOME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOMED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DOOM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOOMED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EMCEE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EMCEED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HEME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HEMMED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HEMP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HOME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HOMED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HOMO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MEED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MEME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MEMO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MODE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MODEM",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MODEMED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MOME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOOCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MOOCHED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MOOD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOOED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MOPE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOPED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MOPPED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "OOMPH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "POEM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POMMEE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "POMO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POMP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POMPOM",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "POPEDOM",
+            "score": 4,
+            "pangram": false
+        }
+    ]
+}

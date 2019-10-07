@@ -1,0 +1,202 @@
+{
+    "letters": "ZACEIRS",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 93,
+    "word_count": 36,
+    "pangram_count": 1,
+    "pangram_list": [
+        "CRAZIES"
+    ],
+    "word_list": [
+        {
+            "word": "ASSIZE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ASSIZES",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CRAZE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CRAZES",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CRAZIER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CRAZIES",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "CZAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CZARS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "IZAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "IZARS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RAZE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RAZEE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RAZEES",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RAZER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RAZERS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RAZES",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RAZZ",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RAZZES",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RESEIZE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RESEIZES",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RESIZE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RESIZES",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "SEIZE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SEIZER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SEIZERS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "SEIZES",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SIZAR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SIZARS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SIZE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SIZER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SIZERS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SIZES",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SIZIER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ZAIRE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ZAIRES",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ZEES",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

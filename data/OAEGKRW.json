@@ -1,0 +1,272 @@
+{
+    "letters": "OAEGKRW",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 103,
+    "word_count": 50,
+    "pangram_count": 1,
+    "pangram_list": [
+        "WAGEWORKER"
+    ],
+    "word_list": [
+        {
+            "word": "AERO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AGGRO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AGOG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AGORA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AGORAE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ARROW",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AWOKE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ERGO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ERROR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GOER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOGO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOOK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GORE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GORGE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GORGER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GOWK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GREGO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GROG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GROK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GROW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GROWER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KARAOKE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "KAROO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KARROO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KOOK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KORA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KORE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OGEE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OGRE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OKRA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ORRA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "REAWOKE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "REGORGE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "REGROW",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REWOKE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REWORE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REWORK",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ROAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROARER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ROGER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ROOK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROWER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WAGEWORKER",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "WARWORK",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WOKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WOOER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WORE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WORK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WORKER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WORKWEEK",
+            "score": 5,
+            "pangram": false
+        }
+    ]
+}

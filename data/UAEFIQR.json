@@ -1,0 +1,197 @@
+{
+    "letters": "UAEFIQR",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 88,
+    "word_count": 35,
+    "pangram_count": 1,
+    "pangram_list": [
+        "AQUIFER"
+    ],
+    "word_list": [
+        {
+            "word": "AQUA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AQUAE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AQUARIA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "AQUIFER",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "AURA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AURAE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AURAR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AUREI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FAQUIR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FEUAR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FIQUE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FURFUR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FURRIER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "QUAERE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "QUAFF",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "QUAFFER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "QUAI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "QUARE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "QUARRIER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "QUEER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "QUEERER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "QUERIER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "QUEUE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "QUEUER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "QUIFF",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "QUIRE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "REQUIRE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "REQUIRER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RUER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RUFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RUFFE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "URAEI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "URARE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "URARI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UREA",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

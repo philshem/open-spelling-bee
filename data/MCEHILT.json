@@ -1,0 +1,272 @@
+{
+    "letters": "MCEHILT",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 104,
+    "word_count": 50,
+    "pangram_count": 1,
+    "pangram_list": [
+        "LITHEMIC"
+    ],
+    "word_list": [
+        {
+            "word": "CHEMIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CHIME",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CLIME",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ELEMI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EMCEE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EMETIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EMIC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EMIT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EMMET",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HELM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HELMET",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HEME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HEMIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ITEM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LIME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LIMIT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LITHEMIC",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "MEET",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MELEE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MELIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MELILITE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MELT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MEME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "METE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "METH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "METTLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MICE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MICELL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MICELLE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MICHE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MILCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MILE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MILLE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MILLET",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MILLIEME",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MILLIME",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MILT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MIME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MIMETIC",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MIMETITE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MIMIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MITE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MITT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TEEM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "THEM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "THEME",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TIME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TITMICE",
+            "score": 4,
+            "pangram": false
+        }
+    ]
+}

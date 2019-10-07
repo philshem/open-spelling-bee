@@ -1,0 +1,272 @@
+{
+    "letters": "IABKOSU",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 112,
+    "word_count": 50,
+    "pangram_count": 1,
+    "pangram_list": [
+        "BOUSOUKIA"
+    ],
+    "word_list": [
+        {
+            "word": "ABASIA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ABASIAS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ABIOSIS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ASKOI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ASSAI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ASSAIS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BASIS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BASSI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BIAS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BIBB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BIBBS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BIBS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BIOS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BISK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BISKS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BOUSOUKI",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BOUSOUKIA",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "BOUSOUKIS",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "IBIS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ISBA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ISBAS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KABIKI",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KABIKIS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "KABUKI",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KABUKIS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "KAIAK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KAIAKS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KAKI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KAKIS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KIBBI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KIBBIS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KIOSK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KIOSKS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KISS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KOIS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OASIS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OBIA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OBIAS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OBIS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OSSIA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SAKI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SAKIS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SIBB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SIBBS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SIBS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SIKA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SIKAS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SKIBOB",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SKIBOBS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "SKIS",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

@@ -1,0 +1,217 @@
+{
+    "letters": "NABCDKR",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 80,
+    "word_count": 39,
+    "pangram_count": 1,
+    "pangram_list": [
+        "BANKCARD"
+    ],
+    "word_list": [
+        {
+            "word": "ANNA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ARCANA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BANANA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BAND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BANDA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BANDANA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BANDANNA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BANK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BANKCARD",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "BARN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BARRANCA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BRAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BRAND",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BRANK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CABANA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CANARD",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CANCAN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CANNA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CARBARN",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CARN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CRANK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DANK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DARN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DRANK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KANA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KANAKA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KANBAN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KARN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KNACK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KNAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NAAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NADA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NANA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NARC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NARD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NARK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RAND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RANDAN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RANK",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

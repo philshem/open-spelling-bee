@@ -1,0 +1,202 @@
+{
+    "letters": "IABEGTY",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 84,
+    "word_count": 36,
+    "pangram_count": 1,
+    "pangram_list": [
+        "GIGABYTE"
+    ],
+    "word_list": [
+        {
+            "word": "AGGIE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AGITA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AGITATE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BABBITT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BAGGIE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BAIT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BEIGE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BEIGY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BIBB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BIGEYE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BIGGETY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BIGGIE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BIGGITY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BIGGY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BITE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BITT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BITTY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GAIETY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GAIT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GIBBET",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GIBE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GIGA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GIGABIT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GIGABYTE",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "GITE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TAIGA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TATTIE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TIBIA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TIBIAE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TITBIT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TITI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TITTIE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TITTY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "YABBIE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "YAGI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YETI",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

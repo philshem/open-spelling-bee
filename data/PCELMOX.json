@@ -1,0 +1,257 @@
+{
+    "letters": "PCELMOX",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 87,
+    "word_count": 47,
+    "pangram_count": 1,
+    "pangram_list": [
+        "COMPLEX"
+    ],
+    "word_list": [
+        {
+            "word": "CEPE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CLEPE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CLOMP",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CLOP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COLLOP",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COMP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COMPEL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COMPLEX",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "COMPO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COOP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COPE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ELOPE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EPEE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EPOPEE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EXPEL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EXPELLEE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "EXPO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOLLOP",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LOOP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOPE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOPE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PEEL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PEEP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PELE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PELLMELL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PEOPLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PEPO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PLEX",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PLOP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POCO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POEM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POLE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POLL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POLLEE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "POLLEX",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "POLO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POMELO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "POMMEE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "POMMEL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "POMO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POMP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POMPOM",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "POOL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POOP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POPE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POPPLE",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

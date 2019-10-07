@@ -1,0 +1,232 @@
+{
+    "letters": "CBDEKTU",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 102,
+    "word_count": 42,
+    "pangram_count": 1,
+    "pangram_list": [
+        "BUCKETED"
+    ],
+    "word_list": [
+        {
+            "word": "BECK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BECKED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BECKET",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BEDECK",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BEDECKED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BUCK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BUCKED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BUCKET",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BUCKETED",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "CEDE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CEDED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CETE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CUBE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CUBEB",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CUBED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CUED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CUKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CUTE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DECK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DECKED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEDUCE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEDUCED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DEDUCT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEDUCTED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DETECT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DETECTED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DEUCE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DEUCED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DUCE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUCK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUCKED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DUCT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUCTED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EDUCE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EDUCED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EDUCT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KEBBUCK",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "KECK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KECKED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TUCK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TUCKED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TUCKET",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

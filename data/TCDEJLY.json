@@ -1,0 +1,182 @@
+{
+    "letters": "TCDEJLY",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 82,
+    "word_count": 32,
+    "pangram_count": 1,
+    "pangram_list": [
+        "DEJECTEDLY"
+    ],
+    "word_list": [
+        {
+            "word": "CELT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CETE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DEET",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DEJECT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEJECTED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DEJECTEDLY",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "DELETE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DELETED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DELT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DETECT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DETECTED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "EJECT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EJECTED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ELECT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ELECTED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ELECTEE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "EYELET",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EYELETTED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "JETE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "JETTED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "JETTY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LEET",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LETTED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TEDDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TEDDY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TEED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TEEL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TELE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TELLY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TYEE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YETT",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

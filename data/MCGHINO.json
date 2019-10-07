@@ -1,0 +1,202 @@
+{
+    "letters": "MCGHINO",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 104,
+    "word_count": 36,
+    "pangram_count": 1,
+    "pangram_list": [
+        "MOOCHING"
+    ],
+    "word_list": [
+        {
+            "word": "CHIMING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "COMIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COMING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COMMON",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GNOMIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GNOMON",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GNOMONIC",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "HOMING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HOMO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "IMINO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "INCOMING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MICHING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MIGG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MIGNON",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MIMIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MIMING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MINCING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MINI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MINIM",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MINING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MINION",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MOGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MOMI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MONGO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MONO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOOCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MOOCHING",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "MOOING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOONING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "NIMMING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "NOMOI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NONCOM",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NONOHMIC",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "OHMIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ONCOMING",
+            "score": 5,
+            "pangram": false
+        }
+    ]
+}

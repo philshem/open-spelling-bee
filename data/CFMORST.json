@@ -1,0 +1,237 @@
+{
+    "letters": "CFMORST",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 90,
+    "word_count": 43,
+    "pangram_count": 1,
+    "pangram_list": [
+        "COMFORTS"
+    ],
+    "word_list": [
+        {
+            "word": "COCO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COCOS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COFFS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COFT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COMFORT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "COMFORTS",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "COOCOO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COOF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COOFS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COOS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COOTS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CORF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CORM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CORMS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CORS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COSMOS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COSS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COST",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COSTS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COTS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CROC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CROCS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CROFT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CROFTS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CROSS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MOCS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOROCCO",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MOROCCOS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MOTOCROSS",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ORCS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROCOCO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ROCOCOS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ROCS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SCOFF",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SCOFFS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SCOOT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SCOOTS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SCOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SCOTS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TORC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TORCS",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

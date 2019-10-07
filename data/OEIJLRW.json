@@ -1,0 +1,242 @@
+{
+    "letters": "OEIJLRW",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 108,
+    "word_count": 44,
+    "pangram_count": 1,
+    "pangram_list": [
+        "JOWLIER"
+    ],
+    "word_list": [
+        {
+            "word": "ERROR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "JELLO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "JOLE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "JOLLIER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "JOWL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "JOWLIER",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "LILO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOLL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOLLER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LOOIE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LORE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOWE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOWER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LOWLIER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "OILER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OILIER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "OLEO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OLIO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OORIE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ORIEL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ORIOLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ORLE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "REOIL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "REROLL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REROLLER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "REWORE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ROIL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROILIER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ROLE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROLL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROLLER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ROWEL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ROWER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WILLOW",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WILLOWER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "WILLOWIER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "WOOER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WOOL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WOOLER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WOOLIE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WOOLIER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WOOLLIER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "WORE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WORRIER",
+            "score": 4,
+            "pangram": false
+        }
+    ]
+}

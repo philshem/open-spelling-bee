@@ -1,0 +1,237 @@
+{
+    "letters": "XAEFLST",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 115,
+    "word_count": 43,
+    "pangram_count": 1,
+    "pangram_list": [
+        "TELEFAXES"
+    ],
+    "word_list": [
+        {
+            "word": "AXAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AXEL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AXELS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AXES",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AXLE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AXLES",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EXALT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EXALTS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EXES",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FALX",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FAXES",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FLAX",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FLAXES",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FLEX",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FLEXES",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LATEX",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LATEXES",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "LAXES",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LAXEST",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LEXES",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SAXES",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SEXES",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SEXLESS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "SEXT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SEXTET",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SEXTETS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "SEXTETTE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "SEXTETTES",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "SEXTS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TAXA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TAXES",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TAXLESS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TELEFAX",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TELEFAXES",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "TELETEXT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TELETEXTS",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TELEX",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TELEXES",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TEXAS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TEXASES",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TEXT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TEXTLESS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TEXTS",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

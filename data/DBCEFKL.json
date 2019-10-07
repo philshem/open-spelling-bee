@@ -1,0 +1,217 @@
+{
+    "letters": "DBCEFKL",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 98,
+    "word_count": 39,
+    "pangram_count": 1,
+    "pangram_list": [
+        "BEFLECKED"
+    ],
+    "word_list": [
+        {
+            "word": "BECKED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BEDDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BEDECK",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BEDECKED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BEDEL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BEDELL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BEEFED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BEFLECKED",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "BELLED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BLED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BLEED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CEDE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CEDED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CELLED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CLEEKED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DECK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DECKED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DECKEL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DECKLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DEEDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DEKED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DELE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DELED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DELF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EBBED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EKED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FEED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FELLED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FLECKED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FLED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FLEECED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "KECKED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KECKLED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "KEEKED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KEELED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LEKKED",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

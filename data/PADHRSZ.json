@@ -1,0 +1,252 @@
+{
+    "letters": "PADHRSZ",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 100,
+    "word_count": 46,
+    "pangram_count": 1,
+    "pangram_list": [
+        "HAPHAZARDS"
+    ],
+    "word_list": [
+        {
+            "word": "APPS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ASPS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DAPS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HAPHAZARD",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "HAPHAZARDS",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "HAPS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HARP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HARPS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HASP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HASPS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PADS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PADSHAH",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PADSHAHS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PAPA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PAPAS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PAPS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PARA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PARAPH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PARAPHS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PARAS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PARASHAH",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PARASHAHS",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PARD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PARDAH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PARDAHS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PARDS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PARR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PARRS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PARS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PASH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PASHA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PASHAS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PASS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PAZAZZ",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RAPS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RASP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RASPS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SAPS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SHARP",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SHARPS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SPAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SPARS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SPAS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SPAZ",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SPAZZ",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ZAPS",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

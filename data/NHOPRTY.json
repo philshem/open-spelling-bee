@@ -1,0 +1,207 @@
+{
+    "letters": "NHOPRTY",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 93,
+    "word_count": 37,
+    "pangram_count": 1,
+    "pangram_list": [
+        "PHYTOTRON"
+    ],
+    "word_list": [
+        {
+            "word": "HONOR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HORN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HORNY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HYPOPYON",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "NONPOOR",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "NOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NORTH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ONTO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PHON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PHONO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PHONON",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PHONOTYPY",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PHONY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PHOTON",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PHYTON",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PHYTOTRON",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "PONTON",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PONTOON",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PONY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PORN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PORNO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PORNY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PRONTO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PROTON",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PYTHON",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RHYTON",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RONYON",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "THORN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "THORNY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "THORON",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TONY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TORN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOYON",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TYPHON",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TYPHOON",
+            "score": 4,
+            "pangram": false
+        }
+    ]
+}

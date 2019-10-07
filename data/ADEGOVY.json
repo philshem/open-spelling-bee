@@ -1,0 +1,232 @@
+{
+    "letters": "ADEGOVY",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 81,
+    "word_count": 42,
+    "pangram_count": 1,
+    "pangram_list": [
+        "VOYAGED"
+    ],
+    "word_list": [
+        {
+            "word": "ADAGE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ADDED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AGAVE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AGED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AGEE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AGGADA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "AGOG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DADA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DADDY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DADO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DADOED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DAGGA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DAGO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DAVY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DEAD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DEADEYE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DEAVE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DEAVED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEGAGE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEVA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOODAD",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DYAD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EAVE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EAVED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EGAD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EVADE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EVADED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GADDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GAED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GAGA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GAGE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GAGED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GAGGED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GAVAGE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GAVE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOAD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOADED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ODEA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OGDOAD",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VOYAGE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VOYAGED",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "YOGA",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

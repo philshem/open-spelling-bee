@@ -1,0 +1,187 @@
+{
+    "letters": "CABDIMY",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 87,
+    "word_count": 33,
+    "pangram_count": 1,
+    "pangram_list": [
+        "CYMBIDIA"
+    ],
+    "word_list": [
+        {
+            "word": "ABACA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ABACI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ABBACY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ACACIA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ACCIDIA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ACID",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ACIDIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ACIDY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ACMIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AMICI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AMIDIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BACCA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CABBY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CACA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CADDY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CADI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CADMIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CAID",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CAMBIA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CICADA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CYCAD",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CYMA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CYMBIDIA",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "DIACID",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DIACIDIC",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DICAMBA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DYADIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "IAMBIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "IMIDIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MACADAM",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MACADAMIA",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MICA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MIMIC",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

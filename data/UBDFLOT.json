@@ -1,0 +1,237 @@
+{
+    "letters": "UBDFLOT",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 86,
+    "word_count": 43,
+    "pangram_count": 1,
+    "pangram_list": [
+        "DOUBTFUL"
+    ],
+    "word_list": [
+        {
+            "word": "BLUB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BLUFF",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BOUBOU",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BOUT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BUBO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BUBU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BUFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BUFFO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BULB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BULBUL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BUTT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BUTUT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DOUBT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DOUBTFUL",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "DUFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FLOUT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FLUB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FLUBDUB",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FLUFF",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FOLDOUT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FOUL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FULLBLOOD",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "LOUD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOUT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LUFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LULU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OUTBLUFF",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "OUTDO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OUTFOOL",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "OUTFOOT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "OUTTOLD",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TOFU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOLU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOLUOL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TOUT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TUBFUL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TUFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TUFT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TUTU",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

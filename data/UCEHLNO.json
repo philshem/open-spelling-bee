@@ -1,0 +1,207 @@
+{
+    "letters": "UCEHLNO",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 90,
+    "word_count": 37,
+    "pangram_count": 1,
+    "pangram_list": [
+        "LUNCHEON"
+    ],
+    "word_list": [
+        {
+            "word": "CELLULE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CHUNNEL",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CLUE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COHUNE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COUCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COULEE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CULCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ENOUNCE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "EUNUCH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HEUCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HULLO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HULLOO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HUNCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HUNH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOCULE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LOUCHE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LUCE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LUCENCE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "LULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LULU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LUNCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LUNCHEON",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "LUNE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LUNULE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NOUN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NUCLEOLE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "NUCLEON",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "NULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NUNCLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "OUCH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OUNCE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UNCLE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UNCLENCH",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "UNCO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "UNCOOL",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

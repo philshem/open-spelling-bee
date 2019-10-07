@@ -1,0 +1,242 @@
+{
+    "letters": "PCEIMTU",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 96,
+    "word_count": 44,
+    "pangram_count": 1,
+    "pangram_list": [
+        "PUMICITE"
+    ],
+    "word_list": [
+        {
+            "word": "CEPE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CUTUP",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EPEE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EPIC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EUPEPTIC",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "IMPI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "IMPUTE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "METUMP",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MUMP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PECTIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PEEP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PEPTIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PETIT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PETITE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PETTI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PICE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PIECE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PIMP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PIPE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PIPET",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PIPETTE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PIPIT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PTUI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PUCE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PUMICE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PUMICITE",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "PUMP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PUPPET",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PUPU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PUTT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PUTTEE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PUTTI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PUTTIE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TEEPEE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TEMP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TEMPI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TEMPT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TEPEE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TIMEPIECE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TIPI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TIPPET",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TITTUP",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TUMP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "UPTIME",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

@@ -1,0 +1,202 @@
+{
+    "letters": "MBCEIKL",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 81,
+    "word_count": 36,
+    "pangram_count": 1,
+    "pangram_list": [
+        "LIMBECK"
+    ],
+    "word_list": [
+        {
+            "word": "CLIMB",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CLIME",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ELEMI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EMBLEM",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EMCEE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EMIC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "IMBECILE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "IMBECILIC",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "IMBIBE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KELIM",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KILIM",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LIMB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LIMBECK",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "LIMBI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LIMBIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LIME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MEEK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MEIKLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MELEE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MELIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MEME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MICE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MICELL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MICELLE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MICK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MICKLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MIKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MILE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MILK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MILLE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MILLIEME",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MILLIME",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MIME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MIMIC",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

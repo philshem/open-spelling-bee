@@ -1,0 +1,192 @@
+{
+    "letters": "BEGIMNX",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 99,
+    "word_count": 34,
+    "pangram_count": 1,
+    "pangram_list": [
+        "BEMIXING"
+    ],
+    "word_list": [
+        {
+            "word": "BEEBEE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BEEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BEGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BEGIN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BEGINNING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BEIGE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BEIGNE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BEING",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BEMIX",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BEMIXING",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "BENE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BENIGN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BENNE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BENNI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BIBB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BIBBING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BIGGIE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BIGGIN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BIGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BINE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BINGE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BINGEING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BINGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BINNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "EBBING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GIBBING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GIBE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GIBING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "IBEX",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "IMBIBE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "IMBIBING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "INBEING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "NIBBING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "NIMBI",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

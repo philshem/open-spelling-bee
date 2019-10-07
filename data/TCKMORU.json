@@ -1,0 +1,247 @@
+{
+    "letters": "TCKMORU",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 89,
+    "word_count": 45,
+    "pangram_count": 1,
+    "pangram_list": [
+        "MOTORTRUCK"
+    ],
+    "word_list": [
+        {
+            "word": "COOKOUT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "COOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COURT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COURTROOM",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CURT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CUTOUT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KOTO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MORT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOTMOT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MOTOR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MOTORTRUCK",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "MOTT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOTTO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MUKTUK",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MUTT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OTTO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OUTCOOK",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "OUTROCK",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "OUTROOT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "OUTTROT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ROOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROTO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROTOR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ROUT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOOK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOOM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TORC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TORO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOROT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TORR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TORT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOUR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOUT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TROCK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TROT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TROUT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TRUCK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TUCK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TUMOR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TUMOUR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TURK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TUTOR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TUTU",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

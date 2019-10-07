@@ -1,0 +1,237 @@
+{
+    "letters": "NAHRSVY",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 103,
+    "word_count": 43,
+    "pangram_count": 1,
+    "pangram_list": [
+        "HRYVNAS"
+    ],
+    "word_list": [
+        {
+            "word": "ANAS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ANNA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ANNAS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ANSA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ASANA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ASANAS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HANSA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HANSAS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HRYVNA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HRYVNAS",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "NAAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NAANS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NANA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NANAS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NANNY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NANS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NARY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NAVAR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NAVARS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NAVVY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NAVY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NAYS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NAYSAY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NAYSAYS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "SANS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SANSAR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SANSARS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "SARAN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SARANS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SAVANNA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "SAVANNAH",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "SAVANNAHS",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "SAVANNAS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "SHANNY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SHARN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SHARNS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SHARNY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SNASH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VANS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VARNA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VARNAS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "YARN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YARNS",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

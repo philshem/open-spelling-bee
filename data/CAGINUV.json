@@ -1,0 +1,177 @@
+{
+    "letters": "CAGINUV",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 87,
+    "word_count": 31,
+    "pangram_count": 1,
+    "pangram_list": [
+        "VICUGNA"
+    ],
+    "word_list": [
+        {
+            "word": "ACACIA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ACING",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ACINI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ACINIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CACA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CAGING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CAIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CANCAN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CANING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CANNA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CANNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CAVING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CIVIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CUING",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CUNNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GUAIAC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ICING",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "INCAGING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "NIACIN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "UNCAGING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "UNCI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "UNCIA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UNCINI",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VACCINA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "VACCINIA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "VACUA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VICING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VICUGNA",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "VICUNA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VINCA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VINIC",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

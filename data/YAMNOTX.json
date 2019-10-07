@@ -1,0 +1,197 @@
+{
+    "letters": "YAMNOTX",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 83,
+    "word_count": 35,
+    "pangram_count": 1,
+    "pangram_list": [
+        "TAXONOMY"
+    ],
+    "word_list": [
+        {
+            "word": "ANATOMY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ANNOY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ANOMY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ANONYM",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ANTONYM",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ANTONYMY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ANYON",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ATAXY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ATOMY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ATONY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MAMMY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MANY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MAYA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MAYAN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MAYO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOMMY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MONOTONY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MONY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOONY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MYNA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MYOMA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MYOMATA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MYXOMA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MYXOMATA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "NANNY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NATTY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ONYX",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TAMMY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TANNOY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TATTY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TAXONOMY",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "TOMMY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TONY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOYO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOYON",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

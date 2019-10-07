@@ -1,0 +1,272 @@
+{
+    "letters": "WAGMNOS",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 94,
+    "word_count": 50,
+    "pangram_count": 1,
+    "pangram_list": [
+        "GOWNSMAN"
+    ],
+    "word_list": [
+        {
+            "word": "ASWOON",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "AWNS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GNAW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GNAWN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GNAWS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GOWAN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GOWANS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GOWN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOWNS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GOWNSMAN",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "MAWN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MAWS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOWN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOWS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NOWS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OWNS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SAWN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SAWS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SNAW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SNAWS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SNOW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SNOWMAN",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "SNOWS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SOWANS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SOWN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SOWS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SWAG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SWAGMAN",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "SWAGS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SWAM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SWAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SWANG",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SWANS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SWOON",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SWOONS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WAGGON",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WAGGONS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WAGON",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WAGONS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WAGS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WANGAN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WANGANS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WANS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WAWS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WOGS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WOMAN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WOMANS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WONS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WOOS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WOWS",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

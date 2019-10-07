@@ -1,0 +1,257 @@
+{
+    "letters": "UAGHLNY",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 88,
+    "word_count": 47,
+    "pangram_count": 1,
+    "pangram_list": [
+        "NYLGHAU"
+    ],
+    "word_list": [
+        {
+            "word": "AHULL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ALULA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ANNUAL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ANNUALLY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ANNUL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GAUN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GLUG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GUAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GUANAY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GULAG",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GULLY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GUNNY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HANGUL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HAUGH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HAUL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HULA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HUNG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HUNH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LAGUNA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LAUAN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LAUGH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LUAU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LULU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LUNA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LUNG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LUNGAN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LUNULA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LUNY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NULLAH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NYLGHAU",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "UGLY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "UHLAN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ULAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ULNA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "UNAU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "UNGUAL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "UNGULA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "UNHANG",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "UNHUNG",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "UNLAY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "YUAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YUGA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YULAN",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

@@ -1,0 +1,227 @@
+{
+    "letters": "BACKMRU",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 84,
+    "word_count": 41,
+    "pangram_count": 1,
+    "pangram_list": [
+        "BUCKRAM"
+    ],
+    "word_list": [
+        {
+            "word": "ABACA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ABACK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ABAKA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ABBA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AUCUBA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BABA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BABKA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BABU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BACCA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BACCARA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BACK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BARB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BARCA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BARK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BARM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BARRACK",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BRRR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BUBBA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BUBU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BUCK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BUCKRA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BUCKRAM",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "BURA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BURB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BURKA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BURR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CARAMBA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CARB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CRAB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CRACKBACK",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CRUMB",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CRUMBUM",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CURB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KABAB",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KABAKA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KABAR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KBAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MACUMBA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MAMBA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RUMBA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UMBRA",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

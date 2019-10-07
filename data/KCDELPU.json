@@ -1,0 +1,272 @@
+{
+    "letters": "KCDELPU",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 107,
+    "word_count": 50,
+    "pangram_count": 1,
+    "pangram_list": [
+        "PLUCKED"
+    ],
+    "word_list": [
+        {
+            "word": "CLEEK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CLEEKED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CLUCK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CLUCKED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CUKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DECK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DECKED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DECKEL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DECKLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DEKED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DUCK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUCKED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DUKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUKED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EKED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EKUELE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KECK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KECKED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KECKLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KECKLED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "KEEK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KEEKED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KEEL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KEELED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KEEP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KELEP",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KELP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KELPED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KEPPED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KUDU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LEEK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LEKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LEKKED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LEKU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LUCK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LUCKED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PECK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PECKED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PEEK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PEEKED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PEKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PLUCK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PLUCKED",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "PUCK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PUKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PUKED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UKELELE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "UKULELE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "UPKEEP",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

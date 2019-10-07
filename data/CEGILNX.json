@@ -1,0 +1,182 @@
+{
+    "letters": "CEGILNX",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 104,
+    "word_count": 32,
+    "pangram_count": 1,
+    "pangram_list": [
+        "EXCELLING"
+    ],
+    "word_list": [
+        {
+            "word": "CEIL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CEILI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CEILING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CELLI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CELLING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CILICE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CINE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CLINE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CLING",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CLINGING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CLINIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EXCEL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EXCELLENCE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "EXCELLING",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "EXEC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EXIGENCE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "EXILIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GENIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ICICLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ICING",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "INCLINE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "INCLINING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "LENIENCE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LICE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LICENCE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "LICENCEE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LICENCING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "NEGLIGENCE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "NICE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NIECE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "XENIC",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

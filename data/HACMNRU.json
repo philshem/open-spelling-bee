@@ -1,0 +1,227 @@
+{
+    "letters": "HACMNRU",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 103,
+    "word_count": 41,
+    "pangram_count": 1,
+    "pangram_list": [
+        "CHURCHMAN"
+    ],
+    "word_list": [
+        {
+            "word": "AMAH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ANARCH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ARCH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CACHUCHA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CANCHA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CHACMA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CHAM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHARM",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHARR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHUM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHURCH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CHURCHMAN",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "CHURN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHURR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CRANCH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CRAUNCH",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CRUNCH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CURCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CURRACH",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HAAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HAHA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HAMMAM",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HANUMAN",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HARM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HAUNCH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HUMAN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HUNCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HUNH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HURRAH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MACH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MARCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MUCH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MUNCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MURRHA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NUCHA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RANCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RANCHMAN",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RAUNCH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "UNCHURCH",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "UNHUMAN",
+            "score": 4,
+            "pangram": false
+        }
+    ]
+}

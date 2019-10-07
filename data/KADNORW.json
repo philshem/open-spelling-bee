@@ -1,0 +1,227 @@
+{
+    "letters": "KADNORW",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 81,
+    "word_count": 41,
+    "pangram_count": 1,
+    "pangram_list": [
+        "DRAWNWORK"
+    ],
+    "word_list": [
+        {
+            "word": "ANORAK",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ARAK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AWKWARD",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DANK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DARK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DAWK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DORK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DRANK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DRAWNWORK",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "KAKA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KANA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KANAKA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KAON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KARN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KAROO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KARROO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KNAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KNOW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KNOWN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KOAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KONK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KOODOO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KOOK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KORA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KRONA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KRONOR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KROON",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NARK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NONWORK",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "NOOK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OKRA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RANK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROADWORK",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ROOK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WAKANDA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WANK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WARK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WARWORK",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WONK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WOODWORK",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "WORK",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

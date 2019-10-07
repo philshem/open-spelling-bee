@@ -1,0 +1,222 @@
+{
+    "letters": "CAIOTUX",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 95,
+    "word_count": 40,
+    "pangram_count": 1,
+    "pangram_list": [
+        "AUTOTOXIC"
+    ],
+    "word_list": [
+        {
+            "word": "ACACIA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ACTA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ATACTIC",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ATAXIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ATTIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AUTOTOXIC",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "CACA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CACAO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CACTI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CIAO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COACT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COATI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COAX",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COCA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COCCI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COCCIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COCO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COCOA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COOCOO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COTTA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COXA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CUTOUT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ICTIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OCICAT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "OITICICA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "OTIC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OTITIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "OTOTOXIC",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "OUTACT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TACIT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TACO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TACT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TACTIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TAXITIC",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TICTAC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TICTOC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TOCCATA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TOXIC",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

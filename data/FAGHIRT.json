@@ -1,0 +1,242 @@
+{
+    "letters": "FAGHIRT",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 96,
+    "word_count": 44,
+    "pangram_count": 1,
+    "pangram_list": [
+        "AFFRIGHT"
+    ],
+    "word_list": [
+        {
+            "word": "AFAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AFFAIR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "AFFRIGHT",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "AFRIT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FAIR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FAITH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FART",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FIAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FIAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FIFTH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FIGHT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FIRTH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FRAG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FRAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FRIAR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FRIG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FRIGHT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FRIT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FRITH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FRITT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FRITTATA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GAFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GIFT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GRAFFITI",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GRAFT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GRIFF",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GRIFT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HAAF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HAFFIT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HAFT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HAFTARA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HAFTARAH",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RAFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RAFFIA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RAFT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RATAFIA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RIFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RIFFRAFF",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RIFT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TAFFIA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TAFIA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TARIFF",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "THRIFT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TIFF",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

@@ -1,0 +1,257 @@
+{
+    "letters": "ICLMOPY",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 96,
+    "word_count": 47,
+    "pangram_count": 1,
+    "pangram_list": [
+        "IMPOLICY"
+    ],
+    "word_list": [
+        {
+            "word": "CLIP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COCCI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COCCIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COIL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COLIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COMIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CYCLIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CYCLICLY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ICILY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ILLY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "IMMY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "IMPI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "IMPLY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "IMPOLICY",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "LILO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LILY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LIMO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LIMP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LIMPLY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LIMY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LIPPY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LOCI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOLLIPOP",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LOOPILY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MILO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MIMIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MOIL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOMI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MYOPIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "OILILY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "OILY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OLIO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PICCOLO",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PILI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PILY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PIMP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PIMPLY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PIPY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POLICY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "POLIO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "POLYCYCLIC",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "POLYPI",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PYIC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YOMIM",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

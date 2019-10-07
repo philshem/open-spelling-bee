@@ -1,0 +1,237 @@
+{
+    "letters": "UCEKLNP",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 87,
+    "word_count": 43,
+    "pangram_count": 1,
+    "pangram_list": [
+        "PENUCKLE"
+    ],
+    "word_list": [
+        {
+            "word": "CELLULE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CLUCK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CLUE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CLUNK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CUKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CUPEL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CUPULE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EKUELE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KNUCKLE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "KUNE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LEKU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LUCE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LUCENCE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "LUCK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LULU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LUNE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LUNK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LUNULE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NEUK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NUKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NUNCLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PEEPUL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PENUCKLE",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "PLUCK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PLUNK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PUCE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PUCK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PUKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PULE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PULLUP",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PULP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PUNK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PUPU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "UKELELE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "UKULELE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "UNCLE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UNKENNEL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "UNPEN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UPKEEP",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

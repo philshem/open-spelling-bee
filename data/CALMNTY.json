@@ -1,0 +1,207 @@
+{
+    "letters": "CALMNTY",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 88,
+    "word_count": 37,
+    "pangram_count": 1,
+    "pangram_list": [
+        "CLAMANTLY"
+    ],
+    "word_list": [
+        {
+            "word": "ACTA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ACYL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ALMANAC",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CACA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CALAMATA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CALL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CALLA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CALLAN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CALLANT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CALM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CALMLY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CANAL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CANCAN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CANNA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CANNY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CANT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CANTAL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CANTALA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CANTATA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CANTY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CATCALL",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CATTY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CAYMAN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CLAM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CLAMANT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CLAMANTLY",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "CLAMMY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CLAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CLAY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CYAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CYMA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LACTAM",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LACY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MALACCA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "NANCY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TACT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TALC",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

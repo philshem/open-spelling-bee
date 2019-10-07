@@ -1,0 +1,217 @@
+{
+    "letters": "YCDEINP",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 100,
+    "word_count": 39,
+    "pangram_count": 1,
+    "pangram_list": [
+        "INDEPENDENCY"
+    ],
+    "word_list": [
+        {
+            "word": "CYNIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DECENCY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DEEDY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DENY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DEPENDENCY",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "DICEY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DIDY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DIPPY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DYED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DYNE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DYNEIN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EDDY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EYED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EYEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EYEPIECE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "EYNE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "INCIPIENCY",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "INDECENCY",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "INDEPENDENCY",
+            "score": 9,
+            "pangram": true
+        },
+        {
+            "word": "NEDDY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NEEDY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NINNY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NIPPY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PENDENCY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PENNY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PEPPY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PINEY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PINNY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PINY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PINYIN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PIPY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PYIC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PYIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YENNED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "YINCE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "YIPE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YIPPED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "YIPPEE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "YIPPIE",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

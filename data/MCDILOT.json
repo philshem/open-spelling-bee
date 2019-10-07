@@ -1,0 +1,232 @@
+{
+    "letters": "MCDILOT",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 80,
+    "word_count": 42,
+    "pangram_count": 1,
+    "pangram_list": [
+        "DOLOMITIC"
+    ],
+    "word_list": [
+        {
+            "word": "COMIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COMMIT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DOLOMITIC",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "DOMIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DOMICIL",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DOOM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "IDIOM",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "IMID",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "IMIDIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "IMIDO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LIMIT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LIMO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOOM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MIDI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MILD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MILO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MILT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MIMIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MIOTIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MITOTIC",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MITT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MODI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MODIOLI",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MOIL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOLD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOLL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOLT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOLTO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MOMI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOOD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOOL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOTMOT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MOTT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOTTO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OMIT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TIMID",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TIMOLOL",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TOMCOD",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TOMTIT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TOOM",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

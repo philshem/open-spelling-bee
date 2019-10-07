@@ -1,0 +1,232 @@
+{
+    "letters": "IACFGPR",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 98,
+    "word_count": 42,
+    "pangram_count": 1,
+    "pangram_list": [
+        "CAPRIFIG"
+    ],
+    "word_list": [
+        {
+            "word": "ACACIA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ACARI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AFFAIR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "AGAPAI",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "AGARIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "AGRIA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ARIA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CAPRIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CAPRICCI",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CAPRIFIG",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "CARPI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CIGAR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CIRCA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CIRRI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FACIA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FAIR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FARCI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FIAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FRIAR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FRIG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GIGA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GRIFF",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GRIG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GRIGRI",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GRIP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PACIFIC",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PAIR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PAPPI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PAPRICA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PICA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PICARA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PICRIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PRIAPI",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PRIAPIC",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PRIG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RAFFIA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RAGI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RAIA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RICRAC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RIFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RIFFRAFF",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RIPRAP",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

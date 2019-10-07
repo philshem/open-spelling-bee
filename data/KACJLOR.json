@@ -1,0 +1,242 @@
+{
+    "letters": "KACJLOR",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 88,
+    "word_count": 44,
+    "pangram_count": 1,
+    "pangram_list": [
+        "JACKROLL"
+    ],
+    "word_list": [
+        {
+            "word": "ACOCK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ALACK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ARAK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ARRACK",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CALK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CARACK",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CARJACK",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CARK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CARRACK",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CLACK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CLOAK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CLOCK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COCK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COOK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CORK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CRACK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CRACKAJACK",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "CROAK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CROCK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CROOK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "JACK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "JACKAL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "JACKAROO",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "JACKROLL",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "JOCK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "JOCKO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KAKA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KAROO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KARROO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KOALA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KOLA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KOLO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KOOK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KORA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KRAAL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LACK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LARK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOCK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOOK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OARLOCK",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "OKRA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RACK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROCK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROOK",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

@@ -1,0 +1,257 @@
+{
+    "letters": "DBKNORS",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 101,
+    "word_count": 47,
+    "pangram_count": 1,
+    "pangram_list": [
+        "DOORKNOBS"
+    ],
+    "word_list": [
+        {
+            "word": "BODS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BOND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BONDS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BROOD",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BROODS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DOBRO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DOBROS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DOBSON",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DOBSONS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DODO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DODOS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DONOR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DONORS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DONS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOODOO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DOODOOS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DOOR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOORKNOB",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DOORKNOBS",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "DOORS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DORK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DORKS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DORR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DORRS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DORS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOSS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DROSS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KOODOO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KOODOOS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "NODS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ODDS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ODOR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ODORS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ORDO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ORDOS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RODS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RONDO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RONDOS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ROOD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROODS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SNOOD",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SNOODS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SODS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SORD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SORDOR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SORDORS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "SORDS",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

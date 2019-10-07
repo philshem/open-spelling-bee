@@ -1,0 +1,207 @@
+{
+    "letters": "YACEGNT",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 82,
+    "word_count": 37,
+    "pangram_count": 1,
+    "pangram_list": [
+        "TANGENCY"
+    ],
+    "word_list": [
+        {
+            "word": "AGENCY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CAGEY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CAGY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CANNY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CANTY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CATTY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CAYENNE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CYAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CYANATE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CYGNET",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EGGY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EYEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EYNE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GAYETY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GNATTY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GYNAECEA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "NAGGY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NANCY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NANNY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NATTY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NETTY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TANGENCY",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "TANGY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TATTY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TEENY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TENANCY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TENTY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TETANY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TYEE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TYNE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YANG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YATAGAN",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "YEAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YEGG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YENTA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "YENTE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "YETT",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

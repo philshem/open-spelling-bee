@@ -112,6 +112,8 @@ Use the following commands for more details:
 
 ## interesting puzzles
 
-+ `Q` as center letter: `QAHILSU`
++ `Q` as center letter: `QAHILSU`, `QBEISTU`
 
-+ `Z` as center letter: `ZADEHJT`, `ZADENRS`
++ `X` as center letter: `XACESTV`, `XEFIOST`, `XAENSTU`, `XADEIRS`, `XAEINOT`, `XCENOST`, `XEFIPRS`, `XAERSTY`, `XDELOPS`, `XBELOST`, `XCDELSU`
+
++ `Z` as center letter: `ZORIBTE`, `ZRBEOSU`, `ZCEILST`,`ZAEMNST`,`ZADELRS`, `ZADENRS`, `ZAEIKLS`, `ZACENOS`, `ZGILNOS`, `ZABDELR`, `ZBEGINO`, `ZABGINS`, `ZEILNOR`, `ZABDELS`, `ZAELOST`

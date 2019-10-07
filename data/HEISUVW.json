@@ -1,0 +1,217 @@
+{
+    "letters": "HEISUVW",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 88,
+    "word_count": 39,
+    "pangram_count": 1,
+    "pangram_list": [
+        "HUSWIVES"
+    ],
+    "word_list": [
+        {
+            "word": "HEHS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HEISHI",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HEWS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HIES",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HISS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HISSES",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HISSIES",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HIVE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HIVES",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HUES",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HUSH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HUSHES",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HUSSIES",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HUSWIVES",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "SHEESH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SHEEVE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SHEEVES",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "SHES",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SHEW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SHEWS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SHIES",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SHIV",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SHIVE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SHIVES",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SHIVS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SHUSH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SHUSHES",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "SUSHI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SUSHIS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SWISH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SWISHES",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WHEE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WHEW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WHEWS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WHISH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WHISHES",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WISH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WISHES",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WUSHU",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

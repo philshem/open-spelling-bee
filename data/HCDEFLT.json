@@ -1,0 +1,247 @@
+{
+    "letters": "HCDEFLT",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 113,
+    "word_count": 45,
+    "pangram_count": 1,
+    "pangram_list": [
+        "FLETCHED"
+    ],
+    "word_list": [
+        {
+            "word": "CHEF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHEFED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CHEFFED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CHETH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ECHE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ECHED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ECHELLE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ECHT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ETCH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ETCHED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FETCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FETCHED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FLECHE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FLECHETTE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "FLEECH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FLEECHED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FLETCH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FLETCHED",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "HEDDLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HEED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HEEDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HEEL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HEELED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HEFT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HEFTED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HELD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HELLED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HETH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LECH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LECHED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LEECH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LEECHED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "LETCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LETCHED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "LETHE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TECH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TECHED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TEETH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TEETHE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TEETHED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TETCHED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TETH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "THEE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "THEFT",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

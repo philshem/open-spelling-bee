@@ -1,0 +1,267 @@
+{
+    "letters": "TABDKNS",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 114,
+    "word_count": 49,
+    "pangram_count": 1,
+    "pangram_list": [
+        "DATABANKS"
+    ],
+    "word_list": [
+        {
+            "word": "ANTA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ANTAS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ANTS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ASKANT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BANDSTAND",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BANDSTANDS",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "BAST",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BASTS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BATS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BATT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BATTS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DATA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DATABANK",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DATABANKS",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "KATA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KATAKANA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "KATAKANAS",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "KATAS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KATS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NATANT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SABBAT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SABBATS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "SKAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SKATS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "STAB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "STABS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "STAND",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "STANDS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "STANK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "STANKS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "STAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "STATANT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "STATS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TABS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TADS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TAKA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TAKAS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TANK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TANKA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TANKAS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TANKS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TANS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TASK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TASKS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TASS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TATS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TSKS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TSKTSK",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TSKTSKS",
+            "score": 4,
+            "pangram": false
+        }
+    ]
+}

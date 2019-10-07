@@ -1,0 +1,237 @@
+{
+    "letters": "FCEKLSY",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 104,
+    "word_count": 43,
+    "pangram_count": 1,
+    "pangram_list": [
+        "FECKLESSLY"
+    ],
+    "word_list": [
+        {
+            "word": "CLEF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CLEFS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EFFS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FECES",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FECK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FECKLESS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FECKLESSLY",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "FECKLY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FECKS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FEEL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FEELESS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FEELS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FEES",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FELLS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FELLY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FESS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FESSE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FESSES",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FEYLY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FLECK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FLECKLESS",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "FLECKS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FLECKY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FLEE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FLEECE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FLEECES",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FLEECY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FLEES",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FLEY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FLEYS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FLYLESS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FYCE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FYCES",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FYKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FYKES",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KEEF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KEEFS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KEFS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SELF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SELFLESS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "SELFLESSLY",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "SELFS",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

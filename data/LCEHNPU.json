@@ -1,0 +1,212 @@
+{
+    "letters": "LCEHNPU",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 80,
+    "word_count": 38,
+    "pangram_count": 1,
+    "pangram_list": [
+        "PENUCHLE"
+    ],
+    "word_list": [
+        {
+            "word": "CELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CELLULE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CHUNNEL",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CLENCH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CLEPE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CLUE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CULCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CUPEL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CUPULE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ECHELLE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HEEL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HELP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LECH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LEECH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LUCE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LUCENCE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "LULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LULU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LUNCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LUNE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LUNULE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NUNCLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PEEL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PEEPUL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PELE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PENCEL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PENUCHLE",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "PLENCH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PULE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PULLUP",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PULP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "UNCLE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UNCLENCH",
+            "score": 5,
+            "pangram": false
+        }
+    ]
+}

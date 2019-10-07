@@ -1,0 +1,207 @@
+{
+    "letters": "WEGLMOR",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 85,
+    "word_count": 37,
+    "pangram_count": 1,
+    "pangram_list": [
+        "GROMWELL"
+    ],
+    "word_list": [
+        {
+            "word": "EELWORM",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "EWER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GLOW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GLOWER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GLOWWORM",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GREW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GROMWELL",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "GROW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GROWER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GROWL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GROWLER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "LOWE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOWER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MELLOW",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MELLOWER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MEOW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MEWL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MEWLER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MORROW",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MOWER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "REGLOW",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REGREW",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REGROW",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REWORE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ROWEL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ROWER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WEEL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WEER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WEEWEE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WERE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WOOER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WOOL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WOOLER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WORE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WORM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WORMER",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

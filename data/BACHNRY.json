@@ -1,0 +1,192 @@
+{
+    "letters": "BACHNRY",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 85,
+    "word_count": 34,
+    "pangram_count": 1,
+    "pangram_list": [
+        "BRANCHY"
+    ],
+    "word_list": [
+        {
+            "word": "ABACA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ABAYA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ABBA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ABBACY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ANABRANCH",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BABA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BABY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BACCA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BACCARA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BACH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BANANA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BANYAN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BARB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BARCA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BARCHAN",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BARN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BARNY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BARRANCA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BRACH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BRAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BRANCH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BRANCHY",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "BRANNY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BRAY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BRRR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CABANA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CABBY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CARB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CARBARN",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CHARABANC",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CRAB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CRABBY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CRYBABY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "YABBY",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

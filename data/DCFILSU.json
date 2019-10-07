@@ -1,0 +1,237 @@
+{
+    "letters": "DCFILSU",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 92,
+    "word_count": 43,
+    "pangram_count": 1,
+    "pangram_list": [
+        "FLUIDICS"
+    ],
+    "word_list": [
+        {
+            "word": "CUDS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CULICID",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CULICIDS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DIFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DIFFS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DIFS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DILLS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DISC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DISCI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DISCS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DISCUS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DISCUSS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DISS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DISULFID",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DISULFIDS",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DUCI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUDS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUFFS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DUFUS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DULLS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FIDS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FLUID",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FLUIDIC",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FLUIDICS",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "FLUIDS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FUDS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LIDS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LUCID",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LUDIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SCUD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SCUDI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SCUDS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SILD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SILDS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SLID",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SUDD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SUDDS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SUDS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SULFID",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SULFIDS",
+            "score": 4,
+            "pangram": false
+        }
+    ]
+}

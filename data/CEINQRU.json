@@ -1,0 +1,237 @@
+{
+    "letters": "CEINQRU",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 106,
+    "word_count": 43,
+    "pangram_count": 1,
+    "pangram_list": [
+        "QUERCINE"
+    ],
+    "word_list": [
+        {
+            "word": "CERCI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CERE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CERIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CINE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CINERIN",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CINQUE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CIRE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CIRQUE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CIRRI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CRIER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CUNNER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CURE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CURER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CURIE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CURN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CURR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CURRIE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CURRIER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ECCRINE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ECRU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EIRENIC",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ICIER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "INCUR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "INCURRENCE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "IRENIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NICE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NICER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NIECE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "QUERCINE",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "QUINCE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "QUINIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RECCE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RECUR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RECURRENCE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "REINCUR",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RICE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RICER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RICIN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RUNIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UNCI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "UNCINI",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "UREIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "URIC",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

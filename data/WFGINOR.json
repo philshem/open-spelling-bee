@@ -1,0 +1,202 @@
+{
+    "letters": "WFGINOR",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 118,
+    "word_count": 36,
+    "pangram_count": 1,
+    "pangram_list": [
+        "FROWNING"
+    ],
+    "word_list": [
+        {
+            "word": "FORWORN",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FROW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FROWN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FROWNING",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "GOWN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOWNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GROW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GROWING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GROWN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "INGROWING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "INGROWN",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "NONGROWING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "NONWINNING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "OWING",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OWNING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ROWING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WIFING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WIGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WING",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WINGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WINING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WINNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WINNOW",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WINNOWING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "WINO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WIRING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WONNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WOOF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WOOFING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WOOING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WORN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WOWING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WRING",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WRINGING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "WRONG",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WRONGING",
+            "score": 5,
+            "pangram": false
+        }
+    ]
+}

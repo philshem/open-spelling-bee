@@ -1,0 +1,262 @@
+{
+    "letters": "KACDORY",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 83,
+    "word_count": 48,
+    "pangram_count": 1,
+    "pangram_list": [
+        "DOCKYARD"
+    ],
+    "word_list": [
+        {
+            "word": "ACOCK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ARAK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ARRACK",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CAKY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CARACK",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CARK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CARRACK",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "COCK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COCKY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COKY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COOK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COOKY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CORK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CORKY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CRACK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CRACKY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CROAK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CROAKY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CROCK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CROOK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DARK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DARKY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DOCK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOCKYARD",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "DORK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DORKY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KAKA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KAROO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KARROO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KAYAK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KAYO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KOODOO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KOOK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KOOKY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KORA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KYACK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KYAK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KYAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OAKY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OKAY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OKRA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RACK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROCK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROCKY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ROOK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROOKY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "YACK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YOCK",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

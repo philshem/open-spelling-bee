@@ -1,0 +1,237 @@
+{
+    "letters": "DACFILU",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 95,
+    "word_count": 43,
+    "pangram_count": 1,
+    "pangram_list": [
+        "FIDUCIAL"
+    ],
+    "word_list": [
+        {
+            "word": "ACAUDAL",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ACCIDIA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ACID",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ACIDIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "AIDFUL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ALCID",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ALIDAD",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "AUDAD",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AUDIAL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "AULD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CADI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CAID",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CAUDAD",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CAUDAL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CAULD",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CICADA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CLAD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CULICID",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DADA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DAFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DIACID",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DIACIDIC",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DIAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DIFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUAD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUCAL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DUCI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DULIA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FAULD",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FIDUCIAL",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "FLACCID",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FLUID",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FLUIDAL",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FLUIDIC",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ILIAD",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LAID",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LAUD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LUCID",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LUDIC",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

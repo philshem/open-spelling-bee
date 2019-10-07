@@ -1,0 +1,232 @@
+{
+    "letters": "GCDEILP",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 109,
+    "word_count": 42,
+    "pangram_count": 1,
+    "pangram_list": [
+        "DIPLEGIC"
+    ],
+    "word_list": [
+        {
+            "word": "DIGGED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DIPLEGIC",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "EDGE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EDGED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EGGED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EPIGEIC",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GEED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GELD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GELDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GELEE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GELID",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GELLED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GIDDIED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GIED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GIGGED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GIGGLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GIGGLED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GILD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GILDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GILLED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GILLIE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GILLIED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GIPPED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GLED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GLEDE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GLEE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GLEED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GLEG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GLIDE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GLIDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "IGGED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LEDGE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LEGGED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LIEGE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PEGGED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PEGLEGGED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PIGGED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PIGGIE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PLEDGE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PLEDGED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PLEDGEE",
+            "score": 4,
+            "pangram": false
+        }
+    ]
+}

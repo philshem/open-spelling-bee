@@ -1,0 +1,222 @@
+{
+    "letters": "DHILNOW",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 87,
+    "word_count": 40,
+    "pangram_count": 1,
+    "pangram_list": [
+        "DOWNHILL"
+    ],
+    "word_list": [
+        {
+            "word": "DHOW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DIDO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DILDO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DINO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DIOL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DODO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOLL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOODOO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DOWN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOWNHILL",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "DOWNWIND",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "HIND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HODDIN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HOLD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HOLDDOWN",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "HOOD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HOODOO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "IDOL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "INDOL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "INDOW",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "INWIND",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "IODID",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "IODIN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LIDO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOID",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOWDOWN",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "NIDI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NODI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OIDIOID",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WHID",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WIDOW",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WIDOWHOOD",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "WILD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WILDWOOD",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "WIND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WINDOW",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WOLD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WOOD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WOODWIND",
+            "score": 5,
+            "pangram": false
+        }
+    ]
+}

@@ -1,0 +1,177 @@
+{
+    "letters": "ZEFLORS",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 95,
+    "word_count": 31,
+    "pangram_count": 1,
+    "pangram_list": [
+        "FOOZLERS"
+    ],
+    "word_list": [
+        {
+            "word": "FEEZE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FEEZES",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FEZES",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FEZZES",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FOOZLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FOOZLER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FOOZLERS",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "FOOZLES",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FREEZE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FREEZER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FREEZERS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FREEZES",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FROZE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LEZZES",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "OOZE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OOZES",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ORZO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ORZOS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "REFREEZE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "REFREEZES",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "REFROZE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "REZERO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REZEROES",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "REZEROS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ROZZER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ROZZERS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ZEES",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ZERO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ZEROES",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ZEROS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ZOOS",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

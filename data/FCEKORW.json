@@ -1,0 +1,232 @@
+{
+    "letters": "FCEKORW",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 100,
+    "word_count": 42,
+    "pangram_count": 1,
+    "pangram_list": [
+        "WORKFORCE"
+    ],
+    "word_list": [
+        {
+            "word": "COFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COFFEE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COFFER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COOF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COOKOFF",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CORF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FECK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FEOFF",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FEOFFEE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FEOFFER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FEOFFOR",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FERE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FEWER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FORCE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FORCER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FORE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FORK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FORKER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FREE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FREER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FRERE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FROCK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FROE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FRORE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FROW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KEEF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KERF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OFFER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OFFERER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "OFFEROR",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "REEF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "REEFER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REFER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "REFEREE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "REFERRER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "REOFFER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "REROOF",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ROOF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROOFER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WOOF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WOOFER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WORKFORCE",
+            "score": 6,
+            "pangram": true
+        }
+    ]
+}

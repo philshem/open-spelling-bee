@@ -1,0 +1,237 @@
+{
+    "letters": "RBIMNOW",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 80,
+    "word_count": 43,
+    "pangram_count": 1,
+    "pangram_list": [
+        "IMBROWN"
+    ],
+    "word_list": [
+        {
+            "word": "BIRO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BIRR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BOOR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BORN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BORON",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BORROW",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BRIM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BRIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BRIO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BROMIN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BROMO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BROO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BROOM",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BROW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BROWN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BRRR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "IMBROWN",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "INBORN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "INRO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "IRON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MINOR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MIRI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MIRIN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MIRROR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MOOR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MORION",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MORN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MORON",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MORRION",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MORRO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MORROW",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NOIR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NONIRON",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "NORI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NORM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ORIBI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RIBBON",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ROBBIN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ROBIN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RONION",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ROOM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WORM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WORN",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

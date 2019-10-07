@@ -1,0 +1,197 @@
+{
+    "letters": "ICHKMNU",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 83,
+    "word_count": 35,
+    "pangram_count": 1,
+    "pangram_list": [
+        "MUNCHKIN"
+    ],
+    "word_list": [
+        {
+            "word": "CHIC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHICHI",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CHICK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHINCH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CHINK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CINCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CUMIN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CUMMIN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HICK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HUIC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HUMIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "INCH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KICK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KIMCHI",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KININ",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KINK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KINNIKINNICK",
+            "score": 9,
+            "pangram": false
+        },
+        {
+            "word": "MICK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MIMIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MINI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MINIKIN",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MINIM",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MINIMUM",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MINIUM",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MINK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MUCIN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MUNCHKIN",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "MUNI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NICK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "UNCHIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "UNCI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "UNCINI",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "UNKINK",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "UNUNUNIUM",
+            "score": 6,
+            "pangram": false
+        }
+    ]
+}

@@ -1,0 +1,222 @@
+{
+    "letters": "CDHINSU",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 85,
+    "word_count": 40,
+    "pangram_count": 1,
+    "pangram_list": [
+        "DUNCISH"
+    ],
+    "word_list": [
+        {
+            "word": "CHIC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHICHI",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CHICHIS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CHICS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHID",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHINCH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CHINS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHIS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CINCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CUDS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CUISH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CUSCUS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CUSS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DISC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DISCI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DISCS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DISCUS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DISCUSS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DUCI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUNCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DUNCISH",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "HUIC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HUNCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ICHS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "INCH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "INCUS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SCHUSS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SCUD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SCUDI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SCUDS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SICS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SUCCINIC",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "SUCCUSS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "SUCH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "UNCHIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "UNCI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "UNCINI",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "UNCINUS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "UNCUS",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

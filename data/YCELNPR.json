@@ -1,0 +1,222 @@
+{
+    "letters": "YCELNPR",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 92,
+    "word_count": 40,
+    "pangram_count": 1,
+    "pangram_list": [
+        "REPELLENCY"
+    ],
+    "word_list": [
+        {
+            "word": "CELERY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CREEPY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CREPEY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CREPY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CYCLE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CYCLER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CYCLERY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "EELY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EERY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EYEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EYER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EYNE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EYRE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EYRY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LEERY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LYCEE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LYRE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NELLY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PEERY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PENNY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PEPPERY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PEPPY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PERRY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PLYER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PREPPY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PREY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PREYER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PRYER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PYRE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PYRENE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RECENCY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RECYCLE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RECYCLER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RELY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "REPELLENCY",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "REPLY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "YELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YELLER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "YELP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YELPER",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

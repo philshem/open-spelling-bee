@@ -1,0 +1,177 @@
+{
+    "letters": "ZABELMS",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 96,
+    "word_count": 31,
+    "pangram_count": 1,
+    "pangram_list": [
+        "EMBLAZES"
+    ],
+    "word_list": [
+        {
+            "word": "ABLAZE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "AMAZE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AMAZES",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "AZALEA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "AZALEAS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BEZAZZ",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BEZAZZES",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BEZEL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BEZELS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BLAZE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BLAZES",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EMBEZZLE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "EMBEZZLES",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "EMBLAZE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "EMBLAZES",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "LAZE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LAZES",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LEZZES",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MAZE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MAZES",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MEZE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MEZES",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SLEAZE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SLEAZEBALL",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "SLEAZEBALLS",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "SLEAZES",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "SMAZE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SMAZES",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ZEAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ZEALS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ZEES",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

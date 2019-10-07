@@ -1,0 +1,217 @@
+{
+    "letters": "UCEFHIR",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 97,
+    "word_count": 39,
+    "pangram_count": 1,
+    "pangram_list": [
+        "CHUFFIER"
+    ],
+    "word_list": [
+        {
+            "word": "CHIRU",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHUFF",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHUFFER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CHUFFIER",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "CHURCH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CHURCHIER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CHURR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CRUCIFER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CRUCIFIER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CUFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CUIF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CURCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CURE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CURER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CURF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CURIE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CURR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CURRIE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CURRIER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ECRU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EUCHRE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FICHU",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FUCI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FUEHRER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FUHRER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FURFUR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FURRIER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HEUCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HUFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HUFFIER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HUIC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HURRIER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RECUR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RUCHE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RUER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RUFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RUFFE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UREIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "URIC",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

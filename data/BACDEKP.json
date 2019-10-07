@@ -1,0 +1,227 @@
+{
+    "letters": "BACDEKP",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 100,
+    "word_count": 41,
+    "pangram_count": 1,
+    "pangram_list": [
+        "BACKPACKED"
+    ],
+    "word_list": [
+        {
+            "word": "ABACA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ABACK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ABAKA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ABBA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ABBE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ABED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BAAED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BABA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BABE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BABKA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BACCA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BACCAE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BACK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BACKED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BACKPACK",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BACKPACKED",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "BADE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BAKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BAKED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BEAD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BEADED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BEAK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BEAKED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BECAP",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BECAPPED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BECK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BECKED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BEDDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BEDECK",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BEDECKED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BEEBEE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BEEP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BEEPED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CABBED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DABBED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEBEAK",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEBEAKED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "EBBED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KABAB",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KABAKA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KEBAB",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

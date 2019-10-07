@@ -1,0 +1,237 @@
+{
+    "letters": "GABHLRU",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 84,
+    "word_count": 43,
+    "pangram_count": 1,
+    "pangram_list": [
+        "BURGHAL"
+    ],
+    "word_list": [
+        {
+            "word": "AARGH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AARRGH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "AARRGHH",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "AGAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AGHA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ALGA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ALGAL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ARGAL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ARGALA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ARUGULA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "AUGUR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AUGURAL",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BRAG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BRUGH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BULGHUR",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BULGUR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BURG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BURGH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BURGHAL",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "BURGLAR",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GAGA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GALA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GALAH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GALL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GARB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GAUR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GLUG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GRAAL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GRAB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GRUB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GRUGRU",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GUAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GULAG",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GULAR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GURU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HAUGH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LAUGH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RAGA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RAGBAG",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RAGG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RUGA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RUGAL",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

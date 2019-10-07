@@ -1,0 +1,252 @@
+{
+    "letters": "IFLNORU",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 87,
+    "word_count": 46,
+    "pangram_count": 1,
+    "pangram_list": [
+        "FLUORIN"
+    ],
+    "word_list": [
+        {
+            "word": "FILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FILLO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FILO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FINO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FIRN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FLIR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FLORIN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FLUORIN",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "FOIL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FOIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FOLIO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FRILL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FULFIL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FULFILL",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "INFILL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "INFO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "INION",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "INRO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "INRUN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "INULIN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "INURN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "IRON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LILO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LININ",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LINN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LINO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LINURON",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "LION",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LIRI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NINON",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NOIL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NOIR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NONILLION",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "NONIRON",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "NONUNION",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "NORI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OLIO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ONION",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RIFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROIL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RONION",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RUIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "UNION",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

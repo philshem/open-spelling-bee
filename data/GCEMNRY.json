@@ -1,0 +1,207 @@
+{
+    "letters": "GCEMNRY",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 114,
+    "word_count": 37,
+    "pangram_count": 1,
+    "pangram_list": [
+        "EMERGENCY"
+    ],
+    "word_list": [
+        {
+            "word": "EGER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EGGER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EGGY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EMERGE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EMERGENCE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "EMERGENCY",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "ENERGY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GEMMY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GENE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GENRE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GERM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GERMEN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GERMY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GREE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GREEGREE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GREEN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GREENER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GREENERY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GREENY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GREMMY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GREY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GREYER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GYRE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GYRENE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MERGE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MERGEE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MERGENCE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MERGER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REEMERGE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "REEMERGENCE",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "REGENCY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "REGREEN",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "REMERGE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RENEGE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RENEGER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "YEGG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YEGGMEN",
+            "score": 4,
+            "pangram": false
+        }
+    ]
+}

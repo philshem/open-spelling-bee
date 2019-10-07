@@ -1,0 +1,232 @@
+{
+    "letters": "UCDINQS",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 92,
+    "word_count": 42,
+    "pangram_count": 1,
+    "pangram_list": [
+        "QUIDNUNCS"
+    ],
+    "word_list": [
+        {
+            "word": "CUDS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CUSCUS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CUSS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DISCUS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DISCUSS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DUCI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUDS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUNS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "INCUS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NIDUS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NISUS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NUNS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "QUID",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "QUIDNUNC",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "QUIDNUNCS",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "QUIDS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "QUIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "QUINIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "QUININ",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "QUININS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "QUINS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SCUD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SCUDI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SCUDS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SINUS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SQUID",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SQUIDS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SUCCINIC",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "SUCCUSS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "SUDD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SUDDS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SUDS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SUNN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SUNNS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SUNS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SUQS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SUSS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "UNCI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "UNCINI",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "UNCINUS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "UNCUS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UNDID",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

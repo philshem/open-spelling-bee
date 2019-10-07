@@ -1,0 +1,252 @@
+{
+    "letters": "CDELMOW",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 108,
+    "word_count": 46,
+    "pangram_count": 1,
+    "pangram_list": [
+        "WELCOMED"
+    ],
+    "word_list": [
+        {
+            "word": "CEDE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CEDED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CELLED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CELLO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CELOM",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CLEOME",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CLEW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CLEWED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CLOD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COCO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CODDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CODDLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CODDLED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CODE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CODEC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CODED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COELOM",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COELOME",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "COLD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COLE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COLED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COMEDO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COMMODE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "COOCOO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COOED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COOEE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COOEED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COOL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COOLED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COWED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COWL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COWLED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DECO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DECODE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DECODED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DOLCE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EMCEE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EMCEED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LOCO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOCOED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LOCOWEED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "WELCOME",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WELCOMED",
+            "score": 5,
+            "pangram": true
+        }
+    ]
+}

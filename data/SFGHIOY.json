@@ -1,0 +1,252 @@
+{
+    "letters": "SFGHIOY",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 90,
+    "word_count": 46,
+    "pangram_count": 1,
+    "pangram_list": [
+        "FOGYISH"
+    ],
+    "word_list": [
+        {
+            "word": "FIGS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FISH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FISHGIG",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FISHGIGS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FISHY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FOGS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FOGYISH",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "FOSS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FOYS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GHIS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GIGS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOGOS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GOOFS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GOOS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOOSY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GOSH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOYISH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GOYS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HIGHS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HISS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HISSY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HOGFISH",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HOGGISH",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HOGGS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HOGS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HOOFS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HOYS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "IGGS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OFFISH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "OFFS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OOHS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OSSIFY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SHOG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SHOGI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SHOGIS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SHOGS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SHOO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SHOOS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SIGH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SIGHS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SISSY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SISSYISH",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "SOGGY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SOYS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YOGHS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "YOGIS",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}
