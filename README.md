@@ -15,11 +15,11 @@ To download the game:
 
 To play a random game:
 
-    python3 play_puzzles.py
+    python3 play_puzzle.py
 
 To play a non-random game:
 
-    python3 play_puzzles.py RDGHNOU
+    python3 play_puzzle.py RDGHNOU
 
 where `R` is the center letter that must be used at least once in each word. If the puzzle `RDGHNOU` does not exist, it will be created and saved to `data/RDGHNOU.json` (the file names are the first letter and the alphabetically sorted remaining letters).
 
