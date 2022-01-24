@@ -23,7 +23,9 @@ To play a non-random game:
 
 where `R` is the center letter that must be used at least once in each word. If the puzzle `RDGHNOU` does not exist, it will be created and saved to `data/RDGHNOU.json` (the file names are the first letter and the alphabetically sorted remaining letters).
 
-⚠️ The word list used is from Scrabble: [TWL06](https://www.wordgamedictionary.com/twl06/), and at roughly 180k words, it's larger than what the NY Times uses. To reach "genius" level, you'll need to solve 50% of the words.
+The word list used is from [SCOWL](http://wordlist.aspell.net/). The default setting contains 40,000 words, which seems comparable to the New York Times dictionary. However, you can edit the size parameter in [word_lists/mkscowl.sh](word_lists/mkscowl.sh) if you would like more obscure words included. 
+
+To reach "genius" level, you'll need to solve 50% of the words.
 
 To solve a game (aka cheat-mode):
 
