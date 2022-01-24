@@ -1,0 +1,77 @@
+#!/bin/bash
+# mkscowl
+# Concatenate, CAPITALIZE, and sort the scowl word lists of a specific size and smaller.
+
+# You may pick the spelling categories, sub-categories, and list size.
+#
+# For spelling categories, pick "english" and then add in "american" or "british" or both.
+# For sub-categories, pick "words" and optionally add in "proper-names" or "abbreviations".
+# For list size, pick 35 for a reasonable, but small dictionary. Or try 50, 70, 80, or 95.
+
+spelling_categories={english,american,british}
+#sub_categories={words,proper-names,abbreviations}
+sub_categories=words		# No brace expansion for a single item
+size=35
+
+###
+
+cd $(dirname $0)
+
+if [[ ! -d scowl ]]; then
+    echo "Error: Scowl files not found in $(dirname $0)" >&2
+    exit 1
+fi
+
+outputfile=${spelling_categories}-${sub_categories}.${size}
+outputfile=$(echo $outputfile | tr -d '{}')
+
+possiblelists=$(eval echo scowl/$spelling_categories-$sub_categories.*)
+
+for f in $possiblelists; do
+    s=${f##*.}
+    if [[ -e $f && $s -le $size ]]; then
+	wordlists+=($f)
+    fi
+done
+
+if [[ ${#wordlists} -eq 0 ]]; then
+    echo "Error: No word lists matched scowl/$spelling_categories-$sub_categories.*" >&2
+    echo "Please edit $0." >&2
+    exit 1
+fi
+
+echo "Creating $outputfile from these wordlists:"
+for f in ${wordlists[@]}; do
+    echo "    $f"
+done
+
+cat ${wordlists[@]} |
+    LANG=C egrep '^[A-Za-z]+$' |
+    tr '[a-z]' '[A-Z]' |
+    sort > $outputfile
+
+echo "Done."
+
+if ln -sf $outputfile scowl.txt; then
+    echo "Linked $outputfile to scowl.txt"
+fi
+
+#####################################################################################
+# Scowl file naming convention:							    #
+#   <spelling category>-<sub category>.<size>					    #
+# 										    #
+# Where the spelling category is one of						    #
+#   english, american, british, british_z, canadian, australian			    #
+#   variant_1, variant_2, variant_3,						    #
+#   british_variant_1, british_variant_2,					    #
+#   canadian_variant_1, canadian_variant_2,					    #
+#   australian_variant_1, australian_variant_2					    #
+# 										    #
+# Sub-category is one of							    #
+#   abbreviations, contractions, proper-names, upper, words			    #
+# 										    #
+# And size is one of								    #
+#   10, 20, 35 (small), 40, 50 (medium), 55, 60, 70 (large), 80 (huge), 95 (insane) #
+#####################################################################################
+
+
