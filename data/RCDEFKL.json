@@ -1,0 +1,197 @@
+{
+    "letters": "RCDEFKL",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 95,
+    "word_count": 35,
+    "pangram_count": 1,
+    "pangram_list": [
+        "FRECKLED"
+    ],
+    "word_list": [
+        {
+            "word": "CLERK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CLERKED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CREED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CREEK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DECREE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DECREED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DEER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DEFER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DEFERRED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ELDER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ERRED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FEEDER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FEELER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FELLER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FRECKLE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FRECKLED",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "FREE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FREED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FREER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LEER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LEERED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RECEDE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RECEDED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "REDDER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "REEF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "REEFED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REEK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "REEKED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REEL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "REELED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REFER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "REFEREE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "REFEREED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "REFERRED",
+            "score": 5,
+            "pangram": false
+        }
+    ]
+}

@@ -1,0 +1,272 @@
+{
+    "letters": "UDEFMPR",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 120,
+    "word_count": 50,
+    "pangram_count": 1,
+    "pangram_list": [
+        "PERFUMED"
+    ],
+    "word_list": [
+        {
+            "word": "DEMURE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEMURER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DRUM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DRUMMED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DRUMMER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DUDE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUDED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DUFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUMP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUMPED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DUPE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUPED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FEUD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FEUDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FUME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FUMED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FURRED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MUFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MUFFED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MURDER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MURDERED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MURDERER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MURMUR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MURMURED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PERFUME",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PERFUMED",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "PRUDE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PUFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PUFFED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PUFFER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PUMP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PUMPED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PUPPED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PURE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PUREE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PUREED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PURER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PURR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PURRED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RUDDER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RUDE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RUDER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RUED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RUFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RUFFED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RUMMER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RUMP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "UDDER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UPPED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UPPER",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

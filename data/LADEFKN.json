@@ -1,0 +1,257 @@
+{
+    "letters": "LADEFKN",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 109,
+    "word_count": 47,
+    "pangram_count": 1,
+    "pangram_list": [
+        "FLANKED"
+    ],
+    "word_list": [
+        {
+            "word": "ANAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ANKLE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DEAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FALL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FALLEN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FEEL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FELLED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FLAK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FLAKE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FLAKED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FLANK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FLANKED",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "FLANNEL",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FLANNELED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "FLANNELLED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "FLEA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FLED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FLEE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KEEL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KEELED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KENNEL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KENNELED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "KENNELLED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "KNEEL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LADE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LADED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LADEN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LADLE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LADLED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LAKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LAND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LANDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LANE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LEAD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LEADED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LEADEN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LEAF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LEAFED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LEAK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LEAKED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LEAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LEANED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LEEK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LEND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NEEDLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NEEDLED",
+            "score": 4,
+            "pangram": false
+        }
+    ]
+}

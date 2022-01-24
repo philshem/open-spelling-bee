@@ -1,0 +1,267 @@
+{
+    "letters": "REGMOTY",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 100,
+    "word_count": 49,
+    "pangram_count": 1,
+    "pangram_list": [
+        "GEOMETRY"
+    ],
+    "word_list": [
+        {
+            "word": "EMERGE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ERGO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ERROR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GEOMETRY",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "GERM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GORE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GORGE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GORY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GREET",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GREY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GREYER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GROGGY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GROOM",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GROTTO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MEMORY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MERE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MERGE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MERGER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MERRY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "METEOR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "METER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "METRE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "METRO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MOOR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MORE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOTOR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OGRE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ORGY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OTTER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "REGRET",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REMOTE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REMOTER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RETORT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RETRY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ROOM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROOMY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ROOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROOTER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ROTE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROTOR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TEETER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TERM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TERROR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TORE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOTTER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TREE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TREMOR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TROT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TYRE",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

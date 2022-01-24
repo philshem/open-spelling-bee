@@ -1,0 +1,262 @@
+{
+    "letters": "EFGIORV",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 114,
+    "word_count": 48,
+    "pangram_count": 1,
+    "pangram_list": [
+        "FORGIVE"
+    ],
+    "word_list": [
+        {
+            "word": "EERIE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EERIER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ERGO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ERROR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EVER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FERVOR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FEVER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FIERIER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FIRE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FIVE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FIVER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FOGGIER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FORE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FOREGO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FOREVER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FORGE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FORGER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FORGIVE",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "FREE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FREER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GIVE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOOFIER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GOOIER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GORE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GORGE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GORIER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GRIEF",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GRIEVE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GROGGIER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GROOVE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GROOVIER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GROVE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OFFER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OGRE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OVER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "REEF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "REFER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "REFEREE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "REVERE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REVERIE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "REVIVE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RIFE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RIFER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RIVER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VEER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VERGE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VERIER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VERVE",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

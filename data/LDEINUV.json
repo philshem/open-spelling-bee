@@ -1,0 +1,262 @@
+{
+    "letters": "LDEINUV",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 119,
+    "word_count": 48,
+    "pangram_count": 1,
+    "pangram_list": [
+        "UNVEILED"
+    ],
+    "word_list": [
+        {
+            "word": "DELI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DELUDE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DELUDED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DELVE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DELVED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEVIL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DEVILED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DEVILLED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUEL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUELED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DUELLED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DULLED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ELEVEN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ELUDE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ELUDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ENLIVEN",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ENLIVENED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "EVIL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "IDLE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "IDLED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LEND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LEVEE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LEVEL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LEVELED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "LEVELLED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LEVIED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LIED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LIEU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LINE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LINED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LINEN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LIVE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LIVED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LIVEN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LIVENED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "LIVID",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LULLED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NEEDLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NEEDLED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "NULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "UNVEIL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "UNVEILED",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "VEIL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VEILED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VILE",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

@@ -1,0 +1,242 @@
+{
+    "letters": "ALMNORY",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 89,
+    "word_count": 44,
+    "pangram_count": 1,
+    "pangram_list": [
+        "NORMALLY"
+    ],
+    "word_list": [
+        {
+            "word": "ALARM",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ALLAY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ALLOY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ALLY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AMORAL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ANAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ANNOY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ANOMALY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ANON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ARMOR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ARMORY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ARMY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AROMA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ARRAY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LAYMAN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LLAMA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LOAM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOYAL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MALL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MAMA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MAMMA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MAMMAL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MANLY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MANOR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MANY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MAROON",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MARRY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MAYOR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MOAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOLAR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MORAL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MORALLY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "NORMAL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NORMALLY",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "ORAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RALLY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RAYON",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ROAM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROMAN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ROYAL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ROYALLY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "YARN",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

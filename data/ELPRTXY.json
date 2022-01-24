@@ -1,0 +1,232 @@
+{
+    "letters": "ELPRTXY",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 87,
+    "word_count": 42,
+    "pangram_count": 1,
+    "pangram_list": [
+        "EXPERTLY"
+    ],
+    "word_list": [
+        {
+            "word": "EXERT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EXPEL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EXPERT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EXPERTLY",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "LEER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LEERY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LEPER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LETTER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LYRE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PEEL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PEEP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PEER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PELLET",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PELT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PEPPER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PERPLEX",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PERT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PERTER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PETER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PETTY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PRETEXT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PRETTY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PREY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PYRE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "REEL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RELY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "REPEL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "REPLETE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "REPLY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RETRY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RETYPE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TEETER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TELETYPE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TELLER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TEPEE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TEXT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TREE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TYPE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TYRE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YELP",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

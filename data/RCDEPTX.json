@@ -1,0 +1,217 @@
+{
+    "letters": "RCDEPTX",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 119,
+    "word_count": 39,
+    "pangram_count": 1,
+    "pangram_list": [
+        "EXCERPTED"
+    ],
+    "word_list": [
+        {
+            "word": "CREED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CREEP",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CREPE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CREPT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DECREE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DECREED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DEEPER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DETER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DETERRED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ERECT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ERECTED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ERRED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EXCERPT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "EXCERPTED",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "EXCRETE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "EXCRETED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "EXERT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EXERTED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "EXPERT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PEER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PEERED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PEPPER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PEPPERED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PERT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PERTER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PETER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PETERED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PRECEDE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PRECEDED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PRETEXT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RECEDE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RECEDED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "REDDER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TEETER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TEETERED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TREE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TREED",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

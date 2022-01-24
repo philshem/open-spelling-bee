@@ -1,0 +1,207 @@
+{
+    "letters": "NACELRV",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 91,
+    "word_count": 37,
+    "pangram_count": 1,
+    "pangram_list": [
+        "RELEVANCE"
+    ],
+    "word_list": [
+        {
+            "word": "ACNE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ANAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ARCANE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ARENA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CANAL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CANCEL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CANCER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CANE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CARAVAN",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CARNAL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CAVERN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CLAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CLEAN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CLEANER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CLEARANCE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CRANE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EARN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EARNER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ELEVEN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EVEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EVENER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LANCE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LANE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LEAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LEANER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LEARN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NAVAL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NAVEL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NEAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NEARER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NERVE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NEVER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RAVEN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RELEVANCE",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "REVERENCE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "VANE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VENEER",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

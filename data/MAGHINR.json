@@ -1,0 +1,187 @@
+{
+    "letters": "MAGHINR",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 100,
+    "word_count": 33,
+    "pangram_count": 1,
+    "pangram_list": [
+        "HARMING"
+    ],
+    "word_list": [
+        {
+            "word": "AIMING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ANAGRAM",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ARMING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GAMING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GAMMA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GINGHAM",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GRAM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GRAMMAR",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GRIM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GRIMING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HAMMING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HARM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HARMING",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "IMAGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "IMAGINING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MAIM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MAIMING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MAIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MAMA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MAMMA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MANAGING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MANIA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MANNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MARGIN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MARIA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MARINA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MARRING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MIMING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MINING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MIRING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NAMING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RAMMING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RIMMING",
+            "score": 4,
+            "pangram": false
+        }
+    ]
+}

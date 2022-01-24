@@ -1,0 +1,242 @@
+{
+    "letters": "NEFILRT",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 117,
+    "word_count": 44,
+    "pangram_count": 1,
+    "pangram_list": [
+        "INFERTILE"
+    ],
+    "word_list": [
+        {
+            "word": "ENTER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ENTIRE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ENTITLE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FEINT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FELINE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FERN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FIFTEEN",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FINE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FINER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FINITE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FLINT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "INERT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "INFER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "INFERTILE",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "INFINITE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "INLET",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "INNER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "INTENT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "INTER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "INTERFERE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "INTERN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "INTERNET",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LENIENT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "LENT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LENTIL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LIFELINE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LINE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LINEN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LINER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LINT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NETTLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NIFTIER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "NINE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NINETEEN",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "REFINE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RELENT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RENT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TEEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TENET",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TENT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TINIER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TINNIER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TINT",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

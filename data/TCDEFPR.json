@@ -1,0 +1,202 @@
+{
+    "letters": "TCDEFPR",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 114,
+    "word_count": 36,
+    "pangram_count": 1,
+    "pangram_list": [
+        "PERFECTED"
+    ],
+    "word_list": [
+        {
+            "word": "CREPT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DEFECT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEFECTED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DEFT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DEFTER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DETECT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DETECTED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DETER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DETERRED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "EFFECT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EFFECTED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ERECT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ERECTED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FEET",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FERRET",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FERRETED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FETED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FETTER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FETTERED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FRET",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FRETTED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PERFECT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PERFECTED",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "PERFECTER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PERT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PERTER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PETER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PETERED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PETTED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PREFECT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TEED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TEETER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TEETERED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TEPEE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TREE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TREED",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

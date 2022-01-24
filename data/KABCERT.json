@@ -1,0 +1,202 @@
+{
+    "letters": "KABCERT",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 90,
+    "word_count": 36,
+    "pangram_count": 1,
+    "pangram_list": [
+        "BRACKET"
+    ],
+    "word_list": [
+        {
+            "word": "ABACK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ATTACK",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ATTACKER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BACK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BACKER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BACKTRACK",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BAKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BAKER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BAREBACK",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BARK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BEAK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BEAKER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BRACKET",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "BRAKE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BREAK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CAKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CARETAKER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CRACK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CRACKER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CREAK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CREEK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KARAT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KARATE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KERB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RACETRACK",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "RACK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RACKET",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RACKETEER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "RAKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "REEK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TACK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TAKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TAKER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TEAK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TRACK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TREK",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

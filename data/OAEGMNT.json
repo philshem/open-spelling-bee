@@ -1,0 +1,252 @@
+{
+    "letters": "OAEGMNT",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 87,
+    "word_count": 46,
+    "pangram_count": 1,
+    "pangram_list": [
+        "MEGATON"
+    ],
+    "word_list": [
+        {
+            "word": "AEON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AMONG",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AMONG",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ANNOTATE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ANON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ATOM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ATONE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ATONEMENT",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "GNOME",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GOAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOATEE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GONE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GONG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GONNA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOTTEN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MAGGOT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MANGO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MEGATON",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "MEMENTO",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MEMO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOMENT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOTTO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NEON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NONE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NOTE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OMEGA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OMEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ONTO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TANGO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TATTOO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TOGA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOMATO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TOME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TONE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TONG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TONNAGE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TONNE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TOOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOTE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOTEM",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

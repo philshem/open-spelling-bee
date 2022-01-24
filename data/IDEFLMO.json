@@ -1,0 +1,227 @@
+{
+    "letters": "IDEFLMO",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 90,
+    "word_count": 41,
+    "pangram_count": 1,
+    "pangram_list": [
+        "MOLLIFIED"
+    ],
+    "word_list": [
+        {
+            "word": "DEFIED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEFILE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEFILED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DEIFIED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DELI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DIED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DIME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DIMMED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EDDIED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FIDDLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FIDDLED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FIELD",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FIELDED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FILE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FILED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FILLED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FILM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FILMED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FLIED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FOIL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FOILED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "IDIOM",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "IDLE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "IDLED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "IDOL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LIED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LIFE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LIME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LIMED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MIDDLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MILD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MILE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MILLED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MIME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MIMED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MODIFIED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MOLLIFIED",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "OILED",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

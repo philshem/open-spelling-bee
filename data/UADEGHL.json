@@ -1,0 +1,227 @@
+{
+    "letters": "UADEGHL",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 102,
+    "word_count": 41,
+    "pangram_count": 1,
+    "pangram_list": [
+        "LAUGHED"
+    ],
+    "word_list": [
+        {
+            "word": "ALLUDE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ALLUDED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DELUDE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DELUDED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DELUGE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DELUGED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DUAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUDE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUDED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DUEL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUELED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DUELLED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DULLED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ELUDE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ELUDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GAUGE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GAUGED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GLUE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GLUED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GULLED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HAUL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HAULED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HUDDLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HUDDLED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HUED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HUGE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HUGGED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HULLED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LAUD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LAUDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LAUGH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LAUGHED",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "LEAGUE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LEAGUED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "LUGGAGE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "LUGGED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LULLED",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}
