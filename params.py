@@ -9,11 +9,11 @@ PUZZLE_COUNT = 1000
 MAX_PUZZLE_TRIES = 100000
 
 # file paths
-WORD_LIST_PATH = 'word_lists' + os.sep + 'TWL06.txt'
-PUZZLE_DATA_PATH = 'data'
+WORD_LIST_PATH = 'word_lists' + os.sep + 'scowl.txt'
+PUZZLE_DATA_PATH = 'data-scowl'
 
 # multithreading if more than 1
-THREADS = 1
+THREADS = 4
 
 # set minimum word length and total letters used
 MIN_WORD_LENGTH = 4
