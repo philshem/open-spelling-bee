@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 
 ''' parameter file for generate_puzzles.py '''
 
@@ -10,10 +10,10 @@ MAX_PUZZLE_TRIES = 100000
 
 # file paths
 WORD_LIST_PATH = 'word_lists' + os.sep + 'scowl.txt'
-PUZZLE_DATA_PATH = 'data-scowl'
+PUZZLE_DATA_PATH = 'data'
 
 # multithreading if more than 1
-THREADS = 4
+THREADS = 1
 
 # set minimum word length and total letters used
 MIN_WORD_LENGTH = 4
