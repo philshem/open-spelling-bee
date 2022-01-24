@@ -46,9 +46,9 @@ for f in ${wordlists[@]}; do
 done
 
 cat ${wordlists[@]} |
-    LANG=C egrep '^[A-Za-z]+$' |
+    LANG=C egrep '^[A-Za-z]+$' |		# We use LANG=C to remove attaché
     tr '[a-z]' '[A-Z]' |
-    sort > $outputfile
+    sort -u > $outputfile
 
 echo "Done."
 
