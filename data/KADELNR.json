@@ -1,0 +1,217 @@
+{
+    "letters": "KADELNR",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 93,
+    "word_count": 39,
+    "pangram_count": 1,
+    "pangram_list": [
+        "RANKLED"
+    ],
+    "word_list": [
+        {
+            "word": "ANKLE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DANK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DANKER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DARK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DARKEN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DARKENED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DARKER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DRANK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EKED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KEEL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KEELED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KEEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KEENED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KEENER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KENNEL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KENNELED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "KENNELLED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "KERNEL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KNEAD",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KNEADED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "KNEE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KNEED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KNEEL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LAKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LARK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LARKED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LEAK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LEAKED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LEEK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NAKED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RAKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RAKED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RANK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RANKED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RANKER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RANKLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RANKLED",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "REEK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "REEKED",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

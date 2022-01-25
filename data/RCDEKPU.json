@@ -1,0 +1,262 @@
+{
+    "letters": "RCDEKPU",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 120,
+    "word_count": 48,
+    "pangram_count": 1,
+    "pangram_list": [
+        "PUCKERED"
+    ],
+    "word_list": [
+        {
+            "word": "CREED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CREEK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CREEP",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CREPE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CRUDE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CRUDER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CURD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CURE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CURED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DECREE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DECREED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DEEPER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ERRED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KEEPER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PEER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PEERED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PEPPER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PEPPERED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PERK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PERKED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PRECEDE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PRECEDED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PRUDE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PUCKER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PUCKERED",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "PURE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PUREE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PUREED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PURER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PURR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PURRED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RECEDE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RECEDED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RECUR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RECURRED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "REDDER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REDUCE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REDUCED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "REED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "REEK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "REEKED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RUDDER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RUDE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RUDER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RUED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "UDDER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UPPER",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

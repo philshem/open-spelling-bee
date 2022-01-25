@@ -1,0 +1,227 @@
+{
+    "letters": "OEIMRTZ",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 92,
+    "word_count": 41,
+    "pangram_count": 1,
+    "pangram_list": [
+        "MOTORIZE"
+    ],
+    "word_list": [
+        {
+            "word": "ERROR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MEMO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MEMOIR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MEMORIZE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "METEOR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "METEORITE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "METRO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MIRROR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MOOR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MORE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOTOR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MOTORIZE",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "MOTTO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OMIT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OOZE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OTTER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "REMOTE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REMOTER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RETORT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RIOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RIOTER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ROOM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROOMIER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ROOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROOTER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ROTE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROTOR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TERROR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TERRORIZE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TOME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TORE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOTE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOTEM",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TOTTER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TREMOR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TRIO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TROT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ZERO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ZOOM",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

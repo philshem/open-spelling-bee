@@ -1,0 +1,212 @@
+{
+    "letters": "PEINRTV",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 118,
+    "word_count": 38,
+    "pangram_count": 1,
+    "pangram_list": [
+        "PREVENTIVE"
+    ],
+    "word_list": [
+        {
+            "word": "INEPT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "INTERPRET",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "INTERPRETER",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "NIPPIER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PEEP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PEER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PEEVE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PENITENT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PEPPER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PERT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PERTER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PERTINENT",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PERVERT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PETER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PETITE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PETTIER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PIER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PINE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PINT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PIPE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PREEN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PRETTIER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PREVENT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PREVENTIVE",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "PRINT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PRINTER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PRIVIER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "REPENT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REPETITIVE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "REPRIEVE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "REPRINT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RIPE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RIPEN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RIPER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TEPEE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TRIP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TRIPE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VIPER",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

@@ -1,0 +1,257 @@
+{
+    "letters": "ICDEFKL",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 109,
+    "word_count": 47,
+    "pangram_count": 1,
+    "pangram_list": [
+        "FLICKED"
+    ],
+    "word_list": [
+        {
+            "word": "CLICK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CLICKED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CLIFF",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DECIDE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DECIDED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DEFIED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEFILE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEFILED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DEIFIED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DELI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DICE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DICED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DIED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DIKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DIKED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EDDIED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EDIFICE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FICKLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FIDDLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FIDDLED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FIELD",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FIELDED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FILE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FILED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FILLED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FLICK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FLICKED",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "FLIED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ICED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ICICLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "IDLE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "IDLED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KICK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KICKED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KIDDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KILLED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LICE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LICK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LICKED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LIED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LIFE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LIFELIKE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LIKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LIKED",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

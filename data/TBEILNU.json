@@ -1,0 +1,242 @@
+{
+    "letters": "TBEILNU",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 93,
+    "word_count": 44,
+    "pangram_count": 1,
+    "pangram_list": [
+        "BULLETIN"
+    ],
+    "word_list": [
+        {
+            "word": "BEET",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BEETLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BELITTLE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BELT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BENT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BITE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BITTEN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BLUNT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BUILT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BULLET",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BULLETIN",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "BUTT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BUTTE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ELITE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ENTITLE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "INBUILT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "INLET",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "INTENT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LENIENT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "LENT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LENTIL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LILT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LINT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LITTLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LUTE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NETTLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NINETEEN",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TEEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TENET",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TENT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TILE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TILT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TINT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TITBIT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TITLE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TUBE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TUNE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TUNNEL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "UNIT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "UNITE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UNTIE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UNTIL",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

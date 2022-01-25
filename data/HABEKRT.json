@@ -1,0 +1,197 @@
+{
+    "letters": "HABEKRT",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 86,
+    "word_count": 35,
+    "pangram_count": 1,
+    "pangram_list": [
+        "HEARTBREAK"
+    ],
+    "word_list": [
+        {
+            "word": "BATH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BATHE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BERTH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BREATH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BREATHE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BREATHER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "EARTH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ETHER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HARE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HARK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HART",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HATE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HEAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HEART",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HEARTBEAT",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "HEARTBREAK",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "HEARTH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HEAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HEATER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HEATH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HEATHER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HERB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HERE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RATHER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TEETH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TEETHE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TETHER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "THAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "THEATER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "THEATRE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "THEE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "THERE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "THETA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "THREAT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "THREE",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

@@ -1,0 +1,242 @@
+{
+    "letters": "ICDELOP",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 103,
+    "word_count": 44,
+    "pangram_count": 1,
+    "pangram_list": [
+        "POLICED"
+    ],
+    "word_list": [
+        {
+            "word": "CLIP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CLIPPED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "COIL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COILED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COLIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COLLIDE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "COLLIDED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "COLLIE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COPIED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DECIDE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DECIDED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DELI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DICE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DICED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DIED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DIPPED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DOCILE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EDDIED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EPIC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ICED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ICICLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "IDLE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "IDLED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "IDOL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LICE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LIED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOLLIPOP",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "OILED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PICCOLO",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PIDDLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PIDDLED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PIECE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PIECED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PILE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PILED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PILLED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PIPE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PIPED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PLIED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "POLICE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "POLICED",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "POLIO",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

@@ -1,0 +1,222 @@
+{
+    "letters": "RBEINOW",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 83,
+    "word_count": 40,
+    "pangram_count": 1,
+    "pangram_list": [
+        "BROWNIE"
+    ],
+    "word_list": [
+        {
+            "word": "BEER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BONIER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BOOR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BORE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BORN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BORNE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BORROW",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BREW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BRIBE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BRINE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BRINIER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BROW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BROWN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BROWNER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BROWNIE",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "EERIE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EERIER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ERROR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "INBORN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "INNER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "IRON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NEWBORN",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "NEWER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OWNER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "REBORN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RENEW",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RENOWN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RIBBON",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ROBBER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ROBE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROBIN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WEER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WERE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WINNER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WIRE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WIRIER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WORE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WORN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WREN",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

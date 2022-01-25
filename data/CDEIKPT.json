@@ -1,0 +1,182 @@
+{
+    "letters": "CDEIKPT",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 80,
+    "word_count": 32,
+    "pangram_count": 1,
+    "pangram_list": [
+        "PICKETED"
+    ],
+    "word_list": [
+        {
+            "word": "CEDE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CEDED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CITE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CITED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DECEIT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DECIDE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DECIDED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DECK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DECKED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEPICT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEPICTED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DETECT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DETECTED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DICE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DICED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EDICT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EPIC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ICED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KICK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KICKED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PECK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PECKED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PICK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PICKED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PICKET",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PICKETED",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "PIECE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PIECED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TICK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TICKED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TICKET",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TICKETED",
+            "score": 5,
+            "pangram": false
+        }
+    ]
+}

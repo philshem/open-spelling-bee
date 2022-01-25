@@ -1,0 +1,262 @@
+{
+    "letters": "OCDEKPT",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 97,
+    "word_count": 48,
+    "pangram_count": 1,
+    "pangram_list": [
+        "POCKETED"
+    ],
+    "word_list": [
+        {
+            "word": "COCK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COCKED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CODDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CODE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CODED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COKED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COOED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COOK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COOKED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COOP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COOPED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COPE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COPED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COPPED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DECODE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DECODED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DEPOT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DOCK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOCKED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DODO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOPE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOPED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DOTE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOTED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DOTTED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "OKED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OKED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OPTED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "POCKET",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "POCKETED",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "PODDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "POET",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POKED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "POOP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POOPED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "POPE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POPPED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "POTTED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TOED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOOK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOOTED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TOPPED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TOTE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOTED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TOTTED",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

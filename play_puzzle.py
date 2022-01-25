@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 
 ''' play puzzles based on params.py PUZZLE_PATH_READ value'''
 

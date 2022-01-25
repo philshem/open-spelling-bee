@@ -1,0 +1,227 @@
+{
+    "letters": "IAEMRTU",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 101,
+    "word_count": 41,
+    "pangram_count": 1,
+    "pangram_list": [
+        "IMMATURE"
+    ],
+    "word_list": [
+        {
+            "word": "AIRIER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ARIA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ATTIRE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EERIE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EERIER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EMIR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EMIT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "IMITATE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "IMMATURE",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "IRATE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "IRRITATE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ITEM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ITERATE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MAIM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MARIA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MARITIME",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MERIT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MERRIER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MIME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MIRE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MITE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MITT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "REITERATE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "REMIT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RETIRE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RITE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TARRIER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TERMITE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TERRIER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TIARA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TIER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TIME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TIMER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TIRE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TITTER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TRAIT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TRIM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TRIMMER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TRITE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TRITER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "UTERI",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

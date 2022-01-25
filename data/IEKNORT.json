@@ -1,0 +1,247 @@
+{
+    "letters": "IEKNORT",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 119,
+    "word_count": 45,
+    "pangram_count": 1,
+    "pangram_list": [
+        "KNOTTIER"
+    ],
+    "word_list": [
+        {
+            "word": "EERIE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EERIER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ENTIRE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "INERT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "INKIER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "INNER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "INTENT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "INTENTION",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "INTER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "INTERIOR",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "INTERN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "INTERNET",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "INTO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "IRON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KINK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KINKIER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "KITE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KITTEN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KNIT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KNOTTIER",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "NINE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NINETEEN",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "NOTION",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ONION",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ORIENT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RETENTION",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "RETIRE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RINK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RIOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RIOTER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RITE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROOKIE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TERRIER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TIER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TINIER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TINKER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TINNIER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TINT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TIRE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TITTER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TRINKET",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TRIO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TRITE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TRITER",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

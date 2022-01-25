@@ -1,0 +1,202 @@
+{
+    "letters": "GEILNVY",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 115,
+    "word_count": 36,
+    "pangram_count": 1,
+    "pangram_list": [
+        "LEVYING"
+    ],
+    "word_list": [
+        {
+            "word": "EGGING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ELEGY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ENGINE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ENLIVENING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "ENVYING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "EVENING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "EYEING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GEEING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GENE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GENIE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GENII",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GIGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GIGGLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GIGGLING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GINNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GIVE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GIVEN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GIVING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GLEE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GLEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "INNING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LEGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "LEVELING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LEVELLING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "LEVYING",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "LINING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LIVENING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LIVING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LYING",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NEGLIGEE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "VEILING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "VEINING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "VIGIL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VYING",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "YELLING",
+            "score": 4,
+            "pangram": false
+        }
+    ]
+}

@@ -1,0 +1,212 @@
+{
+    "letters": "LCDEFRT",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 107,
+    "word_count": 38,
+    "pangram_count": 1,
+    "pangram_list": [
+        "REFLECTED"
+    ],
+    "word_list": [
+        {
+            "word": "CELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CLEF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CLEFT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DEFLECT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DEFLECTED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DELETE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DELETED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ELDER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ELECT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ELECTED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FEEL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FEELER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FELLED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FELLER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FELT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FELTED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FLED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FLEE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FLEECE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FLEECED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FLEET",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FLEETED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FLEETER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "LEER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LEERED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LEFT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LEFTER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LETTER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LETTERED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "REEL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "REELECT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "REELECTED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "REELED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REFLECT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "REFLECTED",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "TELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TELLER",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

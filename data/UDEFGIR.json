@@ -1,0 +1,202 @@
+{
+    "letters": "UDEFGIR",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 93,
+    "word_count": 36,
+    "pangram_count": 1,
+    "pangram_list": [
+        "FIGURED"
+    ],
+    "word_list": [
+        {
+            "word": "DRUDGE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DRUDGED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DRUG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DRUGGED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DUDE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUDED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DUFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FEUD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FEUDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FIGURE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FIGURED",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "FUDGE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FUDGED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FURRED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FURRIER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GRUDGE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GRUDGED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GRUFF",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GRUFFER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GUIDE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GUIDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GURU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "REFUGE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REFUGEE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RUDDER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RUDDIER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RUDE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RUDER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RUED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RUFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RUFFED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RUGGED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RUGGEDER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "UDDER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "URGE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "URGED",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

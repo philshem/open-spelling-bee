@@ -1,0 +1,217 @@
+{
+    "letters": "VADEORT",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 110,
+    "word_count": 39,
+    "pangram_count": 1,
+    "pangram_list": [
+        "OVERRATED"
+    ],
+    "word_list": [
+        {
+            "word": "ADVERT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "AVERT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AVERTED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DEVOTE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEVOTED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DEVOTEE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DOVE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DROVE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EAVE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EVADE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EVADED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EVER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OVER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OVERATE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "OVERDO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "OVEREAT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "OVERRATE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "OVERRATED",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "OVERRODE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "OVERT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RAVE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RAVED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "REVERE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REVERED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "REVERT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REVERTED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "REVVED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VATTED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VEER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VEERED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VERVE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VETO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VETOED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VETTED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VOODOO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VOODOOED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "VOTE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VOTED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VOTER",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

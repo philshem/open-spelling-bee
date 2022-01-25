@@ -1,0 +1,237 @@
+{
+    "letters": "GDEFIRU",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 117,
+    "word_count": 43,
+    "pangram_count": 1,
+    "pangram_list": [
+        "FIGURED"
+    ],
+    "word_list": [
+        {
+            "word": "DEGREE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DIRGE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DREDGE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DREDGED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DRUDGE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DRUDGED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DRUG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DRUGGED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "EDGE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EDGED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EDGER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EDGIER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EGGED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FIGURE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FIGURED",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "FRIGID",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FUDGE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FUDGED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GEED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GIDDIER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GIGGED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GIRDER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GREED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GREEDIER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GRID",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GRIEF",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GRUDGE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GRUDGED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GRUFF",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GRUFFER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GUIDE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GUIDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GURU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "REFUGE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REFUGEE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RIDGE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RIDGED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RIGGED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RIGID",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RUGGED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RUGGEDER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "URGE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "URGED",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

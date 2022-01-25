@@ -1,0 +1,207 @@
+{
+    "letters": "PDEIMNT",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 118,
+    "word_count": 37,
+    "pangram_count": 1,
+    "pangram_list": [
+        "IMPEDIMENT"
+    ],
+    "word_list": [
+        {
+            "word": "DEEP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DEEPEN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEEPENED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DEPEND",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEPENDED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DEPENDENT",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DIPPED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EMPTIED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "IMPEDE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "IMPEDED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "IMPEDIMENT",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "IMPEND",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "IMPENDED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "INDEPENDENT",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "INEPT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NIPPED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PEEP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PEEPED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PENDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PENITENT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PENNED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PEPPED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PETITE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PETTED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PINE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PINED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PINNED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PINT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PIPE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PIPED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PITIED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PITTED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TEMPT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TEMPTED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TEPEE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TEPID",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TIPPED",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

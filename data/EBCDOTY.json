@@ -1,0 +1,237 @@
+{
+    "letters": "EBCDOTY",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 94,
+    "word_count": 43,
+    "pangram_count": 1,
+    "pangram_list": [
+        "BOYCOTTED"
+    ],
+    "word_list": [
+        {
+            "word": "BEDDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BEET",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BOBBED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BODE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BODED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BOOED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BOOTED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BOOTEE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BOYCOTTED",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "BYTE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CEDE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CEDED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CODDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CODE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CODED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COOED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COYOTE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEBT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DECODE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DECODED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DECOY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DECOYED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DEED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DEEDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DETECT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DETECTED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DOTE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOTED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DOTTED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DYED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EBBED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EDDY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EYED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OBEY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OBEYED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "OBOE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TEED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOOTED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TOTE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOTED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TOTTED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TOYED",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

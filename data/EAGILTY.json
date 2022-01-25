@@ -1,0 +1,187 @@
+{
+    "letters": "EAGILTY",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 86,
+    "word_count": 33,
+    "pangram_count": 1,
+    "pangram_list": [
+        "LEGALITY"
+    ],
+    "word_list": [
+        {
+            "word": "AGILE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AGITATE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ALGAE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ALLEGE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ALLEY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EAGLE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ELEGY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ELITE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GAIETY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GALE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GALLEY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GATE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GIGGLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GLEE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ILLEGAL",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ILLEGALLY",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "LATE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LATELY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LEGAL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LEGALITY",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "LEGALLY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "LITTLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TAILGATE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TALE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TATTLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TEAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TELLTALE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TILE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TITILLATE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TITLE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "YELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YETI",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}
