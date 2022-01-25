@@ -172,6 +172,10 @@ def make_puzzles(word_list, pool, existing_puzzles, letters=None):
 
 def main(puzzle_input=None):
 
+	# if data dir does not exist, create it
+	if not os.path.isdir(params.PUZZLE_DATA_PATH):
+		os.makedirs(params.PUZZLE_DATA_PATH)
+
 	# get array of previously generated puzzles, to check against
 	existing_puzzles = get_existing_puzzles()
 
