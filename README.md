@@ -23,7 +23,7 @@ To play a non-random game:
 
 where `R` is the center letter that must be used at least once in each word. If the puzzle `RDGHNOU` does not exist, it will be created and saved to `data/RDGHNOU.json` (the file names are the first letter and the alphabetically sorted remaining letters).
 
-The word list used is from [SCOWL](http://wordlist.aspell.net/). The default setting contains 40,000 words, which seems comparable to the New York Times dictionary. However, you can edit the size parameter in [word_lists/mkscowl.sh](word_lists/mkscowl.sh) if you would like more obscure words included. 
+The word list used is from [SCOWL](http://wordlist.aspell.net/). The default setting contains 40,000 words, which seems comparable to the New York Times dictionary. (See below on changing the size parameter to include more erudite words.)
 
 To reach "genius" level, you'll need to solve 50% of the words.
 
@@ -52,6 +52,20 @@ To generate a certain letter combination, use:
     python3 generate_puzzles.py AGFEDCB
 
 which will then be saved to `data/ABCDEFG.json`.
+
+## to change the size of the wordlist
+
+If you find the game overly facile or wish your recondite words were accepted, you can change the wordlist size. Change `size=35` to a larger number in [word_lists/mkscowl](word_lists/mkscowl) and then run `mkscowl` to create a new wordlist. You must run `generate_puzzles.py` (as detailed above) whenever the wordlist changes.
+
+|-|-|-|-|
+|Description|Scowl size|Num words|Sample word|
+|-|-|-|-|
+|Small|`size=35`|40,198|abacus|
+|Medium|`size=50`|63,375|abeyance|
+|Large|`size=70`|115,332|abecedarian|
+|Huge|`size=80`|251,064|abapical|
+|Insane|`size=95`|435,726|abigailship|
+|-|-|-|-|
 
 ---
 
