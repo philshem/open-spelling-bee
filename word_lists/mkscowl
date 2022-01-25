@@ -1,6 +1,7 @@
 #!/bin/bash
 # mkscowl
 # Concatenate, CAPITALIZE, and sort the scowl word lists of a specific size and smaller.
+# After running this script, delete the old data directory and rerun generate_puzzles.py
 
 # You may pick the spelling categories, sub-categories, and list size.
 #
@@ -55,6 +56,8 @@ echo "Done."
 if ln -sf $outputfile scowl.txt; then
     echo "Linked $outputfile to scowl.txt"
 fi
+
+echo "You may now remove the 'data' directory and run generate_puzzles.py"
 
 #####################################################################################
 # Scowl file naming convention:							    #
