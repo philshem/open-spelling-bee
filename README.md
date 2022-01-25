@@ -57,7 +57,6 @@ which will then be saved to `data/ABCDEFG.json`.
 
 If you find the game overly facile or wish your recondite words were accepted, you can change the wordlist size. Change `size=35` to a larger number in [word_lists/mkscowl](word_lists/mkscowl) and then run `mkscowl` to create a new wordlist. You must run `generate_puzzles.py` (as detailed above) whenever the wordlist changes.
 
-|-|-|-|-|
 |Description|Scowl size|Num words|Sample word|
 |-|-|-|-|
 |Small|`size=35`|40,198|abacus|
@@ -65,7 +64,6 @@ If you find the game overly facile or wish your recondite words were accepted, y
 |Large|`size=70`|115,332|abecedarian|
 |Huge|`size=80`|251,064|abapical|
 |Insane|`size=95`|435,726|abigailship|
-|-|-|-|-|
 
 ---
 
