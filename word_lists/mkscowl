@@ -47,7 +47,8 @@ for f in ${wordlists[@]}; do
 done
 
 cat ${wordlists[@]} |
-    LANG=C egrep '^[A-Za-z]+$' |		# We use LANG=C to remove attaché
+    LANG=C grep -v "'" |			# Skip words with apostrophes
+    iconv -f latin1 -t ASCII//TRANSLIT |	# Remove accents (café -> cafe)
     tr '[a-z]' '[A-Z]' |
     sort -u > $outputfile
 
