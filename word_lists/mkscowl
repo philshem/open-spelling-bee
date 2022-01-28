@@ -11,8 +11,8 @@
 
 spelling_categories={english,american,british}
 #sub_categories={words,proper-names,abbreviations}
-sub_categories=words		# No brace expansion for a single item
-size=35
+sub_categories=words		# No brace expansion for a single item.
+size=${1:-35}			# Default to 35 if no command line arg given.
 
 ###
 
