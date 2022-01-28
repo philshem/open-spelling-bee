@@ -1,0 +1,182 @@
+{
+    "letters": "CILPRTU",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 86,
+    "word_count": 32,
+    "pangram_count": 1,
+    "pangram_list": [
+        "CULPRIT"
+    ],
+    "word_list": [
+        {
+            "word": "CIRCUIT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CIRRI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CITRIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CLIP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CLIPT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CLITIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CRIT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CRITIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CRITTUR",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CULPRIT",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "CULT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CULTI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CULTIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CUPRIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CURL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CURR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CURT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CUTUP",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ICTIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ILLICIT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ILLITIC",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "IRITIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LICIT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PICRIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PICRITIC",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PICUL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PRURITIC",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PURPURIC",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "UPCURL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "URIC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "UTRICULI",
+            "score": 5,
+            "pangram": false
+        }
+    ]
+}

@@ -1,0 +1,192 @@
+{
+    "letters": "CBDELNU",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 86,
+    "word_count": 34,
+    "pangram_count": 1,
+    "pangram_list": [
+        "BEUNCLED"
+    ],
+    "word_list": [
+        {
+            "word": "BEDUNCE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BEDUNCED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BEUNCLED",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "CEDE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CEDED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CELEB",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CELLED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CELLULE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CLUB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CLUBBED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CLUE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CLUED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CUBE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CUBEB",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CUBED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CUDDLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CUDDLED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CUED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CULLED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEDUCE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEDUCED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DEUCE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DEUCED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DUCE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUNCE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EDUCE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EDUCED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LUCE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LUCENCE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "NUNCLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "UNCEDED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "UNCLE",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

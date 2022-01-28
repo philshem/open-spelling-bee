@@ -1,0 +1,232 @@
+{
+    "letters": "CADEJNY",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 120,
+    "word_count": 42,
+    "pangram_count": 1,
+    "pangram_list": [
+        "ADJACENCY"
+    ],
+    "word_list": [
+        {
+            "word": "ACCEDE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ACCEDED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ACCEDENCE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ACED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ACNE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ACNED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ADJACENCE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ADJACENCY",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "CACA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CADDY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CADE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CADENCE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CADENCED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CADENCY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CAECA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CANCAN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CANDY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CANE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CANED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CANNA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CANNED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CANNY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CAYENNE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CAYENNED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CECA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CEDE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CEDED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CYAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CYCAD",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DACE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DANCE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DANCED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DECADE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DECADENCE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DECADENCY",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DECANE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DECAY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DECAYED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DECENCY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "JACANA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NANCE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NANCY",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

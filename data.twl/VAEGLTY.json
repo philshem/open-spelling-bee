@@ -1,0 +1,212 @@
+{
+    "letters": "VAEGLTY",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 100,
+    "word_count": 38,
+    "pangram_count": 1,
+    "pangram_list": [
+        "VEGETALLY"
+    ],
+    "word_list": [
+        {
+            "word": "AGAVE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EAVE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ELEVATE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GAVAGE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GAVE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GAVEL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GYVE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LAVA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LAVAGE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LAVALAVA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LAVE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LEAVE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LEAVY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LEVA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LEVEE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LEVEL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LEVELLY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "LEVY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VAGAL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VAGALLY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "VALE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VALET",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VALLATE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "VALLEY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VALVAL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VALVATE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "VALVE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VALVELET",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "VEAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VEALY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VEGETAL",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "VEGETALLY",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "VEGETATE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "VEGETE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VELA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VELATE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VELVET",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VELVETY",
+            "score": 4,
+            "pangram": false
+        }
+    ]
+}

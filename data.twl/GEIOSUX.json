@@ -1,0 +1,232 @@
+{
+    "letters": "GEIOSUX",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 102,
+    "word_count": 42,
+    "pangram_count": 1,
+    "pangram_list": [
+        "EXIGUOUS"
+    ],
+    "word_list": [
+        {
+            "word": "EGGS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EGIS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EGISES",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EGOS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EISEGESES",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "EISEGESIS",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "EXEGESES",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "EXEGESIS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "EXIGUOUS",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "GEES",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GEESE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GESSO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GESSOES",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GIES",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GIGS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GIGUE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GIGUES",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GOES",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOGO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOGOS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GOOS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOOSE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GOOSES",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GOUGE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GOUGES",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GOXES",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GUESS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GUESSES",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GUISE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GUISES",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GUSSIE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GUSSIES",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "IGGS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OGEE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OGEES",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SEGO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SEGOS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SEGS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SEGUE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SEGUES",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SIEGE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SIEGES",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

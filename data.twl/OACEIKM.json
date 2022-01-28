@@ -1,0 +1,232 @@
+{
+    "letters": "OACEIKM",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 85,
+    "word_count": 42,
+    "pangram_count": 1,
+    "pangram_list": [
+        "COCKAMAMIE"
+    ],
+    "word_list": [
+        {
+            "word": "ACOCK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AMMO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AMOK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CACAO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CAEOMA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CAMEO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CAMO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CIAO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COCA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COCCI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COCCIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COCK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COCKAMAMIE",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "COCO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COCOA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COMA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COMAE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COMAKE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COMIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COMMA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COMMIE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COOCOO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COOEE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COOK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COOKIE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KOOK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KOOKIE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MACACO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MAKO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MAMMOCK",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MEMO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MIMEO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MOCK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOMI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOMMA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OOMIAC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "OOMIACK",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "OOMIAK",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

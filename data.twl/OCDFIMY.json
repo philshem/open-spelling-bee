@@ -1,0 +1,232 @@
+{
+    "letters": "OCDFIMY",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 84,
+    "word_count": 42,
+    "pangram_count": 1,
+    "pangram_list": [
+        "COMMODIFY"
+    ],
+    "word_list": [
+        {
+            "word": "COCCI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COCCIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COCCID",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COCCOID",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "COCO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CODIFY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COIF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COMFY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COMIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COMMODIFY",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "COMMY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COOCOO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COOF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CYMOID",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DIDO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DODO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOMIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DOODOO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DOODY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DOOM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOOMY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FICO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FIDO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FOCI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FOOD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "IDIOCY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "IDIOM",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "IMIDO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "IODIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "IODID",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MODI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MODIFY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MOMI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOMMY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MOOD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOODY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MYOID",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ODIC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OIDIOID",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "YOMIM",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

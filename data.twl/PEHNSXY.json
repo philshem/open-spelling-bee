@@ -1,0 +1,237 @@
+{
+    "letters": "PEHNSXY",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 94,
+    "word_count": 43,
+    "pangram_count": 1,
+    "pangram_list": [
+        "SPHYNXES"
+    ],
+    "word_list": [
+        {
+            "word": "EPEE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EPEES",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ESPY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EXPENSE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "EXPENSES",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "HYPE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HYPES",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HYPHEN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HYPHENS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HYPS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NEEP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NEEPS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PEEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PEENS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PEEP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PEEPS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PEES",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PEHS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PENES",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PENNE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PENNY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PENS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PENSEE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PENSEES",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PEPPY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PEPS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PHYSES",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PYES",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PYXES",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SEEP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SEEPS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SEEPY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SEPSES",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SHEEP",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SPENSE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SPENSES",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "SPHENE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SPHENES",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "SPHYNX",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SPHYNXES",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "SYPH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SYPHS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "YEPS",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

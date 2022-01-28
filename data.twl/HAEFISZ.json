@@ -1,0 +1,237 @@
+{
+    "letters": "HAEFISZ",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 95,
+    "word_count": 43,
+    "pangram_count": 1,
+    "pangram_list": [
+        "HAFIZES"
+    ],
+    "word_list": [
+        {
+            "word": "AAHS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AHIS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ASHES",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FASH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FASHES",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FEHS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FISH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FISHES",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HAAF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HAAFS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HAES",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HAFIZ",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HAFIZES",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "HAHA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HAHAS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HAHS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HASH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HASHEESH",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "HASHEESHES",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "HASHES",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HASHISH",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HASHISHES",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "HAZE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HAZES",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HEEZE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HEEZES",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HEHS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HEISHI",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HIES",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HISS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HISSES",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HISSIES",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "SASH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SASHES",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SHAH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SHAHS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SHEA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SHEAF",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SHEAFS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SHEAS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SHEESH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SHES",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SHIES",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

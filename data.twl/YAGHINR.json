@@ -1,0 +1,222 @@
+{
+    "letters": "YAGRHIN",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 94,
+    "word_count": 40,
+    "pangram_count": 1,
+    "pangram_list": [
+        "HARRYING"
+    ],
+    "word_list": [
+        {
+            "word": "AIRY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ANGARY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ANGRY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ARIARY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ARRAY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ARRAYING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "AYAH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AYIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GHARRY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GINNY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GRAINY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GRANARY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GRANNY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GRAY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GRAYING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GYRI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GYRING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HAIRY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HARRY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HARRYING",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "HAYING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HINNY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HINNYING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "HYING",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NAGGY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NANNY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NARY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NINNY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RAGGY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RAINY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RANGY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RAYA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RAYAH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RAYING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "YAGI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YANG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YARN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YARNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "YIRR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YIRRING",
+            "score": 4,
+            "pangram": false
+        }
+    ]
+}

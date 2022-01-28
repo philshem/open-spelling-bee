@@ -1,0 +1,172 @@
+{
+    "letters": "XABESTU",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 92,
+    "word_count": 30,
+    "pangram_count": 1,
+    "pangram_list": [
+        "EXTUBATES"
+    ],
+    "word_list": [
+        {
+            "word": "AUXESES",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "AXES",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BATEAUX",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BATTEAUX",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BEAUX",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EAUX",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EXES",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EXTUBATE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "EXTUBATES",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "SAXES",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SAXTUBA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "SAXTUBAS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "SEXES",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SEXT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SEXTET",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SEXTETS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "SEXTETTE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "SEXTETTES",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "SEXTS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SUBTAXA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "SUBTEXT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "SUBTEXTS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TAXA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TAXES",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TAXUS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TEXAS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TEXASES",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TEXT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TEXTS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TUXES",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

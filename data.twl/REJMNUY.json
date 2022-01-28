@@ -1,0 +1,212 @@
+{
+    "letters": "REJMNUY",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 86,
+    "word_count": 38,
+    "pangram_count": 1,
+    "pangram_list": [
+        "JURYMEN"
+    ],
+    "word_list": [
+        {
+            "word": "EERY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EMEER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EMERY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EMMER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ENURE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ERNE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EYER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EYRE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EYRY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "JEER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "JEERER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "JERRY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "JURY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "JURYMEN",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "MERE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MERER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MERMEN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MERRY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MUMMER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MUMMERY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MURE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MURMUR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MURMURER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MURR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MURRE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MURREY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MURRY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NUNNERY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RERUN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RUER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RUMEN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RUMMER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RUMMY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RUMRUNNER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "RUNE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RUNNER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RUNNY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UNMERRY",
+            "score": 4,
+            "pangram": false
+        }
+    ]
+}

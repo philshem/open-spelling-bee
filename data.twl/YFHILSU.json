@@ -1,0 +1,192 @@
+{
+    "letters": "YFHILSU",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 87,
+    "word_count": 34,
+    "pangram_count": 1,
+    "pangram_list": [
+        "HUFFISHLY"
+    ],
+    "word_list": [
+        {
+            "word": "FILLY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FISHILY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FISHY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FLUFFILY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FLUFFY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FULLY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FUSSILY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FUSSY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HILLY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HISSY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HUFFILY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HUFFISHLY",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "HUFFY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HUSSY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "IFFY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ILLY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LILY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LUSHLY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LYSIS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SHILY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SHYLY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SILLILY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "SILLY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SISSY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SISSYISH",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "SLILY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SLUSHILY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "SLUSHY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SLYLY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SULLY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SYLI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SYLIS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "YILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YILLS",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

@@ -1,0 +1,262 @@
+{
+    "letters": "HILORSY",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 112,
+    "word_count": 48,
+    "pangram_count": 1,
+    "pangram_list": [
+        "HORSILY"
+    ],
+    "word_list": [
+        {
+            "word": "HILI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HILLO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HILLOS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HILLS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HILLY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HISS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HISSY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HOLILY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HOLLO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HOLLOO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HOLLOOS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HOLLOS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HOLLY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HOLS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HOLY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HOOLY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HORROR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HORRORS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HORSILY",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "HORSY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HOYS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OOHS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RHOS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RISHI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RISHIS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ROSHI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ROSHIS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SHILL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SHILLS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SHILY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SHIRR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SHIRRS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SHOO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SHOOL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SHOOLS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SHOOS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SHORL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SHORLS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SHRI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SHRILL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SHRILLS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "SHRILLY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "SHRIS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SHYLY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SISSYISH",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "SLOSH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SLOSHY",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

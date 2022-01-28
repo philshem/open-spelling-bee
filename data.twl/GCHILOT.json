@@ -1,0 +1,187 @@
+{
+    "letters": "GCHILOT",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 88,
+    "word_count": 33,
+    "pangram_count": 1,
+    "pangram_list": [
+        "LITHOLOGIC"
+    ],
+    "word_list": [
+        {
+            "word": "CLOG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COGITO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COHOG",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COLOG",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GIGLOT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GIGOLO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GIGOT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GILT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GLITCH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GLOGG",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GLOTTIC",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GOGO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOOGOL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GOTH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOTHIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HIGH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HIGHLIGHT",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "HIGHT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HIGHTH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HOGG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "IGLOO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ILLOGIC",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "LIGHT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LIGHTTIGHT",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "LITHOLOGIC",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "LOGIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LOGO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOGOI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OILTIGHT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "OOLOGIC",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "THIGH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TIGHT",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

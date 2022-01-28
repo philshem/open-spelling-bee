@@ -1,0 +1,237 @@
+{
+    "letters": "SJLNTUY",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 86,
+    "word_count": 43,
+    "pangram_count": 1,
+    "pangram_list": [
+        "UNJUSTLY"
+    ],
+    "word_list": [
+        {
+            "word": "JUJUS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "JUJUTSU",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "JUJUTSUS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "JUST",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "JUSTLY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "JUSTS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "JUTS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LULLS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LULUS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LUNTS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LUST",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LUSTS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LUSTY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LUSUS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NULLS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NUNS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NUTS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NUTSY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SLUT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SLUTS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SLUTTY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SLYLY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "STULL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "STULLS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "STUN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "STUNS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "STUNT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "STUNTS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "STYLUS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SULLY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SULU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SULUS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SUNN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SUNNS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SUNNY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SUNS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SUSS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TUNS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TUTS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TUTUS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ULUS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "UNJUST",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "UNJUSTLY",
+            "score": 5,
+            "pangram": true
+        }
+    ]
+}

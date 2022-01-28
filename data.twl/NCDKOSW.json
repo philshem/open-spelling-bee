@@ -1,0 +1,272 @@
+{
+    "letters": "NCDKOSW",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 98,
+    "word_count": 50,
+    "pangram_count": 1,
+    "pangram_list": [
+        "KNOCKDOWNS"
+    ],
+    "word_list": [
+        {
+            "word": "COCOON",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COCOONS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CODON",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CODONS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CONDO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CONDOS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CONK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CONKS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CONN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CONNS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CONS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COONS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DONS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOWN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOWNS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KNOCK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KNOCKDOWN",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "KNOCKDOWNS",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "KNOCKS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KNOW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KNOWN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KNOWNS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KNOWS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KONK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KONKS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NOCK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NOCKS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NODS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NOOK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NOOKS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NOONS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NOWS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ONOS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OWNS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SNOOD",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SNOODS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SNOOK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SNOOKS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SNOW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SNOWS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SONS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SOWN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SWOON",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SWOONS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WONK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WONKS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WONS",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

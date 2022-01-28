@@ -1,0 +1,197 @@
+{
+    "letters": "IEGHOTV",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 87,
+    "word_count": 35,
+    "pangram_count": 1,
+    "pangram_list": [
+        "EIGHTVO"
+    ],
+    "word_list": [
+        {
+            "word": "EIGHT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EIGHTH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EIGHTIETH",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "EIGHTVO",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "EVITE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GIGHE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GIGOT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GITE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GIVE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOETHITE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GOTHITE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HEIGH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HEIGHT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HEIGHTH",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HIGH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HIGHT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HIGHTH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HIVE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HOGTIE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HOTTIE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "OGIVE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "THIEVE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "THIGH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "THIO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TIGHT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TITHE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TITI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TITTIE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TOIT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VEGETIVE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "VEGGIE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VEGIE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VIVE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VOGIE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VOTIVE",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

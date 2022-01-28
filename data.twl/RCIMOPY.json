@@ -1,0 +1,232 @@
+{
+    "letters": "RCIMOPY",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 84,
+    "word_count": 42,
+    "pangram_count": 1,
+    "pangram_list": [
+        "MICROCOPY"
+    ],
+    "word_list": [
+        {
+            "word": "CIRRI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COIR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CORM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CORY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CRIMP",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CRIMPY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CROC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CROCI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CROP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MICRO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MICROCOCCI",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "MICROCOPY",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "MIMICRY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MIRI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MIRROR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MIRY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOOR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOORY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MOROCCO",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MORRO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PICRIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "POOR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POORI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PRICY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PRIM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PRIMI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PRIMO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PRIMP",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PRIOR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PRIORY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PROM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PROMO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PROP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PYRIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PYRO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RIMY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROCOCO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ROMP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROOM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROOMY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ROPY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YIRR",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

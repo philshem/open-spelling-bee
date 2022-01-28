@@ -1,0 +1,217 @@
+{
+    "letters": "CAEGIOP",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 83,
+    "word_count": 39,
+    "pangram_count": 1,
+    "pangram_list": [
+        "APOGEIC"
+    ],
+    "word_list": [
+        {
+            "word": "ACACIA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "AECIA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AGAPEIC",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "APACE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "APAGOGIC",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "APIECE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "APOCOPE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "APOCOPIC",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "APOGEIC",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "CACA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CACAO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CAECA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CAGE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CAPE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CAPO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CECA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CEPE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CIAO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COCA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COCCI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COCCIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COCO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COCOA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COOCOO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COOEE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COOP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COPE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COPPICE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "EPIC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EPIGEIC",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ICECAP",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "IPECAC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PACA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PACE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PEACE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PICA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PICE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PIECE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "POCO",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

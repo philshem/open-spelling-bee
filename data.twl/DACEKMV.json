@@ -1,0 +1,272 @@
+{
+    "letters": "DACEKMV",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 116,
+    "word_count": 50,
+    "pangram_count": 1,
+    "pangram_list": [
+        "MEDEVACKED"
+    ],
+    "word_list": [
+        {
+            "word": "ACADEME",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ACCEDE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ACCEDED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ACED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ADDED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ADEEM",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ADEEMED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CADE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CAKED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CAVED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CEDE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CEDED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DACE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DADA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DAME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DAMMED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEAD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DEAVE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DEAVED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DECADE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DECK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DECKED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DEEDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEEM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DEEMED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DEKED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DEME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DEVA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EAVED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EDEMA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EKED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EMCEED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EVADE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EVADED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KECKED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KEEKED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MACADAM",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MACED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MADAM",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MADAME",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MADDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MADE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MEAD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MEDAKA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MEDEVAC",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MEDEVACED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MEDEVACKED",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "MEED",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

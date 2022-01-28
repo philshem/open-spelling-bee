@@ -1,0 +1,177 @@
+{
+    "letters": "XEFIPRS",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 114,
+    "word_count": 31,
+    "pangram_count": 1,
+    "pangram_list": [
+        "PREFIXES"
+    ],
+    "word_list": [
+        {
+            "word": "EXES",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EXPIRE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EXPIRER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "EXPIRERS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "EXPIRES",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "EXPIRIES",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "EXPRESS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "EXPRESSER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "EXPRESSERS",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "EXPRESSES",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "FIXER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FIXERS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FIXES",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PERSPEX",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PERSPEXES",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PIXES",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PIXIE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PIXIES",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PREFIX",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PREFIXES",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "PREX",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PREXES",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PREXIES",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "REEXPRESS",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "REEXPRESSES",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "REFIX",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "REFIXES",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "REXES",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SEXES",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SEXIER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SIXES",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

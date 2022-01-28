@@ -1,0 +1,187 @@
+{
+    "letters": "CGIKLNT",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 116,
+    "word_count": 33,
+    "pangram_count": 1,
+    "pangram_list": [
+        "TICKLING"
+    ],
+    "word_list": [
+        {
+            "word": "CITING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CLICK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CLICKING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CLING",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CLINGING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CLINIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CLINK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CLINKING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CLITIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ICING",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ICTIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ILLICIT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ILLITIC",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "INCITING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "INCLINING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "KICK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KICKING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "KILLICK",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "KINNIKINNICK",
+            "score": 9,
+            "pangram": false
+        },
+        {
+            "word": "KLICK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LICIT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LICK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LICKING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "LIGNITIC",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "NICK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NICKING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "NICKLING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TICCING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TICK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TICKING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TICKLING",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "TINCT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TINCTING",
+            "score": 5,
+            "pangram": false
+        }
+    ]
+}

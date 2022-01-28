@@ -1,0 +1,197 @@
+{
+    "letters": "MGINPRT",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 101,
+    "word_count": 35,
+    "pangram_count": 1,
+    "pangram_list": [
+        "IMPRINTING"
+    ],
+    "word_list": [
+        {
+            "word": "GIMP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GIMPING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GRIM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GRIMING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "IMPI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "IMPING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "IMPINGING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "IMPRINT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "IMPRINTING",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "MIGG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MIMING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MINI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MINIM",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MINING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MINT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MINTING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MIRI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MIRIN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MIRING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MITRING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MITT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NIMMING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PIMP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PIMPING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PRIM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PRIMI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PRIMING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PRIMMING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PRIMP",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PRIMPING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RIMING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RIMMING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TIMING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TRIM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TRIMMING",
+            "score": 5,
+            "pangram": false
+        }
+    ]
+}

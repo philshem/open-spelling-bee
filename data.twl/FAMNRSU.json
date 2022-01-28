@@ -1,0 +1,222 @@
+{
+    "letters": "FAMNRSU",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 88,
+    "word_count": 40,
+    "pangram_count": 1,
+    "pangram_list": [
+        "SURFMAN"
+    ],
+    "word_list": [
+        {
+            "word": "AFAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AFARS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ARFS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FANS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FANUM",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FANUMS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FARM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FARMS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FAUN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FAUNA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FAUNAS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FAUNS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FRASS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FUNS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FURAN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FURANS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FURFUR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FURFURAN",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FURFURANS",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "FURS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FUSS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FUSUMA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MUFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MUFFS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NAFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NAFFS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RAFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RAFFS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RUFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RUFFS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SASSAFRAS",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "SNAFU",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SNAFUS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SNARF",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SNARFS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SNUFF",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SNUFFS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SURF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SURFMAN",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "SURFS",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

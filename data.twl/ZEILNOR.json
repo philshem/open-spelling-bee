@@ -1,0 +1,177 @@
+{
+    "letters": "ZEILNOR",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 84,
+    "word_count": 31,
+    "pangram_count": 1,
+    "pangram_list": [
+        "LIONIZER"
+    ],
+    "word_list": [
+        {
+            "word": "IONIZE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "IONIZER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "IRONIZE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "LEZZIE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LIONIZE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "LIONIZER",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "NONZERO",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "NOZZLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "OOZE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OOZIER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ORZO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OZONE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OZONIZE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "OZONIZER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "REZERO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REZONE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ROZZER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ZEIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ZERO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ZILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ZILLION",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ZINE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ZIZZLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ZONE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ZONER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ZOOIER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ZOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ZORI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ZORIL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ZORILLE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ZORILLO",
+            "score": 4,
+            "pangram": false
+        }
+    ]
+}

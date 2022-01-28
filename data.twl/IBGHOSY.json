@@ -1,0 +1,217 @@
+{
+    "letters": "IBGHOSY",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 80,
+    "word_count": 39,
+    "pangram_count": 1,
+    "pangram_list": [
+        "HIGHBOYS"
+    ],
+    "word_list": [
+        {
+            "word": "BIBB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BIBBS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BIBS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BIGGISH",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BIGGY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BIGOS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BIGS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BIOG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BIOGS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BIOS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BOGGISH",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BOOBISH",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BOYISH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BYSSI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GHIS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GIBS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GIGS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOYISH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HIGH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HIGHBOY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HIGHBOYS",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "HIGHS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HISS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HISSY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HOGGISH",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "IBIS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "IGGS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OBIS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SHOGI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SHOGIS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SIBB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SIBBS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SIBS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SIGH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SIGHS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SISSY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SISSYISH",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "YOGI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YOGIS",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

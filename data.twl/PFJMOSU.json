@@ -1,0 +1,272 @@
+{
+    "letters": "PFJMOSU",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 98,
+    "word_count": 50,
+    "pangram_count": 1,
+    "pangram_list": [
+        "JUMPOFFS"
+    ],
+    "word_list": [
+        {
+            "word": "FOPS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "JUMP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "JUMPOFF",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "JUMPOFFS",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "JUMPS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MOPS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MUMP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MUMPS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OOPS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OPOSSUM",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "OPOSSUMS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "OPUS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POMO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POMOS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "POMP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POMPOM",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "POMPOMS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "POMPOUS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "POMPS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "POMS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POOF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POOFS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "POOP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POOPS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "POOS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POPS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POSSUM",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "POSSUMS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "POUF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POUFF",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "POUFFS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "POUFS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PUFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PUFFS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PUMP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PUMPS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PUPS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PUPU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PUPUS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PUSS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SOPS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SOUP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SOUPS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SPOOF",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SPOOFS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SPUMOUS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "SUMP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SUMPS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SUPS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "UMPS",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

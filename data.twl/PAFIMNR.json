@@ -1,0 +1,242 @@
+{
+    "letters": "PAFIMNR",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 105,
+    "word_count": 44,
+    "pangram_count": 1,
+    "pangram_list": [
+        "RIFAMPIN"
+    ],
+    "word_list": [
+        {
+            "word": "APIAN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "APIARIAN",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "APIMANIA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ARAPAIMA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FRAP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "IMPAIR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "IMPI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NAPA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NAPPA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NIPA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PAIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PAIR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PAMPA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PANAMA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PANINI",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PAPA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PAPAIN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PAPPI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PARA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PARAFFIN",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PARIAN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PARR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PIAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PIMA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PIMP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PINA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PINNA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PIPPIN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PIRANA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PIRN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PRAAM",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PRAM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PRIAPI",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PRIM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PRIMA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PRIMI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PRIMIPARA",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PRIMP",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RAMP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RAPINI",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RAPPINI",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RIFAMPIN",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "RIPARIAN",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RIPRAP",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

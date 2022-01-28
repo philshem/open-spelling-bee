@@ -1,0 +1,262 @@
+{
+    "letters": "LGCDENT",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 120,
+    "word_count": 48,
+    "pangram_count": 1,
+    "pangram_list": [
+        "NEGLECTED"
+    ],
+    "word_list": [
+        {
+            "word": "CELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CELLED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CELT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DELE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DELED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DELETE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DELETED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DELT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ELECT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ELECTED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ELECTEE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GELD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GELDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GELEE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GELLED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GELT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GENTEEL",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GENTLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GENTLED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GLED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GLEDE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GLEE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GLEED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GLEET",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GLEETED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GLEG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GLEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LEDGE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LEET",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LEGEND",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LEGGED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LEND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LENT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LENTEN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LETTED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NEEDLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NEEDLED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "NEGLECT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "NEGLECTED",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "NETTLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NETTLED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TEEL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TELE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TELNET",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TELNETED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TELNETTED",
+            "score": 6,
+            "pangram": false
+        }
+    ]
+}

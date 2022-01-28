@@ -1,0 +1,237 @@
+{
+    "letters": "VCEIJST",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 119,
+    "word_count": 43,
+    "pangram_count": 1,
+    "pangram_list": [
+        "EJECTIVES"
+    ],
+    "word_list": [
+        {
+            "word": "CIVET",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CIVETS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CIVIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CIVICS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CIVIE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CIVIES",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CIVVIES",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "EJECTIVE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "EJECTIVES",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "EVES",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EVICT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EVICTEE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "EVICTEES",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "EVICTS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EVITE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EVITES",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "IVIES",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "JIVE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "JIVES",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "JIVIEST",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "SIEVE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SIEVES",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "STEEVE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "STEEVES",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "VEES",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VEST",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VESTEE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VESTEES",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "VESTS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VETS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VICE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VICES",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VIES",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VISE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VISES",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VISIT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VISITS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VISIVE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VITESSE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "VITESSES",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "VIVE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VIVISECT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "VIVISECTS",
+            "score": 6,
+            "pangram": false
+        }
+    ]
+}

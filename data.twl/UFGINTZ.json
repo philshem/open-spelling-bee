@@ -1,0 +1,187 @@
+{
+    "letters": "UFGINTZ",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 104,
+    "word_count": 33,
+    "pangram_count": 1,
+    "pangram_list": [
+        "FUTZING"
+    ],
+    "word_list": [
+        {
+            "word": "FUGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FUGU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FUGUING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FUNGI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FUNNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FUTZ",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FUTZING",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "FUZING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FUZZ",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FUZZING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GUFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GUITGUIT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GUNNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GUTTING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "INTUIT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "INTUITING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "NUTTING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TUFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TUFT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TUFTING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TUGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TUNG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TUNING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TUNNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TUTTI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TUTTING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TUTU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "UNFIT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UNFITTING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "UNIT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "UNITING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "UNITIZING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "UNTUNING",
+            "score": 5,
+            "pangram": false
+        }
+    ]
+}

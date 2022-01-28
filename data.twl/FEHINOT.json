@@ -1,0 +1,237 @@
+{
+    "letters": "FEHINOT",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 106,
+    "word_count": 43,
+    "pangram_count": 1,
+    "pangram_list": [
+        "FENTHION"
+    ],
+    "word_list": [
+        {
+            "word": "EFFETE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ENFEOFF",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FEET",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FEINT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FENTHION",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "FEOFF",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FEOFFEE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FETE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FIEF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FIFE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FIFTEEN",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FIFTEENTH",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "FIFTH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FIFTIETH",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FINE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FINFOOT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FINITE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FINITO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FINO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FOEHN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FOHN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FOIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FONT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FOOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FOOTIE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FOOTNOTE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "HEFT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HOOF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HOTFOOT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "INFEOFF",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "INFINITE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "INFO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NEIF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NONFINITE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "OFTEN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TEFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "THEFT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "THIEF",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TIFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TIFFIN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TOFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOFFEE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TOFT",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

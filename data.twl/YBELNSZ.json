@@ -1,0 +1,197 @@
+{
+    "letters": "YENLBZS",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 81,
+    "word_count": 35,
+    "pangram_count": 1,
+    "pangram_list": [
+        "BENZYLS"
+    ],
+    "word_list": [
+        {
+            "word": "BELLY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BENNY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BENZYL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BENZYLS",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "BEYS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BLEBBY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BLENNY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BYES",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EELY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EYELESS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "EYEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EYES",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EYNE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LEYS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LEZZY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LYES",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LYSE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LYSES",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NELLY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SEELY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SELSYN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SELSYNS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "SENSELESSLY",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "SLYLY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SLYNESS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "SLYNESSES",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "SNEEZY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SNYE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SNYES",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SYNE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YELLS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "YENS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YESES",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "YESSES",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

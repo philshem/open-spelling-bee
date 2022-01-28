@@ -1,0 +1,222 @@
+{
+    "letters": "WEFMNOR",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 94,
+    "word_count": 40,
+    "pangram_count": 1,
+    "pangram_list": [
+        "FOREWOMEN"
+    ],
+    "word_list": [
+        {
+            "word": "ENOW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ERENOW",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EWER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FEWER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FOREWOMEN",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "FOREWORN",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FORWORN",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FROW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FROWN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FROWNER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MEOW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MORROW",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MOWER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MOWN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NEWER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NEWMOWN",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "NONOWNER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "OWNER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RENEW",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RENEWER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RENOWN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REWON",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "REWORE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REWORN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ROWEN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ROWER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WEEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WEER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WEEWEE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WERE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WOMEN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WONNER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WOOER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WOOF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WOOFER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WORE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WORM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WORMER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WORN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WREN",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

@@ -1,0 +1,182 @@
+{
+    "letters": "CGIKNRT",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 103,
+    "word_count": 32,
+    "pangram_count": 1,
+    "pangram_list": [
+        "TRICKING"
+    ],
+    "word_list": [
+        {
+            "word": "CIRRI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CITING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CITRIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CITRIN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CITRININ",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CRICK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CRICKING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CRINGING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CRIT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CRITIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ICING",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ICTIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "INCITING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "IRITIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KICK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KICKING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "KINNIKINNICK",
+            "score": 9,
+            "pangram": false
+        },
+        {
+            "word": "NICK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NICKING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "NITRIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RICIN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RICING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RICK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RICKING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TICCING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TICK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TICKING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TINCT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TINCTING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TRICING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TRICK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TRICKING",
+            "score": 5,
+            "pangram": true
+        }
+    ]
+}

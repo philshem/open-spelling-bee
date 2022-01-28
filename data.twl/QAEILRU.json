@@ -1,0 +1,192 @@
+{
+    "letters": "QAEILRU",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 119,
+    "word_count": 34,
+    "pangram_count": 1,
+    "pangram_list": [
+        "RELIQUIAE"
+    ],
+    "word_list": [
+        {
+            "word": "AQUA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AQUAE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AQUARELLE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "AQUARIA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "AQUARIAL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "EQUAL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LALIQUE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "LIQUEUR",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "QUAERE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "QUAI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "QUAIL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "QUALE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "QUALIA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "QUARE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "QUARREL",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "QUARRELER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "QUARRELLER",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "QUARRIER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "QUEER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "QUEERER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "QUELEA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "QUELL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "QUELLER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "QUERIER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "QUEUE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "QUEUER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "QUILL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "QUILLAI",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "QUILLAIA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "QUIRE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RELIQUE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RELIQUIAE",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "REQUIRE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "REQUIRER",
+            "score": 5,
+            "pangram": false
+        }
+    ]
+}

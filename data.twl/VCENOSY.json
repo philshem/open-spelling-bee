@@ -1,0 +1,187 @@
+{
+    "letters": "VCENOSY",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 88,
+    "word_count": 33,
+    "pangram_count": 1,
+    "pangram_list": [
+        "CONVEYS"
+    ],
+    "word_list": [
+        {
+            "word": "CONVENE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CONVENES",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CONVEY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CONVEYS",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "CONVOY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CONVOYS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "COVE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COVEN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COVENS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COVES",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COVEY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COVEYS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ENVOY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ENVOYS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ENVY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EVEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EVENNESS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "EVENNESSES",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "EVENS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EVES",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NEVE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NEVES",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OVEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OVENS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SEVEN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SEVENS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VEES",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VENENE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VENENES",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "VENENOSE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "VENOSE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VOCES",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VOES",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

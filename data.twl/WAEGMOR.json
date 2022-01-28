@@ -1,0 +1,242 @@
+{
+    "letters": "WAEGMOR",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 108,
+    "word_count": 44,
+    "pangram_count": 1,
+    "pangram_list": [
+        "WORMGEAR"
+    ],
+    "word_list": [
+        {
+            "word": "ARROW",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ARROWWORM",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "AWARE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AWEE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EARWORM",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "EWER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GEEGAW",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GEWGAW",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GREW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GROW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GROWER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MARROW",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MEOW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MORROW",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MOWER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RAWER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "REGREW",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REGROW",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REWARM",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REWEAR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REWORE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ROWER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WAGE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WAGER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WAGERER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WAGGER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WAME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WARE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WAREROOM",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "WARM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WARMER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WEAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WEARER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WEER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WEEWEE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WERE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WOMERA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WOMMERA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WOOER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WOOMERA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WORE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WORM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WORMER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WORMGEAR",
+            "score": 5,
+            "pangram": true
+        }
+    ]
+}

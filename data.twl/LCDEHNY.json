@@ -1,0 +1,207 @@
+{
+    "letters": "LCDEHNY",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 84,
+    "word_count": 37,
+    "pangram_count": 1,
+    "pangram_list": [
+        "LYNCHED"
+    ],
+    "word_list": [
+        {
+            "word": "CELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CELLED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CHYLE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CLENCH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CLENCHED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CYCLE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CYCLED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DELE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DELED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DELLY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DYNEL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ECHELLE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "EELY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HEDDLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HEEL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HEELED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HELD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HELLED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HENLEY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LECH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LECHED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LEECH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LEECHED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "LEND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LYCEE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LYCH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LYCHEE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LYNCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LYNCHED",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "NEEDLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NEEDLED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "NELLY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "YELD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YELLED",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

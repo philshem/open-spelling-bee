@@ -1,0 +1,197 @@
+{
+    "letters": "UCFGHIN",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 98,
+    "word_count": 35,
+    "pangram_count": 1,
+    "pangram_list": [
+        "CHUFFING"
+    ],
+    "word_list": [
+        {
+            "word": "CHUFF",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHUFFING",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "CHUG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHUGGING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CUFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CUFFING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CUIF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CUING",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CUNNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FICHU",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FUCI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FUGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FUGU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FUGUING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FUNGI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FUNGIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FUNNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GUFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GUNNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HUFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HUFFING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HUGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HUIC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HUNCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HUNCHING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "HUNG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HUNH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "UNCHIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "UNCI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "UNCINI",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "UNCUFF",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "UNCUFFING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "UNHINGING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "UNHUNG",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "UNIFIC",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

@@ -1,0 +1,257 @@
+{
+    "letters": "BCDEKMO",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 120,
+    "word_count": 47,
+    "pangram_count": 1,
+    "pangram_list": [
+        "BEMOCKED"
+    ],
+    "word_list": [
+        {
+            "word": "BECK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BECKED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BECOME",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BEDDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BEDECK",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BEDECKED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BEEBEE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BEMOCK",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BEMOCKED",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "BOBBED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BOCCE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BOCK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BODE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BODED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BOMB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BOMBE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BOMBED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BOOB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BOOBED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BOOBOO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BOOCOO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BOOED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BOOK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BOOKED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BOOKOO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BOOM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BOOMED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COBB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CODEBOOK",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "COMB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COMBE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COMBED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COMBO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COOKBOOK",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "COOMB",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COOMBE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEMOB",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DEMOBBED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "EBBED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EBOOK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EMBED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EMBEDDED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "KEBBOCK",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "KEBOB",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KOBO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOBBED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "OBOE",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

@@ -1,0 +1,232 @@
+{
+    "letters": "UACHRTY",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 97,
+    "word_count": 42,
+    "pangram_count": 1,
+    "pangram_list": [
+        "AUTARCHY"
+    ],
+    "word_list": [
+        {
+            "word": "ACCURACY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ACTUARY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "AURA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AURAR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AUTARCH",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "AUTARCHY",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "CACHUCHA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CHURCH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CHURCHY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CHURR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CRURA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CRUTCH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CURACY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CURARA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CURCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CURR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CURRACH",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CURRY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CURT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CUTCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CUTTY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HAUT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HURRAH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HURRAY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HURRY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HURT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HUTCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RUTH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RUTTY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TAUT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "THRU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "THUYA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TRUTH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TUATARA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TUTTY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TUTU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YUCA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YUCCA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "YUCCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "YUCH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YURT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YURTA",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

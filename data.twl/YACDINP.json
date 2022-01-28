@@ -1,0 +1,217 @@
+{
+    "letters": "YACDINP",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 90,
+    "word_count": 39,
+    "pangram_count": 1,
+    "pangram_list": [
+        "PYCNIDIA"
+    ],
+    "word_list": [
+        {
+            "word": "ACIDY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AYIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CADDY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CANDIDACY",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CANDY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CANNY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CYAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CYANIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CYANID",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CYANIN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CYCAD",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CYNIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DADDY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DANDY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DIDY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DIPPY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DYAD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DYADIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NANCY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NANNY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NAPPY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NINNY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NIPPY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PACY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PADDY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PANDY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PAPACY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PAPAYA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PAPAYAN",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PAPPY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PAYDAY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PICANINNY",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PINNY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PINY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PINYIN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PIPY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PYCNIDIA",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "PYIC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PYIN",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

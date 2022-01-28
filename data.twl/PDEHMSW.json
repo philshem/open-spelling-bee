@@ -1,0 +1,257 @@
+{
+    "letters": "PDEHMSW",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 116,
+    "word_count": 47,
+    "pangram_count": 1,
+    "pangram_list": [
+        "HEMPWEEDS"
+    ],
+    "word_list": [
+        {
+            "word": "DEEP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DEEPS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EPEE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EPEES",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HEMP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HEMPS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HEMPSEED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "HEMPSEEDS",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "HEMPWEED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "HEMPWEEDS",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "PEDES",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PEDS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PEED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PEEP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PEEPED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PEEPS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PEES",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PEESWEEP",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PEESWEEPS",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PEEWEE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PEEWEES",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PEHS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PEPPED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PEPS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PEWEE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PEWEES",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PEWS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PHEW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SEEP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SEEPED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SEEPS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SEPSES",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SHEEP",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SPED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SPEED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SPEEDED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "SPEEDS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SPEW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SPEWED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SPEWS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SWEEP",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SWEEPS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WEEP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WEEPS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WHEEP",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WHEEPED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WHEEPS",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

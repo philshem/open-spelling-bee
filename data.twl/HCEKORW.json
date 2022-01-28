@@ -1,0 +1,272 @@
+{
+    "letters": "HCEKORW",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 114,
+    "word_count": 50,
+    "pangram_count": 1,
+    "pangram_list": [
+        "CHECKROW"
+    ],
+    "word_list": [
+        {
+            "word": "CHECK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHECKER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CHECKROW",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "CHEEK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHEER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHEERER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CHEERO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CHEW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHEWER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CHOCK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHOKE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHOKER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CHOOK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHORE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHOW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHOWCHOW",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "COHERE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COHERER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "COHO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COOCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CRECHE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ECHE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ECHO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ECHOER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HECK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HERE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HERO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HEWER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HOCK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HOCKER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HOER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HOKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HOOCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HOOK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HOOKER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HORROR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HOWE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HOWK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KERCHOO",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "OCHER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OCHRE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OKEH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RECHECK",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RECHERCHE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "RECHEW",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REECHO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WHEE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WHERE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WHEW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WHORE",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

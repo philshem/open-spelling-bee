@@ -1,0 +1,222 @@
+{
+    "letters": "KCEHLRU",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 90,
+    "word_count": 40,
+    "pangram_count": 1,
+    "pangram_list": [
+        "CHUCKLER"
+    ],
+    "word_list": [
+        {
+            "word": "CHECK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHECKER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CHEEK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHUCK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHUCKLE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CHUCKLER",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "CHUKKER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CLEEK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CLERK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CLUCK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CREEK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CRUCK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CUKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EKUELE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HECK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HECKLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HECKLER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HUCK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HUCKLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HULK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KECK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KECKLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KEEK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KEEL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KRULLER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "KURU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LEEK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LEKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LEKU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LUCK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LURK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LURKER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RECHECK",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RECK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "REEK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "REEKER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RUCK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RUCKLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "UKELELE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "UKULELE",
+            "score": 4,
+            "pangram": false
+        }
+    ]
+}

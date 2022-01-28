@@ -1,0 +1,182 @@
+{
+    "letters": "FBCEINT",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 92,
+    "word_count": 32,
+    "pangram_count": 1,
+    "pangram_list": [
+        "BENEFICENT"
+    ],
+    "word_list": [
+        {
+            "word": "BEEF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BEFIT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BENEFIC",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BENEFICE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BENEFICENCE",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "BENEFICENT",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "BENEFIT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BIFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BIFFIN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EFFECT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EFFETE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EFFICIENT",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "FEEB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FEET",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FEINT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FENCE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FENNEC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FETE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FICE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FICIN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FIEF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FIFE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FIFTEEN",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FINE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FINITE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "INEFFICIENT",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "INFECT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "INFINITE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "NEIF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TEFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TIFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TIFFIN",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

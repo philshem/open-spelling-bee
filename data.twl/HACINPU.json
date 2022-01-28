@@ -1,0 +1,207 @@
+{
+    "letters": "HACINPU",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 89,
+    "word_count": 37,
+    "pangram_count": 1,
+    "pangram_list": [
+        "CAPUCHIN"
+    ],
+    "word_list": [
+        {
+            "word": "CACHUCHA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CANCHA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CAPH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CAPUCHIN",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "CHAI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHAIN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHAP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHIA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHIC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHICA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHICHI",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CHIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHINA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHINCAPIN",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CHINCH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CHIP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHUPPA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CHUPPAH",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CINCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HAHA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HAUNCH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HICCUP",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HUIC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HUNCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HUNH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HUPPAH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "INCH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NUCHA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PACHA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PAINCH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PAPHIAN",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PAUNCH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PINCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PUNCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UNCHAIN",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "UNCHIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "UNHIP",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

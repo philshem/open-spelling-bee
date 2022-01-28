@@ -1,0 +1,257 @@
+{
+    "letters": "RDHNOTW",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 98,
+    "word_count": 47,
+    "pangram_count": 1,
+    "pangram_list": [
+        "DOWNTHROW"
+    ],
+    "word_list": [
+        {
+            "word": "DONOR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DOOR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DORR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOWNTHROW",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "DOWNTROD",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DROWN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DROWND",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HONOR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HORN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HORNWORT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "HORROR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HOTROD",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NONWORD",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "NORTH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ODOR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ORDO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ORTHO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RONDO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ROOD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROTO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROTOR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ROWTH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "THORN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "THORO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "THORON",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "THRO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "THROW",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "THROWN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TOOTHWORT",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TORN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TORO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOROT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TOROTH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TORR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TORT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TROD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TROT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TROTH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TROW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TROWTH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WHORT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WORD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WORN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WORT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WORTH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WROTH",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

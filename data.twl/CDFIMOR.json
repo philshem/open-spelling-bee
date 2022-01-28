@@ -1,0 +1,202 @@
+{
+    "letters": "CDFIMOR",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 95,
+    "word_count": 36,
+    "pangram_count": 1,
+    "pangram_list": [
+        "CORDIFORM"
+    ],
+    "word_list": [
+        {
+            "word": "CIRRI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CIRRIFORM",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "COCCI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COCCIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COCCID",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COCCOID",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "COCO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COIF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COIR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COMIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COOCOO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COOF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CORD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CORDIFORM",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "CORF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CORM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CORMOID",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CORRIDOR",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CRICOID",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CROC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CROCI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DOMIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FICO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FOCI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FORMIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "IMIDIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "IODIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "IRIDIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MICRO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MICROCOCCI",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "MICROFORM",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MIMIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MOROCCO",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ODIC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROCOCO",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

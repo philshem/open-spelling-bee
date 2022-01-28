@@ -1,0 +1,217 @@
+{
+    "letters": "UAGHIQS",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 94,
+    "word_count": 39,
+    "pangram_count": 1,
+    "pangram_list": [
+        "QUAIGHS"
+    ],
+    "word_list": [
+        {
+            "word": "AGUISH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "AQUA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AQUAS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GAUSS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GUSH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HAUGH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HAUGHS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HUGS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HUSH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "QUAG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "QUAGGA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "QUAGGAS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "QUAGS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "QUAHAUG",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "QUAHAUGS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "QUAI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "QUAIGH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "QUAIGHS",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "QUAIS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "QUASH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "QUASI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "QUASS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "QUASSIA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "QUASSIAS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "SAUGH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SAUGHS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SHAUGH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SHAUGHS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "SHUSH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SQUASH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SQUISH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SQUUSH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SUGH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SUGHS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SUQS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SUSHI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SUSHIS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SUSS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "UGHS",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

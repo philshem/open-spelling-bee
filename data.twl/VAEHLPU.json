@@ -1,0 +1,217 @@
+{
+    "letters": "VAEHLPU",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 91,
+    "word_count": 39,
+    "pangram_count": 1,
+    "pangram_list": [
+        "UPHEAVAL"
+    ],
+    "word_list": [
+        {
+            "word": "EAVE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HALAVAH",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HALVA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HALVAH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HALVE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HAVE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HEAVE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HELLUVA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HELVE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LAVA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LAVALAVA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LAVE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LEAVE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LEVA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LEVEE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LEVEL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PAVE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PEEVE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ULVA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "UPHEAVAL",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "UPHEAVE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "UVEA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "UVEAL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UVULA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UVULAE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VALE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VALUE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VALVAL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VALVE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VALVULA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "VALVULAE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "VALVULE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "VEAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VEEP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VEEPEE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VELA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VULVA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VULVAE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VULVAL",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

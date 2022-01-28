@@ -1,0 +1,272 @@
+{
+    "letters": "IEFJLOT",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 95,
+    "word_count": 50,
+    "pangram_count": 1,
+    "pangram_list": [
+        "JETFOIL"
+    ],
+    "word_list": [
+        {
+            "word": "ELITE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ETOILE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FIEF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FIFE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FILE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FILET",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FILLE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FILLET",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FILLO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FILO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FLIT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FLITE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FLOOIE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FOIL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FOLIO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FOOTIE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ILLITE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "IOLITE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "JETFOIL",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "JIFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "JILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "JILT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LIEF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LIFE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LIFT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LIFTOFF",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "LILO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LILT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LITE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LITTLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LOOIE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LOTI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OLIO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OOLITE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TELOI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TIFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TILE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TILLITE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TILT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TITI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TITLE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TITTIE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TITTLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TOIL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOILE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TOILET",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TOILETTE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TOIT",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

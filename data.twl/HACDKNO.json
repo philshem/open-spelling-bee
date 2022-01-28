@@ -1,0 +1,232 @@
+{
+    "letters": "HACDKNO",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 84,
+    "word_count": 42,
+    "pangram_count": 1,
+    "pangram_list": [
+        "DOCKHAND"
+    ],
+    "word_list": [
+        {
+            "word": "ACHOO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AHCHOO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ANCHO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ANKH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CANCHA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CHACHKA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CHAD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHAO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHOANA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CHOCK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHOOK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COACH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COHO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CONCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CONCHA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CONCHO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COOCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DACHA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DAHOON",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DHAK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOCKHAND",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "HACK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HADDOCK",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HAHA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HAND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HANK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HOCK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HODAD",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HONAN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HONCHO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HONDA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HONK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HOOCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HOOD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HOODOO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HOOK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HOOKA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HOOKAH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KHAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NACHO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ODAH",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

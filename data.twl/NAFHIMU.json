@@ -1,0 +1,237 @@
+{
+    "letters": "NAFHIMU",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 92,
+    "word_count": 43,
+    "pangram_count": 1,
+    "pangram_list": [
+        "HAFNIUM"
+    ],
+    "word_list": [
+        {
+            "word": "AMAIN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AMIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AMNIA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ANIMA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ANIMI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ANNA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FAIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FANUM",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FAUN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FAUNA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HAFNIUM",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "HAHNIUM",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HANUMAN",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HUMAN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HUNH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "INFAUNA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "INHUMAN",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "INIA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MAIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MANA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MANANA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MANIA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MANNA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MANNAN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MAUN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MINA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MINI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MINIM",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MINIMA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MINIMUM",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MINIUM",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MUFFIN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MUNI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NAAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NAFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NAIF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NANA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NUMINA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "UNAI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "UNAU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "UNHUMAN",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "UNMAN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UNUNUNIUM",
+            "score": 6,
+            "pangram": false
+        }
+    ]
+}

@@ -1,0 +1,202 @@
+{
+    "letters": "YCGILNR",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 110,
+    "word_count": 36,
+    "pangram_count": 1,
+    "pangram_list": [
+        "CRYINGLY"
+    ],
+    "word_list": [
+        {
+            "word": "CLINGY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CRYING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CRYINGLY",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "CYCLIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CYCLICLY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CYCLIN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CYCLING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CYNIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GIGGLINGLY",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "GIGGLY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GILLY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GILLYING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GINNY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GIRLY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GLYCIN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GLYCYL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GRINNINGLY",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "GYRI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GYRING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ICILY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ILLY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "INLY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "INLYING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "LILY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LINGY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LINY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LYING",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LYINGLY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "LYRIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NIGGLINGLY",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "NIGGLY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NINNY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RINGINGLY",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "YILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YIRR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YIRRING",
+            "score": 4,
+            "pangram": false
+        }
+    ]
+}

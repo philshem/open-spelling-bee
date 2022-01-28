@@ -1,0 +1,202 @@
+{
+    "letters": "WABDILY",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 83,
+    "word_count": 36,
+    "pangram_count": 1,
+    "pangram_list": [
+        "BAWDILY"
+    ],
+    "word_list": [
+        {
+            "word": "ALWAY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AWAY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BAWD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BAWDILY",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "BAWDY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BAWL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BLAW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BYLAW",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BYWAY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LAYAWAY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WABBLY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WADDLY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WADDY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WADI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WADY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WAIL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WALL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WALLA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WALLABY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WALLY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WALLYBALL",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "WALY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WAWL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WAYBILL",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WAYLAID",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WAYLAY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WIDDY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WILD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WILDLY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WILILY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WILLIWAW",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "WILLY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WILLYWAW",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "WILY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YAWL",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

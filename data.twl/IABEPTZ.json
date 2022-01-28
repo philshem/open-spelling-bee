@@ -1,0 +1,237 @@
+{
+    "letters": "IABEPTZ",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 106,
+    "word_count": 43,
+    "pangram_count": 1,
+    "pangram_list": [
+        "BAPTIZE"
+    ],
+    "word_list": [
+        {
+            "word": "APATITE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "APPETITE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BABBITT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BAIT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BAIZA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BAIZE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BAPTIZE",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "BIBB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BITE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BITT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BIZE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PAPPI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PATTIE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PEPTIZE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PETIT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PETITE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PETTI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PIAZZA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PIAZZE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PIETA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PIPE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PIPET",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PIPETTE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PIPIT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PITA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PITAPAT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PITTA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PIZAZZ",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PIZZA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PIZZAZ",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PIZZAZZ",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TATTIE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TIBIA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TIBIAE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TIPI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TIPPET",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TITBIT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TITI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TITTIE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TZITZIT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ZIBET",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ZITI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ZIZIT",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

@@ -1,0 +1,232 @@
+{
+    "letters": "KABDEMN",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 90,
+    "word_count": 42,
+    "pangram_count": 1,
+    "pangram_list": [
+        "EMBANKED"
+    ],
+    "word_list": [
+        {
+            "word": "ABAKA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AKEE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AKENE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ANANKE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BABKA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BAKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BAKED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BANK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BANKED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BEAK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BEAKED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DANK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DEBEAK",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEBEAKED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DEKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DEKED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EKED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EMBANK",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EMBANKED",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "KABAB",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KABAKA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KAKA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KAME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KANA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KANAKA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KANBAN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KANE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KEBAB",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KEEK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KEEKED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KEEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KEENED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KENNED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KNEAD",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KNEADED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "KNEE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KNEED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MAKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MEDAKA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MEEK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NAKED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NANKEEN",
+            "score": 4,
+            "pangram": false
+        }
+    ]
+}

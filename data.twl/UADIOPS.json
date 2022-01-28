@@ -1,0 +1,242 @@
+{
+    "letters": "UADIOPS",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 89,
+    "word_count": 44,
+    "pangram_count": 1,
+    "pangram_list": [
+        "ADIPOUS"
+    ],
+    "word_list": [
+        {
+            "word": "ADIPOUS",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "AOUDAD",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "AOUDADS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "APODOUS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ASSIDUOUS",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "AUDAD",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AUDADS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "AUDIO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AUDIOS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DUAD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUADS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DUDS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUOS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUPS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "IODOUS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ODIOUS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "OPUS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OUDS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PAPPOUS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PAPPUS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PASSUS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PIOUS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PUDS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PUPA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PUPAS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PUPS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PUPU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PUPUS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PUSS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SOAPSUDS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "SOUP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SOUPS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SOUS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SPUD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SPUDS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SUDD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SUDDS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SUDS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SUPS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SUSS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "UDOS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "UPAS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "UPDO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "UPDOS",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

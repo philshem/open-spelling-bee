@@ -1,0 +1,232 @@
+{
+    "letters": "DCLNOSW",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 92,
+    "word_count": 42,
+    "pangram_count": 1,
+    "pangram_list": [
+        "COOLDOWNS"
+    ],
+    "word_list": [
+        {
+            "word": "CLOD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CLODS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CODON",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CODONS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CODS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COLD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COLDS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CONDO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CONDOS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COOLDOWN",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "COOLDOWNS",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "DOCS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DODO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DODOS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DOLL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOLLS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DOLS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DONS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOODOO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DOODOOS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DOSS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOWN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOWNS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DOWS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOWDOWN",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "LOWDOWNS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "NODS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ODDS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OLDS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SCOLD",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SCOLDS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SLOWDOWN",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "SLOWDOWNS",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "SNOOD",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SNOODS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SODS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SOLD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SOLDO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WOLD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WOLDS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WOOD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WOODS",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

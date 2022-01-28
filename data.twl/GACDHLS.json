@@ -1,0 +1,252 @@
+{
+    "letters": "GACDHLS",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 101,
+    "word_count": 46,
+    "pangram_count": 1,
+    "pangram_list": [
+        "CLADDAGHS"
+    ],
+    "word_list": [
+        {
+            "word": "AGAS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AGGADA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "AGGADAH",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "AGGADAHS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "AGGADAS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "AGHA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AGHAS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ALGA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ALGAL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ALGAS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CLADDAGH",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CLADDAGHS",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "CLAG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CLAGS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DAGGA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DAGGAS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DAGS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GADS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GAGA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GAGS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GALA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GALAH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GALAHS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GALAS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GALL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GALLS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GALS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GASH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GLAD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GLADS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GLASS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HAGGADA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HAGGADAH",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "HAGGADAHS",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "HAGGADAS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "HAGS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LAGS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SAGA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SAGAS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SAGS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SCAG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SCAGS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SHAG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SHAGS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SLAG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SLAGS",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

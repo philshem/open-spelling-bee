@@ -1,0 +1,267 @@
+{
+    "letters": "KBNOSTW",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 103,
+    "word_count": 49,
+    "pangram_count": 1,
+    "pangram_list": [
+        "BOWKNOTS"
+    ],
+    "word_list": [
+        {
+            "word": "BONK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BONKS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BOOK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BOOKOO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BOOKOOS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BOOKS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BOSK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BOSKS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BOWKNOT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BOWKNOTS",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "KNOB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KNOBS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KNOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KNOTS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KNOW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KNOWN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KNOWNS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KNOWS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KOBO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KOBOS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KOBS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KONK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KONKS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KOOK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KOOKS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KOSS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KOTO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KOTOS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KOTOW",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KOTOWS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KOWTOW",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KOWTOWS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "NONBOOK",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "NONBOOKS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "NOOK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NOOKS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SNOOK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SNOOKS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SOOK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SOOKS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "STOOK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "STOOKS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TOOK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TSKS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TSKTSK",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TSKTSKS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WOKS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WONK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WONKS",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

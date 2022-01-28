@@ -1,0 +1,252 @@
+{
+    "letters": "KCFLOST",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 118,
+    "word_count": 46,
+    "pangram_count": 1,
+    "pangram_list": [
+        "COCKLOFTS"
+    ],
+    "word_list": [
+        {
+            "word": "CLOCK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CLOCKS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COCK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COCKLOFT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "COCKLOFTS",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "COCKS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COCKSFOOT",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "COCKSFOOTS",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "COOK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COOKOFF",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "COOKOFFS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "COOKS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FLOCK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FLOCKS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FOLK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FOLKS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FOOTSTOCK",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "FOOTSTOCKS",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "KLOOF",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KLOOFS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KOLO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KOLOS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KOOK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KOOKS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KOSS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KOTO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KOTOS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LOCK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOCKS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LOOK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOOKS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SOCK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SOCKO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SOCKS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SOKOL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SOKOLS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SOOK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SOOKS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "STOCK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "STOCKS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "STOOK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "STOOKS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TOOK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TSKS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TSKTSK",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TSKTSKS",
+            "score": 4,
+            "pangram": false
+        }
+    ]
+}

@@ -1,0 +1,272 @@
+{
+    "letters": "FABCERY",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 112,
+    "word_count": 50,
+    "pangram_count": 1,
+    "pangram_list": [
+        "CYBERCAFE"
+    ],
+    "word_list": [
+        {
+            "word": "AFAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AFFRAY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "AFFRAYER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BAFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BAFFY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BARF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BEEF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BEEFY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CAFE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CAFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CARAFE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CAREFREE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CARFARE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CYBERCAFE",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "EFFACE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EFFACER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FABBER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FACE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FACER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FAERY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FARCE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FARCER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FARCY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FARE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FARER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FEAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FEARER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FEEB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FERE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FERRY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FEYER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FRAE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FRAY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FREE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FREEBEE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FREER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FRERE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FRYER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FYCE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RAFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RAREFY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REEF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "REEFER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REEFY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "REFACE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REFER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "REFEREE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "REFERRER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "REFRY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "YAFF",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

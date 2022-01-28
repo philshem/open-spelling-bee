@@ -1,0 +1,257 @@
+{
+    "letters": "HACDEIV",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 110,
+    "word_count": 47,
+    "pangram_count": 1,
+    "pangram_list": [
+        "ACHIEVED"
+    ],
+    "word_list": [
+        {
+            "word": "AAHED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ACHE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ACHED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ACHIEVE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ACHIEVED",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "ACIDHEAD",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "AHEAD",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AHED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CACHE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CACHED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CEVICHE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CHAD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHAI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHEVIED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CHIA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHIC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHICA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHICHI",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CHID",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHIDE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHIDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CHIVE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHIVIED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CHIVVIED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DACHA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DEADHEAD",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DEADHEADED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "EACH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ECHE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ECHED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HADE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HADED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HAED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HAHA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HAVE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HEAD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HEADACHE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "HEADED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HEAVE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HEAVED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HEED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HEEDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HIDE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HIDED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HIED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HIVE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HIVED",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

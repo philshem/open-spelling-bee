@@ -1,0 +1,202 @@
+{
+    "letters": "ZAEMNST",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 96,
+    "word_count": 36,
+    "pangram_count": 1,
+    "pangram_list": [
+        "AMAZEMENTS"
+    ],
+    "word_list": [
+        {
+            "word": "AMAZE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AMAZEMENT",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "AMAZEMENTS",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "AMAZES",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "AZAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AZANS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MATZA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MATZAS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MAZE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MAZES",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MEZE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MEZES",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SMAZE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SMAZES",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SNEEZE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SNEEZES",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "STANZA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "STANZAS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TAZZA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TAZZAS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TAZZE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TZETZE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TZETZES",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ZANANA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ZANANAS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ZANZA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ZANZAS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ZAZEN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ZAZENS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ZEES",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ZENANA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ZENANAS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ZEST",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ZESTS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ZETA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ZETAS",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

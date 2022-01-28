@@ -1,0 +1,212 @@
+{
+    "letters": "HILSTXY",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 100,
+    "word_count": 38,
+    "pangram_count": 1,
+    "pangram_list": [
+        "SIXTHLY"
+    ],
+    "word_list": [
+        {
+            "word": "HILI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HILLS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HILLY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HILT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HILTS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HISS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HISSY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HIST",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HISTS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HITS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LITTLISH",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "SHILL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SHILLS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SHILY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SHIST",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SHISTS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SHIT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SHITLIST",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "SHITLISTS",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "SHITS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SHITTY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SHYLY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SISSYISH",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "SITH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SIXTH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SIXTHLY",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "SIXTHS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SIXTYISH",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "STITHY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "STYLISH",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "STYLISHLY",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "THILL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "THILLS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "THIS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "THISTLY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TILTH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TILTHS",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

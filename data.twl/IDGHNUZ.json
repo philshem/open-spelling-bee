@@ -1,0 +1,187 @@
+{
+    "letters": "IDGHNUZ",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 105,
+    "word_count": 33,
+    "pangram_count": 1,
+    "pangram_list": [
+        "NUDZHING"
+    ],
+    "word_list": [
+        {
+            "word": "DIGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DING",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DINGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DINING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DINNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DUDING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DUNGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DUNNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GIGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GINNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GUID",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GUIDING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GUNNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HIDING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HIGH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HIND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HINGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HUGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "IGGING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "INDIGN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "INDUING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "INNING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NIDI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NIDING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NIGH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NIGHING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "NUDGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "NUDZHING",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "UNDID",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UNHINGING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ZIGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ZING",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ZINGING",
+            "score": 4,
+            "pangram": false
+        }
+    ]
+}

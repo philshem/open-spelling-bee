@@ -1,0 +1,187 @@
+{
+    "letters": "CDILOPZ",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 89,
+    "word_count": 33,
+    "pangram_count": 1,
+    "pangram_list": [
+        "PODZOLIC"
+    ],
+    "word_list": [
+        {
+            "word": "CLIP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CLOD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CLODPOLL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CLOP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COCCI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COCCIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COCCID",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COCCOID",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "COCO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CODICIL",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "COIL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COLD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COLIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COLLOID",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "COLLOP",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COOCOO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COOL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COOP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DIPLOCOCCI",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "DIPLOIC",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DIPLOIDIC",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DIPLOPIC",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DIPODIC",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DOLCI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "IODIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LIPIDIC",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "LOCI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOCO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ODIC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PICCOLO",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "POCO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PODZOLIC",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "ZOIC",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

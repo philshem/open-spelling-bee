@@ -1,0 +1,227 @@
+{
+    "letters": "HDEKNSU",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 99,
+    "word_count": 41,
+    "pangram_count": 1,
+    "pangram_list": [
+        "UNHUSKED"
+    ],
+    "word_list": [
+        {
+            "word": "EDHS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HEED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HEEDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HEEDS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HEHS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HENS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HUED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HUES",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HUNH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HUNK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HUNKS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HUNS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HUSH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HUSHED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HUSHES",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HUSK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HUSKED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HUSKS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SHED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SHEDDED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "SHEDS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SHEEN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SHEENED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "SHEENS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SHEESH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SHEND",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SHENDS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SHES",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SHUN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SHUNNED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "SHUNS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SHUSH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SHUSHED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "SHUSHES",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "SNEESH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SNEESHES",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "UNHEEDED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "UNHUSK",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "UNHUSKED",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "UNHUSKS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "UNSHED",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

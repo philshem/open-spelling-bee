@@ -1,0 +1,222 @@
+{
+    "letters": "ICFKLNU",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 93,
+    "word_count": 40,
+    "pangram_count": 1,
+    "pangram_list": [
+        "CUFFLINK"
+    ],
+    "word_list": [
+        {
+            "word": "CLICK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CLIFF",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CLINIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CLINK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CUFFLINK",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "CUIF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FICIN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FINICKIN",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FINIKIN",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FINK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FLIC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FLICK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FUCI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FULFIL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FULFILL",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FUNICULI",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "INFILL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "INULIN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KICK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KILLICK",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "KILN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KININ",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KINK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KINNIKINNICK",
+            "score": 9,
+            "pangram": false
+        },
+        {
+            "word": "KLICK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KLIK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KUFI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LICK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LININ",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LINK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LINN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NICK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "UNCI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "UNCINI",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "UNIFIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "UNKINK",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "UNLINK",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

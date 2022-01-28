@@ -1,0 +1,232 @@
+{
+    "letters": "CBHKRSU",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 96,
+    "word_count": 42,
+    "pangram_count": 1,
+    "pangram_list": [
+        "BUCKBRUSH"
+    ],
+    "word_list": [
+        {
+            "word": "BUCK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BUCKBRUSH",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "BUCKS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BUSHBUCK",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BUSHBUCKS",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CHUB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHUBS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHUCK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHUCKS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CHURCH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CHURR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHURRS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CRUCK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CRUCKS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CRUS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CRUSH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CUBS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CURB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CURBS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CURCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CURR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CURRS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CURS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CUSCUS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CUSK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CUSKS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CUSS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HUCK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HUCKS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RUCK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RUCKS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RUCKUS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SCHUSS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SCRUB",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SCRUBS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SHUCK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SHUCKS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SUCCUBUS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "SUCCUSS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "SUCH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SUCK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SUCKS",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

@@ -1,0 +1,182 @@
+{
+    "letters": "VDELMOU",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 82,
+    "word_count": 32,
+    "pangram_count": 1,
+    "pangram_list": [
+        "VOLUMED"
+    ],
+    "word_list": [
+        {
+            "word": "DELVE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DELVED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEVEL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DEVELED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DEVOLVE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DEVOLVED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DOVE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EVOLVE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EVOLVED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "LEVEE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LEVEED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LEVEL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LEVELED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "LEVELLED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LEVO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOVE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOVED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MOVE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOVED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OVOLO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OVULE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OVUM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VELD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VELLUM",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VELUM",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VODOU",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VOLE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VOLED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VOLUME",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VOLUMED",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "VOODOO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VOODOOED",
+            "score": 5,
+            "pangram": false
+        }
+    ]
+}

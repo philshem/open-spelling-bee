@@ -1,0 +1,202 @@
+{
+    "letters": "CHILNPY",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 96,
+    "word_count": 36,
+    "pangram_count": 1,
+    "pangram_list": [
+        "LYNCHPIN"
+    ],
+    "word_list": [
+        {
+            "word": "CHIC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHICHI",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CHICLY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CHILI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHILL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHILLI",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CHILLILY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CHILLY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CHIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHINCH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CHINCHY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CHIP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHIPPY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CINCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CLINCH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CLINIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CLIP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CYCLIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CYCLICLY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CYCLIN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CYNIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HYPNIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ICILY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "INCH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "INCLIP",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LICH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LICHI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LINCHPIN",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LYCH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LYNCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LYNCHPIN",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "PHILIPPIC",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PHYLIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PICNIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PINCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PYIC",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

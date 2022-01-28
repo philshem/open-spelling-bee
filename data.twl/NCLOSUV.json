@@ -1,0 +1,262 @@
+{
+    "letters": "NCLOSUV",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 104,
+    "word_count": 48,
+    "pangram_count": 1,
+    "pangram_list": [
+        "CONVOLVULUS"
+    ],
+    "word_list": [
+        {
+            "word": "CLON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CLONS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CLONUS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COCOON",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COCOONS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "COLON",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COLONS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COLONUS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CONCUSS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CONN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CONNS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CONS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CONSOL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CONSOLS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CONSUL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CONSULS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CONUS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CONVOLVULUS",
+            "score": 8,
+            "pangram": true
+        },
+        {
+            "word": "COON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COONS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOONS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NOCUOUS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "NOLO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NOLOS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NOONS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NOUN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NOUNS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NOUS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NULLS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NUNS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ONOS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ONUS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SNOOL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SNOOLS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SOLON",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SOLONS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SONS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SUNN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SUNNS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SUNS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "UNCO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "UNCOOL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "UNCOS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UNCUS",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

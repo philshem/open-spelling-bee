@@ -1,0 +1,272 @@
+{
+    "letters": "PADEHOX",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 103,
+    "word_count": 50,
+    "pangram_count": 1,
+    "pangram_list": [
+        "HEXAPOD"
+    ],
+    "word_list": [
+        {
+            "word": "APED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "APEX",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "APOD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DAPPED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEEP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOPA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOPE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOPED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DOPEHEAD",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "EPEE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EPHA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EPHAH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EPHOD",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EPODE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EPOPEE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EXPO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HAPAX",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HAPPED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HEAP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HEAPED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HEXAPOD",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "HOOP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HOOPED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HOOPOE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HOOPOO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HOPE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HOPED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HOPHEAD",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HOPPED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "OPAH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OPED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PADDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PAHOEHOE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PAPA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PEED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PEEP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PEEPED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PEPO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PEPPED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PODDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "POOD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POOED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "POOH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POOHED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "POOP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POOPED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "POPE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POPPA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "POPPED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "POXED",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

@@ -1,0 +1,217 @@
+{
+    "letters": "UCILMOR",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 95,
+    "word_count": 39,
+    "pangram_count": 1,
+    "pangram_list": [
+        "CIRROCUMULI"
+    ],
+    "word_list": [
+        {
+            "word": "CILIUM",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CIRROCUMULI",
+            "score": 8,
+            "pangram": true
+        },
+        {
+            "word": "CLOUR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COLOUR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CORIUM",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COULOIR",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CRUOR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CULM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CUMULI",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CURCULIO",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CURIO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CURIUM",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CURL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CURR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CURRICULUM",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "ILIUM",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LIMULI",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LOCULI",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LOCUM",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LOUR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LULU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MILIUM",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MUCLUC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MUCOR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MUCRO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MUMM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MUMU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MURMUR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MURR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MUUMUU",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "OCCUR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OCULI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ORMOLU",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RUMOR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RUMOUR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "URIC",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

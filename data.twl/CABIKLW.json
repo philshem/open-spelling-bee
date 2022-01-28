@@ -1,0 +1,237 @@
+{
+    "letters": "CABIKLW",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 112,
+    "word_count": 43,
+    "pangram_count": 1,
+    "pangram_list": [
+        "BAILIWICK"
+    ],
+    "word_list": [
+        {
+            "word": "ABACA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ABACI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ABACK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ACACIA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ALACK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ALCAIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ALKALIC",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BACCA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BACILLI",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BACK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BAILIWICK",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "BIBLICAL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BLACK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BLACKBALL",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CABAL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CABALA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CABBALA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CACA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CALCIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CALK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CALL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CALLA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CALLBACK",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CICALA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CILIA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CLACK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CLAW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CLAWBACK",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CLICK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ILIAC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KICK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KICKBACK",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "KICKBALL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "KILLICK",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "KLICK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LACK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LAIC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LAICAL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LICK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LILAC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WACK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WICCA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WICK",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

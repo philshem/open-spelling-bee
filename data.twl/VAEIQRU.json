@@ -1,0 +1,237 @@
+{
+    "letters": "VAEIQRU",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 105,
+    "word_count": 43,
+    "pangram_count": 1,
+    "pangram_list": [
+        "AQUIVER"
+    ],
+    "word_list": [
+        {
+            "word": "AIVER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AQUIVER",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "ARRIVE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ARRIVER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "AVER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EAVE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EVER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "QUAVER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "QUAVERER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "QUIVER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "QUIVERER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RAVE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RAVER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "REAVE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "REAVER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REEVE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "REIVE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "REIVER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REVERE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REVERER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "REVERIE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "REVIVE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REVIVER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "REVUE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RIEVER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RIVE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RIVER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RIVIERA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RIVIERE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "UVEA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VAIR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VARA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VARIA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VARIER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VARVE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VEER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VERA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VERIER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VERVE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VIER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VIVA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VIVARIA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "VIVE",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

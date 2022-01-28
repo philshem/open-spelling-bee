@@ -1,0 +1,262 @@
+{
+    "letters": "RBKMOSW",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 112,
+    "word_count": 48,
+    "pangram_count": 1,
+    "pangram_list": [
+        "BOOKWORMS"
+    ],
+    "word_list": [
+        {
+            "word": "BOOKWORM",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BOOKWORMS",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "BOOR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BOORS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BORK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BORKS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BORROW",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BORROWS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BROMO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BROMOS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BROO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BROOK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BROOKS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BROOM",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BROOMS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BROOS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BROS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BROW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BROWS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BRRR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KORS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOOR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOORS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MORRO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MORROS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MORROW",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MORROWS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MORS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ORBS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROBS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROMS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROOK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROOKS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ROOM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROOMS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ROWS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SORB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SORBS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SORROW",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SORROWS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WORK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WORKBOOK",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "WORKBOOKS",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "WORKROOM",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "WORKROOMS",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "WORKS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WORM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WORMS",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

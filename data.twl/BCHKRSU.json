@@ -1,0 +1,237 @@
+{
+    "letters": "BCHKRSU",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 97,
+    "word_count": 43,
+    "pangram_count": 1,
+    "pangram_list": [
+        "BUCKBRUSH"
+    ],
+    "word_list": [
+        {
+            "word": "BRRR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BRUSH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BRUSK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BUBS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BUBU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BUBUS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BUCK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BUCKBRUSH",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "BUCKS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BUHR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BUHRS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BURB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BURBS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BURR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BURRS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BURS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BUSH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BUSHBUCK",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BUSHBUCKS",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BUSK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BUSKS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BUSS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHUB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHUBS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CUBS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CURB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CURBS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HUBBUB",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HUBBUBS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HUBS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RUBS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RUBUS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SCRUB",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SCRUBS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SHRUB",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SHRUBS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SUBS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SUBSHRUB",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "SUBSHRUBS",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "SUBURB",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SUBURBS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "SUCCUBUS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "URBS",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

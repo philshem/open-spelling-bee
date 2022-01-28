@@ -1,0 +1,197 @@
+{
+    "letters": "HEGINWZ",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 92,
+    "word_count": 35,
+    "pangram_count": 1,
+    "pangram_list": [
+        "WHEEZING"
+    ],
+    "word_list": [
+        {
+            "word": "GHEE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GIGHE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HEEZE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HEEZING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HEIGH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HEINIE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HENGE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HEWING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HEWN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HIEING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HIGH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HINGE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HINGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "NEIGH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NEIGHING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "NIGH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NIGHING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WEIGH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WEIGHING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "WHEE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WHEEN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WHEEZE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WHEEZING",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "WHEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WHEW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WHIG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WHIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WHINE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WHINGE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WHINGEING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "WHINGING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "WHINING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WHIZ",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WHIZZ",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WHIZZING",
+            "score": 5,
+            "pangram": false
+        }
+    ]
+}

@@ -1,0 +1,202 @@
+{
+    "letters": "DAHPRSZ",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 95,
+    "word_count": 36,
+    "pangram_count": 1,
+    "pangram_list": [
+        "HAPHAZARDS"
+    ],
+    "word_list": [
+        {
+            "word": "ADDS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DADA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DADAS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DADS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DAHS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DAPS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DASH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HAPHAZARD",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "HAPHAZARDS",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "HARD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HARDASS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HARDS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HAZARD",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HAZARDS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PADS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PADSHAH",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PADSHAHS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PARD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PARDAH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PARDAHS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PARDS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RADAR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RADARS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RADS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SARD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SARDAR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SARDARS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "SARDS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SHAD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SHADS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SHARD",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SHARDS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SRADDHA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "SRADDHAS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "SRADHA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SRADHAS",
+            "score": 4,
+            "pangram": false
+        }
+    ]
+}

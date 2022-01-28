@@ -1,0 +1,192 @@
+{
+    "letters": "DBCINOW",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 81,
+    "word_count": 34,
+    "pangram_count": 1,
+    "pangram_list": [
+        "COWBIND"
+    ],
+    "word_list": [
+        {
+            "word": "BIDI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BIND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BINDI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BOND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COCCID",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COCCOID",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CODON",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CONDO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CONOID",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COWBIND",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "DIDO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DINO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOBBIN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DODO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOODOO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DOWN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOWNBOW",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DOWNWIND",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "INDOW",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "INWIND",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "IODIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "IODID",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "IODIN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NIDI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NODI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ODIC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OIDIOID",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WIDOW",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WIND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WINDOW",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WOOD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WOODBIN",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WOODBIND",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "WOODWIND",
+            "score": 5,
+            "pangram": false
+        }
+    ]
+}

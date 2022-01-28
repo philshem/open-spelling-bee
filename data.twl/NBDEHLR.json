@@ -1,0 +1,222 @@
+{
+    "letters": "NBDEHLR",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 109,
+    "word_count": 40,
+    "pangram_count": 1,
+    "pangram_list": [
+        "HELLBENDER"
+    ],
+    "word_list": [
+        {
+            "word": "BEEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BEND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BENDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BENDEE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BENDER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BENE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BENNE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BLEND",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BLENDE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BLENDED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BLENDER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BREN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DENE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DENNED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ENDED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ENDER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ERNE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HELLBENDER",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "HERN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LEBEN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LEND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LENDER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NEED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NEEDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NEEDER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NEEDLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NEEDLED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "NEEDLER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "NENE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NERD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "REBLEND",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "REBLENDED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "REDDEN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REDDENED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RELEND",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RENDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RENDER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RENDERED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RENDERER",
+            "score": 5,
+            "pangram": false
+        }
+    ]
+}

@@ -1,0 +1,267 @@
+{
+    "letters": "DAIPRTY",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 86,
+    "word_count": 49,
+    "pangram_count": 1,
+    "pangram_list": [
+        "RAPIDITY"
+    ],
+    "word_list": [
+        {
+            "word": "ADAPT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ADIT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ADYTA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ARID",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ARIDITY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DADA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DADDY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DAIRY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DART",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DATA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DATARY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DIAPIR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DIARY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DIDY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DIPPY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DIPT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DIRT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DIRTY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DITA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DITTY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DRAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DRAY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DRIP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DRIPPY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DRIPT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DRYAD",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DYAD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "IRID",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PADDY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PADI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PADRI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PAID",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PARD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PARDI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PARDY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PAYDAY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RADAR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RADII",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RAID",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RAPID",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RAPIDITY",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "RITARD",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TARDY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TIDY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TRAD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TRIAD",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "YAIRD",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "YARD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YIRD",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

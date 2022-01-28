@@ -1,0 +1,232 @@
+{
+    "letters": "IBCHLOP",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 102,
+    "word_count": 42,
+    "pangram_count": 1,
+    "pangram_list": [
+        "BIBLIOPHILIC"
+    ],
+    "word_list": [
+        {
+            "word": "BIBB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BIBLIOPHILIC",
+            "score": 9,
+            "pangram": true
+        },
+        {
+            "word": "BILBO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BIOCHIP",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BIOPIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BLIP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BOCCI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BOIL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHIC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHICHI",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CHICO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHILI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHILL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHILLI",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CHIP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHOCOHOLIC",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "CIBOL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CLIP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COCCI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COCCIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COIL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COLIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COLOBI",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HILI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HILLO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HIPPO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LICH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LICHI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LILO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LIPOPHILIC",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "LOCI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOLLIPOP",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "OBOLI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OLIO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PHILIPPIC",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PHOBIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PICCOLO",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PILI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POLIO",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

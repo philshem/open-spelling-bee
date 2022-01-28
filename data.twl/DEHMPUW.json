@@ -1,0 +1,237 @@
+{
+    "letters": "DEHMPUW",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 105,
+    "word_count": 43,
+    "pangram_count": 1,
+    "pangram_list": [
+        "WHUMPED"
+    ],
+    "word_list": [
+        {
+            "word": "DEED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DEEDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEEM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DEEMED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEEP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DEME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DEWED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DUDE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUDED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DUMDUM",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DUMP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUMPED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DUPE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUPED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DUPPED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HEED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HEEDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HEMMED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HEMPWEED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "HEWED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HUED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HUMMED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HUMPED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HUMPHED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MEED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MEWED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MUDDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MUMMED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MUMPED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PEED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PEEPED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PEPPED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PUMPED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PUPPED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "UMPED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UPPED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WEDDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WEED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WEEDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WEEWEED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WHEEPED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WHUMPED",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "WHUPPED",
+            "score": 4,
+            "pangram": false
+        }
+    ]
+}

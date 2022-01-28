@@ -1,0 +1,187 @@
+{
+    "letters": "CGIKMNS",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 117,
+    "word_count": 33,
+    "pangram_count": 1,
+    "pangram_list": [
+        "MISKICKING"
+    ],
+    "word_list": [
+        {
+            "word": "CIGS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GIMMICK",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GIMMICKING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "GIMMICKS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ICING",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ICINGS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "INCISING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "KICK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KICKING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "KICKS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KINNIKINNICK",
+            "score": 9,
+            "pangram": false
+        },
+        {
+            "word": "KINNIKINNICKS",
+            "score": 10,
+            "pangram": false
+        },
+        {
+            "word": "MICK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MICKS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MICS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MIMIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MIMICKING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MIMICS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MINCING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MISKICK",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MISKICKING",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "MISKICKS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "NICK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NICKING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "NICKS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SICCING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "SICK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SICKING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "SICKS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SICS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SNICK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SNICKING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "SNICKS",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

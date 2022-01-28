@@ -1,0 +1,172 @@
+{
+    "letters": "ZCEILST",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 91,
+    "word_count": 30,
+    "pangram_count": 1,
+    "pangram_list": [
+        "CLITICIZES"
+    ],
+    "word_list": [
+        {
+            "word": "CLITICIZE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CLITICIZES",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "LEZZES",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LEZZIE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LEZZIES",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "SEIZE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SEIZES",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SIZE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SIZES",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SIZIEST",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "SIZZLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SIZZLES",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TIZZIES",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TZETZE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TZETZES",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TZITZIS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TZITZIT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ZEES",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ZEST",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ZESTIEST",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ZESTLESS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ZESTS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ZILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ZILLS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ZITI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ZITIS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ZITS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ZIZIT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ZIZZLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ZIZZLES",
+            "score": 4,
+            "pangram": false
+        }
+    ]
+}

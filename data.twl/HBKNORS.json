@@ -1,0 +1,207 @@
+{
+    "letters": "HBKNORS",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 88,
+    "word_count": 37,
+    "pangram_count": 1,
+    "pangram_list": [
+        "HORNBOOKS"
+    ],
+    "word_list": [
+        {
+            "word": "BOHO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BOHOS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BOOHOO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BOOHOOS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BOSH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BOSHBOK",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BOSHBOKS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "HOBNOB",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HOBNOBS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HOBO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HOBOS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HOBS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HONK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HONKS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HONOR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HONORS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HONS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HOOK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HOOKS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HORN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HORNBOOK",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "HORNBOOKS",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "HORNS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HORROR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HORRORS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "NOSH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OOHS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RHOS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SHNOOK",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SHNOOKS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "SHOO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SHOOK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SHOOKS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SHOON",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SHOOS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SHORN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SKOSH",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

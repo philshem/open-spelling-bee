@@ -1,0 +1,182 @@
+{
+    "letters": "CBEMNRU",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 85,
+    "word_count": 32,
+    "pangram_count": 1,
+    "pangram_list": [
+        "ENCUMBER"
+    ],
+    "word_list": [
+        {
+            "word": "CECUM",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CERE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CEREBRUM",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CERUMEN",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CREME",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CRUMB",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CRUMBER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CRUMBUM",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CUBE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CUBEB",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CUBER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CUCUMBER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CUMBER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CUMBERER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CUMMER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CUNNER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CURB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CURBER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CURE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CURER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CURN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CURR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ECRU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EMCEE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ENCUMBER",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "MERC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MERCER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REBEC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RECCE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RECUR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RECURRENCE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "UNCURB",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

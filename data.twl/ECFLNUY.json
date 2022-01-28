@@ -1,0 +1,242 @@
+{
+    "letters": "ECFLNUY",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 98,
+    "word_count": 44,
+    "pangram_count": 1,
+    "pangram_list": [
+        "FLUENCY"
+    ],
+    "word_list": [
+        {
+            "word": "CELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CELLULE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CLEF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CLUE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CYCLE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EELY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EFFLUENCE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ENNUYE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ENNUYEE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ENUF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EYEFUL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EYEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EYNE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FECULENCE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "FEEL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FELLY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FENCE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FENNEC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FENNEL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FENNY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FEYLY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FLEE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FLEECE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FLEECY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FLEY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FLUE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FLUENCY",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "FUEL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FUNNEL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FYCE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LUCE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LUCENCE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "LUCENCY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "LUNE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LUNULE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LYCEE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NELLY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NENE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NUNCLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "UNCLE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UNFENCE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "YELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YULE",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

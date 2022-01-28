@@ -1,0 +1,267 @@
+{
+    "letters": "KACHMST",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 115,
+    "word_count": 49,
+    "pangram_count": 1,
+    "pangram_list": [
+        "HACKMATACKS"
+    ],
+    "word_list": [
+        {
+            "word": "ASKS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ATTACK",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ATTACKS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CASK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CASKS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHACHKA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CHACHKAS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CHATCHKA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CHATCHKAS",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "HACK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HACKMATACK",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "HACKMATACKS",
+            "score": 8,
+            "pangram": true
+        },
+        {
+            "word": "HACKS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KAAS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KAKA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KAKAS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KASHA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KASHAS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KATA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KATAS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KATS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KHAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KHATS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MACK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MACKS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MASK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MASKS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SACK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SACKS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SHACK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SHACKS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SKAS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SKAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SKATS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SMACK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SMACKS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "STACK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "STACKS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TACK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TACKS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TAKA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TAKAS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TASK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TASKS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "THACK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "THACKS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TSKS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TSKTSK",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TSKTSKS",
+            "score": 4,
+            "pangram": false
+        }
+    ]
+}

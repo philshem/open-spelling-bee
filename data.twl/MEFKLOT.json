@@ -1,0 +1,242 @@
+{
+    "letters": "MEFKLOT",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 90,
+    "word_count": 44,
+    "pangram_count": 1,
+    "pangram_list": [
+        "FOLKMOTE"
+    ],
+    "word_list": [
+        {
+            "word": "EMMET",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EMOTE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FEME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FEMME",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FOLKMOOT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FOLKMOT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FOLKMOTE",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "LOOM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MEEK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MEET",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MELEE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MELT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MEME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MEMO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "METE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "METOL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "METTLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MOFETTE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MOFFETTE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MOKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOLE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOLL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOLT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOLTO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MOME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOOL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOTE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOTEL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MOTET",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MOTMOT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MOTT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOTTE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MOTTLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MOTTO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OMELET",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "OMELETTE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TEEM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TELOME",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TOME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOMFOOL",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TOOM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOTEM",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

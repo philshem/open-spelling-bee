@@ -1,0 +1,187 @@
+{
+    "letters": "CIKNPSY",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 83,
+    "word_count": 33,
+    "pangram_count": 1,
+    "pangram_list": [
+        "PYKNICS"
+    ],
+    "word_list": [
+        {
+            "word": "CISSY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CYNIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CYNICS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ICKY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KICK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KICKS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KICKY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KINNIKINNICK",
+            "score": 9,
+            "pangram": false
+        },
+        {
+            "word": "KINNIKINNICKS",
+            "score": 10,
+            "pangram": false
+        },
+        {
+            "word": "NICK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NICKS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PICK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PICKS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PICKY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PICNIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PICNICKY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PICNICS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PICS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PYIC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PYKNIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PYKNICS",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "SICK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SICKS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SICS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SNICK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SNICKS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SPIC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SPICK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SPICKS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SPICS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SPICY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SYNC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SYNCS",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

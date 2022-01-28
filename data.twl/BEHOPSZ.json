@@ -1,0 +1,272 @@
+{
+    "letters": "BEHOPSZ",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 119,
+    "word_count": 50,
+    "pangram_count": 1,
+    "pangram_list": [
+        "ZOOPHOBES"
+    ],
+    "word_list": [
+        {
+            "word": "BEBOP",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BEBOPS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BEEBEE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BEEBEES",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BEEP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BEEPS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BEES",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BESES",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BOBS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BOHO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BOHOS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BOOB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BOOBOO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BOOBOOS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BOOBS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BOOHOO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BOOHOOS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BOOS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BOOZE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BOOZES",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BOPEEP",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BOPEEPS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BOPS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BOSH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BOSHES",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BOSS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BOSSES",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BOZO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BOZOS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EBBS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EPHEBE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EPHEBES",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "EPHEBOS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HEBE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HEBES",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HOBO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HOBOES",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HOBOS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HOBS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OBES",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OBESE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OBOE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OBOES",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OBSESS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "OBSESSES",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PHOEBE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PHOEBES",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "SOBS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ZOOPHOBE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ZOOPHOBES",
+            "score": 6,
+            "pangram": true
+        }
+    ]
+}

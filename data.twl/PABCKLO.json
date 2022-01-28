@@ -1,0 +1,267 @@
+{
+    "letters": "PABCKLO",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 111,
+    "word_count": 49,
+    "pangram_count": 1,
+    "pangram_list": [
+        "BLACKPOLL"
+    ],
+    "word_list": [
+        {
+            "word": "ALPACA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "APOLLO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "APPAL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "APPALL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BACKPACK",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BLACKCAP",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BLACKPOLL",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "BLOOP",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CALPAC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CALPACK",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CAPO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CLAP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CLOP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COCKAPOO",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "COLLOP",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COOP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COPAL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KAKAPO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KALPA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KALPAC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KALPAK",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KAPA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KAPOK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KAPPA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KOPPA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LOLLOP",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LOOP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OPAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PACA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PACK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PALAPA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PALL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PALOOKA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PALP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PALPAL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PAPA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PAPAL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PLACK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PLOP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POCK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POCO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POLKA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "POLL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POLLACK",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "POLLOCK",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "POLO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POOL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POOP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POPPA",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

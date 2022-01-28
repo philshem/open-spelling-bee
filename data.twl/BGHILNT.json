@@ -1,0 +1,172 @@
+{
+    "letters": "BGHILNT",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 97,
+    "word_count": 30,
+    "pangram_count": 1,
+    "pangram_list": [
+        "BLIGHTING"
+    ],
+    "word_list": [
+        {
+            "word": "BIBB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BIBBING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BIGGIN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BIGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BIGHT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BIGHTING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BILGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BILLING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BINGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BINIT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BINNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BINT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BITING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BITT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BITTING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BLIGHT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BLIGHTING",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "BLIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BLINI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GHIBLI",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GIBBING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GIBING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GLIB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "INHIBIN",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "INHIBIT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "INHIBITING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "NIBBING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "NIBBLING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TITBIT",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

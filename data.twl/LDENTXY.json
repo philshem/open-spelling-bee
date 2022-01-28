@@ -1,0 +1,217 @@
+{
+    "letters": "LDENTXY",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 102,
+    "word_count": 39,
+    "pangram_count": 1,
+    "pangram_list": [
+        "EXTENDEDLY"
+    ],
+    "word_list": [
+        {
+            "word": "DELE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DELED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DELETE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DELETED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DELLY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DELT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DYNEL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EELY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EXTENDEDLY",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "EYELET",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EYELETTED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "LEET",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LEND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LENT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LENTEN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LETTED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LYNX",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NEEDLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NEEDLED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "NELLY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NETTLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NETTLED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "NETTLY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TEEL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TELE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TELETEXT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TELEX",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TELEXED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TELLY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TELNET",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TELNETED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TELNETTED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "XYLENE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "XYLYL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "YELD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YELLED",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

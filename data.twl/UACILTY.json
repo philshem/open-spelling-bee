@@ -1,0 +1,192 @@
+{
+    "letters": "UACILTY",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 88,
+    "word_count": 34,
+    "pangram_count": 1,
+    "pangram_list": [
+        "ACTUALITY"
+    ],
+    "word_list": [
+        {
+            "word": "ACICULA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ACTUAL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ACTUALITY",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "ACTUALLY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ACUITY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ALULA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AULIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CALCULI",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CALYCULI",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CAUL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CULLAY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CULLY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CULT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CULTI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CULTIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CUTICULA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CUTTY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LATU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LITU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LUAU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LULU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TACTUAL",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TACTUALLY",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TAUT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TAUTLY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TUTTI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TUTTY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TUTU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "UTILITY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "YAUTIA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "YUCA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YUCCA",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

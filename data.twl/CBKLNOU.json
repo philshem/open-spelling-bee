@@ -1,0 +1,227 @@
+{
+    "letters": "CBKLNOU",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 83,
+    "word_count": 41,
+    "pangram_count": 1,
+    "pangram_list": [
+        "UNBLOCK"
+    ],
+    "word_list": [
+        {
+            "word": "BLOC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BLOCK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BOCK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BONNOCK",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BOOCOO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BUCK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BUCKO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BULLOCK",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BUNCO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CLOCK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CLON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CLONK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CLUB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CLUCK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CLUNK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COBB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COCK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COCO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COCOBOLO",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "COCOON",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COLON",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CONK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CONN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COOCOO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COOK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COOKBOOK",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "COOL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CUCKOO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KNOCK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LOCK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOCO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LUCK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NOCK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NUBUCK",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "UNBLOCK",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "UNCO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "UNCOCK",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "UNCOOL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "UNLOCK",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

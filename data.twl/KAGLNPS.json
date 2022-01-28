@@ -1,0 +1,192 @@
+{
+    "letters": "KAGLNPS",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 81,
+    "word_count": 34,
+    "pangram_count": 1,
+    "pangram_list": [
+        "GANGPLANKS"
+    ],
+    "word_list": [
+        {
+            "word": "ALASKA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ALASKAS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ASKS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GANGPLANK",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "GANGPLANKS",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "KAAS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KAKA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KAKAS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KALPA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KALPAK",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KALPAKS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "KALPAS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KANA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KANAKA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KANAKAS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "KANAS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KAPA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KAPAS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KAPPA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KAPPAS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KNAP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KNAPS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LANK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PLANK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PLANKS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SANK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SKAG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SKAGS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SKANK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SKANKS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SKAS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SLANK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SPANK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SPANKS",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

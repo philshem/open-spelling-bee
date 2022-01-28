@@ -1,0 +1,272 @@
+{
+    "letters": "PADHNOR",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 111,
+    "word_count": 50,
+    "pangram_count": 1,
+    "pangram_list": [
+        "ORPHANHOOD"
+    ],
+    "word_list": [
+        {
+            "word": "ANAPHOR",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ANAPHORA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "APOD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "APRON",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DOPA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DORP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DROOP",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DROP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HARDPAN",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HARP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HARPOON",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HOOP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HOOPOO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NAPA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NAPPA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NONPAR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NONPOOR",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "OPAH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ORPHAN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ORPHANHOOD",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "PANADA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PANDA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PANDOOR",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PANDORA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PAPA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PARA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PARADOR",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PARADROP",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PARAPH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PARD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PARDAH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PARDON",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PARR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PHARAOH",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PHON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PHONO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PHONON",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "POND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POOD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POOH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POOP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POOR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POPPA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PORN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PORNO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PRAO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PROA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PROD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PROP",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

@@ -1,0 +1,197 @@
+{
+    "letters": "DGINSTV",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 105,
+    "word_count": 35,
+    "pangram_count": 1,
+    "pangram_list": [
+        "DISINVITING"
+    ],
+    "word_list": [
+        {
+            "word": "DIDST",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DIGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DIGGINGS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DIGIT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DIGITS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DIGS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DING",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DINGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DINGS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DINING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DINNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DINS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DINT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DINTING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DINTS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DISINVITING",
+            "score": 8,
+            "pangram": true
+        },
+        {
+            "word": "DISS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DISSING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DITS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DIVIDING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DIVING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DIVINING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DIVINISING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "GIDS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "INDIGN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "INDITING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "NIDI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NIDING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NITID",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SIDING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SIDINGS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TIDING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TIDINGS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "VIDS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VIVID",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

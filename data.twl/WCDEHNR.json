@@ -1,0 +1,257 @@
+{
+    "letters": "WCDEHNR",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 119,
+    "word_count": 47,
+    "pangram_count": 1,
+    "pangram_list": [
+        "WRENCHED"
+    ],
+    "word_list": [
+        {
+            "word": "CHEW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHEWED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CHEWER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CREW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CREWED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEERWEED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DEWED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DREW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EWER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HEWED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HEWER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HEWN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NEWER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RECHEW",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RECHEWED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "REDREW",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RENEW",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RENEWED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RENEWER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "REWED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "REWEDDED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "WEDDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WEDDER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WEED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WEEDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WEEDER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WEEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WEENED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WEER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WEEWEE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WEEWEED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WENCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WENCHED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WENCHER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WEND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WENDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WERE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WHEE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WHEEN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WHEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WHENCE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WHERE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WHEW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WREN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WRENCH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WRENCHED",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "WRENCHER",
+            "score": 5,
+            "pangram": false
+        }
+    ]
+}

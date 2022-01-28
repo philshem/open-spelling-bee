@@ -1,0 +1,207 @@
+{
+    "letters": "UAFILTY",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 89,
+    "word_count": 37,
+    "pangram_count": 1,
+    "pangram_list": [
+        "FAULTILY"
+    ],
+    "word_list": [
+        {
+            "word": "ALULA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FATUITY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FAULT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FAULTILY",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "FAULTY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FITFUL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FITFULLY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FLAUTA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FLUFF",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FLUFFILY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FLUFFY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FLUTY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FLUYT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FULFIL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FULFILL",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FULLY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FUTILITY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LATU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LITU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LUAU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LUFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LUFFA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LULU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TAUT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TAUTLY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TUFA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TUFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TUFT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TUFTILY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TUFTY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TUTTI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TUTTY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TUTU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "UTILITY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "YAUTIA",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

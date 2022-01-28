@@ -1,0 +1,222 @@
+{
+    "letters": "HAELNOZ",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 91,
+    "word_count": 40,
+    "pangram_count": 1,
+    "pangram_list": [
+        "HALAZONE"
+    ],
+    "word_list": [
+        {
+            "word": "ALLHEAL",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ALOHA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ENHALO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HAEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HAHA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HALAL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HALALA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HALALAH",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HALAZONE",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "HALE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HALL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HALLAH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HALLAL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HALLEL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HALLO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HALLOA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HALLOO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HALO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HALON",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HAOLE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HAZAN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HAZE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HAZEL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HAZELHEN",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "HAZZAN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HEAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HEEL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HEEZE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HELLHOLE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "HELLO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HELO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HENNA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HOLE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HOLLA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HOLLO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HOLLOA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HOLLOO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HONAN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HONE",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

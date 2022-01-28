@@ -1,0 +1,262 @@
+{
+    "letters": "MBCDEKO",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 107,
+    "word_count": 48,
+    "pangram_count": 1,
+    "pangram_list": [
+        "BEMOCKED"
+    ],
+    "word_list": [
+        {
+            "word": "BECOME",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BEMOCK",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BEMOCKED",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "BOMB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BOMBE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BOMBED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BOOM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BOOMED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COMB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COMBE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COMBED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COMBO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COMEDO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COMMODE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "COOMB",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COOMBE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEEM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DEEMED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DEMO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DEMOB",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DEMOBBED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DEMODE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEMODED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DEMOED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DOME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOMED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DOOM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOOMED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EMBED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EMBEDDED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "EMCEE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EMCEED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MEED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MEEK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MEME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MEMO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOBBED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MOCK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOCKED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MODE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MODEM",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MODEMED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MOKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOOD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOOED",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

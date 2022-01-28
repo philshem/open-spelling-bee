@@ -1,0 +1,227 @@
+{
+    "letters": "TEGHIOZ",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 99,
+    "word_count": 41,
+    "pangram_count": 1,
+    "pangram_list": [
+        "GHETTOIZE"
+    ],
+    "word_list": [
+        {
+            "word": "EIGHT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EIGHTH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EIGHTIETH",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "GHETTO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GHETTOIZE",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "GIGOT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GITE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOETHITE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GOTH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOTHITE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HEIGHT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HEIGHTH",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HETH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HIGHT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HIGHTH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HOGGET",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HOGTIE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HOOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HOTTIE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "OTTO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TEETH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TEETHE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TEGG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TETH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "THEE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "THIGH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "THIO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TIGHT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TITHE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TITI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TITTIE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TOIT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOOTH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TOTE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TZETZE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TZITZIT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TZITZITH",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ZITI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ZIZIT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ZIZITH",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

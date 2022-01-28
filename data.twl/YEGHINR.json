@@ -1,0 +1,217 @@
+{
+    "letters": "YEGHINR",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 100,
+    "word_count": 39,
+    "pangram_count": 1,
+    "pangram_list": [
+        "HERRYING"
+    ],
+    "word_list": [
+        {
+            "word": "EERY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EGGY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ENERGY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ENGINERY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "EYEING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EYEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EYER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EYING",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EYNE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EYRE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EYRIE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EYRIR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EYRY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GINGERY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GINNY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GREENERY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GREENY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GREY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GREYER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GREYHEN",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GREYING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GYRE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GYRENE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GYRI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GYRING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HENNERY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HENRY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HERRY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HERRYING",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "HINNY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HINNYING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "HYENINE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HYGIENE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HYING",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NINNY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "YEGG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YENNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "YIRR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YIRRING",
+            "score": 4,
+            "pangram": false
+        }
+    ]
+}

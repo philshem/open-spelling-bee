@@ -1,0 +1,217 @@
+{
+    "letters": "GBDENTU",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 98,
+    "word_count": 39,
+    "pangram_count": 1,
+    "pangram_list": [
+        "UNBUDGETED"
+    ],
+    "word_list": [
+        {
+            "word": "BEDBUG",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BEGET",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BEGGED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BEGUN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BUDGE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BUDGED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BUDGET",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BUDGETED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BUGGED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BUNG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BUNGED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BUNGEE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEBUG",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DEBUGGED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DENGUE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DUNG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUNGED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EDGE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EDGED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EGGED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GEED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GENE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GENET",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GENETTE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GENT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GENU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GUDE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GUNNED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GUNNEN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GUTTED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NUDGE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NUDGED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NUGGET",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TEGG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TENGE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TUGGED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TUNG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "UNBUDGETED",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "UNGUENT",
+            "score": 4,
+            "pangram": false
+        }
+    ]
+}

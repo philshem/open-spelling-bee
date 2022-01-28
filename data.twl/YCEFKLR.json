@@ -1,0 +1,237 @@
+{
+    "letters": "YCEFKLR",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 90,
+    "word_count": 43,
+    "pangram_count": 1,
+    "pangram_list": [
+        "FRECKLY"
+    ],
+    "word_list": [
+        {
+            "word": "CELERY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CLERKLY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CYCLE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CYCLER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CYCLERY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "EELY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EERY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EYER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EYRE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EYRY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FECKLY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FELLY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FERLY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FERRY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FEYER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FEYLY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FLECKY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FLEECY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FLEY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FLYER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FRECKLY",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "FREELY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FRYER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FYCE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FYKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KELLY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KERRY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LEERY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LYCEE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LYRE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RECYCLE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RECYCLER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "REEFY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "REEKY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "REFLY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "REFRY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "REKEY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RELY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RYKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YELK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YELLER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "YERK",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

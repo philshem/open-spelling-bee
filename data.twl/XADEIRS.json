@@ -1,0 +1,187 @@
+{
+    "letters": "XADEIRS",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 82,
+    "word_count": 33,
+    "pangram_count": 1,
+    "pangram_list": [
+        "RADIXES"
+    ],
+    "word_list": [
+        {
+            "word": "ADDAX",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ADDAXES",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "AXED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AXES",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AXIS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AXISED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "AXISES",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "AXSEED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "AXSEEDS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DEIXIS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEIXISES",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DESEX",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DESEXED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DESEXES",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DEXES",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DEXIE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DEXIES",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EXED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EXEDRA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EXEDRAE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "EXES",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "IXIA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "IXIAS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RADIX",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RADIXES",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "RAXED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RAXES",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "REXES",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SAXES",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SEXED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SEXES",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SEXIER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SIXES",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

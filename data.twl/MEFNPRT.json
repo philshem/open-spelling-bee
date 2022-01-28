@@ -1,0 +1,222 @@
+{
+    "letters": "MEFNPRT",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 109,
+    "word_count": 40,
+    "pangram_count": 1,
+    "pangram_list": [
+        "PREFERMENT"
+    ],
+    "word_list": [
+        {
+            "word": "EMEER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EMMER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EMMET",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FEME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FEMME",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FERMENT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FERMENTER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "FREEMEN",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MEET",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MEETER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MEME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MENTEE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MERE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MERER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MERMEN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "METE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "METER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "METRE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NEEM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PENMEN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PERM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PREEMPT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PREFERMENT",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "PREMEET",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PREMEN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PRETERM",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "REMEET",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REMET",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RETEM",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RETEMPER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TEEM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TEEMER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TEMP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TEMPER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TEMPERER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TEMPT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TEMPTER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TENEMENT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TERM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TERMER",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

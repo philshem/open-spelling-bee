@@ -1,0 +1,182 @@
+{
+    "letters": "WAFGINU",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 102,
+    "word_count": 32,
+    "pangram_count": 1,
+    "pangram_list": [
+        "GUFFAWING"
+    ],
+    "word_list": [
+        {
+            "word": "AWING",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AWNING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FAWN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FAWNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GNAW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GNAWING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GNAWN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GUFFAW",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GUFFAWING",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "UNWANING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "WAFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WAFFING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WAGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WAGING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WAIF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WAIFING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WAIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WANGAN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WANGUN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WANIGAN",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WANING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WANNIGAN",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "WANNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WIFING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WIGAN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WIGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WIGWAG",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WIGWAGGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "WING",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WINGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WINING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WINNING",
+            "score": 4,
+            "pangram": false
+        }
+    ]
+}

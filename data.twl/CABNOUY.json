@@ -1,0 +1,237 @@
+{
+    "letters": "CABNOUY",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 96,
+    "word_count": 43,
+    "pangram_count": 1,
+    "pangram_list": [
+        "BUOYANCY"
+    ],
+    "word_list": [
+        {
+            "word": "ABACA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ABBACY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ANCON",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AUCUBA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BACCA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BACON",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BANCO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BOOCOO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BOUNCY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BUNCO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BUOYANCY",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "CABANA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CABBY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CABOB",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CACA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CACAO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CANCAN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CANNA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CANNON",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CANNY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CANON",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CANYON",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COBB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COBBY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COCA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COCO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COCOA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COCOON",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CONN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CONY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COOCOO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COONCAN",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CUBBY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CYAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CYANO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NANCY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UNBOUNCY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "UNCANNY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "UNCO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "UNCOY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "YUCA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YUCCA",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

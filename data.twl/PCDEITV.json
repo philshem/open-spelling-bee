@@ -1,0 +1,252 @@
+{
+    "letters": "PCDEITV",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 119,
+    "word_count": 46,
+    "pangram_count": 1,
+    "pangram_list": [
+        "DECEPTIVE"
+    ],
+    "word_list": [
+        {
+            "word": "CEPE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DECEPTIVE",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "DEEP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DEPICT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEPICTED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DIPEPTIDE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DIPPED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DIPT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EPEE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EPIC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PECTIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PEED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PEEP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PEEPED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PEEVE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PEEVED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PEPPED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PEPTIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PEPTID",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PEPTIDE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PEPTIDIC",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PETIT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PETITE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PETTED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PETTI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PICE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PIECE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PIECED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PIED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PIPE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PIPED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PIPET",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PIPETTE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PIPETTED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PIPIT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PIPPED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PITIED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PITTED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TEEPEE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TEPEE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TEPID",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TIPI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TIPPED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TIPPET",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VEEP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VEEPEE",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

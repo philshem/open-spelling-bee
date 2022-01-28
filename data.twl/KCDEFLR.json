@@ -1,0 +1,217 @@
+{
+    "letters": "KCDEFLR",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 90,
+    "word_count": 39,
+    "pangram_count": 1,
+    "pangram_list": [
+        "FRECKLED"
+    ],
+    "word_list": [
+        {
+            "word": "CLEEK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CLEEKED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CLERK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CLERKED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CREEK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DECK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DECKED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DECKEL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DECKER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DECKLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DEKED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DRECK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DREK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EKED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FECK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FLECK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FLECKED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FRECKLE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FRECKLED",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "KECK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KECKED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KECKLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KECKLED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "KEEF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KEEK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KEEKED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KEEL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KEELED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KERF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KERFED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LEEK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LEKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LEKKED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RECK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RECKED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REEK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "REEKED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REEKER",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

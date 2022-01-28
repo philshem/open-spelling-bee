@@ -1,0 +1,267 @@
+{
+    "letters": "CABKLUY",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 112,
+    "word_count": 49,
+    "pangram_count": 1,
+    "pangram_list": [
+        "BUCKYBALL"
+    ],
+    "word_list": [
+        {
+            "word": "ABACA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ABACK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ABBACY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ACYL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ALACK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AUCUBA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BACCA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BACK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BACULA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BLACK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BLACKBALL",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BLACKBUCK",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BLACKLY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BUCCAL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BUCCALLY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BUCK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BUCKYBALL",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "BUYBACK",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CABAL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CABALA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CABBALA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CABBY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CACA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CAKY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CALK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CALL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CALLA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CALLBACK",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CAUL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CAULK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CLACK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CLAY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CLUB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CLUBBY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CLUCK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CUBBY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CULLAY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CULLY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KYACK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LACK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LACY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LUCK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LUCKY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "YACK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YUCA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YUCCA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "YUCK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YUCKY",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

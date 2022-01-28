@@ -1,0 +1,247 @@
+{
+    "letters": "FBDEOSW",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 99,
+    "word_count": 45,
+    "pangram_count": 1,
+    "pangram_list": [
+        "BEEFWOODS"
+    ],
+    "word_list": [
+        {
+            "word": "BEEF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BEEFED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BEEFS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BEEFWOOD",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BEEFWOODS",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "BOFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BOFFED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BOFFO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BOFFOS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BOFFS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DOFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOFFED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DOFFS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EFFS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FEDS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FEEB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FEEBS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FEED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FEEDS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FEES",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FEOD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FEODS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FEOFF",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FEOFFED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FEOFFEE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FEOFFEES",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FEOFFS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FESS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FESSE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FESSED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FESSES",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FOBBED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FOBS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FOES",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FOOD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FOODS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FOSS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FOSSE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FOSSES",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "OFFED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OFFS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WEBFED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WOOF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WOOFED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WOOFS",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

@@ -1,0 +1,192 @@
+{
+    "letters": "RILOSUX",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 83,
+    "word_count": 34,
+    "pangram_count": 1,
+    "pangram_list": [
+        "LUXURIOUS"
+    ],
+    "word_list": [
+        {
+            "word": "IRIS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LIRI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LORIS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LOUR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOURS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LUXURIOUS",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "OLOROSO",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "OLOROSOS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ORRIS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OURS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RILLS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RISUS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ROIL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROILS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ROLL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROLLS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ROSOLIO",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ROSOLIOS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ROUX",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SIRS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SLUR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SLURS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SORI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SOROSIS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "SORUS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SOUR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SOURS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SRIS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SUSURROUS",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "SUSURRUS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "URUS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "USURIOUS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "UXORIOUS",
+            "score": 5,
+            "pangram": false
+        }
+    ]
+}

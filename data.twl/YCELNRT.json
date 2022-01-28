@@ -1,0 +1,237 @@
+{
+    "letters": "YCELNRT",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 99,
+    "word_count": 43,
+    "pangram_count": 1,
+    "pangram_list": [
+        "RECENTLY"
+    ],
+    "word_list": [
+        {
+            "word": "CELERY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CYCLE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CYCLER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CYCLERY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "EELY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EERY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ENTRY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ERECTLY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "EYELET",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EYEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EYER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EYNE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EYRE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EYRY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LEERY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LYCEE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LYRE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NELLY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NETTLY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NETTY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RECENCY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RECENTLY",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "RECYCLE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RECYCLER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "REENTRY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RELY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RETRY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TEENY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TELLY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TENTY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TERRENELY",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TERRY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TERYLENE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TETRYL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TREY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TYEE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TYER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TYNE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TYRE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YELLER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "YENTE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "YETT",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

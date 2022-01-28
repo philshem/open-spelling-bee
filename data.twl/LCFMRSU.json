@@ -1,0 +1,242 @@
+{
+    "letters": "LCFMRSU",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 95,
+    "word_count": 44,
+    "pangram_count": 1,
+    "pangram_list": [
+        "FULCRUMS"
+    ],
+    "word_list": [
+        {
+            "word": "CULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CULLS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CULM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CULMS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CUMULUS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CURL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CURLS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FLUFF",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FLUFFS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FLUS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FULCRUM",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FULCRUMS",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "FULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FULLS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FUMULUS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FURCULUM",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FURL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FURLS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LUFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LUFFS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LULLS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LULU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LULUS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LUMS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LUSUS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MUCLUC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MUCLUCS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MULLS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SCULL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SCULLS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SLUFF",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SLUFFS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SLUM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SLUMS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SLUR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SLURS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SULCUS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SULFUR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SULFURS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "SULU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SULUS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ULUS",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

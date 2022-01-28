@@ -1,0 +1,212 @@
+{
+    "letters": "FHLRSTU",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 89,
+    "word_count": 38,
+    "pangram_count": 1,
+    "pangram_list": [
+        "THRUSTFUL"
+    ],
+    "word_list": [
+        {
+            "word": "FLUFF",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FLUFFS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FLUS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FLUSH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FULLS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FURFUR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FURL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FURLS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FURS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FUSS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HUFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HUFFS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HURTFUL",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HUSHFUL",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "LUFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LUFFS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LUSTFUL",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RUFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RUFFS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RUTHFUL",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "SLUFF",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SLUFFS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "STUFF",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "STUFFS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SULFUR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SULFURS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "SURF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SURFS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "THRUSTFUL",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "TRUSTFUL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TRUTHFUL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TUFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TUFFS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TUFT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TUFTS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TURF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TURFS",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

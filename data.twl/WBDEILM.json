@@ -1,0 +1,242 @@
+{
+    "letters": "WBDEILM",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 110,
+    "word_count": 44,
+    "pangram_count": 1,
+    "pangram_list": [
+        "WIMBLED"
+    ],
+    "word_list": [
+        {
+            "word": "BEDEW",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BEDEWED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BLEW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DEWED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DWEEB",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DWELL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DWELLED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "LEWD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LWEI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MEWED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MEWL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MEWLED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MILDEW",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MILDEWED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "WEBBED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WEDDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WEDEL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WEDELED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WEED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WEEDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WEEL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WEEWEE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WEEWEED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WELD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WELDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WELLED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WELLIE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WIDDIE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WIDDLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WIDDLED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WIDE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WIELD",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WIELDED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WILD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WILDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WILE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WILED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WILLED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WILLIE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WILLIED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WIMBLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WIMBLED",
+            "score": 4,
+            "pangram": true
+        }
+    ]
+}

@@ -1,0 +1,252 @@
+{
+    "letters": "ABHJNOT",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 82,
+    "word_count": 46,
+    "pangram_count": 1,
+    "pangram_list": [
+        "JOHNBOAT"
+    ],
+    "word_list": [
+        {
+            "word": "ABBA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ABBOT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ABOON",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ANATTO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ANNA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ANNATTO",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ANNONA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ANOA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ANON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ANTA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BABA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BABOO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BABOON",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BAHT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BANANA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BANJO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BAOBAB",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BATH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BATON",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BATT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BOAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BOTA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HABOOB",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HAHA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HAJJ",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HANT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HATH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HONAN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "JABOT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "JATO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "JNANA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "JOHNBOAT",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "JOJOBA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "JOTA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NAAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NABOB",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NANA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NATANT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NONA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NOTA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OATH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TABOO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TANTO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TATTOO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "THAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "THAT",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

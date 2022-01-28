@@ -1,0 +1,267 @@
+{
+    "letters": "ABEIOTU",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 91,
+    "word_count": 49,
+    "pangram_count": 1,
+    "pangram_list": [
+        "ABOITEAU"
+    ],
+    "word_list": [
+        {
+            "word": "ABATE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ABBA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ABBE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ABBOT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ABET",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ABOITEAU",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "ABOUT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ABUT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AUTO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BABA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BABBITT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BABE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BABOO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BABU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BAIT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BAOBAB",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BATE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BATEAU",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BATT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BATTEAU",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BATTU",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BATTUE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BAUBEE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BEAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BEAU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BEAUT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BETA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BETTA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BIOTA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BOAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BOTA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BUBBA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "IOTA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OBIA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OUTATE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "OUTEAT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TABOO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TABU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TATE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TATTIE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TATTOO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TAUT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TEAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TIBIA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TIBIAE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TOEA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TUBA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TUBAE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TUBATE",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

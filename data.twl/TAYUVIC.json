@@ -1,0 +1,192 @@
+{
+    "letters": "TAYUVIC",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 80,
+    "word_count": 34,
+    "pangram_count": 1,
+    "pangram_list": [
+        "VACUITY"
+    ],
+    "word_list": [
+        {
+            "word": "ACTA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ACTIVITY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ACUITY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ATACTIC",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ATAVIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ATTIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AVIATIC",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CACTI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CATTY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CAVITY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CITY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CUTTY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ICTIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TACIT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TACT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TACTIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TATTY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TAUT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TICTAC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TITI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TITTY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TIVY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TUTTI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TUTTY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TUTU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VACUITY",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "VATIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VATU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VIATIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VIATICA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "VITA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VITTA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VIVACITY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "YAUTIA",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

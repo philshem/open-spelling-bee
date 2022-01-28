@@ -1,0 +1,252 @@
+{
+    "letters": "HAGIPRT",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 110,
+    "word_count": 46,
+    "pangram_count": 1,
+    "pangram_list": [
+        "TRIGRAPH"
+    ],
+    "word_list": [
+        {
+            "word": "AARGH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AARRGH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "AARRGHH",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "AGHA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AGRAPHA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "AGRAPHIA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "AIRTH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AIRTIGHT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "APHAGIA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "APHTHA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ARHAT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ARIGHT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GARTH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GHARRI",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GHAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GIRTH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GRAPH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GRITH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HAAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HAHA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HAIR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HAPHTARA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "HAPHTARAH",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "HARP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HART",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HATH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HIGH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HIGHT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HIGHTH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PARAGRAPH",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PARAPH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PARIAH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PATH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PHAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PHPHT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PITH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RAPHIA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RATH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RIGHT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TAHR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "THAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "THIGH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "THIR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "THRIP",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TIGHT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TRIGRAPH",
+            "score": 5,
+            "pangram": true
+        }
+    ]
+}

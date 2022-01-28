@@ -1,0 +1,192 @@
+{
+    "letters": "HFGIKNS",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 97,
+    "word_count": 34,
+    "pangram_count": 1,
+    "pangram_list": [
+        "KINGFISH"
+    ],
+    "word_list": [
+        {
+            "word": "FINFISH",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FINISH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FINISHING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "FISH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FISHGIG",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FISHGIGS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FISHING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FISHINGS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GHIS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HIGH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HIGHS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HIKING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HINGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HINS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HISN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HISS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HISSING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HISSINGS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "KHIS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KINGFISH",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "KNISH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NIGH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NIGHING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "NIGHS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SHIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SHINING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "SHINNING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "SHINS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SIGH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SIGHING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "SIGHS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SINH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SINHS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SNIFFISH",
+            "score": 5,
+            "pangram": false
+        }
+    ]
+}

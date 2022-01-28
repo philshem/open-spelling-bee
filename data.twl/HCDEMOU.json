@@ -1,0 +1,217 @@
+{
+    "letters": "HCDEMOU",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 85,
+    "word_count": 39,
+    "pangram_count": 1,
+    "pangram_list": [
+        "MOUCHED"
+    ],
+    "word_list": [
+        {
+            "word": "CHEMO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHUM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHUMMED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "COHO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COOCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COUCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COUCHED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DOUCHE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DOUCHED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ECHE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ECHED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ECHO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ECHOED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HEED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HEEDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HEME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HEMMED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HEUCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HOED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HOME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HOMED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HOMO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HOOCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HOOD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HOODED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HOODOO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HOODOOED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "HUED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HUMMED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MOOCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MOOCHED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MOUCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MOUCHED",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "MUCH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MUCHO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OHED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OOHED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OUCH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OUCHED",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

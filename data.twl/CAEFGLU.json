@@ -1,0 +1,217 @@
+{
+    "letters": "CAEFGLU",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 82,
+    "word_count": 39,
+    "pangram_count": 1,
+    "pangram_list": [
+        "CAGEFUL"
+    ],
+    "word_list": [
+        {
+            "word": "ALEC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CACA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CAECA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CAECAL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CAFE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CAFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CAGE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CAGEFUL",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "CALF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CALL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CALLA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CALLEE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CAUL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CECA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CECAL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CELLA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CELLAE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CELLULE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CLAG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CLEF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CLUE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CUFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EFFACE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FACE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FACULA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FACULAE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FAECAL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FAUCAL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FECAL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FECULA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FECULAE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FELUCCA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FLEECE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FULLFACE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GLACE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LACE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LUCE",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

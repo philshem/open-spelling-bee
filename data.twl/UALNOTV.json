@@ -1,0 +1,237 @@
+{
+    "letters": "UALNOTV",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 83,
+    "word_count": 43,
+    "pangram_count": 1,
+    "pangram_list": [
+        "ANOVULANT"
+    ],
+    "word_list": [
+        {
+            "word": "ALULA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ANNUAL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ANNUL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ANOVULANT",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "AUNT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AUTO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AVAUNT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LATU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LAUAN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LOUT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LUAU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LULU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LUNA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LUNT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LUNULA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NOUN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NOUNAL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NUTANT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "OUTVAUNT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TAUNT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TAUON",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TAUT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOLU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOLUOL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TOUT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TUNA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TUTU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ULAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ULNA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ULULANT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ULVA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "UNAU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "UNTO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "UVULA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VALUTA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VALVULA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "VATU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VAULT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VAUNT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VULVA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VULVAL",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

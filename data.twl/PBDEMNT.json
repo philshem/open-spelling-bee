@@ -1,0 +1,192 @@
+{
+    "letters": "PBDEMNT",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 94,
+    "word_count": 34,
+    "pangram_count": 1,
+    "pangram_list": [
+        "BENEMPTED"
+    ],
+    "word_list": [
+        {
+            "word": "BEEP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BEEPED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BENEMPT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BENEMPTED",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "DEEP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DEEPEN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEEPENED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DEPEND",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEPENDED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DEPENDENT",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "EPEE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NEEP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PEEBEEN",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PEED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PEEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PEENED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PEEP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PEEPED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PEND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PENDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PENDENT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PENMEN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PENNE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PENNED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PENT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PENTENE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PEPPED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PETTED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TEEPEE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TEMP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TEMPED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TEMPT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TEMPTED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TEPEE",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

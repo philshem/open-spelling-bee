@@ -1,0 +1,212 @@
+{
+    "letters": "PDEGNUX",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 106,
+    "word_count": 38,
+    "pangram_count": 1,
+    "pangram_list": [
+        "EXPUNGED"
+    ],
+    "word_list": [
+        {
+            "word": "DEEP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DEEPEN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEEPENED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DEPEND",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEPENDED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DUPE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUPED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DUPPED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EPEE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EXPEND",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EXPENDED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "EXPUNGE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "EXPUNGED",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "NEEP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PEED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PEEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PEENED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PEEP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PEEPED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PEGGED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PEND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PENDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PENNE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PENNED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PEPPED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PUGGED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PUNG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PUNNED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PUPPED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PUPU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "UNEXPENDED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "UNPEG",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UNPEGGED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "UNPEN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UNPENNED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "UPEND",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UPENDED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "UPPED",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

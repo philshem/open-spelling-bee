@@ -1,0 +1,172 @@
+{
+    "letters": "QAEORSU",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 94,
+    "word_count": 30,
+    "pangram_count": 1,
+    "pangram_list": [
+        "SQUARROSE"
+    ],
+    "word_list": [
+        {
+            "word": "AQUA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AQUAE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AQUAS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AQUEOUS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "OQUASSA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "OQUASSAS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "QUAERE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "QUAERES",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "QUARE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "QUASAR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "QUASARS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "QUASS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "QUASSES",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "QUEER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "QUEERER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "QUEERS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "QUEUE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "QUEUER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "QUEUERS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "QUEUES",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ROQUE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ROQUES",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SQUARE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SQUARER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "SQUARERS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "SQUARES",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "SQUARROSE",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "SUQS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "USQUE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "USQUES",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

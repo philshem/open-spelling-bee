@@ -1,0 +1,267 @@
+{
+    "letters": "WGHORST",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 113,
+    "word_count": 49,
+    "pangram_count": 1,
+    "pangram_list": [
+        "GROWTHS"
+    ],
+    "word_list": [
+        {
+            "word": "GROW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GROWS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GROWTH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GROWTHS",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "HOOSGOW",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HOOSGOWS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "HOWS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROWS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROWTH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ROWTHS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SHOW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SHOWS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SORROW",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SORROWS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "SOWS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "STOW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "STOWS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "STROW",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "STROWS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SWOOSH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SWOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SWOTS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "THROW",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "THROWS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TOOTHWORT",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TOOTHWORTS",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "TOWS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TROW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TROWS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TROWTH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TROWTHS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TWOS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WHOOSH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WHORT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WHORTS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WHOSO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WOGS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WOOS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WOOSH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WORST",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WORSTS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WORT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WORTH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WORTHS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WORTS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WOST",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WOTS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WOWS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WROTH",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

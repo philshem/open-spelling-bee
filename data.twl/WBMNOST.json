@@ -1,0 +1,232 @@
+{
+    "letters": "WBMNOST",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 86,
+    "word_count": 42,
+    "pangram_count": 1,
+    "pangram_list": [
+        "BOOMTOWNS"
+    ],
+    "word_list": [
+        {
+            "word": "BOOMTOWN",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BOOMTOWNS",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "BOWS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BOWWOW",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BOWWOWS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MOONBOW",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MOONBOWS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MOWN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOWS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NOWS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NOWT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NOWTS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OWNS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SNOW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SNOWS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SOWN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SOWS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "STOW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "STOWS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SWOB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SWOBS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SWOON",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SWOONS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SWOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SWOTS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TOWMONT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TOWMONTS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TOWN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOWNS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TOWS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TWOS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WOMB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WOMBS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WONS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WONT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WONTON",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WONTONS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WONTS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WOOS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WOST",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WOTS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WOWS",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

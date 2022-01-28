@@ -1,0 +1,222 @@
+{
+    "letters": "BAIPRTY",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 99,
+    "word_count": 40,
+    "pangram_count": 1,
+    "pangram_list": [
+        "BIPARTY"
+    ],
+    "word_list": [
+        {
+            "word": "ABAYA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ABBA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ABRI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ARBITRARY",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ARRIBA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BABA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BABBITRY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BABBITT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BABBITTRY",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BABY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BAIT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BARB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BARBARITY",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BARRATRY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BARYTA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BATT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BATTY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BIBB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BIPARTY",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "BIRR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BITT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BITTY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BRAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BRATTY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BRAY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BRIAR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BRIARY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BRIT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BRITT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BRRR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RABAT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RABBI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RABBIT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RABBITRY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RABBITY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RIBBY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TABBY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TIBIA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TITBIT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "YABBY",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

@@ -1,0 +1,232 @@
+{
+    "letters": "UACGHOT",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 111,
+    "word_count": 42,
+    "pangram_count": 1,
+    "pangram_list": [
+        "OUTCAUGHT"
+    ],
+    "word_list": [
+        {
+            "word": "AUGHT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AUTO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CACHOU",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CACHUCHA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CAOUTCHOUC",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "CATGUT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CAUGHT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CHOUGH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CHUG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COUCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COUGH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COUTH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CUTCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CUTOUT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GAUCHO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GHAUT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GOUT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GUACO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GUTTA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HAUGH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HAUT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HUTCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OUCH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OUGHT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OUTACT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "OUTCATCH",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "OUTCAUGHT",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "OUTCOACH",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "OUTGO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OUTTHOUGHT",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "TAUGHT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TAUT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TAUTAUG",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TAUTOG",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "THOU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "THOUGH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "THOUGHT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "THUG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOUCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TOUGH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TOUT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TUTU",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

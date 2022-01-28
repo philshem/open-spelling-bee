@@ -1,0 +1,227 @@
+{
+    "letters": "HEFGIPS",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 107,
+    "word_count": 41,
+    "pangram_count": 1,
+    "pangram_list": [
+        "PIGFISHES"
+    ],
+    "word_list": [
+        {
+            "word": "FEHS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FISH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FISHES",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FISHGIG",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FISHGIGS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GHEE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GHEES",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GHIS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GIGHE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HEHS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HEIGH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HEISHI",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HIES",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HIGH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HIGHS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HIPPIE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HIPPIEISH",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "HIPPIES",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HIPPISH",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HIPS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HISS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HISSES",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HISSIES",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PEHS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PHIS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PIGFISH",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PIGFISHES",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "PIGGISH",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PIPEFISH",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PIPEFISHES",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "PISH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PISHES",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SHEEP",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SHEEPISH",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "SHEESH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SHES",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SHIES",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SHIP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SHIPS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SIGH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SIGHS",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

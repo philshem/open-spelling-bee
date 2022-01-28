@@ -1,0 +1,237 @@
+{
+    "letters": "IBEFLOU",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 94,
+    "word_count": 43,
+    "pangram_count": 1,
+    "pangram_list": [
+        "BIOFUEL"
+    ],
+    "word_list": [
+        {
+            "word": "BELIE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BELIEF",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BIBB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BIBLE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BIFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BILBO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BILE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BILLIE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BIOFUEL",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "BLOOIE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BLUEBILL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BOIL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BOILOFF",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BOOBIE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BUFFI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BULBIL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FIEF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FIFE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FILE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FILLE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FILLO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FILO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FLOOIE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FOIBLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FOIL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FOLIO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FULFIL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FULFILL",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "LIBEL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LIBELEE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "LIBELLEE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LIEF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LIEU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LIFE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LIFEFUL",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "LILO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOOIE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LOUIE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OBELI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OBOLI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OLIO",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

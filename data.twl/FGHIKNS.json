@@ -1,0 +1,172 @@
+{
+    "letters": "FGHIKNS",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 100,
+    "word_count": 30,
+    "pangram_count": 1,
+    "pangram_list": [
+        "KINGFISH"
+    ],
+    "word_list": [
+        {
+            "word": "FIFING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FIGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FIGS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FINFISH",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FINIKIN",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FINIKING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FINING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FININGS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FINIS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FINISH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FINISHING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "FINK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FINKING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FINKS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FINNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FINS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FISH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FISHGIG",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FISHGIGS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FISHING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FISHINGS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "KIFS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KINGFISH",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "KNIFING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "SKIFF",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SKIFFS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SNIFF",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SNIFFING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "SNIFFISH",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "SNIFFS",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

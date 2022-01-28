@@ -1,0 +1,182 @@
+{
+    "letters": "VELMNOT",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 87,
+    "word_count": 32,
+    "pangram_count": 1,
+    "pangram_list": [
+        "EVOLVEMENT"
+    ],
+    "word_list": [
+        {
+            "word": "ELEVEN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ELEVON",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ENVENOM",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "EVEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EVENT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EVOLVE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EVOLVEMENT",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "LEVEE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LEVEL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LEVO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOVE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOVE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOVEMENT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "NEVE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NONEVENT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "NONLEVEL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "NONNOVEL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "NOVEL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NOVELETTE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "NOVELLE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "OVEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OVOLO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VELVET",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VELVETEEN",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "VENENE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VENOM",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VENT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VETO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VOLE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VOLT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VOLTE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VOTE",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

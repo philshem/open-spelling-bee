@@ -1,0 +1,207 @@
+{
+    "letters": "KACHMPS",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 84,
+    "word_count": 37,
+    "pangram_count": 1,
+    "pangram_list": [
+        "CHAMPAKS"
+    ],
+    "word_list": [
+        {
+            "word": "ASKS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CASK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CASKS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHACHKA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CHACHKAS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CHAMPAK",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CHAMPAKS",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "HACK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HACKS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KAAS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KAKA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KAKAS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KAPA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KAPAS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KAPH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KAPHS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KAPPA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KAPPAS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KASHA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KASHAS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KHAPH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KHAPHS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MACK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MACKS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MASK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MASKS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PACK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PACKS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PACKSACK",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PACKSACKS",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "SACK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SACKS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SHACK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SHACKS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SKAS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SMACK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SMACKS",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

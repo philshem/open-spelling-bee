@@ -1,0 +1,212 @@
+{
+    "letters": "KABCFIN",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 101,
+    "word_count": 38,
+    "pangram_count": 1,
+    "pangram_list": [
+        "FINBACK"
+    ],
+    "word_list": [
+        {
+            "word": "ABACK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ABAKA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AKIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BABKA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BACK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BANK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BIKINI",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CANAKIN",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CANIKIN",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CANNIKIN",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FINBACK",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "FINICKIN",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FINIKIN",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FINK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KABAB",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KABAKA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KABIKI",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KAIAK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KAIF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KAIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KAKA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KAKI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KANA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KANAKA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KANBAN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KIBBI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KICK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KICKBACK",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "KINA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KININ",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KINK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KINNIKINNICK",
+            "score": 9,
+            "pangram": false
+        },
+        {
+            "word": "KNACK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KNICKKNACK",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "NAKFA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NANKIN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NICK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NICKNACK",
+            "score": 5,
+            "pangram": false
+        }
+    ]
+}

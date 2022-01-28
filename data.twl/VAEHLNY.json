@@ -1,0 +1,272 @@
+{
+    "letters": "VAEHLNY",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 111,
+    "word_count": 50,
+    "pangram_count": 1,
+    "pangram_list": [
+        "HEAVENLY"
+    ],
+    "word_list": [
+        {
+            "word": "AVELLAN",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "AVELLANE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "EAVE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ELEVEN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ENVY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EVEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EVENLY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HALAVAH",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HALVA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HALVAH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HALVE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HAVE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HAVEN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HEAVE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HEAVEN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HEAVENLY",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "HEAVY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HELVE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LAVA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LAVALAVA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LAVE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LEAVE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LEAVEN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LEAVY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LEVA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LEVEE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LEVEL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LEVELLY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "LEVY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NAVAL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NAVALLY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "NAVE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NAVEL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NAVVY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NAVY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NEVE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VALE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VALLEY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VALVAL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VALVE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VANE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VEAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VEALY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VEENA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VELA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VENA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VENAE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VENAL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VENALLY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "VENENE",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

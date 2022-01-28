@@ -1,0 +1,202 @@
+{
+    "letters": "BCIMNOU",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 85,
+    "word_count": 36,
+    "pangram_count": 1,
+    "pangram_list": [
+        "UMBONIC"
+    ],
+    "word_list": [
+        {
+            "word": "BIBB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BIMBO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BIONIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BIONOMIC",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BOBBIN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BOCCI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BOMB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BONBON",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BONOBO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BOOB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BOOBOO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BOOCOO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BOOM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BOUBOU",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BUBO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BUBONIC",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BUBU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BUNCO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BUNION",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BUNN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COBB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COMB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COMBO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COOMB",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CUBIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "INCUBI",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NIMBI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NIOBIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NIOBIUM",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "NUBBIN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NUMB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OBCONIC",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "UMBO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "UMBONIC",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "UNUNBIUM",
+            "score": 5,
+            "pangram": false
+        }
+    ]
+}

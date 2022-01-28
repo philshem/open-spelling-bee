@@ -1,0 +1,237 @@
+{
+    "letters": "UAFIQRS",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 102,
+    "word_count": 43,
+    "pangram_count": 1,
+    "pangram_list": [
+        "FAQUIRS"
+    ],
+    "word_list": [
+        {
+            "word": "AQUA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AQUARIA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "AQUAS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AURA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AURAR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AURAS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AURIS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FAQUIR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FAQUIRS",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "FURFUR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FURS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FUSARIA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FUSS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "QUAFF",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "QUAFFS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "QUAI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "QUAIS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "QUASAR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "QUASARS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "QUASI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "QUASS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "QUASSIA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "QUASSIAS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "QUIFF",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "QUIFFS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RISUS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RUFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RUFFS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SUFFARI",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "SUFFARIS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "SUQS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SURA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SURAS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SURF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SURFS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SURRA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SURRAS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SUSS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SUSURRUS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "URARI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "URARIS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "URSA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "URUS",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

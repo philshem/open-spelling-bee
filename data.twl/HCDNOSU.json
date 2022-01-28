@@ -1,0 +1,272 @@
+{
+    "letters": "HCDNOSU",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 119,
+    "word_count": 50,
+    "pangram_count": 1,
+    "pangram_list": [
+        "COONHOUNDS"
+    ],
+    "word_list": [
+        {
+            "word": "CHON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHOUSH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COHO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COHOS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COHOSH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CONCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CONCHO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CONCHOS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CONCHS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COOCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COONHOUND",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "COONHOUNDS",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "COSH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COUCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DUNCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HOCUS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HODS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HONCHO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HONCHOS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HONS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HOOCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HOOD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HOODOO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HOODOOS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HOODS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HOUND",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HOUNDS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HUNCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HUNH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HUNS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HUSH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NONSUCH",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "NOSH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OOHS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OUCH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SCHUSS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SCOOCH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SHOD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SHOO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SHOON",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SHOOS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SHUN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SHUNS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SHUSH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SONHOOD",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "SONHOODS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "SUCH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "UNHOOD",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "UNHOODS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "UNSHOD",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

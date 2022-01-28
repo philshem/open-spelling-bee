@@ -1,0 +1,207 @@
+{
+    "letters": "NABCHRY",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 96,
+    "word_count": 37,
+    "pangram_count": 1,
+    "pangram_list": [
+        "BRANCHY"
+    ],
+    "word_list": [
+        {
+            "word": "ANABRANCH",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ANARCH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ANARCHY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ANNA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ARCANA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BANANA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BANYAN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BARCHAN",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BARN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BARNY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BARRANCA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BRAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BRANCH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BRANCHY",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "BRANNY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CABANA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CANARY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CANCAN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CANCHA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CANNA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CANNY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CARBARN",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CARN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CARNY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHANCY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CHARABANC",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CRANCH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CRANNY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CYAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NAAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NANA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NANCY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NANNY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NARC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NARY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RANCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "YARN",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

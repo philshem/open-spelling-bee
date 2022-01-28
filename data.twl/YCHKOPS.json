@@ -1,0 +1,257 @@
+{
+    "letters": "YCHKOPS",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 118,
+    "word_count": 47,
+    "pangram_count": 1,
+    "pangram_list": [
+        "CHOPSOCKY"
+    ],
+    "word_list": [
+        {
+            "word": "CHOKY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHOOSY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CHOPPY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CHOPSOCKY",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "COCKSHY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "COCKY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COKY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COOKY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COPY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COSY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COYS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HOKYPOKY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "HOOKY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HOPPY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HOYS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HYPO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HYPOS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HYPS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HYSSOP",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HYSSOPS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "KOOKY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "POCKY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "POKY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POPPY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "POPPYCOCK",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "POPPYCOCKS",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "POPSY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "POSY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PSYCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PSYCHO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PSYCHOS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PSYCHS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PSYOPS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SKYHOOK",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "SKYHOOKS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "SKYPHOS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "SOPHY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SOPPY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SOYS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SPOOKY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SYPH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SYPHS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SYSOP",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SYSOPS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "YOCK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YOCKS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "YOKS",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

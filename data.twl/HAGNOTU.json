@@ -1,0 +1,247 @@
+{
+    "letters": "HAGNOTU",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 100,
+    "word_count": 45,
+    "pangram_count": 1,
+    "pangram_list": [
+        "HANGOUT"
+    ],
+    "word_list": [
+        {
+            "word": "AGHA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ATAGHAN",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "AUGHT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GHAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GHAUT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GOTH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HAHA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HANG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HANGOUT",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "HANGTAG",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HANT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HATH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HAUGH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HAUNT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HAUT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HOGAN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HOGG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HOGNUT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HONAN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HONG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HOOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HUNG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HUNH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HUNT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NAUGHT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NOUGHT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "OATH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OUGHT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OUTHUNT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "OUTTHOUGHT",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "TAUGHT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "THAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "THAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "THONG",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "THOU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "THOUGH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "THOUGHT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "THUG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOOTH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TOUGH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UNHANG",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "UNHAT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UNHUNG",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "UNTAUGHT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "UNTHOUGHT",
+            "score": 6,
+            "pangram": false
+        }
+    ]
+}

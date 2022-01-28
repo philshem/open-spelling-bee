@@ -1,0 +1,212 @@
+{
+    "letters": "HDGIMNS",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 105,
+    "word_count": 38,
+    "pangram_count": 1,
+    "pangram_list": [
+        "DIMINISHING"
+    ],
+    "word_list": [
+        {
+            "word": "DIMINISH",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DIMINISHING",
+            "score": 8,
+            "pangram": true
+        },
+        {
+            "word": "DISH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DISHING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GHIS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HIDING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HIDINGS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HIGH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HIGHS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HIMS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HIND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HINDS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HINGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HINS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HISN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HISS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HISSING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HISSINGS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MINISH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MINISHING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "NIGH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NIGHING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "NIGHS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SHIM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SHIMMING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "SHIMS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SHIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SHINDIG",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "SHINDIGS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "SHINING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "SHINNING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "SHINS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SIDH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SIGH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SIGHING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "SIGHS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SINH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SINHS",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

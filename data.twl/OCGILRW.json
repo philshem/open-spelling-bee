@@ -1,0 +1,267 @@
+{
+    "letters": "OCGILRW",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 99,
+    "word_count": 49,
+    "pangram_count": 1,
+    "pangram_list": [
+        "COWGIRL"
+    ],
+    "word_list": [
+        {
+            "word": "CLOG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COCCI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COCCIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COCO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COIL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COIR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COLIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COLOG",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COLOR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COOCOO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COOL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CORGI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COWGIRL",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "COWL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CRIOLLO",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CROC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CROCI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CROW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GIGOLO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GIRO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GLOGG",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GLOW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOGO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOLLIWOG",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GOLLIWOGG",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "GOOGOL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GROG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GROW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GROWL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "IGLOO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ILLOGIC",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "LILO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOCI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOCO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOGIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LOGO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOGOI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LOGROLL",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "LOLL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OLIO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OOLOGIC",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ORGIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RIGOR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ROCOCO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ROIL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROLL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WILCO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WILLOW",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WOOL",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

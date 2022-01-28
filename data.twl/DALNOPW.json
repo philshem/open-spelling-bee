@@ -1,0 +1,237 @@
+{
+    "letters": "DALNOPW",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 95,
+    "word_count": 43,
+    "pangram_count": 1,
+    "pangram_list": [
+        "PLOWLAND"
+    ],
+    "word_list": [
+        {
+            "word": "ADOWN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ALAND",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ALDOL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ALLOD",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ANODAL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "APOD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "APODAL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DADA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DADO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DALAPON",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DAWN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DODO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOLL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOLLOP",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DONA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DONNA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DOODAD",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DOODOO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DOOWOP",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DOPA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOWN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOWNLAND",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DOWNLOAD",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LALLAND",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "LAND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOAD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOWDOWN",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "LOWLAND",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "NADA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NODAL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ONLOAD",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PANADA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PANDA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PLOD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PLOWLAND",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "POND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POOD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WAND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WOAD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WOALD",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WOLD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WOOD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WOODLAND",
+            "score": 5,
+            "pangram": false
+        }
+    ]
+}

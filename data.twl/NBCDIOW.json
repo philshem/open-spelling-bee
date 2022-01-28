@@ -1,0 +1,257 @@
+{
+    "letters": "NBCDIOW",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 110,
+    "word_count": 47,
+    "pangram_count": 1,
+    "pangram_list": [
+        "COWBIND"
+    ],
+    "word_list": [
+        {
+            "word": "BIND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BINDI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BIONIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BOBBIN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BONBON",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BOND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BONOBO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CION",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COCOON",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CODON",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CONDO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CONI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CONIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CONIN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CONN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CONOID",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COWBIND",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "DINO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOBBIN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DOWN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOWNBOW",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DOWNWIND",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ICON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ICONIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "INDOW",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "INION",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "INWIND",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "IODIN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "IONIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NIDI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NINON",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NIOBIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NODI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NONIONIC",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "NOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OBCONIC",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ONION",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WIND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WINDOW",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WINNOW",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WINO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WOODBIN",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WOODBIND",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "WOODWIND",
+            "score": 5,
+            "pangram": false
+        }
+    ]
+}

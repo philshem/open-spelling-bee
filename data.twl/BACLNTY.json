@@ -1,0 +1,202 @@
+{
+    "letters": "BACLNTY",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 84,
+    "word_count": 36,
+    "pangram_count": 1,
+    "pangram_list": [
+        "BLATANCY"
+    ],
+    "word_list": [
+        {
+            "word": "ABACA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ABAYA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ABBA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ABBACY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ABLY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ALBA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ALBATA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ATABAL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BAAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BABA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BABY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BACCA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BALATA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BALL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BALLY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BANAL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BANALLY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BANANA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BANTY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BANYAN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BATT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BATTY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BLAB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BLABBY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BLAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BLATANCY",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "BLATANT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BLATANTLY",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CABAL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CABALA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CABANA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CABBALA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CABBY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TABBY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TABLA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "YABBY",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

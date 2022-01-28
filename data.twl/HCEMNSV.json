@@ -1,0 +1,202 @@
+{
+    "letters": "HCEMNSV",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 113,
+    "word_count": 36,
+    "pangram_count": 1,
+    "pangram_list": [
+        "VEHEMENCES"
+    ],
+    "word_list": [
+        {
+            "word": "CHEESE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CHEESES",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CHESS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHESSES",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CHESSMEN",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ECHE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ECHES",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ENMESH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ENMESHES",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "HEHS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HEME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HEMES",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HEMS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HENCE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HENCHMEN",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "HENS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MENSCH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MENSCHEN",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MENSCHES",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MENSH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MENSHEN",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MENSHES",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MESH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MESHES",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SCHEME",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SCHEMES",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "SHEEN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SHEENS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SHEESH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SHEEVE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SHEEVES",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "SHES",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SNEESH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SNEESHES",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "VEHEMENCE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "VEHEMENCES",
+            "score": 7,
+            "pangram": true
+        }
+    ]
+}

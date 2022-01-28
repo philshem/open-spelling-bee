@@ -1,0 +1,197 @@
+{
+    "letters": "ZADEFLR",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 87,
+    "word_count": 35,
+    "pangram_count": 1,
+    "pangram_list": [
+        "FRAZZLED"
+    ],
+    "word_list": [
+        {
+            "word": "ADZE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ADZED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AZALEA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DAZE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DAZED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DAZZLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DAZZLED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DAZZLER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FAZE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FAZED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FEAZE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FEAZED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FEEZE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FEEZED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FEZZED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FRAZZLE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FRAZZLED",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "FREEZE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FREEZER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "LAZAR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LAZE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LAZED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RAZE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RAZED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RAZEE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RAZEED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RAZER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RAZZ",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RAZZED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REFREEZE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ZAFFAR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ZAFFER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ZAFFRE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ZARF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ZEAL",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

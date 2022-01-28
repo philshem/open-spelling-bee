@@ -1,0 +1,272 @@
+{
+    "letters": "OABEGRX",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 102,
+    "word_count": 50,
+    "pangram_count": 1,
+    "pangram_list": [
+        "GEARBOX"
+    ],
+    "word_list": [
+        {
+            "word": "AERO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AEROBE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "AGGRO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AGOG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AGORA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AGORAE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ARAROBA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ARBOR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ARROBA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BABOO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BAOBAB",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BEGORRA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BOAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BOBBER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BOOB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BOOBOO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BOOGER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BOOR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BORA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BORAGE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BORAX",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BORE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BORER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BOXER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BROO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ERGO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ERROR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GABBRO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GEARBOX",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "GOBO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOGO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOOBER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GORE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GORGE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GORGER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GREGO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GROG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OBOE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OGEE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OGRE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ORRA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "REBORE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REGORGE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ROAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROARER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ROBBER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ROBE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROGER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "XEROX",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

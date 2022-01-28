@@ -1,0 +1,222 @@
+{
+    "letters": "HDEFRTU",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 100,
+    "word_count": 40,
+    "pangram_count": 1,
+    "pangram_list": [
+        "FURTHERED"
+    ],
+    "word_list": [
+        {
+            "word": "ETHER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FUEHRER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FUHRER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FURTHER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FURTHERED",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "FURTHERER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "HEDER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HEED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HEEDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HEEDER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HEFT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HEFTED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HEFTER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HERD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HERDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HERDER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HERE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HETH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HUED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HUFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HUFFED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HURT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HURTER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HUTTED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RUTH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TEETH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TEETHE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TEETHED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TEETHER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TETH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TETHER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TETHERED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "THEE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "THEFT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "THERE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "THREE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "THRU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "THUD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "THUDDED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TRUTH",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

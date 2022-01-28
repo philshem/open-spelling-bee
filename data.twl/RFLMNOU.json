@@ -1,0 +1,237 @@
+{
+    "letters": "RFLMNOU",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 97,
+    "word_count": 43,
+    "pangram_count": 1,
+    "pangram_list": [
+        "MOURNFUL"
+    ],
+    "word_list": [
+        {
+            "word": "FLOOR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FLOUR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FLUOR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FORLORN",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FORM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FORMFUL",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FORMOL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FORUM",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FOUR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FROM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FROUFROU",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FURFUR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FURL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FUROR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LORN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOUR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MONURON",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MOONROOF",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MOOR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MORN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MORON",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MORRO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MOURN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MOURNFUL",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "MURMUR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MURR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NORM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NURL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ORLON",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ORMOLU",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ROLF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROLL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROOF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROOM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROOMFUL",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RUFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RUMOR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RUMOUR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RUNOFF",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "UNFURL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "UNMOOR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "UNROLL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "UNROOF",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

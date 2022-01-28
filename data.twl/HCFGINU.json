@@ -1,0 +1,182 @@
+{
+    "letters": "HCFGINU",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 91,
+    "word_count": 32,
+    "pangram_count": 1,
+    "pangram_list": [
+        "CHUFFING"
+    ],
+    "word_list": [
+        {
+            "word": "CHIC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHICHI",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CHIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHINCH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CHINING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CHINNING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CHUFF",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHUFFING",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "CHUG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHUGGING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CINCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CINCHING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FICHU",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FINCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HIGH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HINGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HUFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HUFFING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HUGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HUIC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HUNCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HUNCHING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "HUNG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HUNH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "INCH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "INCHING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "NICHING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "NIGH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NIGHING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "UNCHIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "UNHINGING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "UNHUNG",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

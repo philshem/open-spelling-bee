@@ -1,0 +1,202 @@
+{
+    "letters": "GENOTUX",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 85,
+    "word_count": 36,
+    "pangram_count": 1,
+    "pangram_list": [
+        "OXTONGUE"
+    ],
+    "word_list": [
+        {
+            "word": "EGGNOG",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EXEGETE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "EXOGEN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GENE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GENET",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GENETTE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GENT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GENTOO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GENU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOGO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GONE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GONG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOTTEN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GOUGE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GOUT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GUENON",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GUNNEN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NEOGENE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "NOGG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NONEGO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NUGGET",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "OGEE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OUTGO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OUTGONE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "OUTGUN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "OXTONGUE",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "TEGG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TENGE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TOGUE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TONG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TONGUE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TUNG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "UNGOT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UNGOTTEN",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "UNGUENT",
+            "score": 4,
+            "pangram": false
+        }
+    ]
+}

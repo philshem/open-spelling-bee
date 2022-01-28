@@ -1,0 +1,267 @@
+{
+    "letters": "KAEGPRT",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 109,
+    "word_count": 49,
+    "pangram_count": 1,
+    "pangram_list": [
+        "GATEKEEPER"
+    ],
+    "word_list": [
+        {
+            "word": "AKEE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "APEAK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "APEEK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ARAK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GATEKEEPER",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "GEEK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GREEK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KAKA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KAPA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KAPPA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KARAT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KARATE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KART",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KATA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KEEK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KEEP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KEEPER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KEET",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KEGGER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KEPT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KRATER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KREEP",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PARAKEET",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PARK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PARKA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PARKER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PARKETTE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PARRAKEET",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PARTAKE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PARTAKER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PEAK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PEEK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PEKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PERK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RAKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RAKEE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RAKER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "REEK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "REEKER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REPARK",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REPERK",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RETAKE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RETAKER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TAKA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TAKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TAKER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TEAK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TREK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TREKKER",
+            "score": 4,
+            "pangram": false
+        }
+    ]
+}

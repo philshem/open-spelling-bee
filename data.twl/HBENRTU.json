@@ -1,0 +1,217 @@
+{
+    "letters": "HBENRTU",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 83,
+    "word_count": 39,
+    "pangram_count": 1,
+    "pangram_list": [
+        "BURTHEN"
+    ],
+    "word_list": [
+        {
+            "word": "BERTH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BETH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BHUT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BRETHREN",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BUHR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BURTHEN",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "ETHENE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ETHER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HEBE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HENT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HERB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HERE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HERN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HETH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HUBBUB",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HUNH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HUNT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HUNTER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HURT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HURTER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NETHER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RUTH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TEETH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TEETHE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TEETHER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TENTH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TETH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TETHER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "THEBE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "THEE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "THEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "THERE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "THREE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "THRU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TRUTH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TURBETH",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "UNHURT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "UNTETHER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "UNTRUTH",
+            "score": 4,
+            "pangram": false
+        }
+    ]
+}

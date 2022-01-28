@@ -1,0 +1,252 @@
+{
+    "letters": "PABCDEI",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 100,
+    "word_count": 46,
+    "pangram_count": 1,
+    "pangram_list": [
+        "PEDICAB"
+    ],
+    "word_list": [
+        {
+            "word": "ADIPIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "APACE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "APED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "APIECE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BECAP",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BECAPPED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BEEP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BEEPED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BICEP",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BIPED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CAPE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CAPED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CAPPED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CEPE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DAPPED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEEP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DIPPED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EPEE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EPIC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EPICEDIA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ICECAP",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ICECAPPED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "IPECAC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PACA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PACE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PACED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PADDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PADI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PAID",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PAPA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PAPPI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PEACE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PEACED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PEDICAB",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "PEED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PEEP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PEEPED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PEPPED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PICA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PICE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PIECE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PIECED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PIED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PIPE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PIPED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PIPPED",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

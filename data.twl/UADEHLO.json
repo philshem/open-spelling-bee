@@ -1,0 +1,272 @@
+{
+    "letters": "UADEHLO",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 116,
+    "word_count": 50,
+    "pangram_count": 1,
+    "pangram_list": [
+        "HULLOAED"
+    ],
+    "word_list": [
+        {
+            "word": "AHULL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ALLUDE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ALLUDED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ALOUD",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ALUDEL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ALULA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ALULAE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "AOUDAD",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "AUDAD",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AULD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DELUDE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DELUDED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DOULA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DUAD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUDE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUDED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DUEL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUELED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DUELLED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DUELLO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DULLED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ELUDE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ELUDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HAUL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HAULED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HOUDAH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HUDDLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HUDDLED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HUED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HULA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HULLED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HULLO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HULLOA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HULLOAED",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "HULLOED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HULLOO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HULLOOED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LAUD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LAUDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LEHUA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LEUD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOUD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LUAU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LUDE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LULLED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LULU",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

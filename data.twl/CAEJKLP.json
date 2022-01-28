@@ -1,0 +1,242 @@
+{
+    "letters": "CAEJKLP",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 86,
+    "word_count": 44,
+    "pangram_count": 1,
+    "pangram_list": [
+        "APPLEJACK"
+    ],
+    "word_list": [
+        {
+            "word": "ACKEE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ALACK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ALEC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ALPACA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "APACE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "APPLEJACK",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "CACA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CACKLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CAECA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CAECAL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CAKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CALK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CALL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CALLA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CALLEE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CALPAC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CALPACK",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CAPE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CECA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CECAL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CELLA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CELLAE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CEPE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CLACK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CLAP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CLEEK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CLEPE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "JACAL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "JACK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "JACKAL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KALPAC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KECK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KECKLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LACE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LACK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PACA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PACE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PACK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PALACE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PEACE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PECK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PLACE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PLACK",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

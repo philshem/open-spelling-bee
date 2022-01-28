@@ -1,0 +1,257 @@
+{
+    "letters": "LEGKNOW",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 80,
+    "word_count": 47,
+    "pangram_count": 1,
+    "pangram_list": [
+        "WEEKLONG"
+    ],
+    "word_list": [
+        {
+            "word": "ENOL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GELEE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GLEE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GLEEK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GLEG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GLEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GLOGG",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GLOW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOGGLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GOOGOL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KEEL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KENNEL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KLONG",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KNEEL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KNELL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KNOLL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KOEL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KOLO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LEEK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LEGONG",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LEKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LENO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LEONE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LOGE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOGO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOGON",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LOLL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LONE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LONG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LONGE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LOOK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOWE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOWN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NEWEL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NOEL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NOLO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NONWOOL",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "OGLE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OLEO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OOLONG",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WEEKLONG",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "WEEL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WOOL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WOOLEN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WOOLLEN",
+            "score": 4,
+            "pangram": false
+        }
+    ]
+}

@@ -1,0 +1,217 @@
+{
+    "letters": "YCEIOPT",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 87,
+    "word_count": 39,
+    "pangram_count": 1,
+    "pangram_list": [
+        "ECOTYPIC"
+    ],
+    "word_list": [
+        {
+            "word": "CECITY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CITY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COOEY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COPY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COTYPE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COYOTE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ECOTYPE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ECOTYPIC",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "ECTYPE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EYEPIECE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "OOCYTE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PEPPY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PETTY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PEYOTE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PIETY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PIPY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PITY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POPPY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "POTTY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PTOOEY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PYIC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TEPOY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TIPPY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TIPPYTOE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TITTY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TOPOTYPE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TOYO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TYEE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TYPE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TYPEY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TYPIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TYPO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TYPP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TYPY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YETI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YETT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YIPE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YIPPEE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "YIPPIE",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

@@ -1,0 +1,232 @@
+{
+    "letters": "FACDEMN",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 114,
+    "word_count": 42,
+    "pangram_count": 1,
+    "pangram_list": [
+        "DEFENCEMAN"
+    ],
+    "word_list": [
+        {
+            "word": "CAFE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CAFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DAFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DAFFED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEAF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DEAFEN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEAFENED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DECAF",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DEFACE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEFACED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DEFAME",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEFAMED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DEFENCE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DEFENCED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DEFENCEMAN",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "DEFENCEMEN",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "DEFEND",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEFENDED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "EFFACE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EFFACED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ENFACE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ENFACED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FACADE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FACE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FACED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FADE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FADED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FAENA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FAME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FAMED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FANE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FANNED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FEED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FEME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FEMME",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FENCE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FENCED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FEND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FENDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FENNEC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NAFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NAFFED",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

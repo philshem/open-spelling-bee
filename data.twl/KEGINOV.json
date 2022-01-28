@@ -1,0 +1,232 @@
+{
+    "letters": "KEGINOV",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 97,
+    "word_count": 42,
+    "pangram_count": 1,
+    "pangram_list": [
+        "EVOKING"
+    ],
+    "word_list": [
+        {
+            "word": "EIKON",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EKING",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ENOKI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EVOKE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EVOKING",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "GEEK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GINGKO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GINK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GINKGO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GOOK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "IKON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "INKING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "INVOKE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "INVOKING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "KEEK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KEEKING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "KEEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KEENING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "KEEVE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KEGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "KENNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "KENO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KIKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KINE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KING",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KINGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "KININ",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KINK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KINKING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "KINO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KNEE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KNEEING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "KOINE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KONK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KONKING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "KOOK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KOOKIE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NOOK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NOOKIE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "OINK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OINKING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "VIKING",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

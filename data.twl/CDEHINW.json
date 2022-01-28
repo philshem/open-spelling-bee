@@ -1,0 +1,262 @@
+{
+    "letters": "CDEHINW",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 114,
+    "word_count": 48,
+    "pangram_count": 1,
+    "pangram_list": [
+        "WINCHED"
+    ],
+    "word_list": [
+        {
+            "word": "CEDE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CEDED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CEDI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHEW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHEWED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CHIC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHICHI",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CHID",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHIDDEN",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CHIDE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHIDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CHIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHINCH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CHINE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHINED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CHINNED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CINCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CINCHED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CINE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DECIDE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DECIDED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DEICE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DEICED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEICIDE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DICE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DICED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ECHE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ECHED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ECHINI",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EDENIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HENCE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ICED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "INCH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "INCHED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "INCIDENCE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "NICE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NICHE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NICHED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NIECE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WENCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WENCHED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WHENCE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WHICH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WICH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WINCE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WINCED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WINCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WINCHED",
+            "score": 4,
+            "pangram": true
+        }
+    ]
+}

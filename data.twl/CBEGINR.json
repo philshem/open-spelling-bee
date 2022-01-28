@@ -1,0 +1,197 @@
+{
+    "letters": "CBEGINR",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 94,
+    "word_count": 35,
+    "pangram_count": 1,
+    "pangram_list": [
+        "BIGENERIC"
+    ],
+    "word_list": [
+        {
+            "word": "BICE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BIGENERIC",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "CERCI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CERE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CEREBRIC",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CERIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CERING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CINE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CINERIN",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CIRE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CIRRI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CRIB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CRIBBER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CRIBBING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CRIER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CRINGE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CRINGER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CRINGING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ECCRINE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "EIRENIC",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GENERIC",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GENIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ICEBERG",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ICIER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ICING",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "IRENIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NICE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NICER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NIECE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "REBEC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RECCE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RICE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RICER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RICIN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RICING",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

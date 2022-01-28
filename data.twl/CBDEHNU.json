@@ -1,0 +1,187 @@
+{
+    "letters": "CBDEHNU",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 82,
+    "word_count": 33,
+    "pangram_count": 1,
+    "pangram_list": [
+        "BUNCHED"
+    ],
+    "word_list": [
+        {
+            "word": "BEDUNCE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BEDUNCED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BEECH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BEECHEN",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BENCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BENCHED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BUNCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BUNCHED",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "CEDE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CEDED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHEBEC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CHUB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CUBE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CUBEB",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CUBED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CUED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DEDUCE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEDUCED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DEUCE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DEUCED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DUCE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUNCE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DUNCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ECHE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ECHED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EDUCE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EDUCED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EUNUCH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HENCE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HEUCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HUNCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HUNCHED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "UNCEDED",
+            "score": 4,
+            "pangram": false
+        }
+    ]
+}

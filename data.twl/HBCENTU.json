@@ -1,0 +1,227 @@
+{
+    "letters": "HBCENTU",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 81,
+    "word_count": 41,
+    "pangram_count": 1,
+    "pangram_list": [
+        "BEECHNUT"
+    ],
+    "word_list": [
+        {
+            "word": "BEECH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BEECHEN",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BEECHNUT",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "BENCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BETH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BHUT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BUNCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BUTCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHEBEC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CHETH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHUB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHUTE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHUTNEE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CUTCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ECHE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ECHT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ETCH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ETHENE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EUNUCH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HEBE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HENCE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HENT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HETH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HEUCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HUBBUB",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HUNCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HUNH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HUNT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HUTCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TECH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TEETH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TEETHE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TENCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TENTH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TETH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TEUCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "THEBE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "THEE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "THEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "THENCE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TUCHUN",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

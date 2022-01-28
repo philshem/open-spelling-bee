@@ -1,0 +1,202 @@
+{
+    "letters": "BCHIKSU",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 80,
+    "word_count": 36,
+    "pangram_count": 1,
+    "pangram_list": [
+        "BUCKISH"
+    ],
+    "word_list": [
+        {
+            "word": "BIBB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BIBBS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BIBS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BISK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BISKS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BUBS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BUBU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BUBUS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BUCK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BUCKISH",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "BUCKS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BUSH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BUSHBUCK",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BUSHBUCKS",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BUSK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BUSKS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BUSS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHUB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHUBS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CUBBISH",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CUBIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CUBICS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CUBS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HIBISCUS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "HUBBUB",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HUBBUBS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HUBS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "IBIS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KIBBI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KIBBIS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SIBB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SIBBS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SIBS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SUBS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SUCCUBI",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "SUCCUBUS",
+            "score": 5,
+            "pangram": false
+        }
+    ]
+}

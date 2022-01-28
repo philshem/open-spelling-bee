@@ -1,0 +1,247 @@
+{
+    "letters": "UDEGNPX",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 120,
+    "word_count": 45,
+    "pangram_count": 1,
+    "pangram_list": [
+        "EXPUNGED"
+    ],
+    "word_list": [
+        {
+            "word": "DENGUE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DENUDE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DENUDED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DUDE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUDED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DUDEEN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DUENDE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DUNE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUNG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUNGED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DUNNED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DUPE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUPED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DUPPED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ENDUE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ENDUED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EXPUNGE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "EXPUNGED",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "EXUDE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EXUDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GENU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GUDE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GUNNED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GUNNEN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NUDE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NUDGE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NUDGED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PUGGED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PUNG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PUNNED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PUPPED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PUPU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "UNDE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "UNDEE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UNDUE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UNENDED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "UNEXPENDED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "UNNEEDED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "UNPEG",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UNPEGGED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "UNPEN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UNPENNED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "UPEND",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UPENDED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "UPPED",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

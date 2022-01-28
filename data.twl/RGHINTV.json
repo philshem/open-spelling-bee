@@ -1,0 +1,177 @@
+{
+    "letters": "RGHINTV",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 94,
+    "word_count": 31,
+    "pangram_count": 1,
+    "pangram_list": [
+        "THRIVING"
+    ],
+    "word_list": [
+        {
+            "word": "GIRN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GIRNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GIRT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GIRTH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GIRTHING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GIRTING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GRIG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GRIGRI",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GRIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GRINNING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GRIT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GRITH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GRITTING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "HIRING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "IRING",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RIGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RIGHT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RIGHTING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RING",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RINGGIT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RINGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RINNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RIVING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "THIR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "THRIVING",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "TIRING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TRIG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TRIGGING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TRINING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TRITHING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "VIRGIN",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

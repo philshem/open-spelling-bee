@@ -1,0 +1,267 @@
+{
+    "letters": "YACHLRT",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 108,
+    "word_count": 49,
+    "pangram_count": 1,
+    "pangram_list": [
+        "CATARRHALLY"
+    ],
+    "word_list": [
+        {
+            "word": "ACHY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ACYL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ALARY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ALLAY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ALLY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ALLYL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ARCHLY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ARRAY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ARRAYAL",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ARTY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ARYL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ATALAYA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "AYAH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CARRY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CARRYALL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CATARRHALLY",
+            "score": 8,
+            "pangram": true
+        },
+        {
+            "word": "CATCHY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CATTY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHALLY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CHARRY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CHARY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHATTY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CHAY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CLARY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CLAY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HARRY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HYLA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LACTARY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "LACY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LATHY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LYART",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LYCH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LYCRA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LYTTA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RACY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RALLY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RATTLY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RATTY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RAYA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RAYAH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RHYTA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TALLY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TARRY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TARTLY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TARTY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TATTY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "THATCHY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TRAY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YACHT",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

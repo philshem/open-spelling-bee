@@ -1,0 +1,217 @@
+{
+    "letters": "EACITUX",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 87,
+    "word_count": 39,
+    "pangram_count": 1,
+    "pangram_list": [
+        "AUXETIC"
+    ],
+    "word_list": [
+        {
+            "word": "ACETA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ACETATE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ACETIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ACTUATE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ACUATE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ACUTE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AECIA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AUXETIC",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "AXITE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CAECA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CATE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CATTIE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CECA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CETE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CITE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CUTE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CUTIE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EAUX",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ECTATIC",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ETIC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ETUI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EUTECTIC",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "EXACT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EXACTA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EXCITE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EXEC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EXECUTE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "EXIT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TACE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TACET",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TATE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TATTIE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TAXITE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TEAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TECTA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TECTITE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TEXT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TITTIE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TUTEE",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

@@ -1,0 +1,187 @@
+{
+    "letters": "UBGHIMN",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 105,
+    "word_count": 33,
+    "pangram_count": 1,
+    "pangram_list": [
+        "HUMBUGGING"
+    ],
+    "word_list": [
+        {
+            "word": "BUBU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BUGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BUMMING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BUNG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BUNGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BUNN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GUMMING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GUNNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HUBBUB",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HUGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HUMBUG",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HUMBUGGING",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "HUMMING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HUNG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HUNH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "IMBUING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "INHUMING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MINIMUM",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MINIUM",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MUGG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MUGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MUMM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MUMMING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MUMU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MUNI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MUUMUU",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NUBBIN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NUMB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NUMBING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "UNHINGING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "UNHUNG",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "UNUNBIUM",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "UNUNUNIUM",
+            "score": 6,
+            "pangram": false
+        }
+    ]
+}

@@ -1,0 +1,197 @@
+{
+    "letters": "WEFIOPR",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 80,
+    "word_count": 35,
+    "pangram_count": 1,
+    "pangram_list": [
+        "FIREPOWER"
+    ],
+    "word_list": [
+        {
+            "word": "EWER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FEWER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FIREPOWER",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "FROW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PEEWEE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PEWEE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "POWER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "POWWOW",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PREWIRE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PROW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PROWER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REPOWER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "REWIRE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REWORE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ROWER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WEEP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WEEPER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WEEPIE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WEEPIER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WEER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WEEWEE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WEIR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WERE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WIFE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WIPE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WIPER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WIRE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WIRER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WIRIER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WOOER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WOOF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WOOFER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WORE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WORRIER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WRIER",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

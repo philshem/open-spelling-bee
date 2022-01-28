@@ -1,0 +1,177 @@
+{
+    "letters": "HRUECQD",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 90,
+    "word_count": 31,
+    "pangram_count": 1,
+    "pangram_list": [
+        "CHEQUERED"
+    ],
+    "word_list": [
+        {
+            "word": "CHEDER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CHEER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHEERED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CHEERER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CHEQUE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CHEQUER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CHEQUERED",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "CHUDDER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CHURCH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CHURCHED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CHURR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHURRED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CRECHE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CURCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ECHE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ECHED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EUCHRE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EUCHRED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HEDER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HEED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HEEDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HEEDER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HERD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HERDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HERDER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HERE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HEUCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HUED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RECHERCHE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "RUCHE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RUCHED",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

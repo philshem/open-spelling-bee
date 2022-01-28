@@ -1,0 +1,257 @@
+{
+    "letters": "HCDEOPU",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 106,
+    "word_count": 47,
+    "pangram_count": 1,
+    "pangram_list": [
+        "POUCHED"
+    ],
+    "word_list": [
+        {
+            "word": "CHEEP",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHEEPED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CHOP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHOPPED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "COHO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COOCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COUCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COUCHED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DOUCHE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DOUCHED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ECHE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ECHED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ECHO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ECHOED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EPHOD",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EPOCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HEED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HEEDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HEUCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HOED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HOOCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HOOD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HOODED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HOODOO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HOODOOED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "HOOP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HOOPED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HOOPOE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HOOPOO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HOPE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HOPED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HOPPED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HUED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OHED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OOHED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OUCH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OUCHED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "OUPH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OUPHE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PECH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PECHED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "POOCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "POOCHED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "POOH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POOHED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "POUCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "POUCHED",
+            "score": 4,
+            "pangram": true
+        }
+    ]
+}

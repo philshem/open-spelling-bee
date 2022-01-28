@@ -1,0 +1,212 @@
+{
+    "letters": "LCEHNTY",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 86,
+    "word_count": 38,
+    "pangram_count": 1,
+    "pangram_list": [
+        "ENTELECHY"
+    ],
+    "word_list": [
+        {
+            "word": "CELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CELT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHYLE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CLENCH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CYCLE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ECHELLE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "EELY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ELECT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ELECTEE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ENTELECHY",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "ETHYL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ETHYLENE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ETHYNYL",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "EYELET",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HEEL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HENLEY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LECH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LEECH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LEET",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LENT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LENTEN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LETCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LETHE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LYCEE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LYCH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LYCHEE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LYNCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NELLY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NETTLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NETTLY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TEEL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TELE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TELLY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TELNET",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TENTHLY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "YELL",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

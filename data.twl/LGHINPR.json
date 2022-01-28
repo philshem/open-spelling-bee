@@ -1,0 +1,197 @@
+{
+    "letters": "LGHINPR",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 101,
+    "word_count": 35,
+    "pangram_count": 1,
+    "pangram_list": [
+        "HIRPLING"
+    ],
+    "word_list": [
+        {
+            "word": "GIGGLING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GILLING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GINGILI",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GINGILLI",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GIRL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GRILL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GRILLING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "HIGGLING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "HILI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HILLING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HIRPLING",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "LIGNIN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LING",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LININ",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LINING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LINN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LIPIN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LIPPING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "LIRI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NIGGLING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "NIHIL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NILLING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PILI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PILING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PILLING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PRILL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PRILLING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RILING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RILLING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RIPPLING",
+            "score": 5,
+            "pangram": false
+        }
+    ]
+}

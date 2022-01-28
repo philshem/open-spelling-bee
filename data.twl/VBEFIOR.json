@@ -1,0 +1,222 @@
+{
+    "letters": "VBEFIOR",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 109,
+    "word_count": 40,
+    "pangram_count": 1,
+    "pangram_list": [
+        "OVERBRIEF"
+    ],
+    "word_list": [
+        {
+            "word": "BEVOR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BREVE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BREVIER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "EVER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FERVOR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FEVER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FIVE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FIVER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FOREVER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "OVER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OVERBORE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "OVERBRIEF",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "OVERFREE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "OVERRIFE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "REEVE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "REIVE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "REIVER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REVERB",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REVERE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REVERER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "REVERIE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "REVIVE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REVIVER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RIEVER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RIVE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RIVER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RIVIERE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ROVE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROVER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VEER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VERB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VERIER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VERIFIER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "VERVE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VIBE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VIBRIO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VIER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VIREO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VIVE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VIVIFIER",
+            "score": 5,
+            "pangram": false
+        }
+    ]
+}

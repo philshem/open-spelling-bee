@@ -1,0 +1,207 @@
+{
+    "letters": "KEIJLRY",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 83,
+    "word_count": 37,
+    "pangram_count": 1,
+    "pangram_list": [
+        "JERKILY"
+    ],
+    "word_list": [
+        {
+            "word": "EELLIKE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "EYELIKE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "JELLYLIKE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "JERK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "JERKER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "JERKIER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "JERKILY",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "JERKY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KEEK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KEEL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KEIR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KELLY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KERRY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KIER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KIKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KILLER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KILLIE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KIRK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KLIK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KRILL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KYRIE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LEEK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LEKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LIKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LIKELIER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LIKELY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LIKER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LILYLIKE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "REEK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "REEKER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REEKIER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "REEKY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "REKEY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RYKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YELK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YERK",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

@@ -1,0 +1,247 @@
+{
+    "letters": "WABDLRS",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 89,
+    "word_count": 45,
+    "pangram_count": 1,
+    "pangram_list": [
+        "BRADAWLS"
+    ],
+    "word_list": [
+        {
+            "word": "AWARD",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AWARDS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "AWLS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BAWD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BAWDS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BAWL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BAWLS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BLAW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BLAWS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BRADAWL",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BRADAWLS",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "BRAW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BRAWL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BRAWLS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BRAWS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DAWS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DRAW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DRAWBAR",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DRAWBARS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DRAWL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DRAWLS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DRAWS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LAWS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RAWS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SAWS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SLAW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SLAWS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SWAB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SWABS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SWARD",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SWARDS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WABS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WADS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WALL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WALLA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WALLAS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WALLS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WARD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WARDS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WARS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WARSAW",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WARSAWS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WAWL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WAWLS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WAWS",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

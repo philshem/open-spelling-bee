@@ -1,0 +1,217 @@
+{
+    "letters": "LBCDEHN",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 95,
+    "word_count": 39,
+    "pangram_count": 1,
+    "pangram_list": [
+        "BLENCHED"
+    ],
+    "word_list": [
+        {
+            "word": "BEDEL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BEDELL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BEHELD",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BELCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BELCHED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BELLE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BELLED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BLEB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BLED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BLEED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BLENCH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BLENCHED",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "BLEND",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BLENDE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BLENDED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CELEB",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CELLED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CLENCH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CLENCHED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DELE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DELED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ECHELLE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HEDDLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HEEL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HEELED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HELD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HELLED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LEBEN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LECH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LECHED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LEECH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LEECHED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "LEND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NEEDLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NEEDLED",
+            "score": 4,
+            "pangram": false
+        }
+    ]
+}

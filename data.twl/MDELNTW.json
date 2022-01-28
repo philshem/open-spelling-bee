@@ -1,0 +1,207 @@
+{
+    "letters": "MDELNTW",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 91,
+    "word_count": 37,
+    "pangram_count": 1,
+    "pangram_list": [
+        "WELDMENT"
+    ],
+    "word_list": [
+        {
+            "word": "DEEM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DEEMED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DEMENT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEMENTED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ELEMENT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "EMEND",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EMENDED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "EMMET",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MEDDLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MEDDLED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MEED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MEET",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MELD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MELDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MELEE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MELLED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MELT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MELTED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MEME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MEND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MENDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MENTEE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "METE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "METED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "METTLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "METTLED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MEWED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MEWL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MEWLED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NEEM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TEEM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TEEMED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TELEMEN",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TENEMENT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "WELDMENT",
+            "score": 5,
+            "pangram": true
+        }
+    ]
+}

@@ -1,0 +1,222 @@
+{
+    "letters": "UCFLORY",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 81,
+    "word_count": 40,
+    "pangram_count": 1,
+    "pangram_list": [
+        "COLORFULLY"
+    ],
+    "word_list": [
+        {
+            "word": "CLOUR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COLORFUL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "COLORFULLY",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "COLOUR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CRUOR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CUFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CULLY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CURF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CURL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CURLY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CURR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CURRY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FLOUR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FLOURY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FLUFF",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FLUFFY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FLUOR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FLURRY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FOUL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FOULLY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FOUR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FROUFROU",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FULLY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FURFUR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FURL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FUROR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FURRY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FURY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOUR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOURY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LUFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LULU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OCCUR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RUFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RUFFLY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RULY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YOUR",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

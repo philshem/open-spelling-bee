@@ -1,0 +1,207 @@
+{
+    "letters": "CDEFHMO",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 81,
+    "word_count": 37,
+    "pangram_count": 1,
+    "pangram_list": [
+        "CHEFDOM"
+    ],
+    "word_list": [
+        {
+            "word": "CEDE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CEDED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHEF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHEFDOM",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "CHEFED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CHEFFED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CHEMO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COCO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CODDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CODE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CODEC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CODED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COFFEE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COHO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COMEDO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COMMODE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "COOCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COOCOO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COOED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COOEE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COOEED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COOF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DECO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DECODE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DECODED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ECHE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ECHED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ECHO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ECHOED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EMCEE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EMCEED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HOOCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MOOCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MOOCHED",
+            "score": 4,
+            "pangram": false
+        }
+    ]
+}

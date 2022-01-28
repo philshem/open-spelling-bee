@@ -1,0 +1,192 @@
+{
+    "letters": "FGINORV",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 105,
+    "word_count": 34,
+    "pangram_count": 1,
+    "pangram_list": [
+        "FORGIVING"
+    ],
+    "word_list": [
+        {
+            "word": "FIFING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FIGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FINING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FINNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FINO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FIRING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FIRN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FOGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FOIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FOINING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FORGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FORGIVING",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "FORGO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FORGOING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FRIG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FRIGGING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FRINGING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FROG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FROGGING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GONIF",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GONIFF",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GONOF",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GOOF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOOFING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GRIFF",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GRIFFIN",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GRIFFON",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "INFO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "INFRINGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "OFFING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RIFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RIFFING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ROOF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROOFING",
+            "score": 4,
+            "pangram": false
+        }
+    ]
+}

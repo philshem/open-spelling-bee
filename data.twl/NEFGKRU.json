@@ -1,0 +1,212 @@
+{
+    "letters": "NEFGKRU",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 86,
+    "word_count": 38,
+    "pangram_count": 1,
+    "pangram_list": [
+        "FENUGREEK"
+    ],
+    "word_list": [
+        {
+            "word": "ENUF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ENURE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ERNE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FENUGREEK",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "FERN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FUNK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FUNKER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FUNNER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GENE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GENRE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GENU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GERENUK",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GREEN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GREENER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GRUNGE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GRUNGER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GUNK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GUNNEN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GUNNER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GUNRUNNER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "KEEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KEENER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KERN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KERNE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KNEE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KNUR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KUNE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NENE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NEUK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NUKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "REGREEN",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RENEGE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RENEGER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RERUN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RUNE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RUNG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RUNNER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "UNFREE",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

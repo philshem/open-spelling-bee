@@ -1,0 +1,202 @@
+{
+    "letters": "MHKORSW",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 83,
+    "word_count": 36,
+    "pangram_count": 1,
+    "pangram_list": [
+        "HOOKWORMS"
+    ],
+    "word_list": [
+        {
+            "word": "HOMMOS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HOMO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HOMOS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HOOKWORM",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "HOOKWORMS",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "MHOS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOMS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOOR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOORS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MOOS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MORRO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MORROS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MORROW",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MORROWS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MORS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOSH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOSK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOSKS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MOSS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOSSO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MOWS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OHMS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROMS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROOM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROOMS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SHMO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SHOWROOM",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "SHOWROOMS",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "SMOOSH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SOMS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WHOM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WHOMSO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WORKROOM",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "WORKROOMS",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "WORM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WORMS",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

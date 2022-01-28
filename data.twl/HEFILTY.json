@@ -1,0 +1,207 @@
+{
+    "letters": "HEFILTY",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 83,
+    "word_count": 37,
+    "pangram_count": 1,
+    "pangram_list": [
+        "HEFTILY"
+    ],
+    "word_list": [
+        {
+            "word": "ELHI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ETHYL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EYETEETH",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FIFTH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FIFTHLY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FIFTIETH",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FILTH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FILTHILY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FILTHY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HEEL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HEFT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HEFTILY",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "HEFTY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HEIL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HELILIFT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "HELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HETH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HILI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HILLY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HILT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HYTE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LETHE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LITHE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LITHELY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "LITHIFY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TEETH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TEETHE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TETH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "THEE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "THEFT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "THEY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "THIEF",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "THILL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TILTH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TITHE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TYTHE",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

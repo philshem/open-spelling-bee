@@ -1,0 +1,217 @@
+{
+    "letters": "YACEJNR",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 87,
+    "word_count": 39,
+    "pangram_count": 1,
+    "pangram_list": [
+        "JERRYCAN"
+    ],
+    "word_list": [
+        {
+            "word": "AERY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ARRAY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ARRAYER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CANARY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CANNERY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CANNY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CARNEY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CARNY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CARRY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CAYENNE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CRANNY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CYAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EERY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ERRANCY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "EYEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EYER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EYNE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EYRA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EYRE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EYRY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "JENNY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "JERRY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "JERRYCAN",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "NANCY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NANNY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NARY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RACY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RAYA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RECARRY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RECENCY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RECREANCY",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "YARE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YARER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "YARN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YARNER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "YEAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YEAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YEARN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "YEARNER",
+            "score": 4,
+            "pangram": false
+        }
+    ]
+}

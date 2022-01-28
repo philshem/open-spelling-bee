@@ -1,0 +1,217 @@
+{
+    "letters": "HNOITFE",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 101,
+    "word_count": 39,
+    "pangram_count": 1,
+    "pangram_list": [
+        "FENTHION"
+    ],
+    "word_list": [
+        {
+            "word": "ETHENE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ETHION",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ETHIONINE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "FENTHION",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "FIFTEENTH",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "FIFTH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FIFTIETH",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FOEHN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FOHN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HEFT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HEINIE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HENT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HETH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HINT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HONE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HOOF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HOOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HOTFOOT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HOTTIE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NINETEENTH",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "NINETIETH",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "NINTH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TEETH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TEETHE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TENTH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TETH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "THEE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "THEFT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "THEIN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "THEINE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "THEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "THIEF",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "THIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "THINE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "THIO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "THIONIN",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "THIONINE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TITHE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TOOTH",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

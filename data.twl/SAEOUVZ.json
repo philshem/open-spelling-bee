@@ -1,0 +1,262 @@
+{
+    "letters": "SAEOUVZ",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 85,
+    "word_count": 48,
+    "pangram_count": 1,
+    "pangram_list": [
+        "ZOUAVES"
+    ],
+    "word_list": [
+        {
+            "word": "ASEA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ASSES",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ASSESS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ASSESSES",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "AVES",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AVOS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EASE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EASES",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EAVES",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ESES",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ESSES",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EVES",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OASES",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OAVES",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OOZES",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OSES",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OSSA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OSSEOUS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "OUZOS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SASS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SASSES",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SAVE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SAVES",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SEAS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SEES",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SOAVE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SOAVES",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SOUS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SOUSE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SOUSES",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SUAVE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SUES",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SUSS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SUSSES",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "USES",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "UVEAS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UVEOUS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VASA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VASE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VASES",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VAUS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VAVS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VEES",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VOES",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ZEES",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ZOEAS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ZOOS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ZOUAVES",
+            "score": 4,
+            "pangram": true
+        }
+    ]
+}

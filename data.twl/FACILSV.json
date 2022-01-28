@@ -1,0 +1,257 @@
+{
+    "letters": "FACILSV",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 117,
+    "word_count": 47,
+    "pangram_count": 1,
+    "pangram_list": [
+        "SALVIFIC"
+    ],
+    "word_list": [
+        {
+            "word": "ALFA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ALFALFA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ALFALFAS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ALFAS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ALIF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ALIFS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CAFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CAFFS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CALCIFIC",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CALF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CALFS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CALIF",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CALIFS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CLIFF",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CLIFFS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FACIA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FACIAL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FACIALS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FACIAS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FAIL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FAILS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FALL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FALLAL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FALLALS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FALLS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FASCIA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FASCIAL",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FASCIAS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FAVA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FAVAS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FILA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FILIAL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FILLS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FILS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FISC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FISCAL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FISCALS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FISCS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FLAIL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FLAILS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FLIC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FLICS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SALVIFIC",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "SCLAFF",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SCLAFFS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "VIVIFIC",
+            "score": 4,
+            "pangram": false
+        }
+    ]
+}

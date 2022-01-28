@@ -1,0 +1,237 @@
+{
+    "letters": "ICHLNUY",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 97,
+    "word_count": 43,
+    "pangram_count": 1,
+    "pangram_list": [
+        "UNCHICLY"
+    ],
+    "word_list": [
+        {
+            "word": "CHIC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHICHI",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CHICLY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CHILI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHILL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHILLI",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CHILLILY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CHILLY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CHIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHINCH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CHINCHY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CINCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CLINCH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CLINIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CYCLIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CYCLICLY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CYCLIN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CYNIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HILI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HILLY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HINNY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HUIC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ICILY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ILLY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "INCH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "INLY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "INULIN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LICH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LICHI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LILY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LININ",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LINN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LINY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NIHIL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NINNY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UNCHIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "UNCHICLY",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "UNCI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "UNCINI",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "UNCLINCH",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "YILL",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

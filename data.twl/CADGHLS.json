@@ -1,0 +1,237 @@
+{
+    "letters": "CADGHLS",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 103,
+    "word_count": 43,
+    "pangram_count": 1,
+    "pangram_list": [
+        "CLADDAGHS"
+    ],
+    "word_list": [
+        {
+            "word": "CACA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CACAS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CADS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CALASH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CALL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CALLA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CALLAS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CALLS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CASA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CASAS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CASH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHAD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHADS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHALAH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CHALAHS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CHALLA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CHALLAH",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CHALLAHS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CHALLAS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CLACH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CLACHS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CLAD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CLADDAGH",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CLADDAGHS",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "CLADS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CLAG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CLAGS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CLASH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CLASS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DACHA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DACHAS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HALACHA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HALACHAS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LACS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SACS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SCAD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SCADS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SCAG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SCAGS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SCALD",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SCALDS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SCALL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SCALLS",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

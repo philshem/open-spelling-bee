@@ -1,0 +1,262 @@
+{
+    "letters": "CEHIKNP",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 115,
+    "word_count": 48,
+    "pangram_count": 1,
+    "pangram_list": [
+        "PINCHECK"
+    ],
+    "word_list": [
+        {
+            "word": "CEPE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHECK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHEEK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHEEP",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHIC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHICHI",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CHICK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHICKEE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CHICKEN",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CHIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHINCH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CHINE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHINK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHIP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHIPPIE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CINCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CINE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ECHE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ECHINI",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EPIC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EPICENE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HECK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HENCE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HENPECK",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HICK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HICKIE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "INCH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "INCIPIENCE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "KECK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KENCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KICK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KINNIKINNICK",
+            "score": 9,
+            "pangram": false
+        },
+        {
+            "word": "KNEEPIECE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "NECK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NECKPIECE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "NICE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NICHE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NICK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NIECE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PECH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PECK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PENCE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PICE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PICK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PICNIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PIECE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PINCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PINCHECK",
+            "score": 5,
+            "pangram": true
+        }
+    ]
+}

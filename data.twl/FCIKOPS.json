@@ -1,0 +1,187 @@
+{
+    "letters": "FCIKOPS",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 81,
+    "word_count": 33,
+    "pangram_count": 1,
+    "pangram_list": [
+        "PICKOFFS"
+    ],
+    "word_list": [
+        {
+            "word": "COFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COFFS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COIF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COIFS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COOF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COOFS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COOKOFF",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "COOKOFFS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FICO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FISC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FISCS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FOCI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FOPS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FOSS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FOSSICK",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FOSSICKS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "KICKOFF",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "KICKOFFS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "KIFS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OFFS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OSSIFIC",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PICKOFF",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PICKOFFS",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "POOF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POOFS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SCOFF",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SCOFFS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SKIFF",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SKIFFS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SPIFF",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SPIFFS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SPOOF",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SPOOFS",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

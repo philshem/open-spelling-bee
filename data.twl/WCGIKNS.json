@@ -1,0 +1,197 @@
+{
+    "letters": "WCGIKNS",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 101,
+    "word_count": 35,
+    "pangram_count": 1,
+    "pangram_list": [
+        "WICKINGS"
+    ],
+    "word_list": [
+        {
+            "word": "IWIS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KIWI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KIWIS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SWIG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SWIGGING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "SWIGS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SWING",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SWINGING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "SWINGINGS",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "SWINGS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SWINK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SWINKING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "SWINKS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SWISS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WICK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WICKING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WICKINGS",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "WICKS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WIGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WIGGINGS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "WIGS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WINCING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WING",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WINGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WINGS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WINING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WINK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WINKING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WINKS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WINNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WINNINGS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "WINS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WISING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WISS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WISSING",
+            "score": 4,
+            "pangram": false
+        }
+    ]
+}

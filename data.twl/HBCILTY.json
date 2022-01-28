@@ -1,0 +1,182 @@
+{
+    "letters": "HBCILTY",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 81,
+    "word_count": 32,
+    "pangram_count": 1,
+    "pangram_list": [
+        "BITCHILY"
+    ],
+    "word_list": [
+        {
+            "word": "BITCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BITCHILY",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "BITCHY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CHIC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHICHI",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CHICLY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CHILI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHILL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHILLI",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CHILLILY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CHILLY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CHIT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHITTY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HILI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HILLBILLY",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "HILLY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HILT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HITCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ICHTHYIC",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ITCH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ITCHILY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ITCHY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LICH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LICHI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LICHT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LICHTLY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "LITCHI",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LITHIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LYCH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "THILL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TILTH",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

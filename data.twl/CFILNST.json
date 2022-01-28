@@ -1,0 +1,172 @@
+{
+    "letters": "CFILNST",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 84,
+    "word_count": 30,
+    "pangram_count": 1,
+    "pangram_list": [
+        "INFLICTS"
+    ],
+    "word_list": [
+        {
+            "word": "CIST",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CISTS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CLIFF",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CLIFFS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CLIFT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CLIFTS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CLINIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CLINICS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CLITIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CLITICS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FICIN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FICINS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FISC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FISCS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FISTIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FLIC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FLICS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ICTIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ILLICIT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ILLITIC",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "INFLICT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "INFLICTS",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "INSTINCT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "INSTINCTS",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "LICIT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SICS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SILICIC",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TICS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TINCT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TINCTS",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

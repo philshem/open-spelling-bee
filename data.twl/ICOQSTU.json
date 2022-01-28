@@ -1,0 +1,242 @@
+{
+    "letters": "ICOQSTU",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 107,
+    "word_count": 44,
+    "pangram_count": 1,
+    "pangram_list": [
+        "COQUITOS"
+    ],
+    "word_list": [
+        {
+            "word": "CISCO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CISCOS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CIST",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CISTS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CISTUS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COCCI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COCCIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COITUS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COQUITO",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "COQUITOS",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "CUTIS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ICTIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ICTUS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OSTOSIS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "OTIC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OTITIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "OTITIS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "OUISTITI",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "OUISTITIS",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "OUTSIT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "OUTSITS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "QUIT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "QUITS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "QUOIT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "QUOITS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SICS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SITS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SITUS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "STOIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "STOICS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SUIT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SUITS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TICS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TICTOC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TICTOCS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TITI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TITIS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TITS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOIT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOITS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TUIS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TUSSIS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TUTTI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TUTTIS",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

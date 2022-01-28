@@ -1,0 +1,257 @@
+{
+    "letters": "DAHINRT",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 105,
+    "word_count": 47,
+    "pangram_count": 1,
+    "pangram_list": [
+        "THIRDHAND"
+    ],
+    "word_list": [
+        {
+            "word": "ADIT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ANDANTINI",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ANTIRADAR",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ARID",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DADA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DARN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DART",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DATA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DHARNA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DINAR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DINT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DIRT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DITA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DRAIN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DRAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HADITH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HAND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HARD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HARDHAT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HARRIDAN",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "HIND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "INDRI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "IRID",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "IRRADIANT",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "NADA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NADIR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NAIAD",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NANDIN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NANDINA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "NARD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NIDI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NITID",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NITRID",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RADAR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RADIAN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RADIANT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RADII",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RAID",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RAND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RANDAN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RANID",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RIND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RITARD",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "THIRD",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "THIRDHAND",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "TRAD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TRIAD",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

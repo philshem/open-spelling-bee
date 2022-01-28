@@ -1,0 +1,192 @@
+{
+    "letters": "NHLMOPY",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 97,
+    "word_count": 34,
+    "pangram_count": 1,
+    "pangram_list": [
+        "MONOPHYLY"
+    ],
+    "word_list": [
+        {
+            "word": "HOMONYM",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HOMONYMY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "HOMOPHONY",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "HYMN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HYPONYM",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HYPONYMY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "HYPOPYON",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOONY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MONO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MONOPHONY",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MONOPHYLY",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "MONOPOLY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MONY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOONY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NOLO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NONYL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NYLON",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NYMPH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NYMPHO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ONLY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PHON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PHONO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PHONON",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PHONY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PHYLON",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "POLYONYMY",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "POLYPHONY",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "POMPON",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PONY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PYLON",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

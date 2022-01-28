@@ -1,0 +1,197 @@
+{
+    "letters": "BAGMNQS",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 83,
+    "word_count": 35,
+    "pangram_count": 1,
+    "pangram_list": [
+        "MBAQANGAS"
+    ],
+    "word_list": [
+        {
+            "word": "ABAS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ABBA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ABBAS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ANABAS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BAAS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BABA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BABAS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BAGASS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BAGMAN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BAGS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BAMS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BANANA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BANANAS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BANG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BANGS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BANNS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BANS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BASS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GABS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GAMB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GAMBA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GAMBAS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GAMBS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GANGBANG",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GANGBANGS",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "GASBAG",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GASBAGS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MAMBA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MAMBAS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MBAQANGA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MBAQANGAS",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "NABS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SABS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SAMBA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SAMBAS",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

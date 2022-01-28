@@ -1,0 +1,182 @@
+{
+    "letters": "UALORVY",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 85,
+    "word_count": 32,
+    "pangram_count": 1,
+    "pangram_list": [
+        "OVULARY"
+    ],
+    "word_list": [
+        {
+            "word": "ALULA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ALULAR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "AURA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AURAL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AURALLY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "AURAR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AURORA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "AURORAL",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "AURORALLY",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "LAURA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LOUR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOURY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LUAU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LULU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OVULAR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "OVULARY",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "RULY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RURAL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RURALLY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ULVA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "UVULA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UVULAR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "UVULARLY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "VALOUR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VALVULA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "VALVULAR",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "VOUVRAY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "VULVA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VULVAL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VULVAR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "YOUR",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

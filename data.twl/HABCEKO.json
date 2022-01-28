@@ -1,0 +1,272 @@
+{
+    "letters": "HABCEKO",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 114,
+    "word_count": 50,
+    "pangram_count": 1,
+    "pangram_list": [
+        "BACKHOE"
+    ],
+    "word_list": [
+        {
+            "word": "ACHE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ACHOO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AHCHOO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BACH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BACKACHE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BACKCHECK",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BACKHOE",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "BEACH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BEECH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BOBECHE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BOCHE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BOHEA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BOHO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BOOHOO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CACHE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHACHKA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CHAO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHEBEC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CHECHAKO",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CHECK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHECKBOOK",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CHEECHAKO",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CHEEK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHOCK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHOKE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHOOK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COACH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COHO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COOCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EACH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ECHE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ECHO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HABOOB",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HACEK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HACK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HACKEE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HAHA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HAKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HEBE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HECK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HOBO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HOCK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HOECAKE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HOKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HOOCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HOOK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HOOKA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HOOKAH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "OBEAH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OKEH",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

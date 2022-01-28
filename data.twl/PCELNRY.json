@@ -1,0 +1,267 @@
+{
+    "letters": "PCELNRY",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 110,
+    "word_count": 49,
+    "pangram_count": 1,
+    "pangram_list": [
+        "REPELLENCY"
+    ],
+    "word_list": [
+        {
+            "word": "CEPE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CLEPE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CREEP",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CREEPER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CREEPY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CREPE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CREPEY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CREPY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EPEE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LEPER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NEEP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PEEL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PEELER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PEEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PEEP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PEEPER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PEER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PEERY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PELE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PENCE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PENCEL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PENNE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PENNER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PENNY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PEPPER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PEPPERER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PEPPERY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PEPPY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PERE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PERP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PERRY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PLYER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PREE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PREEN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PREENER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PREP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PREPPY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PREY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PREYER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PRYER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PYRE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PYRENE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REPEL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "REPELLENCY",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "REPELLER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "REPLY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "REPP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YELP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YELPER",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

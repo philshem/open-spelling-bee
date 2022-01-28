@@ -1,0 +1,262 @@
+{
+    "letters": "TACIPVY",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 114,
+    "word_count": 48,
+    "pangram_count": 1,
+    "pangram_list": [
+        "CAPTIVITY"
+    ],
+    "word_list": [
+        {
+            "word": "ACTA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ACTIVITY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ATACTIC",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ATAP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ATAVIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ATTIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ATYPIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "AVIATIC",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CACTI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CAPACITY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CAPITA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CAPTIVITY",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "CATTY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CAVITY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CITY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ICTIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PACT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PATACA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PATTY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PATY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PICCATA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PIPIT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PITA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PITAPAT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PITAYA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PITTA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PITY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TACIT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TACT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TACTIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TAPA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TATTY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TICTAC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TIPCAT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TIPI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TIPPY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TITI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TITTY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TIVY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TYPIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TYPP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TYPY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VATIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VIATIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VIATICA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "VITA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VITTA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VIVACITY",
+            "score": 5,
+            "pangram": false
+        }
+    ]
+}

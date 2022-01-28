@@ -1,0 +1,272 @@
+{
+    "letters": "GACIMOR",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 101,
+    "word_count": 50,
+    "pangram_count": 1,
+    "pangram_list": [
+        "MICROGRAM"
+    ],
+    "word_list": [
+        {
+            "word": "AGAMA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AGAMIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "AGAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AGARIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "AGGRO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AGIO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AGMA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AGOG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AGORA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AGRIA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AMIGA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AMIGO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CARGO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CIGAR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CORGI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CRAG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GAGA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GAMA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GAMIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GAMMA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GIGA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GIRO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOGO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GORM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GRAM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GRAMA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GRAMMA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GRAMMAR",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GRIG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GRIGRI",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GRIM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GROG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GROGRAM",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GROOM",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "IMAGO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MAGI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MAGIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MAGMA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MAMMOGRAM",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MARGARIC",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MICROGRAM",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "MIGG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OGAM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ORGIAC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ORGIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ORIGAMI",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RAGA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RAGG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RAGI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RIGOR",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

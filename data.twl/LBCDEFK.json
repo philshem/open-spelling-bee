@@ -1,0 +1,227 @@
+{
+    "letters": "LBCDEFK",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 95,
+    "word_count": 41,
+    "pangram_count": 1,
+    "pangram_list": [
+        "BEFLECKED"
+    ],
+    "word_list": [
+        {
+            "word": "BEDEL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BEDELL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BEFELL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BEFLECK",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BEFLECKED",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "BELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BELLE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BELLED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BELLEEK",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BLEB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BLED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BLEED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CELEB",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CELLED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CLEEK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CLEEKED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CLEF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DECKEL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DECKLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DELE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DELED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DELF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FEEBLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FEEL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FELLED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FLECK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FLECKED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FLED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FLEE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FLEECE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FLEECED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "KECKLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KECKLED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "KEEL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KEELED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LEEK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LEKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LEKKED",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

@@ -1,0 +1,237 @@
+{
+    "letters": "IACEHTY",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 113,
+    "word_count": 43,
+    "pangram_count": 1,
+    "pangram_list": [
+        "HAECCEITY"
+    ],
+    "word_list": [
+        {
+            "word": "ACACIA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ACETIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "AECIA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AITCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ATACTIC",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ATTIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CACHECTIC",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CACTI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CATHECTIC",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CATTIE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CECITY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CHAI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHIA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHIC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHICA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHICHI",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CHIT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHITCHAT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CHITTY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CITE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CITY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ECTATIC",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ETHIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ETIC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HAECCEITY",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "HECTIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HITCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ICHTHYIC",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ICTIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ITCH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ITCHY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TACIT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TACTIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TATTIE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TECHIE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TECTITE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "THETIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TICTAC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TITHE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TITI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TITTIE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TITTY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "YETI",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

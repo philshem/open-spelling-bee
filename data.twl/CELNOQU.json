@@ -1,0 +1,217 @@
+{
+    "letters": "CELNOQU",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 93,
+    "word_count": 39,
+    "pangram_count": 1,
+    "pangram_list": [
+        "ELOQUENCE"
+    ],
+    "word_list": [
+        {
+            "word": "CELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CELLO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CELLULE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CLON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CLONE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CLOQUE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CLUE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COCO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COCOON",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COLE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COLLEEN",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "COLON",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COLONE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COLONEL",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CONE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CONN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COOCOO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COOEE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COOL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COULEE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ELOQUENCE",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "ENOUNCE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "EOCENE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LOCO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOCULE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LUCE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LUCENCE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "NEOCON",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NONCE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NUCLEOLE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "NUCLEON",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "NUNCLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ONCE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OUNCE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UNCLE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UNCO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "UNCOOL",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

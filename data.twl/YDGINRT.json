@@ -1,0 +1,202 @@
+{
+    "letters": "YDGINRT",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 91,
+    "word_count": 36,
+    "pangram_count": 1,
+    "pangram_list": [
+        "DIRTYING"
+    ],
+    "word_list": [
+        {
+            "word": "DIDY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DIGNITY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DINGY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DIRTY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DIRTYING",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "DITTY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DRYING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DYING",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GIDDY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GIDDYING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GINNY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GRITTY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GYRI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GYRING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "INDIGNITY",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "NINNY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NITTY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RIDGY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RIGIDITY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RINDY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RYND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TIDY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TIDYING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TINNY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TINY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TITTY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TRINITY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TRYING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TYIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TYING",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TYIYN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TYNING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TYRING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "YIRD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YIRR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YIRRING",
+            "score": 4,
+            "pangram": false
+        }
+    ]
+}

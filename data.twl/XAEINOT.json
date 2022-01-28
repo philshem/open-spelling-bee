@@ -1,0 +1,197 @@
+{
+    "letters": "XAEINOT",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 92,
+    "word_count": 35,
+    "pangram_count": 1,
+    "pangram_list": [
+        "ANNEXATION"
+    ],
+    "word_list": [
+        {
+            "word": "ANATOXIN",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ANNEX",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ANNEXATION",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "ANNEXE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ANOXIA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ANTITAX",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ANTITOXIN",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ATAXIA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "AXION",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AXITE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AXON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AXONE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EXINE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EXIT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EXON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EXOTOXIN",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "EXTANT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EXTENT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "IXIA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NEXT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NIXE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NIXIE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NONEXTANT",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "NONTAX",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "OXEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TAXA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TAXATION",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TAXI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TAXITE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TAXON",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TEXT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOXIN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TOXINE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "XENIA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "XENON",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

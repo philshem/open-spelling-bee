@@ -1,0 +1,197 @@
+{
+    "letters": "IBCRTUY",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 87,
+    "word_count": 35,
+    "pangram_count": 1,
+    "pangram_list": [
+        "BUTYRIC"
+    ],
+    "word_list": [
+        {
+            "word": "BIBB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BIRR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BITT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BITTY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BRIT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BRITT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BRUIT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BUTYRIC",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "CIRCUIT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CIRCUITRY",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CIRCUITY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CIRRI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CITRIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CITY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CRIB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CRIT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CRITIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CRITTUR",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CUBIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CUBICITY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CUBIT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CUBITI",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CUCURBIT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ICTIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "IRITIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RIBBY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RUBRIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TITBIT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TITI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TITTY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TURBIT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TUTTI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "URIC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YIRR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YTTRIC",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

@@ -1,0 +1,217 @@
+{
+    "letters": "NCEGIXY",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 93,
+    "word_count": 39,
+    "pangram_count": 1,
+    "pangram_list": [
+        "EXIGENCY"
+    ],
+    "word_list": [
+        {
+            "word": "CINE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CYNIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EGGING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ENGINE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ENGINING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "EXIGENCE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "EXIGENCY",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "EXINE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EXING",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EYEING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EYEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EYING",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EYNE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GEEING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GENE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GENIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GENIE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GENII",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GIEING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GIEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GIGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GINNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GINNY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GYNECIC",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ICING",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "IGGING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "INNING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NENE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NICE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NIECE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NINE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NINNY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NIXE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NIXIE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NIXING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NIXY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "XENIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "YENNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "YINCE",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

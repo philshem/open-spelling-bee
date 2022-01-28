@@ -1,0 +1,192 @@
+{
+    "letters": "LCENPRY",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 84,
+    "word_count": 34,
+    "pangram_count": 1,
+    "pangram_list": [
+        "REPELLENCY"
+    ],
+    "word_list": [
+        {
+            "word": "CELERY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CLEPE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CREEL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CRENEL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CRENELLE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CYCLE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CYCLER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CYCLERY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "EELY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LEER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LEERY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LEPER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LYCEE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LYRE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NELLY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PEEL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PEELER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PELE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PENCEL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PLYER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RECYCLE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RECYCLER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "REEL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "REELER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RELY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "REPEL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "REPELLENCY",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "REPELLER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "REPLY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "YELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YELLER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "YELP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YELPER",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

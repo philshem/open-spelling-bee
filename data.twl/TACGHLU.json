@@ -1,0 +1,237 @@
+{
+    "letters": "TACGHLU",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 89,
+    "word_count": 43,
+    "pangram_count": 1,
+    "pangram_list": [
+        "CLAUGHT"
+    ],
+    "word_list": [
+        {
+            "word": "ACTA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ACTUAL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ATLATL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ATTACH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "AUGHT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CATCALL",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CATCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CATCHALL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CATGUT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CAUGHT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CHAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CLAUCHT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CLAUGHT",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "CLUTCH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CULT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CULTCH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CUTCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GAULT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GHAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GHAUT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GLUT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GUTTA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HALT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HATCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HATH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HAUT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HUTCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LATCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LATH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LATU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TACH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TACT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TACTUAL",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TALA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TALC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TALL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TAUGHT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TAUT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TAUTAUG",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "THAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "THATCH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "THUG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TUTU",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

@@ -1,0 +1,207 @@
+{
+    "letters": "IEFGLUY",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 89,
+    "word_count": 37,
+    "pangram_count": 1,
+    "pangram_list": [
+        "GUILEFULLY"
+    ],
+    "word_list": [
+        {
+            "word": "EFFIGY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FIEF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FIFE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FILE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FILLE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FILLY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FLUFFILY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FUGGILY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FULFIL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FULFILL",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GIGGLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GIGGLY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GIGUE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GILLIE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GILLY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GLIFF",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GLUILY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GUILE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GUILEFUL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GUILEFULLY",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "IFFY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "IGLU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ILLY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LIEF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LIEFLY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LIEGE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LIEU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LIFE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LIFEFUL",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "LIGULE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LILY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LUGGIE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "UGLIFY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "UGLILY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "YILL",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

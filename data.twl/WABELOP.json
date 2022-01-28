@@ -1,0 +1,237 @@
+{
+    "letters": "WABELOP",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 90,
+    "word_count": 43,
+    "pangram_count": 1,
+    "pangram_list": [
+        "PLOWABLE"
+    ],
+    "word_list": [
+        {
+            "word": "ALLOW",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ALLOWABLE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ALOW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AWEE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AWOL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BAWBEE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BAWL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BELLOW",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BELOW",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BEWEEP",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BLAW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BLEW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BLOW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BLOWBALL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BOWEL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BOWL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BOWWOW",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ELBOW",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LOWBALL",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "LOWE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PAPAW",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PAWL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PAWPAW",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PEEWEE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PEWEE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PLEW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PLOW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PLOWABLE",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "POWWOW",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WABBLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WALE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WALL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WALLA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WALLOP",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WALLOW",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WAWL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WEAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WEEL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WEEP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WEEWEE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WOBBLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WOOL",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

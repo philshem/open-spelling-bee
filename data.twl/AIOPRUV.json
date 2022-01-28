@@ -1,0 +1,222 @@
+{
+    "letters": "AIOPRUV",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 87,
+    "word_count": 40,
+    "pangram_count": 1,
+    "pangram_list": [
+        "PAVIOUR"
+    ],
+    "word_list": [
+        {
+            "word": "APORIA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ARIA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ARVO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AURA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AURAR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AURORA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ORRA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OURARI",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "OVIPARA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PAIR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PAPA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PAPPI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PARA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PARR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PARURA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PARVO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PAVIOR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PAVIOUR",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "POPPA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PRAO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PRAU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PRIAPI",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PROA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PROPRIA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PUPA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PUPARIA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PURPURA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RAIA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RIPRAP",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ROAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "UPROAR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "URARI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VAIR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VAPOR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VAPOUR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VARA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VARIA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VIVA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VIVARIA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "VIVIPARA",
+            "score": 5,
+            "pangram": false
+        }
+    ]
+}

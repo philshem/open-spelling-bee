@@ -1,0 +1,237 @@
+{
+    "letters": "UAGNOQS",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 85,
+    "word_count": 43,
+    "pangram_count": 1,
+    "pangram_list": [
+        "QUANGOS"
+    ],
+    "word_list": [
+        {
+            "word": "ANUS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AQUA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AQUAS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GAUN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GAUSS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GNUS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GUAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GUANO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GUANOS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GUANS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GUNS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NOUN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NOUNS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NOUS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NUNS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ONUS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OQUASSA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "OQUASSAS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "QUAG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "QUAGGA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "QUAGGAS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "QUAGS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "QUANGO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "QUANGOS",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "QUASS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SAUNA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SAUNAS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SNUG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SNUGS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SOUS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SUNG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SUNN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SUNNA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SUNNAS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SUNNS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SUNS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SUQS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SUSS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "UNAU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "UNAUS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UNSNAG",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "UNSNAGS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "UNSUNG",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

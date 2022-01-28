@@ -1,0 +1,222 @@
+{
+    "letters": "NBCEHTU",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 81,
+    "word_count": 40,
+    "pangram_count": 1,
+    "pangram_list": [
+        "BEECHNUT"
+    ],
+    "word_list": [
+        {
+            "word": "BEECHEN",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BEECHNUT",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "BEEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BENCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BENE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BENNE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BENNET",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BENT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BUNCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BUNN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BUNT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BUTENE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CENT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CENTU",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHUTNEE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CUNT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ENTENTE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ETHENE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EUNUCH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HENCE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HENT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HUNCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HUNH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HUNT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NENE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NETT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TEEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TENCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TENET",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TENT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TENTH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "THEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "THENCE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TUCHUN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TUNE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "UNBE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "UNBENT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "UNCUT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UNCUTE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "UNTUNE",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

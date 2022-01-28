@@ -1,0 +1,257 @@
+{
+    "letters": "TAFGLNR",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 113,
+    "word_count": 47,
+    "pangram_count": 1,
+    "pangram_list": [
+        "FLAGRANT"
+    ],
+    "word_list": [
+        {
+            "word": "ALANT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ALTAR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ANTA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ANTRA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ANTRAL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ARRANT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ARTAL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ATLATL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ATTAR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FART",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FATAL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FLAGRANT",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "FLAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FRAGRANT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FRAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GALLANT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GNAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GRAFT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GRANT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GRAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LANTANA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "NATAL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NATANT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RAFT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RAGTAG",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RANT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RATAL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RATAN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RATATAT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RATTAN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TAGGANT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TAGRAG",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TALA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TALAR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TALL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TANG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TANGA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TANTARA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TANTRA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TARLATAN",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TARN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TARNAL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TART",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TARTAN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TARTANA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TARTAR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TATAR",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

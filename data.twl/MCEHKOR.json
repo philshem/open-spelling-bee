@@ -1,0 +1,272 @@
+{
+    "letters": "MCEHKOR",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 116,
+    "word_count": 50,
+    "pangram_count": 1,
+    "pangram_list": [
+        "CHECKROOM"
+    ],
+    "word_list": [
+        {
+            "word": "CHECKROOM",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "CHEMO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHROME",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CHROMO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CHROMOMERE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "COME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COMER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COMMERCE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CORM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CREME",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EMCEE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EMEER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EMMER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HEME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HEMMER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HERM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HOME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HOMECOMER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "HOMER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HOMEROOM",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "HOMMOCK",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HOMO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MEEK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MEEKER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MEME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MEMO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MERC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MERCER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MERCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MERE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MERER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MERK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOCK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOCKER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MOKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOOCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MOOCHER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MOOR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOORCOCK",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MORE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOROCCO",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MORRO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OMER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ORMER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "REHEM",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RHEME",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ROMEO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ROOM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROOMER",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

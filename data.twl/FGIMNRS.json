@@ -1,0 +1,217 @@
+{
+    "letters": "FGIMNRS",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 118,
+    "word_count": 39,
+    "pangram_count": 1,
+    "pangram_list": [
+        "MISFIRING"
+    ],
+    "word_list": [
+        {
+            "word": "FIFING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FIGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FIGS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FINING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FININGS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FINIS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FINNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FINS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FIRING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FIRINGS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FIRM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FIRMING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FIRMS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FIRN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FIRNS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FIRS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FRIG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FRIGGING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FRIGS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FRINGING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GRIFF",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GRIFFIN",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GRIFFINS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GRIFFS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "INFIRM",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "INFIRMING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "INFIRMS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "INFRINGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "MIFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MIFFING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MIFFS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MISFIRING",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "RIFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RIFFING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RIFFS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RIFS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SNIFF",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SNIFFING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "SNIFFS",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

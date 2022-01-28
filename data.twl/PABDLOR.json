@@ -1,0 +1,272 @@
+{
+    "letters": "PABDLOR",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 105,
+    "word_count": 50,
+    "pangram_count": 1,
+    "pangram_list": [
+        "LAPBOARD"
+    ],
+    "word_list": [
+        {
+            "word": "APOD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "APODAL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "APOLLO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "APPAL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "APPALL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BLOOP",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DOLLOP",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DOPA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DORP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DROOP",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DROP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LAPBOARD",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "LOLLOP",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LOOP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OPAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ORLOP",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PALABRA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PALAPA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PALL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PALLOR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PALP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PALPAL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PAPA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PAPAL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PARA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PARABOLA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PARADOR",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PARADROP",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PARD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PARLOR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PAROL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PARR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PARRAL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PLOD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PLOP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POLAR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "POLL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POLLARD",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "POLO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POOD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POOL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POOP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POOR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POPLAR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "POPPA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PRAO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PROA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PROD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PROLABOR",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PROP",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

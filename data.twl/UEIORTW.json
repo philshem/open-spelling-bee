@@ -1,0 +1,232 @@
+{
+    "letters": "UEIORTW",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 118,
+    "word_count": 42,
+    "pangram_count": 1,
+    "pangram_list": [
+        "OUTWRITE"
+    ],
+    "word_list": [
+        {
+            "word": "ETUI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EURO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OURIE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OUTER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OUTRE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OUTROOT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "OUTROW",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "OUTTOWER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "OUTTROT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "OUTWIT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "OUTWORE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "OUTWRIT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "OUTWRITE",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "OUTWROTE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "REROUTE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "REUTTER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ROTURIER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ROUE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROUT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROUTE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ROUTER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RUER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RUTTIER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TORTURE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TORTURER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TOUR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOURER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TOUT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOUTER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TROUT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TROUTIER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TRUE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TRUER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TURRET",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TUTEE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TUTOR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TUTTI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TUTU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "URETER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "UTERI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UTTER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UTTERER",
+            "score": 4,
+            "pangram": false
+        }
+    ]
+}

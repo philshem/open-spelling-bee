@@ -1,0 +1,262 @@
+{
+    "letters": "GACEHNT",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 112,
+    "word_count": 48,
+    "pangram_count": 1,
+    "pangram_list": [
+        "CHANTAGE"
+    ],
+    "word_list": [
+        {
+            "word": "AGATE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AGEE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AGENE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AGENT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AGHA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AGNATE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ANGA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ATAGHAN",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CAGE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHANG",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHANGE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CHANTAGE",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "ENCAGE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ENGAGE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GAEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GAGA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GAGE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GANACHE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GANE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GANG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GANNET",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GATE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GENE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GENET",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GENETTE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GENT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GETA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GHAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GHEE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GNAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HANG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HANGTAG",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HENGE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NAGANA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NEGATE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TAGGANT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TANG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TANGA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TANGENCE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TANGENT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TANNAGE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TEENAGE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TEGG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TENGE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TENTAGE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "THANAGE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "THEGN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "THENAGE",
+            "score": 4,
+            "pangram": false
+        }
+    ]
+}

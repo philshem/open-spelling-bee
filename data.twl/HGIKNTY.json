@@ -1,0 +1,187 @@
+{
+    "letters": "HGIKNTY",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 101,
+    "word_count": 33,
+    "pangram_count": 1,
+    "pangram_list": [
+        "KYTHING"
+    ],
+    "word_list": [
+        {
+            "word": "HIGH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HIGHT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HIGHTH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HIGHTING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "HIKING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HINGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HINKY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HINNY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HINNYING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "HINT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HINTING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HITTING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HYING",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KITH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KITHING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "KNIGHT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KNIGHTING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "KYTHING",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "NIGH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NIGHING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "NIGHT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NIGHTY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NINTH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "THIGH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "THIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "THING",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "THINK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "THINKING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "THINNING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TIGHT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TIGHTKNIT",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TITHING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TYTHING",
+            "score": 4,
+            "pangram": false
+        }
+    ]
+}

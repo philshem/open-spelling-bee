@@ -1,0 +1,227 @@
+{
+    "letters": "MEHSLGP",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 95,
+    "word_count": 41,
+    "pangram_count": 1,
+    "pangram_list": [
+        "PHLEGMS"
+    ],
+    "word_list": [
+        {
+            "word": "ELMS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EMES",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EMESES",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GEMS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HELM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HELMLESS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "HELMS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HEME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HEMES",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HEMP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HEMPS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HEMS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MEGS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MELEE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MELEES",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MELLS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MELS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MEME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MEMES",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MEMS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MESEEMS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MESH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MESHES",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MESS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MESSES",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PELLMELL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PELLMELLS",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PHELLEM",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PHELLEMS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PHLEGM",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PHLEGMS",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "SEEM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SEEMS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SEME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SEMEME",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SEMEMES",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "SEMES",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SEMPLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SMELL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SMELLS",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

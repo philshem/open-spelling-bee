@@ -1,0 +1,187 @@
+{
+    "letters": "GHILRTY",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 82,
+    "word_count": 33,
+    "pangram_count": 1,
+    "pangram_list": [
+        "RIGHTLY"
+    ],
+    "word_list": [
+        {
+            "word": "GHYLL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GIGGLY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GILLY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GILT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GIRL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GIRLY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GIRT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GIRTH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GRIG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GRIGRI",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GRILL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GRIT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GRITH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GRITTILY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GRITTY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GYRI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HIGH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HIGHLIGHT",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "HIGHLY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HIGHT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HIGHTH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LIGHT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LIGHTLY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "LIGHTTIGHT",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "RIGHT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RIGHTLY",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "RIGHTY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "THIGH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TIGHT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TIGHTLY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TRIG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TRIGLY",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

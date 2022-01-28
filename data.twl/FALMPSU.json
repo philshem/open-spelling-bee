@@ -1,0 +1,227 @@
+{
+    "letters": "FPUALMS",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 101,
+    "word_count": 41,
+    "pangram_count": 1,
+    "pangram_list": [
+        "PALMFULS"
+    ],
+    "word_list": [
+        {
+            "word": "ALFA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ALFALFA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ALFALFAS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ALFAS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FALL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FALLAL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FALLALS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FALLS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FAMULUS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FLAM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FLAMS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FLAP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FLAPS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FLUFF",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FLUFFS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FLUMP",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FLUMPS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FLUS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FULLAM",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FULLAMS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FULLS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FUMULUS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FUSS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FUSUMA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LAPFUL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LAPFULS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "LUFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LUFFA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LUFFAS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LUFFS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MUFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MUFFS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PALMFUL",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PALMFULS",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "PUFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PUFFS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SLUFF",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SLUFFS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SULFA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SULFAS",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

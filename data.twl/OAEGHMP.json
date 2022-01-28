@@ -1,0 +1,237 @@
+{
+    "letters": "OAEGHMP",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 83,
+    "word_count": 43,
+    "pangram_count": 1,
+    "pangram_list": [
+        "HOMEPAGE"
+    ],
+    "word_list": [
+        {
+            "word": "AGOG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AMMO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "APAGOGE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "APOGEE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EPOPEE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GOGO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOOP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HEMAGOG",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HOGG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HOMAGE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HOME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HOMEPAGE",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "HOMO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HOOP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HOOPOE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HOOPOO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HOPE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MAHOE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MEGOHM",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MEMO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOMMA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MOPE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OGAM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OGEE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OGHAM",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OHMAGE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "OMEGA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OOMPAH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "OOMPH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OPAH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PAHOEHOE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PEPO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POEM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POMMEE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "POMO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POMP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POMPOM",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "POOH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POOP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POPE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POPPA",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

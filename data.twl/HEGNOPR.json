@@ -1,0 +1,227 @@
+{
+    "letters": "HEGNOPR",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 104,
+    "word_count": 41,
+    "pangram_count": 1,
+    "pangram_list": [
+        "GONOPHORE"
+    ],
+    "word_list": [
+        {
+            "word": "EPHOR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GEOPHONE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GHEE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GONOPH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GONOPHORE",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "GOPHER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GORHEN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GREENHORN",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "HENGE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HEPPER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HERE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HEREON",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HERN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HERO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HERON",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HOER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HOGG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HOGGER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HONE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HONER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HONG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HONOR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HONOREE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HONORER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HOOP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HOOPER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HOOPOE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HOOPOO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HOPE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HOPER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HOPPER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HORN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HORROR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NEPHRON",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "NONHERO",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PHON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PHONE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PHONO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PHONON",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "POOH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PRONGHORN",
+            "score": 6,
+            "pangram": false
+        }
+    ]
+}

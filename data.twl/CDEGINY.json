@@ -1,0 +1,172 @@
+{
+    "letters": "CDEGINY",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 88,
+    "word_count": 30,
+    "pangram_count": 1,
+    "pangram_list": [
+        "INDIGENCY"
+    ],
+    "word_list": [
+        {
+            "word": "CEDE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CEDED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CEDI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CEDING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CINE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CYNIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DECENCY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DECIDE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DECIDED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DECIDING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DEICE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DEICED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEICIDE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DEICING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DICE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DICED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DICEY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DICING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EDENIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GENIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GYNECIC",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ICED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ICING",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "INCIDENCE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "INDECENCY",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "INDIGENCE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "INDIGENCY",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "NICE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NIECE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "YINCE",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

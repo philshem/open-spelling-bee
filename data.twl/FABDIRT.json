@@ -1,0 +1,232 @@
+{
+    "letters": "FABDIRT",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 88,
+    "word_count": 42,
+    "pangram_count": 1,
+    "pangram_list": [
+        "FATBIRD"
+    ],
+    "word_list": [
+        {
+            "word": "ABAFT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ABFARAD",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ADRIFT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "AFAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AFFAIR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "AFRAID",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "AFRIT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BAFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BARF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BIFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BIFID",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DAFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DAFT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DIFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DRAFF",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DRAFT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DRIFT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FAIR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FARAD",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FARD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FART",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FATBIRD",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "FIAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FIAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FRAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FRIAR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FRIARBIRD",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "FRIT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FRITT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FRITTATA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RAFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RAFFIA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RAFT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RATAFIA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RIFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RIFFRAFF",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RIFT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TAFFIA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TAFIA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TARIFF",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TIFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TRIFID",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

@@ -1,0 +1,272 @@
+{
+    "letters": "UACDLNO",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 105,
+    "word_count": 50,
+    "pangram_count": 1,
+    "pangram_list": [
+        "CLOUDLAND"
+    ],
+    "word_list": [
+        {
+            "word": "ACAUDAL",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ADNOUN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ADUNC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ALOUD",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ALULA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ANNUAL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ANNUL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AOUDAD",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "AUDAD",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AULD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CANNULA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CANULA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CAUDAD",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CAUDAL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CAUL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CAULD",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CLOUD",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CLOUDLAND",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "COULD",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOULA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DUAD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUCAL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LACUNA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LACUNAL",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "LANDAU",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LAUAN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LAUD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOUD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LUAU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LULU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LUNA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LUNULA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NOUN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NOUNAL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "UDON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ULAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ULNA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ULNAD",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UNAU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "UNCLAD",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "UNCLOUD",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "UNCO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "UNCOOL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "UNDO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "UNLOAD",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

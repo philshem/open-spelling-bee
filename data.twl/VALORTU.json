@@ -1,0 +1,187 @@
+{
+    "letters": "VALORTU",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 81,
+    "word_count": 33,
+    "pangram_count": 1,
+    "pangram_list": [
+        "VALUATOR"
+    ],
+    "word_list": [
+        {
+            "word": "ARVAL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ARVO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AVATAR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LARVA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LARVAL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LAVA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LAVALAVA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LOVAT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OTTAVA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "OVAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OVOLO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OVULAR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ULVA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "UVULA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UVULAR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VALOR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VALOUR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VALUATOR",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "VALUTA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VALVAL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VALVAR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VALVULA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "VALVULAR",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "VARA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VATU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VAULT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VOLAR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VOLT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VOLTA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VOLVA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VULVA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VULVAL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VULVAR",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

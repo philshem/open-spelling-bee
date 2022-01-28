@@ -1,0 +1,212 @@
+{
+    "letters": "UACNOTY",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 97,
+    "word_count": 38,
+    "pangram_count": 1,
+    "pangram_list": [
+        "ACCOUNTANCY"
+    ],
+    "word_list": [
+        {
+            "word": "ACCOUNT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ACCOUNTANCY",
+            "score": 8,
+            "pangram": true
+        },
+        {
+            "word": "ACCOUNTANT",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "AUNT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AUNTY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AUTO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COCOANUT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "COCONUT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "COUNT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COUNTY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CUNT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CUTOUT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CUTTY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NONCOUNTY",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "NOUN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NUTANT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NUTTY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OUTACT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "OUTCOUNT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TATOUAY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TAUNT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TAUON",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TAUT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOUCAN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TOUT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TUNA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TUNNY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TUTTY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TUTU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "UNAU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "UNCANNY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "UNCO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "UNCOY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UNCUT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UNTO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YUAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YUCA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YUCCA",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

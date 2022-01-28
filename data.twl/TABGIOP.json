@@ -1,0 +1,252 @@
+{
+    "letters": "TABGIOP",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 85,
+    "word_count": 46,
+    "pangram_count": 1,
+    "pangram_list": [
+        "PIGBOAT"
+    ],
+    "word_list": [
+        {
+            "word": "ABBOT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AGITA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AGITATO",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ATAP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ATOP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BABBITT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BAIT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BATT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BIGOT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BIOTA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BITT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BOAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BOOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BOTA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BOTT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GAIT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GIGABIT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GIGOT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GOAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "IOTA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OBIT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OTTO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PATAGIA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PATIO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PIGBOAT",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "PIPIT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PITA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PITAPAT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PITTA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "POTATO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "POTTO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TABOO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TAIGA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TAPA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TATTOO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TIBIA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TIPI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TIPTOP",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TITBIT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TITI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOGA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOIT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOPI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOPO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOPOI",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

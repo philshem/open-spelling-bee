@@ -1,0 +1,217 @@
+{
+    "letters": "UDGHNOT",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 88,
+    "word_count": 39,
+    "pangram_count": 1,
+    "pangram_list": [
+        "DOUGHNUT"
+    ],
+    "word_list": [
+        {
+            "word": "DONUT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DOUGH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DOUGHNUT",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "DOUGHT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DUGONG",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DUGOUT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DUNG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUNT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOUT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GUNDOG",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HOGNUT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HOUND",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HUNG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HUNH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HUNT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NOUGHT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NOUN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OUGHT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OUTDO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OUTGO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OUTGUN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "OUTHUNT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "OUTTHOUGHT",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "THOU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "THOUGH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "THOUGHT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "THUD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "THUG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOUGH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TOUT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TUNG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TUTU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "UDON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "UNDO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "UNGOT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UNHOOD",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "UNHUNG",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "UNTHOUGHT",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "UNTO",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

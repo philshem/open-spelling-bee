@@ -1,0 +1,187 @@
+{
+    "letters": "HEKNSUY",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 83,
+    "word_count": 33,
+    "pangram_count": 1,
+    "pangram_list": [
+        "HUNKEYS"
+    ],
+    "word_list": [
+        {
+            "word": "HEHS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HENS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HUES",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HUNH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HUNK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HUNKEY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HUNKEYS",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "HUNKS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HUNKY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HUNS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HUSH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HUSHES",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HUSK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HUSKS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HUSKY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HUSSY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SHEEN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SHEENEY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "SHEENEYS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "SHEENS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SHEENY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SHEESH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SHES",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SHUN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SHUNS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SHUSH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SHUSHES",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "SHYNESS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "SHYNESSES",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "SNEESH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SNEESHES",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "UNHUSK",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "UNHUSKS",
+            "score": 4,
+            "pangram": false
+        }
+    ]
+}

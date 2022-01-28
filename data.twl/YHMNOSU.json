@@ -1,0 +1,192 @@
+{
+    "letters": "YHMNOSU",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 94,
+    "word_count": 34,
+    "pangram_count": 1,
+    "pangram_list": [
+        "HOMONYMOUS"
+    ],
+    "word_list": [
+        {
+            "word": "HOMONYM",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HOMONYMOUS",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "HOMONYMS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "HOMONYMY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "HOMY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HOYS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HUSSY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HYMN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HYMNS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HYSON",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HYSONS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MOMMY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MONOSOMY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MONY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOONY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MOSSY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MOUSY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MUMMY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MUSHY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MUSSY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NOSY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SHOYU",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SHOYUS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SONNY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SONSY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SOYS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SUNNY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SYNONYM",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "SYNONYMOUS",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "SYNONYMS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "SYNONYMY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "UNSONSY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "YOUS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YUMMY",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

@@ -1,0 +1,217 @@
+{
+    "letters": "MCEHINY",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 89,
+    "word_count": 39,
+    "pangram_count": 1,
+    "pangram_list": [
+        "CHIMNEY"
+    ],
+    "word_list": [
+        {
+            "word": "CHEMIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CHIME",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHIMNEY",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "CHYME",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHYMIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CYME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CYMENE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EMCEE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EMIC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EMINENCE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "EMINENCY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "EMMY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ENEMY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HEME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HEMIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HEMIN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HENCHMEN",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "HYMEN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HYMN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ICEMEN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "IMINE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "IMMINENCE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "IMMINENCY",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "IMMY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MEINIE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MEINY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MEME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MICE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MICHE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MIEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MIME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MIMIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MINCE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MINCY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MINE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MINI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MINIM",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MINNY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NEEM",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

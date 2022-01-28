@@ -1,0 +1,207 @@
+{
+    "letters": "HBIOPRT",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 82,
+    "word_count": 37,
+    "pangram_count": 1,
+    "pangram_list": [
+        "PROHIBIT"
+    ],
+    "word_list": [
+        {
+            "word": "BHOOT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BIRTH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BIRTHROOT",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BOHO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BOOHOO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BOOTH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BOTH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BRITH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BROTH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HIPPO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HOBBIT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HOBO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HOOP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HOOPOO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HOOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HORROR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ORTHO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PHOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PHOTO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PHPHT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PITH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POOH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POORTITH",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PROHIBIT",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "PROTOTROPH",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "THIO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "THIR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "THORO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "THORP",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "THRIP",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "THRO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "THROB",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TOOTH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TOPH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOPHI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TOROTH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TROTH",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

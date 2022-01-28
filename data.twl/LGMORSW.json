@@ -1,0 +1,272 @@
+{
+    "letters": "LGMORSW",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 112,
+    "word_count": 50,
+    "pangram_count": 1,
+    "pangram_list": [
+        "GLOWWORMS"
+    ],
+    "word_list": [
+        {
+            "word": "GLOGG",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GLOGGS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GLOM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GLOMS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GLOOM",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GLOOMS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GLOSS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GLOW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GLOWS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GLOWWORM",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GLOWWORMS",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "GOOGOL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GOOGOLS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GROWL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GROWLS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LOGO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOGOS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LOGROLL",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "LOGROLLS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LOGS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOLL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOLLS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LOOM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOOMS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LOOS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOSS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOWS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOLL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOLLS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MOLS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOOL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOOLS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OLOROSO",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "OLOROSOS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "OSMOL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OSMOLS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "OWLS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROLL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROLLS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SLOG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SLOGS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SLOW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SLOWS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SLOWWORM",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "SLOWWORMS",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "SOLO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SOLOS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SOLS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WOOL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WOOLS",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

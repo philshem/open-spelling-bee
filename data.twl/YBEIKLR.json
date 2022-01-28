@@ -1,0 +1,257 @@
+{
+    "letters": "YBEIKLR",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 105,
+    "word_count": 47,
+    "pangram_count": 1,
+    "pangram_list": [
+        "BERRYLIKE"
+    ],
+    "word_list": [
+        {
+            "word": "BEERY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BELLY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BELLYLIKE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BERRY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BERRYLIKE",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "BERYL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BEYLIK",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BIBBERY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BILBERRY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BILBY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BILLY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BLEBBY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BRIBERY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BRIERY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BYRE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BYRL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EELY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EERILY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EERY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EYELIKE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "EYER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EYRE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EYRIE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EYRIR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EYRY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ILLY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KELLY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KERRY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KYRIE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LEERILY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "LEERY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LIKELY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LILY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LILYLIKE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LYRE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "REEKY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "REKEY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RELY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RIBBY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RILEY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RYKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YELK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YELLER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "YERK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YIRR",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

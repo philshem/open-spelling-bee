@@ -1,0 +1,177 @@
+{
+    "letters": "MCGIKNU",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 90,
+    "word_count": 31,
+    "pangram_count": 1,
+    "pangram_list": [
+        "MUCKING"
+    ],
+    "word_list": [
+        {
+            "word": "CUMIN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CUMMIN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GIMMICK",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GIMMICKING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "GUMMING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MICK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MIGG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MIKING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MIMIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MIMICKING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MIMING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MINCING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MINI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MINIKIN",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MINIM",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MINIMUM",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MINING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MINIUM",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MINK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MUCIN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MUCK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MUCKING",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "MUGG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MUGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MUMM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MUMMING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MUMU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MUNI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MUUMUU",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NIMMING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "UNUNUNIUM",
+            "score": 6,
+            "pangram": false
+        }
+    ]
+}

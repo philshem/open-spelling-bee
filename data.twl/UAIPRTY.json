@@ -1,0 +1,202 @@
+{
+    "letters": "UAIPRTY",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 80,
+    "word_count": 36,
+    "pangram_count": 1,
+    "pangram_list": [
+        "PITUITARY"
+    ],
+    "word_list": [
+        {
+            "word": "AURA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AURAR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "IRRUPT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PARURA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PITUITARY",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "PRAU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PRUTA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PTUI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PUPA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PUPARIA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PUPPY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PUPU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PURI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PURITY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PURPURA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PURR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PURTY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PUTT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PUTTI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PUTTY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PYURIA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RUTTY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TAUT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TITTUP",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TITTUPPY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TUATARA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TUTTI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TUTTY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TUTU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "UPPITY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "URARI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "YAUP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YAUTIA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "YUPPY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "YURT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YURTA",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

@@ -1,0 +1,242 @@
+{
+    "letters": "TCILPRU",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 105,
+    "word_count": 44,
+    "pangram_count": 1,
+    "pangram_list": [
+        "CULPRIT"
+    ],
+    "word_list": [
+        {
+            "word": "CIRCUIT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CITRIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CLIPT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CLITIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CRIT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CRITIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CRITTUR",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CULPRIT",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "CULT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CULTI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CULTIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CURT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CUTUP",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ICTIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ILLICIT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ILLITIC",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "IRITIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "IRRUPT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LICIT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LILLIPUT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LILT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LITU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PICRITIC",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PIPIT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PRURITIC",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PTUI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PULPIT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PUTT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PUTTI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TILT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TIPI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TIRL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TITI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TITTUP",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TRILL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TRIP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TRULL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TULIP",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TUTTI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TUTU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "UPLIT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UPTILT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "UTRICULI",
+            "score": 5,
+            "pangram": false
+        }
+    ]
+}

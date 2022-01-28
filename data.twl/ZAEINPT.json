@@ -1,0 +1,172 @@
+{
+    "letters": "ZAEINPT",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 82,
+    "word_count": 30,
+    "pangram_count": 1,
+    "pangram_list": [
+        "PATINIZE"
+    ],
+    "word_list": [
+        {
+            "word": "AZAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AZINE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NAZI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NETIZEN",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PATINIZE",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "PAZAZZ",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PEPTIZE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PIAZZA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PIAZZE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PIZAZZ",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PIZZA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PIZZAZ",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PIZZAZZ",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TANZANITE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TAZZA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TAZZE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TETANIZE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TZETZE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TZITZIT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ZANANA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ZANZA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ZAZEN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ZEATIN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ZEIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ZENANA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ZETA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ZINE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ZINNIA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ZITI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ZIZIT",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

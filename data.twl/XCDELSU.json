@@ -1,0 +1,202 @@
+{
+    "letters": "XCDELSU",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 112,
+    "word_count": 36,
+    "pangram_count": 1,
+    "pangram_list": [
+        "EXCLUDES"
+    ],
+    "word_list": [
+        {
+            "word": "CULEX",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CULEXES",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DELUXE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DESEX",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DESEXED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DESEXES",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DEXES",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DUXELLES",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "EXCEED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EXCEEDED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "EXCEEDS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "EXCEL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EXCELLED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "EXCELS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EXCESS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EXCESSED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "EXCESSES",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "EXCLUDE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "EXCLUDED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "EXCLUDES",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "EXCUSE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EXCUSED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "EXCUSES",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "EXEC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EXECS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EXED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EXES",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EXUDE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EXUDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EXUDES",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LEXES",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LUXE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LUXES",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SEXED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SEXES",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SEXLESS",
+            "score": 4,
+            "pangram": false
+        }
+    ]
+}

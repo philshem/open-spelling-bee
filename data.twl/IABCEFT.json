@@ -1,0 +1,252 @@
+{
+    "letters": "IABCEFT",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 109,
+    "word_count": 46,
+    "pangram_count": 1,
+    "pangram_list": [
+        "BEATIFIC"
+    ],
+    "word_list": [
+        {
+            "word": "ABACI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ACACIA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ACETIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "AECIA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ATACTIC",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ATTIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BABBITT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BAIT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BEATIFIC",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "BEFIT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BIBB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BICE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BIFACE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BIFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BITE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BITT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CABBIE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CACTI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CAITIFF",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CATTIE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CEIBA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CITE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ECTATIC",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ETIC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FACETIAE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FACIA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FACIAE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FIAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FICE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FIEF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FIFE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ICTIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TABETIC",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TACIT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TACTIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TAFFIA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TAFIA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TATTIE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TECTITE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TIBIA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TIBIAE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TICTAC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TIFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TITBIT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TITI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TITTIE",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

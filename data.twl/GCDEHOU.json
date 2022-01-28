@@ -1,0 +1,202 @@
+{
+    "letters": "GCDEHOU",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 80,
+    "word_count": 36,
+    "pangram_count": 1,
+    "pangram_list": [
+        "COUGHED"
+    ],
+    "word_list": [
+        {
+            "word": "CHEGOE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CHOUGH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CHUG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHUGGED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "COGGED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COHOG",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COUGH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COUGHED",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "DODGE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DODGED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DOGE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOGGED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DOGGO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DOUGH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EDGE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EDGED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EGGED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GEED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GEODE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GHEE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GODDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GODHOOD",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GOGO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOOD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOUGE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GOUGED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GUDE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HEDGE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HEDGED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HEDGEHOG",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "HEUGH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HOGG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HOGGED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HUGE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HUGGED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "OGEE",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

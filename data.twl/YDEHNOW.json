@@ -1,0 +1,237 @@
+{
+    "letters": "YDEHNOW",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 94,
+    "word_count": 43,
+    "pangram_count": 1,
+    "pangram_list": [
+        "HONEYDEW"
+    ],
+    "word_list": [
+        {
+            "word": "DEEDY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DENY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DEWY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOODY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DOWDY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DOWNY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DOYEN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DOYENNE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DYED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DYEWEED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DYEWOOD",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DYNE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DYNODE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EDDY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EYED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EYEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EYNE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HEYDEY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HONEY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HONEYDEW",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "HONEYED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HOODY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HOOEY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HOWDY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HOYDEN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HOYDENED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "NEDDY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NEEDY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NODDY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NONWOODY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "WEEDY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WEENY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WENNY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WHEY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WHEYEY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WOODY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WYND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WYNN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YENNED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "YODH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YOND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YOWE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YOWED",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

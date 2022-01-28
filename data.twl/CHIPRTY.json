@@ -1,0 +1,202 @@
+{
+    "letters": "CHIPRTY",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 91,
+    "word_count": 36,
+    "pangram_count": 1,
+    "pangram_list": [
+        "TRIPTYCH"
+    ],
+    "word_list": [
+        {
+            "word": "CHIC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHICHI",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CHIP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHIPPY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CHIRP",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHIRPY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CHIRR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHIT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHITTY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CIRRI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CITRIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CITY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CRIT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CRITIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CRYPT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CRYPTIC",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HITCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ICHTHYIC",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ICTIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "IRITIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ITCH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ITCHY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PICRIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PICRITIC",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PITCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PITCHY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PRICY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PYIC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PYRIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PYRITIC",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PYRRHIC",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RICH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TRIPTYCH",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "TRYPTIC",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TYPIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "YTTRIC",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

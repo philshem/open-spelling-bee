@@ -1,0 +1,222 @@
+{
+    "letters": "KDEFILU",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 92,
+    "word_count": 40,
+    "pangram_count": 1,
+    "pangram_list": [
+        "FLUIDLIKE"
+    ],
+    "word_list": [
+        {
+            "word": "DEKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DEKED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DIKDIK",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DIKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DIKED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DUKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUKED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EELLIKE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "EKED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EKUELE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ELFLIKE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FLUIDLIKE",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "FLUKE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FLUKED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KEEF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KEEK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KEEKED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KEEL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KEELED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KIDDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KIDDIE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KIDLIKE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "KIEF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KIKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KILLDEE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "KILLED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KILLIE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KLIK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KUDU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KUFI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LEEK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LEKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LEKKED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LEKU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LIFELIKE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LIKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LIKED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UKELELE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "UKULELE",
+            "score": 4,
+            "pangram": false
+        }
+    ]
+}

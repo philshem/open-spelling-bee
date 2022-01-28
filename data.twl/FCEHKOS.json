@@ -1,0 +1,207 @@
+{
+    "letters": "FCEHKOS",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 84,
+    "word_count": 37,
+    "pangram_count": 1,
+    "pangram_list": [
+        "CHECKOFFS"
+    ],
+    "word_list": [
+        {
+            "word": "CHECKOFF",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CHECKOFFS",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "CHEF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHEFS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COFFEE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COFFEES",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "COFFS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COOF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COOFS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COOKOFF",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "COOKOFFS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "EFFS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FECES",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FECK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FECKS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FEES",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FEHS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FEOFF",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FEOFFEE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FEOFFEES",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FEOFFS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FESS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FESSE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FESSES",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FOES",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FOSS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FOSSE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FOSSES",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HOOF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HOOFS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KEEF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KEEFS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KEFS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OFFS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SCOFF",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SCOFFS",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

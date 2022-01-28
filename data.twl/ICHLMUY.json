@@ -1,0 +1,197 @@
+{
+    "letters": "ICHLMUY",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 80,
+    "word_count": 35,
+    "pangram_count": 1,
+    "pangram_list": [
+        "CHUMMILY"
+    ],
+    "word_list": [
+        {
+            "word": "CHIC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHICHI",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CHICLY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CHILI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHILL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHILLI",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CHILLILY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CHILLUM",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CHILLY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CHUMMILY",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "CHYMIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CILIUM",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CUMULI",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CYCLIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CYCLICLY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "HILI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HILLY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HILUM",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HUIC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HUMIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ICILY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ILIUM",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ILLY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "IMMY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LICH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LICHI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LILY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LIMULI",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LIMY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MILCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MILIUM",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MIMIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "YILL",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

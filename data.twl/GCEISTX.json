@@ -1,0 +1,222 @@
+{
+    "letters": "GCEISTX",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 106,
+    "word_count": 40,
+    "pangram_count": 1,
+    "pangram_list": [
+        "EXEGETICS"
+    ],
+    "word_list": [
+        {
+            "word": "CIGS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EGEST",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EGESTS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EGGS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EGIS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EGISES",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EISEGESES",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "EISEGESIS",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "EXEGESES",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "EXEGESIS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "EXEGETE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "EXEGETES",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "EXEGETIC",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "EXEGETICS",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "EXEGETIST",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "EXEGETISTS",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "GEES",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GEESE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GEEST",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GEESTS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GEST",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GESTE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GESTES",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GESTIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GESTS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GETS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GIES",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GIGS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GIST",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GISTS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GITE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GITES",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GITS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "IGGS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SEGS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SIEGE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SIEGES",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TEGG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TEGGS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TEGS",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

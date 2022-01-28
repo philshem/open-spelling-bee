@@ -1,0 +1,207 @@
+{
+    "letters": "ZAEGINP",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 116,
+    "word_count": 37,
+    "pangram_count": 1,
+    "pangram_list": [
+        "PAGANIZE"
+    ],
+    "word_list": [
+        {
+            "word": "AGAZE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AGENIZE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "AGENIZING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "AGNIZE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "AGNIZING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "AZAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AZINE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GAZANIA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GAZE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GAZING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GEEZ",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NAZI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PAGANIZE",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "PAGANIZING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "PAZAZZ",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PIAZZA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PIAZZE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PIZAZZ",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PIZZA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PIZZAZ",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PIZZAZZ",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ZAGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ZANANA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ZANZA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ZAPPING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ZAZEN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ZEIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ZENANA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ZIGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ZIGZAG",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ZIGZAGGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "ZINE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ZING",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ZINGANI",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ZINGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ZINNIA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ZIPPING",
+            "score": 4,
+            "pangram": false
+        }
+    ]
+}

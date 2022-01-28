@@ -1,0 +1,227 @@
+{
+    "letters": "PACDHMO",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 84,
+    "word_count": 41,
+    "pangram_count": 1,
+    "pangram_list": [
+        "PACHADOM"
+    ],
+    "word_list": [
+        {
+            "word": "APOD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CAMP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CAMPO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CAPH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CAPO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHAMP",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHAMPAC",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CHAMPACA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CHAP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHOMP",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHOP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COMP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COMPO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COOP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DAMP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOPA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HOOP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HOOPOO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MADCAP",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "OOMPAH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "OOMPH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OPAH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PACA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PACHA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PACHADOM",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "PAMPA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PAPA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PAPADAM",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PAPADOM",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PAPPADAM",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "POACH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "POCO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POMO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POMP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POMPOM",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "POOCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "POOD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POOH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POOP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POPPA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "POPPADOM",
+            "score": 5,
+            "pangram": false
+        }
+    ]
+}

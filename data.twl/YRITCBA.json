@@ -1,0 +1,237 @@
+{
+    "letters": "YRITCBA",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 116,
+    "word_count": 43,
+    "pangram_count": 1,
+    "pangram_list": [
+        "BARYTIC"
+    ],
+    "word_list": [
+        {
+            "word": "ABAYA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ABBACY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "AIRY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ARBITRARY",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ARIARY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ARRAY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ARTY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BABBITRY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BABBITTRY",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BABY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BARBARITY",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BARRATRY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BARYTA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BARYTIC",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "BATTY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BITTY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BRATTY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BRAY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BRIARY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CABBY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CARRY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CARYATIC",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CATTY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CITY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CRABBY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CRYBABY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RABBITRY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RABBITY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RACY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RARITY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RATTY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RAYA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RIBBY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TABBY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TARRY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TARTY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TATTY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TITTY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TRAY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YABBY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "YIRR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YTTRIA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "YTTRIC",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

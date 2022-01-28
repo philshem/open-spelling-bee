@@ -1,0 +1,212 @@
+{
+    "letters": "PAGHLNY",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 87,
+    "word_count": 38,
+    "pangram_count": 1,
+    "pangram_list": [
+        "ANAGLYPH"
+    ],
+    "word_list": [
+        {
+            "word": "ALPHA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ALPHYL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ANAGLYPH",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "APHYLLY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "APPAL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "APPALL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "APPLY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GAPPY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GAPY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GLYPH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HAPLY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HAPPY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HYPHA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HYPHAL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NAPA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NAPPA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NAPPY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PAGAN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PALAPA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PALL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PALLY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PALP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PALPAL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PALY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PANG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PANGA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PAPA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PAPAL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PAPALLY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PAPAYA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PAPAYAN",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PAPPY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PHALANGAL",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PHYLA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PLAGAL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PLAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PLAY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PLAYA",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

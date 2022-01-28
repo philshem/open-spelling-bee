@@ -1,0 +1,232 @@
+{
+    "letters": "WAEGHLR",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 91,
+    "word_count": 42,
+    "pangram_count": 1,
+    "pangram_list": [
+        "GEARWHEEL"
+    ],
+    "word_list": [
+        {
+            "word": "AWARE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AWEE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EWER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GEARWHEEL",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "GEEGAW",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GEWGAW",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GREW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HAWALA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HEEHAW",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HEWER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RAWER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "REGREW",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REWEAR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WAGE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WAGER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WAGERER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WAGGER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WAGGLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WALE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WALER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WALL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WALLA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WALLAH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WARE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WARRAGAL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "WAWL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WEAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WEAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WEARER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WEEL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WEER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WEEWEE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WERE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WHALE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WHALER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WHEAL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WHEE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WHEEL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WHEELER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WHERE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WHEW",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

@@ -1,0 +1,207 @@
+{
+    "letters": "NEGPRUX",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 96,
+    "word_count": 37,
+    "pangram_count": 1,
+    "pangram_list": [
+        "EXPUNGER"
+    ],
+    "word_list": [
+        {
+            "word": "ENURE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EPERGNE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ERNE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EXPUNGE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "EXPUNGER",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "GENE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GENRE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GENU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GREEN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GREENER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GRUNGE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GRUNGER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GUNNEN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GUNNER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GUNRUNNER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "NEEP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NENE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PEEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PENNE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PENNER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PREEN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PREENER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PRUNE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PRUNER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PUNG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PUNNER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REGREEN",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RENEGE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RENEGER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "REPUGN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RERUN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RUNE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RUNG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RUNNER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "UNPEG",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UNPEN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UNPURE",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

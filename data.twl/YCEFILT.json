@@ -1,0 +1,237 @@
+{
+    "letters": "YCEFILT",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 108,
+    "word_count": 43,
+    "pangram_count": 1,
+    "pangram_list": [
+        "FELICITY"
+    ],
+    "word_list": [
+        {
+            "word": "CECITY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CICELY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CITIFY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CITY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CLIFFY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CYCLE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CYCLIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CYCLICITY",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CYCLICLY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "EELY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EFFETELY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "EYELET",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EYELIFT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FELICITY",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "FELLY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FEYLY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FIFTY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FILLY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FITLY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FLEECILY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FLEECY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FLEETLY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FLEY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FLYTE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FYCE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FYTTE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ICILY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "IFFY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ILLICITLY",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ILLY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LEFTY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LICITLY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "LIEFLY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LILY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LYCEE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LYTIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TELLY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TITTY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TYEE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YETI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YETT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YILL",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

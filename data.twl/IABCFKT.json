@@ -1,0 +1,222 @@
+{
+    "letters": "IABCFKT",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 94,
+    "word_count": 40,
+    "pangram_count": 1,
+    "pangram_list": [
+        "BACKFIT"
+    ],
+    "word_list": [
+        {
+            "word": "ABACI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ACACIA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ATACTIC",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ATTIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BABBITT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BACKBIT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BACKFIT",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "BAIT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BATIK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BATTIK",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BIBB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BIFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BITT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CACTI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CAITIFF",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FACIA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FIAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ICTIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "IKAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KABIKI",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KAIAK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KAIF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KAKI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KATABATIC",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "KIBBI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KICK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KICKBACK",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TACIT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TACTIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TAFFIA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TAFIA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TIBIA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TICK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TICKTACK",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TICTAC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TIFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TIKI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TIKKA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TITBIT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TITI",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

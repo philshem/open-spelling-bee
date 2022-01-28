@@ -1,0 +1,217 @@
+{
+    "letters": "CELNPTU",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 95,
+    "word_count": 39,
+    "pangram_count": 1,
+    "pangram_list": [
+        "CENTUPLE"
+    ],
+    "word_list": [
+        {
+            "word": "CELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CELLULE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CELT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CENT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CENTU",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CENTUPLE",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "CEPE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CETE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CLEPE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CLEPT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CLUE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CULET",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CULLET",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CULT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CUNT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CUPEL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CUPULE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CUTE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CUTLET",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CUTTLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CUTUP",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ELECT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ELECTEE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "LETTUCE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "LUCE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LUCENCE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "LUCENT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LUCULENT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "NUNCLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PECTEN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PENCE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PENCEL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PUCE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TENPENCE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TUPPENCE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "UNCLE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UNCUT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UNCUTE",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

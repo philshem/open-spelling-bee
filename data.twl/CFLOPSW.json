@@ -1,0 +1,247 @@
+{
+    "letters": "CFLOPSW",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 102,
+    "word_count": 45,
+    "pangram_count": 1,
+    "pangram_list": [
+        "COWFLOPS"
+    ],
+    "word_list": [
+        {
+            "word": "CLOP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CLOPS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COCO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COCOS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COFFS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COLLOP",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COLLOPS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "COLS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COOCOO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COOF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COOFS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COOL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COOLS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COOP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COOPS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COOS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COPS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COSS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COWFLOP",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "COWFLOPS",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "COWL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COWLS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COWPLOP",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "COWPLOPS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "COWS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FLOC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FLOCS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LOCO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOCOFOCO",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LOCOFOCOS",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "LOCOS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "POCO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SCOFF",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SCOFFS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SCOLLOP",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "SCOLLOPS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "SCOOP",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SCOOPS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SCOP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SCOPS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SCOW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SCOWL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SCOWLS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SCOWS",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

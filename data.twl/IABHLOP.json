@@ -1,0 +1,272 @@
+{
+    "letters": "IABHLOP",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 107,
+    "word_count": 50,
+    "pangram_count": 1,
+    "pangram_list": [
+        "BIOPHILIA"
+    ],
+    "word_list": [
+        {
+            "word": "AALII",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ABOIL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AIOLI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ALIBI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BAIL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BIALI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BIBB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BILABIAL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BILBO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BILBOA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BIOPHILIA",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "BLIP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BOIL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HAIL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HAPLOPIA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "HILA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HILI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HILLO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HILLOA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HIPPO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ILIA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ILIAL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LABIA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LABIAL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LAPILLI",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "LIBLAB",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LILO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LIPA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOLLIPOP",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "OBIA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OBOLI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OHIA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OLIO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PAIL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PALLIA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PALLIAL",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PALPI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PAPILLA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PAPPI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PHALLI",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PHIAL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PHOBIA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PIAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PIBAL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PILI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PIPAL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "POLIO",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

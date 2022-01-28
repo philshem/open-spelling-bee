@@ -1,0 +1,217 @@
+{
+    "letters": "UCEIKLM",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 90,
+    "word_count": 39,
+    "pangram_count": 1,
+    "pangram_list": [
+        "LEUKEMIC"
+    ],
+    "word_list": [
+        {
+            "word": "CECUM",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CELLULE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CILIUM",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CLUCK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CLUE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CUKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CULM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CUMULI",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EKUELE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EMEU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ILEUM",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ILIUM",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ILLUME",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KUMMEL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LEKU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LEUCEMIC",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LEUKEMIC",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "LIEU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LIMULI",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LUCE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LUCK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LUCKIE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LULU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MILIEU",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MILIUM",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MUCK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MUCKLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MUCKLUCK",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MUCLUC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MUKLUK",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MULE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MUMM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MUMU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MUUMUU",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "UKELELE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "UKULELE",
+            "score": 4,
+            "pangram": false
+        }
+    ]
+}

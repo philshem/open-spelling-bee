@@ -1,0 +1,257 @@
+{
+    "letters": "FAILQSU",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 118,
+    "word_count": 47,
+    "pangram_count": 1,
+    "pangram_list": [
+        "ALFAQUIS"
+    ],
+    "word_list": [
+        {
+            "word": "ALFA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ALFALFA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ALFALFAS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ALFAQUI",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ALFAQUIS",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "ALFAS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ALIF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ALIFS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FAIL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FAILS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FALL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FALLAL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FALLALS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FALLS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FILA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FILIAL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FILLS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FILS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FLAIL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FLAILS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FLUFF",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FLUFFS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FLUS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FULFIL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FULFILL",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FULFILLS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FULFILS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FULLS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FUSIL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FUSILLI",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FUSILLIS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FUSILS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FUSS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LUFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LUFFA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LUFFAS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LUFFS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "QUAFF",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "QUAFFS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "QUIFF",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "QUIFFS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SLUFF",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SLUFFS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SULFA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SULFAS",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

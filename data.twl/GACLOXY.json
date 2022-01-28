@@ -1,0 +1,217 @@
+{
+    "letters": "GACLOXY",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 84,
+    "word_count": 39,
+    "pangram_count": 1,
+    "pangram_list": [
+        "COXALGY"
+    ],
+    "word_list": [
+        {
+            "word": "AGLY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AGOG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ALGA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ALGAL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ALGOLOGY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CAGY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CLAG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CLOG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CLOGGY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COLOG",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COXALGY",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "GAGA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GALA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GALAGO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GALAX",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GALAXY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GALL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GALLY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GALYAC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GAOL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GAYAL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GAYLY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GLOGG",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GLYCOL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GLYCYL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GOAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOGGLY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GOGO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOLLY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GOOGLY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GOOGOL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LALLYGAG",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LOGGY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LOGO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOGY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOLLYGAG",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "OLOGY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OOLOGY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "YOGA",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

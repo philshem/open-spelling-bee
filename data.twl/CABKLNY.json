@@ -1,0 +1,217 @@
+{
+    "letters": "CABKLNY",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 86,
+    "word_count": 39,
+    "pangram_count": 1,
+    "pangram_list": [
+        "CLAYBANK"
+    ],
+    "word_list": [
+        {
+            "word": "ABACA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ABACK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ABBACY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ACYL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ALACK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BACCA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BACK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BLACK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BLACKBALL",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BLACKLY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CABAL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CABALA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CABANA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CABBALA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CABBY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CACA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CAKY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CALK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CALL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CALLA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CALLAN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CALLBACK",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CANAL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CANCAN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CANNA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CANNY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CLACK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CLAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CLANK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CLANKY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CLAY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CLAYBANK",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "CYAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KNACK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KYACK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LACK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LACY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NANCY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "YACK",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

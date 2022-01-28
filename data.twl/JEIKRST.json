@@ -1,0 +1,182 @@
+{
+    "letters": "JEIKRST",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 98,
+    "word_count": 32,
+    "pangram_count": 1,
+    "pangram_list": [
+        "JERKIEST"
+    ],
+    "word_list": [
+        {
+            "word": "JEER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "JEERER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "JEERERS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "JEERS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "JEES",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "JERK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "JERKER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "JERKERS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "JERKIER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "JERKIES",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "JERKIEST",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "JERKS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "JERRIES",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "JESS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "JESSE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "JESSES",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "JEST",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "JESTER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "JESTERS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "JESTS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "JETE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "JETES",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "JETS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "JETTIER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "JETTIES",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "JETTIEST",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "JITTER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "JITTERIER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "JITTERIEST",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "JITTERS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TRIJET",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TRIJETS",
+            "score": 4,
+            "pangram": false
+        }
+    ]
+}

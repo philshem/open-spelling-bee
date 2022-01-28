@@ -1,0 +1,192 @@
+{
+    "letters": "WAMORSX",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 85,
+    "word_count": 34,
+    "pangram_count": 1,
+    "pangram_list": [
+        "WAXWORMS"
+    ],
+    "word_list": [
+        {
+            "word": "ARROW",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ARROWS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ARROWWORM",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ARROWWORMS",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "ASWARM",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MARROW",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MARROWS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MAWS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MORROW",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MORROWS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MOWS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RAWS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROWS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SAWS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SORROW",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SORROWS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "SOWAR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SOWARS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SOWS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SWAM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SWARM",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SWARMS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WARM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WARMS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WARS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WARSAW",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WARSAWS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WAWS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WAXWORM",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WAXWORMS",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "WOOS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WORM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WORMS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WOWS",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

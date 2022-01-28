@@ -1,0 +1,222 @@
+{
+    "letters": "CDEHLMU",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 92,
+    "word_count": 40,
+    "pangram_count": 1,
+    "pangram_list": [
+        "MULCHED"
+    ],
+    "word_list": [
+        {
+            "word": "CECUM",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CEDE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CEDED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CELLED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CELLULE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CHUM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHUMMED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CLUE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CLUED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CUDDLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CUDDLED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CUED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CULCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CULLED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CULM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CULMED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEDUCE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEDUCED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DEUCE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DEUCED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DUCE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ECHE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ECHED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ECHELLE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "EDUCE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EDUCED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EMCEE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EMCEED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HEUCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LECH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LECHED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LEECH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LEECHED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "LUCE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MUCH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MUCLUC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MULCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MULCHED",
+            "score": 4,
+            "pangram": true
+        }
+    ]
+}

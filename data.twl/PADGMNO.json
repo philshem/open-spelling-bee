@@ -1,0 +1,207 @@
+{
+    "letters": "PADGMNO",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 86,
+    "word_count": 37,
+    "pangram_count": 1,
+    "pangram_list": [
+        "PAGANDOM"
+    ],
+    "word_list": [
+        {
+            "word": "APOD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DAMP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOGNAP",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DOPA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GAMP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOOP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MONOPOD",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "NAPA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NAPPA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NONPAGAN",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PADNAG",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PAGAN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PAGANDOM",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "PAGOD",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PAGODA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PAMPA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PANADA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PANAMA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PANDA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PANG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PANGA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PAPA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PAPADAM",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PAPADOM",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PAPPADAM",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "POMO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POMP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POMPANO",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "POMPOM",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "POMPON",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "POND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PONG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POOD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POOP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POPPA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "POPPADOM",
+            "score": 5,
+            "pangram": false
+        }
+    ]
+}

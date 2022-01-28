@@ -1,0 +1,222 @@
+{
+    "letters": "EILQTUY",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 80,
+    "word_count": 40,
+    "pangram_count": 1,
+    "pangram_list": [
+        "QUIETLY"
+    ],
+    "word_list": [
+        {
+            "word": "EELY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ELITE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ELUTE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EQUITY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ETIQUETTE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ETUI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EYELET",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ILLITE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LEET",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LIEU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LITE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LITTLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LUTE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "QUELL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "QUEUE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "QUEY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "QUIET",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "QUIETLY",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "QUILLET",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "QUITE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TEEL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TELE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TELLY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TILE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TILLITE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TITLE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TITTIE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TITTLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TUILLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TULE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TULLE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TUQUE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TUTEE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TYEE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "UTILE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "YELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YETI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YETT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YULE",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

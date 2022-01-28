@@ -1,0 +1,247 @@
+{
+    "letters": "OABCEHY",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 89,
+    "word_count": 45,
+    "pangram_count": 1,
+    "pangram_list": [
+        "BEACHBOY"
+    ],
+    "word_list": [
+        {
+            "word": "ACHOO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AHCHOO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "AHOY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BABOO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BAOBAB",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BEACHBOY",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "BOBBY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BOBECHE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BOCCE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BOCHE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BOHEA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BOHO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BOOB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BOOBOO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BOOBY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BOOCOO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BOOHOO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BOYO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CABOB",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CACAO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHAO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COACH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COBB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COBBY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COCA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COCO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COCOA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COHO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COOCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COOCOO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COOEE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COOEY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ECHO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ECHOEY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HABOOB",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HOBBY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HOBO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HOOCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HOOEY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HOYA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OBEAH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OBEY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OBOE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YAHOO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "YOBBO",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

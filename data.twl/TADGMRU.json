@@ -1,0 +1,202 @@
+{
+    "letters": "TADGMRU",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 80,
+    "word_count": 36,
+    "pangram_count": 1,
+    "pangram_list": [
+        "DRAMATURG"
+    ],
+    "word_list": [
+        {
+            "word": "ATMA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ATTAR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DART",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DATA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DATUM",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DATURA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DAUT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DRAMATURG",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "DRAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GAMUT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GRAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GUMMATA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GUTTA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MAGMATA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MART",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MATT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MAUT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MUTT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RAGTAG",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RATATAT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TAGRAG",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TAMARAU",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TARAMA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TART",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TARTAR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TATAR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TAUT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TAUTAUG",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TRAD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TRAM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TRAUMA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TRAUMATA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TRUG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TUATARA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TURD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TUTU",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

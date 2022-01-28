@@ -1,0 +1,182 @@
+{
+    "letters": "YADFGIN",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 87,
+    "word_count": 32,
+    "pangram_count": 1,
+    "pangram_list": [
+        "DANDIFYING"
+    ],
+    "word_list": [
+        {
+            "word": "AYIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DADDY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DAFFY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DANDIFY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DANDIFYING",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "DANDY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DIDY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DIGNIFY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DIGNIFYING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "DINGY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DYAD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DYING",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FADDY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FAGGY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FANNY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FAYING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FINNY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GIDDY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GIDDYING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GINNY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "IFFY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "IGNIFY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "IGNIFYING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "NAGGY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NANNY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NIDIFY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NIDIFYING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "NINNY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "YAFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YAFFING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "YAGI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YANG",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

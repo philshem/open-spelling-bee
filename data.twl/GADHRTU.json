@@ -1,0 +1,222 @@
+{
+    "letters": "GADHRTU",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 84,
+    "word_count": 40,
+    "pangram_count": 1,
+    "pangram_list": [
+        "DRAUGHT"
+    ],
+    "word_list": [
+        {
+            "word": "AARGH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AARRGH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "AARRGHH",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "AGAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AGGADA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "AGGADAH",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "AGHA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AUGHT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AUGUR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DAGGA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DRAG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DRAUGHT",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "DRUG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GAGA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GARDA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GARTH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GAUD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GAUR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GHAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GHAUT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GRAD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GRAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GRUGRU",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GUAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GUARD",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GURU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GUTTA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HAGGADA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HAGGADAH",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "HAGGARD",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HAUGH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RAGA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RAGG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RAGTAG",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RUGA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TAGRAG",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TAUGHT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TAUTAUG",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "THUG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TRUG",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

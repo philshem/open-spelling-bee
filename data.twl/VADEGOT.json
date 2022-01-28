@@ -1,0 +1,187 @@
+{
+    "letters": "VADEGOT",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 95,
+    "word_count": 33,
+    "pangram_count": 1,
+    "pangram_list": [
+        "GAVOTTED"
+    ],
+    "word_list": [
+        {
+            "word": "AGAVE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AVADAVAT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DEAVE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DEAVED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEVA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DEVOTE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEVOTED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DEVOTEE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DOVE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EAVE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EAVED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EVADE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EVADED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GAVAGE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GAVE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GAVOT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GAVOTTE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GAVOTTED",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "OTTAVA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "OVATE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VATTED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VEDETTE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "VEGETATE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "VEGETATED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "VEGETE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VEGGED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VETO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VETOED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VETTED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VOODOO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VOODOOED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "VOTE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VOTED",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

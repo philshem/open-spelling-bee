@@ -1,0 +1,212 @@
+{
+    "letters": "FCILNST",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 81,
+    "word_count": 38,
+    "pangram_count": 1,
+    "pangram_list": [
+        "INFLICTS"
+    ],
+    "word_list": [
+        {
+            "word": "CLIFF",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CLIFFS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CLIFT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CLIFTS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FICIN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FICINS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FILLS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FILS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FINIS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FINS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FISC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FISCS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FIST",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FISTIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FISTS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FITS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FLIC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FLICS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FLINT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FLINTS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FLIT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FLITS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "INFILL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "INFLICT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "INFLICTS",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "LIFT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LIFTS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SIFT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SIFTS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SNIFF",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SNIFFS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "STIFF",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "STIFFS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TIFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TIFFIN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TIFFINS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TIFFS",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

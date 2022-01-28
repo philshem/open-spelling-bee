@@ -1,0 +1,237 @@
+{
+    "letters": "HAEGNPR",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 110,
+    "word_count": 43,
+    "pangram_count": 1,
+    "pangram_list": [
+        "PAPERHANGER"
+    ],
+    "word_list": [
+        {
+            "word": "AARGH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AARRGH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "AARRGHH",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "AGHA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AGRAPHA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "EPHA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EPHAH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GERAH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GHEE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GRAPH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HAAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HAEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HAHA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HANAPER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HANG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HANGAR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HANGER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HAPPEN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HARE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HARP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HARPER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HEAP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HEAPER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HEAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HEARER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HENGE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HENNA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HEPPER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HERE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HERN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PAPERHANGER",
+            "score": 8,
+            "pangram": true
+        },
+        {
+            "word": "PARAGRAPH",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PARAGRAPHER",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "PARAPH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PEAHEN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PHAGE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RAPHAE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RAPHE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "REHANG",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REHEAR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RHAPHAE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RHAPHE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RHEA",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

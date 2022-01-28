@@ -1,0 +1,252 @@
+{
+    "letters": "YEHIORS",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 101,
+    "word_count": 46,
+    "pangram_count": 1,
+    "pangram_list": [
+        "HOSIERY"
+    ],
+    "word_list": [
+        {
+            "word": "EERY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EYER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EYERS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EYES",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EYESORE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "EYESORES",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "EYRE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EYRES",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EYRIE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EYRIES",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EYRIR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EYRY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HERESY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HERRY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HISSY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HOOEY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HOOEYS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HORSEY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HORSY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HOSEY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HOSEYS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HOSIERY",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "HOYS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ORRERY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "OYER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OYERS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OYES",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OYESSES",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ROSERY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ROSY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RYES",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SERRY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SHERRY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SHYER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SHYERS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SISSY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SISSYISH",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "SOOEY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SORRY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SOYS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YESES",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "YESSES",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "YIRR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YIRRS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "YORE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YORES",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

@@ -1,0 +1,202 @@
+{
+    "letters": "YEFINRU",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 81,
+    "word_count": 36,
+    "pangram_count": 1,
+    "pangram_list": [
+        "REUNIFY"
+    ],
+    "word_list": [
+        {
+            "word": "EERY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ENNUYE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ENNUYEE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "EYEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EYER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EYNE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EYRE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EYRIE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EYRIR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EYRY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FENNY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FERNERY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FERNY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FERRY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FEYER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FIERY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FINERY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FINNY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FIRRY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FRYER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FUNNY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FURRIERY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FURRY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FURY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "IFFY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NINNY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NUNNERY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "REEFY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "REFINERY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "REFRY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "REIFY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "REUNIFY",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "RUNNY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UNFUNNY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "UNIFY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "YIRR",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

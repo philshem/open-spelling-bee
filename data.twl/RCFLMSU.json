@@ -1,0 +1,202 @@
+{
+    "letters": "RCFLMSU",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 82,
+    "word_count": 36,
+    "pangram_count": 1,
+    "pangram_list": [
+        "FULCRUMS"
+    ],
+    "word_list": [
+        {
+            "word": "CRUS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CURF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CURFS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CURL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CURLS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CURR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CURRS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CURS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FULCRUM",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FULCRUMS",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "FURCULUM",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FURFUR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FURL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FURLS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FURS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MURMUR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MURMURS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MURR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MURRS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RUFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RUFFS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RUMS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SCRUFF",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SCRUFFS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "SCRUM",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SCRUMS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SCURF",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SCURFS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SLUR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SLURS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SULFUR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SULFURS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "SURF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SURFS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SUSURRUS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "URUS",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

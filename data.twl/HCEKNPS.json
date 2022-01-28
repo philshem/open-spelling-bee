@@ -1,0 +1,207 @@
+{
+    "letters": "HCEKNPS",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 102,
+    "word_count": 37,
+    "pangram_count": 1,
+    "pangram_list": [
+        "HENPECKS"
+    ],
+    "word_list": [
+        {
+            "word": "CHECK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHECKS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CHEEK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHEEKS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CHEEP",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHEEPS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CHEESE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CHEESES",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CHESS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHESSES",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ECHE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ECHES",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HECK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HECKS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HEHS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HENCE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HENPECK",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HENPECKS",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "HENS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KENCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KENCHES",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PECH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PECHS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PEHS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SCHNECKE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "SCHNECKEN",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "SHEEN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SHEENS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SHEEP",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SHEESH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SHES",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SNEESH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SNEESHES",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "SPEECH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SPEECHES",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "SPHENE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SPHENES",
+            "score": 4,
+            "pangram": false
+        }
+    ]
+}

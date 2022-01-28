@@ -1,0 +1,202 @@
+{
+    "letters": "FCDEITV",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 103,
+    "word_count": 36,
+    "pangram_count": 1,
+    "pangram_list": [
+        "DEFECTIVE"
+    ],
+    "word_list": [
+        {
+            "word": "CITIFIED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DEFECT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEFECTED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DEFECTIVE",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "DEFI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DEFICIT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DEFIED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEFT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DEIFIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEIFIED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DIFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EDIFICE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "EDIFIED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "EFFECT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EFFECTED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "EFFECTIVE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "EFFETE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FEED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FEET",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FETE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FETED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FETICIDE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FETID",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FETTED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FICE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FICTIVE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FIEF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FIFE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FIFED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FITTED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FIVE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TEFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TIFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TIFFED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VIVIFIC",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "VIVIFIED",
+            "score": 5,
+            "pangram": false
+        }
+    ]
+}

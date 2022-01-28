@@ -1,0 +1,207 @@
+{
+    "letters": "VACEHLT",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 93,
+    "word_count": 37,
+    "pangram_count": 1,
+    "pangram_list": [
+        "CHEVALET"
+    ],
+    "word_list": [
+        {
+            "word": "CALVE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CAVALLA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CAVE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CAVEAT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CHEVALET",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "CLAVATE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CLAVE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CLEAVE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EAVE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ELEVATE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HALAVAH",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HALVA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HALVAH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HALVE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HAVE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HEAVE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HELVE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LAVA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LAVALAVA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LAVE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LEAVE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LEVA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LEVEE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LEVEL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VACATE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VALE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VALET",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VALLATE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "VALVAL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VALVATE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "VALVE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VALVELET",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "VEAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VELA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VELATE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VELVET",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VETCH",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

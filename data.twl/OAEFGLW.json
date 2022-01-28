@@ -1,0 +1,272 @@
+{
+    "letters": "OAEFGLW",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 89,
+    "word_count": 50,
+    "pangram_count": 1,
+    "pangram_list": [
+        "FLOWAGE"
+    ],
+    "word_list": [
+        {
+            "word": "AGLOW",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AGOG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ALLOW",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ALOE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ALOOF",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ALOW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AWOL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FALLOFF",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FALLOW",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FELLOE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FELLOW",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FEOFF",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FEOFFEE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FLOE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FLOG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FLOW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FLOWAGE",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "FOAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FOGGAGE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FOLLOW",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FOOL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FOWL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GALAGO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GAOL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GLOGG",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GLOW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOGGLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GOGO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOLF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOOF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOOGOL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LOAF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOGE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOGO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOLL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOOF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOOFA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LOWE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OFFAL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OGEE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OGLE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OLEA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OLEO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OLLA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WALLOW",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WOLF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WOOF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WOOL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WOOLFELL",
+            "score": 5,
+            "pangram": false
+        }
+    ]
+}

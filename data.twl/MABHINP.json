@@ -1,0 +1,217 @@
+{
+    "letters": "MABHINP",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 83,
+    "word_count": 39,
+    "pangram_count": 1,
+    "pangram_list": [
+        "AMPHIBIAN"
+    ],
+    "word_list": [
+        {
+            "word": "ABAMP",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AMAH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AMAIN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AMIA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AMIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AMNIA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AMPHIBIA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "AMPHIBIAN",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "ANIMA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ANIMI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "APIMANIA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BAMBINI",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BIMA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BIMAH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HAMMAM",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "IAMB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "IAMBI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "IMAM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "IMPI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MAHIMAHI",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MAIM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MAIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MAMA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MAMBA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MAMMA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MANA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MANANA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MANIA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MANNA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MANNAN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MINA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MINI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MINIM",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MINIMA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NIMBI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PAMPA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PANAMA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PIMA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PIMP",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

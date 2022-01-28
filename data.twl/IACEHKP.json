@@ -1,0 +1,232 @@
+{
+    "letters": "IACEHKP",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 84,
+    "word_count": 42,
+    "pangram_count": 1,
+    "pangram_list": [
+        "CHICKPEA"
+    ],
+    "word_list": [
+        {
+            "word": "ACACIA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "AECIA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "APIECE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CHAI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHAPPIE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CHEAPIE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CHIA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHIC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHICA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHICHI",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CHICK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHICKEE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CHICKPEA",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "CHIP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHIPPIE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "EPIC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HACKIE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HAIK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HAIKA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HICK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HICKIE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HIKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HIPPIE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ICECAP",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "IPECAC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KAIAK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KAKI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KEPI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KHAKI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KICK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KIKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PAIK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PAPPI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PICA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PICE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PICK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PIECE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PIKA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PIKAKE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PIKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PIKI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PIPE",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

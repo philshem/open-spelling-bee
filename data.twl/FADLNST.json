@@ -1,0 +1,187 @@
+{
+    "letters": "FADLNST",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 92,
+    "word_count": 33,
+    "pangram_count": 1,
+    "pangram_list": [
+        "FLATLANDS"
+    ],
+    "word_list": [
+        {
+            "word": "ALFA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ALFALFA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ALFALFAS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ALFAS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DAFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DAFFS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DAFT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FADS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FALL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FALLAL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FALLALS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FALLS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FANS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FANTAST",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FANTASTS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FAST",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FASTS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FATAL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FATS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FLAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FLANS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FLAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FLATLAND",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FLATLANDS",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "FLATS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LANDFALL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LANDFALLS",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "NAFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NAFFS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "STAFF",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "STAFFS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "STANDFAST",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "STANDFASTS",
+            "score": 7,
+            "pangram": false
+        }
+    ]
+}

@@ -1,0 +1,192 @@
+{
+    "letters": "RBCGHIN",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 96,
+    "word_count": 34,
+    "pangram_count": 1,
+    "pangram_list": [
+        "BIRCHING"
+    ],
+    "word_list": [
+        {
+            "word": "BIRCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BIRCHING",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "BIRR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BIRRING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BRIBING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BRIG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BRIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BRING",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BRINGING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BRINING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BRRR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHIRR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHIRRING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CIRRI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CRIB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CRIBBING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CRINGING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GIRN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GIRNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GRIG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GRIGRI",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GRIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GRINCH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GRINNING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "HIRING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "IRING",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RIBBING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RICH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RICIN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RICING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RIGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RING",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RINGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RINNING",
+            "score": 4,
+            "pangram": false
+        }
+    ]
+}

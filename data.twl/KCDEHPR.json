@@ -1,0 +1,237 @@
+{
+    "letters": "KCDEHPR",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 113,
+    "word_count": 43,
+    "pangram_count": 1,
+    "pangram_list": [
+        "PRECHECKED"
+    ],
+    "word_list": [
+        {
+            "word": "CHECK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHECKED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CHECKER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CHECKERED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CHEEK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHEEKED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CREEK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DECK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DECKED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DECKER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DEKED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DRECK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DREK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EKED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HECK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KECK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KECKED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KEEK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KEEKED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KEEP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KEEPER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KEPPED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KREEP",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PECK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PECKED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PECKER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PEEK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PEEKED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PEKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PERK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PERKED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PRECHECK",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PRECHECKED",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "RECHECK",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RECHECKED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "RECK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RECKED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REEK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "REEKED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REEKER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REPERK",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REPERKED",
+            "score": 5,
+            "pangram": false
+        }
+    ]
+}

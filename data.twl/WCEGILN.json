@@ -1,0 +1,182 @@
+{
+    "letters": "WCEGILN",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 86,
+    "word_count": 32,
+    "pangram_count": 1,
+    "pangram_list": [
+        "CLEWING"
+    ],
+    "word_list": [
+        {
+            "word": "CLEW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CLEWING",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "GWINE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LWEI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NEWEL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NEWIE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NGWEE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WEEL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WEEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WEENIE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WEENING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WEEWEE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WEEWEEING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "WELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WELLIE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WELLING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WIENIE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WIGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WIGGLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WIGGLING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "WILE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WILING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WILLIE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WILLING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WINCE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WINCING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WINE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WING",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WINGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WINING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WINNING",
+            "score": 4,
+            "pangram": false
+        }
+    ]
+}

@@ -1,0 +1,217 @@
+{
+    "letters": "DACMNOT",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 93,
+    "word_count": 39,
+    "pangram_count": 1,
+    "pangram_list": [
+        "COMMANDANT"
+    ],
+    "word_list": [
+        {
+            "word": "ADAMANT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ADMAN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ANACONDA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CODA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CODON",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COMMAND",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "COMMANDANT",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "COMMANDO",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CONDO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CONDOM",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CONODONT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DADA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DADO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DAMAN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DAMN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DATA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DATO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DATTO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DOAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DODO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DONA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DONNA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DOODAD",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DOODOO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DOOM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MACADAM",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MADAM",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MADMAN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MADONNA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MADTOM",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MONAD",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MONDO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MOOD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NADA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NOMAD",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OCTAD",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TOAD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOMCOD",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TONDO",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

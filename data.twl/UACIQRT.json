@@ -1,0 +1,172 @@
+{
+    "letters": "UACIQRT",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 82,
+    "word_count": 30,
+    "pangram_count": 1,
+    "pangram_list": [
+        "QUARTIC"
+    ],
+    "word_list": [
+        {
+            "word": "ACCIACCATURA",
+            "score": 9,
+            "pangram": false
+        },
+        {
+            "word": "ACQUIT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "AQUA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AQUARIA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "AQUATIC",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ARAUCARIA",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "AURA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AURAR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AURIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CIRCUIT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CRITTUR",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CRURA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CURARA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CURARI",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CURIA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CURR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CURT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "QUAI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "QUART",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "QUARTIC",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "QUIRT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "QUIT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TAUT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TUATARA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TUTTI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TUTU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "URARI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "URATIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "URIC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "URTICARIA",
+            "score": 6,
+            "pangram": false
+        }
+    ]
+}

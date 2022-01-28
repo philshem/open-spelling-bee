@@ -1,0 +1,242 @@
+{
+    "letters": "HBILPSU",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 96,
+    "word_count": 44,
+    "pangram_count": 1,
+    "pangram_list": [
+        "PUBLISH"
+    ],
+    "word_list": [
+        {
+            "word": "BLUISH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BLUSH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BUHL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BUHLS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BULLISH",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BUSH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HILI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HILLS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HILUS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HIPPISH",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HIPS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HISS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HUBBUB",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HUBBUBS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HUBS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HUIPIL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HUIPILS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HULLS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HUSH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LUSH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PHIS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PISH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PLUSH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PUBLISH",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "PUSH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PUSHUP",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PUSHUPS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "SHILL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SHILLS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SHIP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SHIPS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SHLUB",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SHLUBS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SHUL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SHULS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SHUSH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SLUSH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SUSHI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SUSHIS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "UPHILL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "UPHILLS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "UPPISH",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

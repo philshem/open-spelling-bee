@@ -1,0 +1,177 @@
+{
+    "letters": "ICFGNYZ",
+    "generation_info": {
+        "path": "word_lists/TWL06.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 92,
+    "word_count": 31,
+    "pangram_count": 1,
+    "pangram_list": [
+        "ZINCIFYING"
+    ],
+    "word_list": [
+        {
+            "word": "CYNIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FICIN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FIFING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FIGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FINING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FINNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FINNY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FIZGIG",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FIZZ",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FIZZING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FIZZY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GIGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GINNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GINNY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ICING",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "IFFY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "IGGING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "IGNIFY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "IGNIFYING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "INNING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NINNY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ZIGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ZINC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ZINCIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ZINCIFY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ZINCIFYING",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "ZINCING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ZINCY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ZING",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ZINGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ZINGY",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}
