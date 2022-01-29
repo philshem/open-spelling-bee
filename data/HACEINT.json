@@ -11,8 +11,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 113,
-    "word_count": 49,
+    "total_score": 117,
+    "word_count": 50,
     "pangram_count": 1,
     "pangram_list": [
         "TECHNICIAN"
@@ -26,6 +26,11 @@
         {
             "word": "ATTACH",
             "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ATTACHE",
+            "score": 4,
             "pangram": false
         },
         {

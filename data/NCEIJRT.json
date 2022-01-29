@@ -11,8 +11,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 97,
-    "word_count": 34,
+    "total_score": 100,
+    "word_count": 35,
     "pangram_count": 1,
     "pangram_list": [
         "INTERJECT"
@@ -55,6 +55,11 @@
         },
         {
             "word": "ENTIRE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ENTREE",
             "score": 3,
             "pangram": false
         },

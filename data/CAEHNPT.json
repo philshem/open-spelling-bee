@@ -11,8 +11,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 108,
-    "word_count": 45,
+    "total_score": 112,
+    "word_count": 46,
     "pangram_count": 1,
     "pangram_list": [
         "PENCHANT"
@@ -46,6 +46,11 @@
         {
             "word": "ATTACH",
             "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ATTACHE",
+            "score": 4,
             "pangram": false
         },
         {

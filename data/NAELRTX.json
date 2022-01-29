@@ -11,8 +11,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 120,
-    "word_count": 45,
+    "total_score": 123,
+    "word_count": 46,
     "pangram_count": 1,
     "pangram_list": [
         "EXTERNAL"
@@ -86,6 +86,11 @@
         {
             "word": "ENTREAT",
             "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ENTREE",
+            "score": 3,
             "pangram": false
         },
         {

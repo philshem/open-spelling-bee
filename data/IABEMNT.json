@@ -11,8 +11,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 109,
-    "word_count": 40,
+    "total_score": 113,
+    "word_count": 41,
     "pangram_count": 1,
     "pangram_list": [
         "AMBIENT"
@@ -146,6 +146,11 @@
         {
             "word": "MANIA",
             "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MATINEE",
+            "score": 4,
             "pangram": false
         },
         {

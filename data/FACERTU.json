@@ -11,8 +11,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 86,
-    "word_count": 37,
+    "total_score": 88,
+    "word_count": 39,
     "pangram_count": 1,
     "pangram_list": [
         "FRACTURE"
@@ -41,6 +41,11 @@
         {
             "word": "ARTEFACT",
             "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CAFE",
+            "score": 1,
             "pangram": false
         },
         {
@@ -126,6 +131,11 @@
         {
             "word": "FERRET",
             "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FETE",
+            "score": 1,
             "pangram": false
         },
         {

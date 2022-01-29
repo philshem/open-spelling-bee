@@ -11,8 +11,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 94,
-    "word_count": 37,
+    "total_score": 97,
+    "word_count": 38,
     "pangram_count": 1,
     "pangram_list": [
         "CLINCHED"
@@ -56,6 +56,11 @@
         {
             "word": "CLENCHED",
             "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CLICHE",
+            "score": 3,
             "pangram": false
         },
         {

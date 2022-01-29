@@ -11,8 +11,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 100,
-    "word_count": 34,
+    "total_score": 101,
+    "word_count": 35,
     "pangram_count": 1,
     "pangram_list": [
         "IDENTIFY"
@@ -96,6 +96,11 @@
         {
             "word": "FENDED",
             "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FETE",
+            "score": 1,
             "pangram": false
         },
         {

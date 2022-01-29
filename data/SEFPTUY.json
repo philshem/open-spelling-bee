@@ -11,8 +11,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 102,
-    "word_count": 49,
+    "total_score": 104,
+    "word_count": 50,
     "pangram_count": 1,
     "pangram_list": [
         "STUPEFY"
@@ -26,6 +26,11 @@
         {
             "word": "FEES",
             "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FETES",
+            "score": 2,
             "pangram": false
         },
         {

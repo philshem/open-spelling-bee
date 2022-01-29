@@ -11,8 +11,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 118,
-    "word_count": 49,
+    "total_score": 119,
+    "word_count": 50,
     "pangram_count": 1,
     "pangram_list": [
         "FAINTER"
@@ -111,6 +111,11 @@
         {
             "word": "FERRET",
             "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FETE",
+            "score": 1,
             "pangram": false
         },
         {

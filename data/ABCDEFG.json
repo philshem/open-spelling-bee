@@ -9,10 +9,10 @@
         "min_total_score": 80,
         "max_total_score": 120,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 68,
-    "word_count": 30,
+    "total_score": 69,
+    "word_count": 31,
     "pangram_count": 0,
     "pangram_list": [],
     "word_list": [
@@ -89,6 +89,11 @@
         {
             "word": "CABBED",
             "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CAFE",
+            "score": 1,
             "pangram": false
         },
         {

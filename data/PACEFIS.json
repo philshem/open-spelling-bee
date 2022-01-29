@@ -11,8 +11,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 109,
-    "word_count": 45,
+    "total_score": 111,
+    "word_count": 46,
     "pangram_count": 1,
     "pangram_list": [
         "PACIFIES"
@@ -111,6 +111,11 @@
         {
             "word": "PASS",
             "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PASSE",
+            "score": 2,
             "pangram": false
         },
         {

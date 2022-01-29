@@ -11,8 +11,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 106,
-    "word_count": 48,
+    "total_score": 109,
+    "word_count": 49,
     "pangram_count": 1,
     "pangram_list": [
         "CALORIE"
@@ -151,6 +151,11 @@
         {
             "word": "EARLIER",
             "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ECLAIR",
+            "score": 3,
             "pangram": false
         },
         {

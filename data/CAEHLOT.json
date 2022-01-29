@@ -11,8 +11,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 112,
-    "word_count": 49,
+    "total_score": 116,
+    "word_count": 50,
     "pangram_count": 1,
     "pangram_list": [
         "CHOCOLATE"
@@ -36,6 +36,11 @@
         {
             "word": "ATTACH",
             "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ATTACHE",
+            "score": 4,
             "pangram": false
         },
         {

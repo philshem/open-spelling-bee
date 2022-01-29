@@ -11,8 +11,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 81,
-    "word_count": 40,
+    "total_score": 82,
+    "word_count": 41,
     "pangram_count": 1,
     "pangram_list": [
         "REFORMAT"
@@ -86,6 +86,11 @@
         {
             "word": "FERRET",
             "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FETE",
+            "score": 1,
             "pangram": false
         },
         {

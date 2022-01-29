@@ -11,8 +11,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 88,
-    "word_count": 40,
+    "total_score": 89,
+    "word_count": 41,
     "pangram_count": 1,
     "pangram_list": [
         "REFLECTOR"
@@ -81,6 +81,11 @@
         {
             "word": "FERRET",
             "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FETE",
+            "score": 1,
             "pangram": false
         },
         {

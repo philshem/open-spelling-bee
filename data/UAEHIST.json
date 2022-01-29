@@ -11,8 +11,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 86,
-    "word_count": 31,
+    "total_score": 91,
+    "word_count": 33,
     "pangram_count": 1,
     "pangram_list": [
         "HIATUSES"
@@ -65,6 +65,16 @@
         },
         {
             "word": "ISSUES",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SAUTE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SAUTES",
             "score": 3,
             "pangram": false
         },

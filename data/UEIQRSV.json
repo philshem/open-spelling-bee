@@ -11,8 +11,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 86,
-    "word_count": 32,
+    "total_score": 89,
+    "word_count": 33,
     "pangram_count": 1,
     "pangram_list": [
         "QUIVERS"
@@ -95,6 +95,11 @@
         },
         {
             "word": "REVUES",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RISQUE",
             "score": 3,
             "pangram": false
         },

@@ -11,8 +11,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 98,
-    "word_count": 48,
+    "total_score": 99,
+    "word_count": 49,
     "pangram_count": 1,
     "pangram_list": [
         "TYPIFIED"
@@ -120,6 +120,11 @@
         },
         {
             "word": "FEET",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FETE",
             "score": 1,
             "pangram": false
         },

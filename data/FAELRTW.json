@@ -11,8 +11,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 109,
-    "word_count": 49,
+    "total_score": 110,
+    "word_count": 50,
     "pangram_count": 1,
     "pangram_list": [
         "WATERFALL"
@@ -106,6 +106,11 @@
         {
             "word": "FERRET",
             "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FETE",
+            "score": 1,
             "pangram": false
         },
         {

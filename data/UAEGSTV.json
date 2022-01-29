@@ -11,8 +11,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 104,
-    "word_count": 34,
+    "total_score": 109,
+    "word_count": 36,
     "pangram_count": 1,
     "pangram_list": [
         "VAGUEST"
@@ -91,6 +91,16 @@
         {
             "word": "SAUSAGES",
             "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "SAUTE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SAUTES",
+            "score": 3,
             "pangram": false
         },
         {

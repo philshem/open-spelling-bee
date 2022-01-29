@@ -11,8 +11,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 113,
-    "word_count": 37,
+    "total_score": 118,
+    "word_count": 39,
     "pangram_count": 1,
     "pangram_list": [
         "EVALUATES"
@@ -86,6 +86,16 @@
         {
             "word": "SALUTES",
             "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "SAUTE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SAUTES",
+            "score": 3,
             "pangram": false
         },
         {

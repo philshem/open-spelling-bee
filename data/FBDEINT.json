@@ -11,8 +11,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 107,
-    "word_count": 35,
+    "total_score": 108,
+    "word_count": 36,
     "pangram_count": 1,
     "pangram_list": [
         "BENEFITED"
@@ -116,6 +116,11 @@
         {
             "word": "FENDED",
             "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FETE",
+            "score": 1,
             "pangram": false
         },
         {

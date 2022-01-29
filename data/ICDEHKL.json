@@ -11,8 +11,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 87,
-    "word_count": 43,
+    "total_score": 90,
+    "word_count": 44,
     "pangram_count": 1,
     "pangram_list": [
         "CHILDLIKE"
@@ -65,6 +65,11 @@
         },
         {
             "word": "CHILLI",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CLICHE",
             "score": 3,
             "pangram": false
         },

@@ -11,8 +11,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 106,
-    "word_count": 48,
+    "total_score": 108,
+    "word_count": 50,
     "pangram_count": 1,
     "pangram_list": [
         "FACILITATE"
@@ -26,6 +26,11 @@
         {
             "word": "AFFILIATE",
             "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CAFE",
+            "score": 1,
             "pangram": false
         },
         {
@@ -130,6 +135,11 @@
         },
         {
             "word": "FELT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FETE",
             "score": 1,
             "pangram": false
         },

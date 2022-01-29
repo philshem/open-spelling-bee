@@ -11,8 +11,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 105,
-    "word_count": 35,
+    "total_score": 109,
+    "word_count": 36,
     "pangram_count": 1,
     "pangram_list": [
         "NAIVETY"
@@ -86,6 +86,11 @@
         {
             "word": "INVITE",
             "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NAIVETE",
+            "score": 4,
             "pangram": false
         },
         {

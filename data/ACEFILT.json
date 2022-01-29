@@ -11,8 +11,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 101,
-    "word_count": 43,
+    "total_score": 102,
+    "word_count": 44,
     "pangram_count": 1,
     "pangram_list": [
         "FACILITATE"
@@ -41,6 +41,11 @@
         {
             "word": "CACTI",
             "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CAFE",
+            "score": 1,
             "pangram": false
         },
         {

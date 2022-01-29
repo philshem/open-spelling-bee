@@ -11,8 +11,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 104,
-    "word_count": 48,
+    "total_score": 105,
+    "word_count": 49,
     "pangram_count": 1,
     "pangram_list": [
         "FLATTERY"
@@ -116,6 +116,11 @@
         {
             "word": "FERRY",
             "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FETE",
+            "score": 1,
             "pangram": false
         },
         {

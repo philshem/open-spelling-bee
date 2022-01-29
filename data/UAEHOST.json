@@ -11,8 +11,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 105,
-    "word_count": 40,
+    "total_score": 110,
+    "word_count": 42,
     "pangram_count": 1,
     "pangram_list": [
         "SOUTHEAST"
@@ -101,6 +101,16 @@
         {
             "word": "OUTSETS",
             "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "SAUTE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SAUTES",
+            "score": 3,
             "pangram": false
         },
         {

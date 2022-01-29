@@ -11,8 +11,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 101,
-    "word_count": 45,
+    "total_score": 104,
+    "word_count": 46,
     "pangram_count": 1,
     "pangram_list": [
         "FILCHED"
@@ -60,6 +60,11 @@
         },
         {
             "word": "CHILLI",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CLICHE",
             "score": 3,
             "pangram": false
         },

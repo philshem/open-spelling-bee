@@ -11,8 +11,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 84,
-    "word_count": 32,
+    "total_score": 91,
+    "word_count": 34,
     "pangram_count": 1,
     "pangram_list": [
         "VEHICLES"
@@ -75,6 +75,16 @@
         },
         {
             "word": "CHISELS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CLICHE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CLICHES",
             "score": 4,
             "pangram": false
         },

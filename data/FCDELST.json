@@ -11,8 +11,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 118,
-    "word_count": 45,
+    "total_score": 121,
+    "word_count": 47,
     "pangram_count": 1,
     "pangram_list": [
         "DEFLECTS"
@@ -169,7 +169,17 @@
             "pangram": false
         },
         {
+            "word": "FETE",
+            "score": 1,
+            "pangram": false
+        },
+        {
             "word": "FETED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FETES",
             "score": 2,
             "pangram": false
         },

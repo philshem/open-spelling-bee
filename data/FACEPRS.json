@@ -11,8 +11,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 82,
-    "word_count": 33,
+    "total_score": 85,
+    "word_count": 35,
     "pangram_count": 1,
     "pangram_list": [
         "PREFACES"
@@ -21,6 +21,16 @@
         {
             "word": "AFAR",
             "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CAFE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CAFES",
+            "score": 2,
             "pangram": false
         },
         {

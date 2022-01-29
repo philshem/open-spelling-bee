@@ -11,8 +11,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 107,
-    "word_count": 31,
+    "total_score": 108,
+    "word_count": 32,
     "pangram_count": 1,
     "pangram_list": [
         "INEFFECTIVE"
@@ -66,6 +66,11 @@
         {
             "word": "FEINT",
             "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FETE",
+            "score": 1,
             "pangram": false
         },
         {

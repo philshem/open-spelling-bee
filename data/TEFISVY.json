@@ -11,8 +11,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 91,
-    "word_count": 37,
+    "total_score": 94,
+    "word_count": 39,
     "pangram_count": 1,
     "pangram_list": [
         "FESTIVITY"
@@ -37,6 +37,16 @@
             "word": "FESTIVITY",
             "score": 6,
             "pangram": true
+        },
+        {
+            "word": "FETE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FETES",
+            "score": 2,
+            "pangram": false
         },
         {
             "word": "FIFTIES",

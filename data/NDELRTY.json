@@ -11,8 +11,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 113,
-    "word_count": 40,
+    "total_score": 116,
+    "word_count": 41,
     "pangram_count": 1,
     "pangram_list": [
         "TENDERLY"
@@ -51,6 +51,11 @@
         {
             "word": "ENTERED",
             "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ENTREE",
+            "score": 3,
             "pangram": false
         },
         {

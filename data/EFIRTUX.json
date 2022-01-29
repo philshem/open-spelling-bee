@@ -11,8 +11,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 97,
-    "word_count": 41,
+    "total_score": 98,
+    "word_count": 42,
     "pangram_count": 1,
     "pangram_list": [
         "FIXTURE"
@@ -46,6 +46,11 @@
         {
             "word": "FERRET",
             "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FETE",
+            "score": 1,
             "pangram": false
         },
         {

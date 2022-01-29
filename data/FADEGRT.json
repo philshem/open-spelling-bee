@@ -11,8 +11,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 120,
-    "word_count": 48,
+    "total_score": 121,
+    "word_count": 49,
     "pangram_count": 1,
     "pangram_list": [
         "GRAFTED"
@@ -156,6 +156,11 @@
         {
             "word": "FERRETED",
             "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FETE",
+            "score": 1,
             "pangram": false
         },
         {

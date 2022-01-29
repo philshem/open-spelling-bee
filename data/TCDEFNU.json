@@ -11,8 +11,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 85,
-    "word_count": 34,
+    "total_score": 86,
+    "word_count": 35,
     "pangram_count": 1,
     "pangram_list": [
         "DEFUNCT"
@@ -105,6 +105,11 @@
         },
         {
             "word": "FEET",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FETE",
             "score": 1,
             "pangram": false
         },

@@ -11,8 +11,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 102,
-    "word_count": 46,
+    "total_score": 108,
+    "word_count": 50,
     "pangram_count": 1,
     "pangram_list": [
         "FAUCETS"
@@ -26,6 +26,16 @@
         {
             "word": "AFFECTS",
             "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CAFE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CAFES",
+            "score": 2,
             "pangram": false
         },
         {
@@ -161,6 +171,16 @@
         {
             "word": "FEET",
             "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FETE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FETES",
+            "score": 2,
             "pangram": false
         },
         {

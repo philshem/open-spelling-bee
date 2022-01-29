@@ -11,8 +11,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 100,
-    "word_count": 39,
+    "total_score": 103,
+    "word_count": 40,
     "pangram_count": 1,
     "pangram_list": [
         "ENTIRELY"
@@ -45,6 +45,11 @@
         },
         {
             "word": "ENTITY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ENTREE",
             "score": 3,
             "pangram": false
         },

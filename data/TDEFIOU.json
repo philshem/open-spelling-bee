@@ -11,8 +11,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 86,
-    "word_count": 41,
+    "total_score": 87,
+    "word_count": 42,
     "pangram_count": 1,
     "pangram_list": [
         "OUTFITTED"
@@ -75,6 +75,11 @@
         },
         {
             "word": "FEET",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FETE",
             "score": 1,
             "pangram": false
         },

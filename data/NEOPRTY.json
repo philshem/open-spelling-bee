@@ -11,8 +11,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 81,
-    "word_count": 35,
+    "total_score": 84,
+    "word_count": 36,
     "pangram_count": 1,
     "pangram_list": [
         "ENTROPY"
@@ -21,6 +21,11 @@
         {
             "word": "ENTER",
             "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ENTREE",
+            "score": 3,
             "pangram": false
         },
         {

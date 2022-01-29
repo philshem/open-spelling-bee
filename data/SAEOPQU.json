@@ -11,8 +11,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 111,
-    "word_count": 49,
+    "total_score": 113,
+    "word_count": 50,
     "pangram_count": 1,
     "pangram_list": [
         "OPAQUES"
@@ -96,6 +96,11 @@
         {
             "word": "PASS",
             "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PASSE",
+            "score": 2,
             "pangram": false
         },
         {

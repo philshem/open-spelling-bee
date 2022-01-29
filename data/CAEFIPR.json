@@ -11,8 +11,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 91,
-    "word_count": 36,
+    "total_score": 92,
+    "word_count": 37,
     "pangram_count": 1,
     "pangram_list": [
         "PACIFIER"
@@ -26,6 +26,11 @@
         {
             "word": "APIECE",
             "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CAFE",
+            "score": 1,
             "pangram": false
         },
         {

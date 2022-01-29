@@ -11,8 +11,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 97,
-    "word_count": 45,
+    "total_score": 98,
+    "word_count": 46,
     "pangram_count": 1,
     "pangram_list": [
         "AFFLUENT"
@@ -80,6 +80,11 @@
         },
         {
             "word": "FELT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FETE",
             "score": 1,
             "pangram": false
         },

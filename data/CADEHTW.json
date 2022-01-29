@@ -11,8 +11,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 110,
-    "word_count": 40,
+    "total_score": 114,
+    "word_count": 41,
     "pangram_count": 1,
     "pangram_list": [
         "WATCHED"
@@ -51,6 +51,11 @@
         {
             "word": "ATTACH",
             "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ATTACHE",
+            "score": 4,
             "pangram": false
         },
         {
