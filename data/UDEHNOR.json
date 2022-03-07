@@ -1,0 +1,196 @@
+{
+    "letters": "UDEHNOR",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 77,
+    "word_count": 34,
+    "pangram_count": 1,
+    "pangram_list": [
+        "HONOURED"
+    ],
+    "word_list": [
+        {
+            "word": "DOUR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOURER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DUDE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUDED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DUNE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUNNO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ENDURE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ENDURED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HONOUR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HONOURED",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "HOUND",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HOUNDED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HOUR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HUED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HUNDRED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "NEURON",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NOUN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NUDE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NUDER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ODOUR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ROUND",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ROUNDED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ROUNDER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RUDDER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RUDE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RUDER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RUED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RUNE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RUNNER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "UDDER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UNDER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UNDO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "UNDONE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "UNDUE",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

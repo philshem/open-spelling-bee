@@ -1,0 +1,276 @@
+{
+    "letters": "DACEGHN",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 128,
+    "word_count": 50,
+    "pangram_count": 1,
+    "pangram_list": [
+        "CHANGED"
+    ],
+    "word_list": [
+        {
+            "word": "ACCEDE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ACCEDED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ACED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ACHED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ADAGE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ADDED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AGED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AGENDA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "AHEAD",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CACHED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CADENCE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CAGED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CANED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CANNED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CEDE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CEDED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHANCED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CHANGED",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "DANCE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DANCED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEAD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DEADEN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEADENED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DEAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DECADE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DECADENCE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DEED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DEEDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EDGE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EDGED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EGGED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ENDED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ENGAGED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ENHANCED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GAGGED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GANGED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GEED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HAND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HANDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HANGED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HEAD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HEADACHE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "HEADED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HEDGE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HEDGED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HEED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HEEDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NAGGED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NEED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NEEDED",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

@@ -1,0 +1,236 @@
+{
+    "letters": "GACIKMN",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 143,
+    "word_count": 42,
+    "pangram_count": 1,
+    "pangram_list": [
+        "NICKNAMING"
+    ],
+    "word_list": [
+        {
+            "word": "ACING",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AGAIN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AGING",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AIMING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CAGING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CAKING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CANING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CANNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GAGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GAIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GAINING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GAMING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GAMMA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GANG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GANGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GIGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GIMMICK",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GINNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ICING",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "IMAGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "IMAGINING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "INKING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "INNING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KICKING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "KING",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KINKING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MACING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MAGIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MAGICIAN",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MAIMING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MAKING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MANAGING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MANNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MIKING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MIMICKING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MIMING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MINCING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MINING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NAGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "NAMING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NICKING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "NICKNAMING",
+            "score": 7,
+            "pangram": true
+        }
+    ]
+}

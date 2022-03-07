@@ -1,0 +1,156 @@
+{
+    "letters": "KCDEIRT",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 68,
+    "word_count": 26,
+    "pangram_count": 1,
+    "pangram_list": [
+        "TRICKED"
+    ],
+    "word_list": [
+        {
+            "word": "CREEK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CRICKET",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DECK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DECKED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DERRICK",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DIKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DIKED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EKED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "IRKED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KICK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KICKED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KIDDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KITE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KITED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "REEK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "REEKED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RICKETIER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TICK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TICKED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TICKET",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TICKETED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TREK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TREKKED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TRICK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TRICKED",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "TRICKIER",
+            "score": 5,
+            "pangram": false
+        }
+    ]
+}

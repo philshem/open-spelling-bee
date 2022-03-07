@@ -1,0 +1,191 @@
+{
+    "letters": "EGHNORU",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 69,
+    "word_count": 33,
+    "pangram_count": 1,
+    "pangram_list": [
+        "ROUGHEN"
+    ],
+    "word_list": [
+        {
+            "word": "ENOUGH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ERGO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ERROR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GENE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GENRE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GONE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GONER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GORE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GORGE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GOUGE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GREEN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GREENER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GREENHORN",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "GUNNER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HERE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HERO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HERON",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HONE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HUGE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HUGER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HUNGER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NEON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NEURON",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NONE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OGRE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RENEGE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ROGUE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ROUGE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ROUGHEN",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "ROUGHER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RUNE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RUNNER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "URGE",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

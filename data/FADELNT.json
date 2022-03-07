@@ -1,0 +1,271 @@
+{
+    "letters": "FADELNT",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 132,
+    "word_count": 49,
+    "pangram_count": 1,
+    "pangram_list": [
+        "FLATTENED"
+    ],
+    "word_list": [
+        {
+            "word": "DAFT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DEAF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DEFEAT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEFEATED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DEFEND",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEFENDANT",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DEFENDED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DEFLATE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DEFLATED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DEFT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FADE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FADED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FALL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FALLEN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FANNED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FATAL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FATE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FATED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FATTEN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FATTENED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FEAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FEED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FEEL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FEET",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FELLED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FELT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FELTED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FEND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FENDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FETE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FETED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FLANNEL",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FLANNELED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "FLANNELLED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "FLAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FLATTED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FLATTEN",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FLATTENED",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "FLEA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FLED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FLEE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FLEET",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FLEETED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "LEAF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LEAFED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LEAFLET",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "LEAFLETED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "LEFT",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

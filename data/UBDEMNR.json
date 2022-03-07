@@ -1,0 +1,271 @@
+{
+    "letters": "UBDEMNR",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 137,
+    "word_count": 49,
+    "pangram_count": 1,
+    "pangram_list": [
+        "NUMBERED"
+    ],
+    "word_list": [
+        {
+            "word": "BUDDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BUMMED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BUMMER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BURDEN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BURDENED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BURN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BURNED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BURNER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BURR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BURRED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEMURE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEMURER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DRUM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DRUMMED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DRUMMER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DUBBED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DUDE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUDED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DUMB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUMBER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DUNE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ENDURE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ENDURED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MENU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MURDER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MURDERED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MURDERER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MURMUR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MURMURED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "NUDE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NUDER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NUMB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NUMBED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NUMBER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NUMBERED",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "RUBBED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RUBBER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RUDDER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RUDE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RUDER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RUED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RUMMER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RUNE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RUNNER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "UDDER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UNBURDEN",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "UNBURDENED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "UNDER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UNDUE",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

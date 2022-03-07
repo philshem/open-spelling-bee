@@ -1,0 +1,251 @@
+{
+    "letters": "LABEKNT",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 91,
+    "word_count": 45,
+    "pangram_count": 1,
+    "pangram_list": [
+        "BLANKET"
+    ],
+    "word_list": [
+        {
+            "word": "ABLE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ANAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ANKLE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BABBLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BALE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BALK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BALL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BALLET",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BANAL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BATTLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BEETLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BELT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BLAB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BLANK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BLANKET",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "BLATANT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BLEAK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BLEAT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ENABLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KEEL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KENNEL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KETTLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KNEEL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KNELT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LABEL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LAKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LANE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LATE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LATENT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LEAK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LEAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LEEK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LENT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NETTLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TABLE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TABLET",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TALE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TALENT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TALK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TALL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TATTLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TELLTALE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TENABLE",
+            "score": 4,
+            "pangram": false
+        }
+    ]
+}

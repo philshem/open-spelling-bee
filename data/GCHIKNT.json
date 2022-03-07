@@ -1,0 +1,226 @@
+{
+    "letters": "GCHIKNT",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 147,
+    "word_count": 40,
+    "pangram_count": 1,
+    "pangram_list": [
+        "HITCHHIKING"
+    ],
+    "word_list": [
+        {
+            "word": "CHINKING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CHINNING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CINCHING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CITING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GIGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GINNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HIGH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HIKING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HINGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HINTING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HITCHHIKING",
+            "score": 8,
+            "pangram": true
+        },
+        {
+            "word": "HITCHING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "HITTING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ICING",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "IGNITING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "INCHING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "INCITING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "INKING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "INNING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ITCHING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "KICKING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "KING",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KINKING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "KITING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KNIGHT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KNIGHTING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "KNITTING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "NICKING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "NIGH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NIGHT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "THIGH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "THING",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "THINKING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "THINNING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TICKING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TIGHT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TING",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TINGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TINNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TINTING",
+            "score": 4,
+            "pangram": false
+        }
+    ]
+}

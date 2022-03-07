@@ -1,0 +1,211 @@
+{
+    "letters": "DEIKQRU",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 83,
+    "word_count": 37,
+    "pangram_count": 1,
+    "pangram_list": [
+        "QUIRKED"
+    ],
+    "word_list": [
+        {
+            "word": "DEED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DEEDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DERIDE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DERIDED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DIED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DIKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DIKED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DIRE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DIRER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DRIED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DRIER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DUDE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUDED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DUKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EDDIED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EKED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ERRED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "IRKED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KIDDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "QUEERED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "QUERIED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "QUEUED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "QUIRKED",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "REDDER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REDID",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "REED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "REEKED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REQUIRED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RIDE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RIDER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RUDDER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RUDDIER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RUDE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RUDER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RUED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "UDDER",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

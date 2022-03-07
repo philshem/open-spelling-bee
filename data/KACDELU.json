@@ -1,0 +1,166 @@
+{
+    "letters": "KACDELU",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 60,
+    "word_count": 28,
+    "pangram_count": 1,
+    "pangram_list": [
+        "CAULKED"
+    ],
+    "word_list": [
+        {
+            "word": "CACKLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CACKLED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CAKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CAKED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CALK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CALKED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CAULK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CAULKED",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "CLACK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CLACKED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CLUCK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CLUCKED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DECK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DECKED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DUCK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUCKED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DUKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EKED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KEEL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KEELED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LACK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LACKED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LAKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LEAK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LEAKED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LEEK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LUCK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LUCKED",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

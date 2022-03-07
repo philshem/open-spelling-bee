@@ -1,0 +1,251 @@
+{
+    "letters": "WDEHILR",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 108,
+    "word_count": 45,
+    "pangram_count": 1,
+    "pangram_list": [
+        "WHIRLED"
+    ],
+    "word_list": [
+        {
+            "word": "DREW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DWELL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DWELLER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HEWED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LEWD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LEWDER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WEDDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WEDDER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WEED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WEEDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WEEDIER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WEER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WEIRD",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WEIRDER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WELD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WELDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WELDER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WELLED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WERE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WHEEDLE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WHEEDLED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "WHEEL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WHEELED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WHERE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WHEW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WHILE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WHILED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WHIR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WHIRL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WHIRLED",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "WHIRR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WHIRRED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WIDE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WIDER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WIELD",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WIELDED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WILD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WILDER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WILIER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WILLED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WIRE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WIRED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WIRIER",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

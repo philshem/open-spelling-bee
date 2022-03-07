@@ -1,0 +1,171 @@
+{
+    "letters": "IAEFMRW",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 65,
+    "word_count": 29,
+    "pangram_count": 1,
+    "pangram_list": [
+        "FIRMWARE"
+    ],
+    "word_list": [
+        {
+            "word": "AFFAIR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "AFFIRM",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "AIRIER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ARIA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EERIE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EERIER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EMIR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FAIR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FAIRER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FIERIER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FIRE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FIREARM",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FIRM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FIRMER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FIRMWARE",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "FRIAR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MAIM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MARIA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MERRIER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MIME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MIRE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RIFE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RIFER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WAIF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WARIER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WEARIER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WIFE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WIRE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WIRIER",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

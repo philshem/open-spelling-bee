@@ -1,0 +1,181 @@
+{
+    "letters": "NABELRV",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 68,
+    "word_count": 31,
+    "pangram_count": 1,
+    "pangram_list": [
+        "VENERABLE"
+    ],
+    "word_list": [
+        {
+            "word": "ANAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ARENA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BANAL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BANANA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BANNER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BARN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BARREN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BARRENER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BEAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BEEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BRAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EARN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EARNER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ELEVEN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ENABLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EVEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EVENER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LANE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LEAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LEANER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LEARN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NAVAL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NAVEL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NEAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NEARER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NERVE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NEVER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RAVEN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VANE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VENEER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VENERABLE",
+            "score": 6,
+            "pangram": true
+        }
+    ]
+}

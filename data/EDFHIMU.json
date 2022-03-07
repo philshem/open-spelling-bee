@@ -1,0 +1,186 @@
+{
+    "letters": "EDFHIMU",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 77,
+    "word_count": 32,
+    "pangram_count": 1,
+    "pangram_list": [
+        "HUMIDIFIED"
+    ],
+    "word_list": [
+        {
+            "word": "DEED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DEEDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEEM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DEEMED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEFIED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEIFIED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DIED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DIME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DIMMED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DUDE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUDED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EDDIED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FEED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FEUD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FEUDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FUME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FUMED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HEED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HEEDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HEMMED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HIDE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HIDED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HUED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HUFFED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HUMIDIFIED",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "HUMMED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MEDIUM",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MIME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MIMED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MUDDIED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MUFFED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MUMMIFIED",
+            "score": 6,
+            "pangram": false
+        }
+    ]
+}

@@ -1,0 +1,206 @@
+{
+    "letters": "MDEHOTU",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 71,
+    "word_count": 36,
+    "pangram_count": 1,
+    "pangram_list": [
+        "MOUTHED"
+    ],
+    "word_list": [
+        {
+            "word": "DEEM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DEEMED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEMOTE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEMOTED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DOME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOMED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DOOM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOOMED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HEMMED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HOME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HOMED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HUMMED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MEET",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MEMO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "METE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "METED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "METHOD",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MODE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOOD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOOED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MOOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOOTED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MOTH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOTTO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MOUTH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MOUTHED",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "MUTE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MUTED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MUTT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OUTMODED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TEEM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TEEMED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "THEM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "THEME",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TOME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOTEM",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

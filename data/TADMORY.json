@@ -1,0 +1,191 @@
+{
+    "letters": "TADMORY",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 67,
+    "word_count": 33,
+    "pangram_count": 1,
+    "pangram_list": [
+        "MARTYRDOM"
+    ],
+    "word_list": [
+        {
+            "word": "AORTA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ATOM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DART",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DATA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MART",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MARTYR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MARTYRDOM",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "MATADOR",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MATT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MORTAR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MOTOR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MOTTO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ORATOR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ORATORY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RATTY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ROOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROTARY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ROTOR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TARDY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TARRY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TART",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TARTAR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TATTOO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TATTY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TOAD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TODAY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TOMATO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TOOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TRAY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TROD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TROT",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

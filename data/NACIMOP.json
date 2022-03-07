@@ -1,0 +1,156 @@
+{
+    "letters": "NACIMOP",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 67,
+    "word_count": 26,
+    "pangram_count": 1,
+    "pangram_list": [
+        "COMPANION"
+    ],
+    "word_list": [
+        {
+            "word": "AMMONIA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ANON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CANNON",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CANON",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CINNAMON",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "COCOON",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COMMON",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COMPANION",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "ICON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MAIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MANIA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MANIAC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MANIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MINION",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MOAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NINCOMPOOP",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "NOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ONION",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OPINION",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PAIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PANIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PIANO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PICNIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PINION",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

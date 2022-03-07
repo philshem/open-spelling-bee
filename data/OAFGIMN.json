@@ -1,0 +1,151 @@
+{
+    "letters": "OAFGIMN",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 60,
+    "word_count": 25,
+    "pangram_count": 1,
+    "pangram_list": [
+        "FOAMING"
+    ],
+    "word_list": [
+        {
+            "word": "AMMONIA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "AMONG",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ANON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FOAM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FOAMING",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "FOGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GOING",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GONG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GONGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GONNA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GOOF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOOFING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "INFO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MANGO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MINION",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MOAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOANING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MOOING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOONING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "NOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OFFING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ONGOING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ONION",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

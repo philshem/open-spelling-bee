@@ -1,0 +1,206 @@
+{
+    "letters": "OCIMNTU",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 98,
+    "word_count": 36,
+    "pangram_count": 1,
+    "pangram_list": [
+        "CONTINUUM"
+    ],
+    "word_list": [
+        {
+            "word": "COCONUT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "COCOON",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COMIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COMMIT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COMMON",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COMMOTION",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "COMMUNION",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CONCOCT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CONCOCTION",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "CONTINUUM",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "COTTON",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COUNT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ICON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "INTO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "INTUITION",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MINION",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOTION",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MOTTO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MOUNT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MUTTON",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NOTION",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NOUN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OMIT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ONION",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ONTO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TONIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TOOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOUT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TUITION",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "UNCOMMON",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "UNION",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UNTO",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

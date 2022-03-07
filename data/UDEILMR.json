@@ -1,0 +1,261 @@
+{
+    "letters": "UDEILMR",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 126,
+    "word_count": 47,
+    "pangram_count": 1,
+    "pangram_list": [
+        "DELIRIUM"
+    ],
+    "word_list": [
+        {
+            "word": "DELIRIUM",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "DELUDE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DELUDED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DEMURE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEMURER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DRUM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DRUMMED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DRUMMER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DUDE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUDED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DUEL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUELED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DUELLED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DULLED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DULLER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ELUDE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ELUDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LIEU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LULLED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LURE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LURED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LURID",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MEDIUM",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MUDDIED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MUDDIER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MUDDLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MUDDLED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MULE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MULLED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MURDER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MURDERED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MURDERER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MURMUR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MURMURED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RUDDER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RUDDIER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RUDE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RUDER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RUED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RULE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RULED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RULER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RUMMER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "UDDER",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

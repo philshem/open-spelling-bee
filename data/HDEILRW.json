@@ -1,0 +1,176 @@
+{
+    "letters": "HDEILRW",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 65,
+    "word_count": 30,
+    "pangram_count": 1,
+    "pangram_list": [
+        "WHIRLED"
+    ],
+    "word_list": [
+        {
+            "word": "HEED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HEEDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HEEL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HEELED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HEIR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HELD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HERD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HERDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HERE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HEWED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HIDE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HIDED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HILLIER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HIRE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HIRED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WHEEDLE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WHEEDLED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "WHEEL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WHEELED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WHERE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WHEW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WHILE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WHILED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WHIR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WHIRL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WHIRLED",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "WHIRR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WHIRRED",
+            "score": 4,
+            "pangram": false
+        }
+    ]
+}

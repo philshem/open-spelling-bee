@@ -1,0 +1,216 @@
+{
+    "letters": "IDGLMNP",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 124,
+    "word_count": 38,
+    "pangram_count": 1,
+    "pangram_list": [
+        "DIMPLING"
+    ],
+    "word_list": [
+        {
+            "word": "DIGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DIMMING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DIMPLING",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "DINING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DINNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DIPPING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GIGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GIGGLING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GILD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GILDING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GINNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GLIDING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "IDLING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "IMPINGING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "INNING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LIMING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LIMP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LIMPING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "LINING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MILD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MILLING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MIMING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MIND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MINDING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MINGLING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MINING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NIPPING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PIDDLING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PIGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PILING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PILLING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PINING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PINNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PIPING",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

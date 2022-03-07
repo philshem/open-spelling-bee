@@ -1,0 +1,176 @@
+{
+    "letters": "ECOPRUY",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 66,
+    "word_count": 30,
+    "pangram_count": 1,
+    "pangram_list": [
+        "PREOCCUPY"
+    ],
+    "word_list": [
+        {
+            "word": "COERCE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COOPER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COPE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COPPER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CORE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COYER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CREEP",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CREEPY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CREPE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CURE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ERROR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PEEP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PEER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PEPPER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "POORER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "POPE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PORE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PREOCCUPY",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "PREY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PROCURE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PROPER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PROPERER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PURE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PUREE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PURER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PYRE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RECOUP",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RECUR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ROPE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "UPPER",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

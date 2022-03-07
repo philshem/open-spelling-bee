@@ -1,0 +1,231 @@
+{
+    "letters": "GEILMNP",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 139,
+    "word_count": 41,
+    "pangram_count": 1,
+    "pangram_list": [
+        "IMPELLING"
+    ],
+    "word_list": [
+        {
+            "word": "EGGING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ENGINE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GEEING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GENE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GENIE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GENII",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GIGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GIGGLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GIGGLING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GIMME",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GINNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GLEE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GLEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "IMPELLING",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "IMPINGE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "IMPINGING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "INNING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LEGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "LIMING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LIMPING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "LINING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MILLING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MIMING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MINGLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MINGLING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MINING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NEGLIGEE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "NIPPING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PEELING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PEEPING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PEGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PENNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PEPPING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PIGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PIGPEN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PILING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PILLING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PINING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PINNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PIPING",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

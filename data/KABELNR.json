@@ -1,0 +1,191 @@
+{
+    "letters": "KABELNR",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 65,
+    "word_count": 33,
+    "pangram_count": 1,
+    "pangram_list": [
+        "BLANKER"
+    ],
+    "word_list": [
+        {
+            "word": "ANKLE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BAKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BAKER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BALK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BANK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BANKER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BARK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BEAK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BEAKER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BLANK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BLANKER",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "BLEAK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BLEAKER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BRAKE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BREAK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BREAKABLE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "KEEL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KEEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KEENER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KENNEL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KERB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KERNEL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KNEE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KNEEL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LAKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LARK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LEAK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LEEK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RAKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RANK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RANKER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RANKLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REEK",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

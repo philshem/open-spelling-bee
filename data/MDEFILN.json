@@ -1,0 +1,171 @@
+{
+    "letters": "MDEFILN",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 67,
+    "word_count": 29,
+    "pangram_count": 1,
+    "pangram_list": [
+        "MINEFIELD"
+    ],
+    "word_list": [
+        {
+            "word": "DEEM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DEEMED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DENIM",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DIME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DIMMED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FEMININE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FILM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FILMED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LEMME",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LIME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LIMED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MEDDLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MEDDLED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MEND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MENDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MIDDLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MIDDLEMEN",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MIEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MILD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MILE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MILLED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MIME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MIMED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MIND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MINDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MINE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MINED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MINEFIELD",
+            "score": 6,
+            "pangram": true
+        }
+    ]
+}

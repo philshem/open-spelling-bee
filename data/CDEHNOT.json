@@ -1,0 +1,241 @@
+{
+    "letters": "CDEHNOT",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 144,
+    "word_count": 43,
+    "pangram_count": 1,
+    "pangram_list": [
+        "NOTCHED"
+    ],
+    "word_list": [
+        {
+            "word": "CEDE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CEDED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CENT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COCOON",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COCOONED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CODDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CODE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CODED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CONCEDE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CONCEDED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CONCOCT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CONCOCTED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CONDONE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CONDONED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CONE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CONNECT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CONNECTED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CONNED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CONNOTE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CONNOTED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CONTEND",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CONTENDED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CONTENT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CONTENTED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "COOED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COTTON",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COTTONED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DECENT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DECODE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DECODED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DETECT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DETECTED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ECHO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ECHOED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ENCODE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ENCODED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ETCH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ETCHED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HENCE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NOTCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NOTCHED",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "ONCE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "THENCE",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

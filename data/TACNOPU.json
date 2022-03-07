@@ -1,0 +1,196 @@
+{
+    "letters": "TACNOPU",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 76,
+    "word_count": 34,
+    "pangram_count": 1,
+    "pangram_list": [
+        "OCCUPANT"
+    ],
+    "word_list": [
+        {
+            "word": "ACCOUNT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ACCOUNTANT",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "AUNT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AUTO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CANNOT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CANT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CATNAP",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COCONUT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CONCOCT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CONTACT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "COTTON",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COUNT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OCCUPANT",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "ONTO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OUTPUT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PACT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PANT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PONTOON",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "POTATO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "POUT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PUNT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PUTT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TACO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TACT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TATTOO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TAUNT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TAUT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOUCAN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TOUT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TUNA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "UNCUT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UNTO",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

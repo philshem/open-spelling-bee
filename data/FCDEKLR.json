@@ -1,0 +1,161 @@
+{
+    "letters": "FCDEKLR",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 72,
+    "word_count": 27,
+    "pangram_count": 1,
+    "pangram_list": [
+        "FRECKLED"
+    ],
+    "word_list": [
+        {
+            "word": "CLEF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DEFER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DEFERRED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FEED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FEEDER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FEEL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FEELER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FELLED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FELLER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FLECK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FLECKED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FLED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FLEE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FLEECE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FLEECED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FRECKLE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FRECKLED",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "FREE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FREED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FREER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "REEF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "REEFED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REFER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "REFEREE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "REFEREED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "REFERRED",
+            "score": 5,
+            "pangram": false
+        }
+    ]
+}

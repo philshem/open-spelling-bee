@@ -1,0 +1,236 @@
+{
+    "letters": "TACINOX",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 141,
+    "word_count": 42,
+    "pangram_count": 1,
+    "pangram_list": [
+        "INTOXICATION"
+    ],
+    "word_list": [
+        {
+            "word": "ACTION",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ANNOTATION",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "ANOINT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ANTIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ATTAIN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ATTIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CACTI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CANNOT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CANT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CITATION",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "COAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CONCOCT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CONCOCTION",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "CONNOTATION",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "CONTACT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CONTAIN",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "COTTON",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "INACTION",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "INCANTATION",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "INITIATION",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "INTACT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "INTO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "INTONATION",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "INTOXICATION",
+            "score": 9,
+            "pangram": true
+        },
+        {
+            "word": "IOTA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NATION",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NOTATION",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "NOTION",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ONTO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TACIT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TACO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TACT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TACTIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TAINT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TATTOO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TAXATION",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TAXI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TINT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TONIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TOOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOXIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TOXIN",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

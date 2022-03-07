@@ -1,0 +1,276 @@
+{
+    "letters": "HAEFIRT",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 145,
+    "word_count": 50,
+    "pangram_count": 1,
+    "pangram_list": [
+        "FEATHERIER"
+    ],
+    "word_list": [
+        {
+            "word": "EARTH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EARTHIER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "EITHER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ETHER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FAITH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FARTHER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FATHER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FEATHER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FEATHERIER",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "FIFTH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FIFTIETH",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "HAIR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HAIRIER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HARE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HART",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HATE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HEAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HEART",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HEARTH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HEARTIER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "HEAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HEATER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HEATH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HEATHER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HEFTIER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HEIFER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HEIR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HERE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HEREAFTER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "HIRE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HITHER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RATHER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TEETH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TEETHE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TETHER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "THAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "THEATER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "THEATRE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "THEE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "THEFT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "THEIR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "THERE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "THEREAFTER",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "THETA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "THIEF",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "THIRTIETH",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "THREAT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "THREE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "THRIFT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "THRIFTIER",
+            "score": 6,
+            "pangram": false
+        }
+    ]
+}

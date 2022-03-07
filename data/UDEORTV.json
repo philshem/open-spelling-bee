@@ -1,0 +1,261 @@
+{
+    "letters": "UDEORTV",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 126,
+    "word_count": 47,
+    "pangram_count": 1,
+    "pangram_list": [
+        "DEVOUTER"
+    ],
+    "word_list": [
+        {
+            "word": "DETOUR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DETOURED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DEVOUR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEVOURED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DEVOUT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEVOUTER",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "DOUR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOURER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DUDE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUDED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DUET",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUVET",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ODOUR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OUTDO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OUTDOOR",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "OUTED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OUTER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OVERDUE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "OVERTURE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "REROUTE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "REROUTED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "REVUE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ROUT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROUTE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ROUTED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ROUTER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RUDDER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RUDE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RUDER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RUED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RUTTED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TORTURE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TORTURED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TOUR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOURED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TOUT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOUTED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TROUT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TRUE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TRUED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TRUER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TURRET",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TUTOR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TUTORED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "UDDER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UTTER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UTTERED",
+            "score": 4,
+            "pangram": false
+        }
+    ]
+}

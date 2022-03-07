@@ -1,0 +1,176 @@
+{
+    "letters": "BEHILRT",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 76,
+    "word_count": 30,
+    "pangram_count": 1,
+    "pangram_list": [
+        "BLITHER"
+    ],
+    "word_list": [
+        {
+            "word": "BEER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BEET",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BEETLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BELIE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BELITTLE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BELT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BERET",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BERTH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BETTER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BIBLE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BILE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BIRTH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BITE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BITTER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BITTERER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BLITHE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BLITHER",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "BRIBE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BRITTLE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BRITTLER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "HERB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LIBEL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "REBEL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "REBIRTH",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TERRIBLE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TITBIT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TREBLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TRIBE",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

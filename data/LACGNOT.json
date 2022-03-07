@@ -1,0 +1,231 @@
+{
+    "letters": "LACGNOT",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 72,
+    "word_count": 41,
+    "pangram_count": 1,
+    "pangram_list": [
+        "OCTAGONAL"
+    ],
+    "word_list": [
+        {
+            "word": "ALGA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ALLOT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ALONG",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ALTO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ANAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ANALOG",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CALL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CANAL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CATALOG",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CATCALL",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CLAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CLANG",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CLOG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CLOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COLON",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COLT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COOL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GALA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GALL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GALLANT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GALLON",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GLOAT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GOAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LAGOON",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LOAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOCAL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LOGO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOLL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LONG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OCTAGONAL",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "OCTAL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TALC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TALL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TALON",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TOLL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TONAL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TOOL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOTAL",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

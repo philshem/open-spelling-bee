@@ -1,0 +1,201 @@
+{
+    "letters": "EADHIWY",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 67,
+    "word_count": 35,
+    "pangram_count": 1,
+    "pangram_list": [
+        "HIDEAWAY"
+    ],
+    "word_list": [
+        {
+            "word": "ADDED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AHEAD",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AIDE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AIDED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AWED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DEAD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DEED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DEEDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DIED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DYED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EDDIED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EDDY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EYED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HAYED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HEAD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HEADED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HEADWAY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HEADY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HEED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HEEDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HEWED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HEYDAY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HIDE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HIDEAWAY",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "HIDED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "IDEA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WADDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WADE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WADED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WEDDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WEED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WEEDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WEEDY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WHEW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WIDE",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

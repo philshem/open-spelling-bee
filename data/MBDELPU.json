@@ -1,0 +1,211 @@
+{
+    "letters": "MBDELPU",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 105,
+    "word_count": 37,
+    "pangram_count": 1,
+    "pangram_list": [
+        "PLUMBED"
+    ],
+    "word_list": [
+        {
+            "word": "BUMBLEBEE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BUMMED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BUMP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BUMPED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEEM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DEEMED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DUMB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUMBBELL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DUMP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUMPED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EMBED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EMBEDDED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "EMBLEM",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LEMME",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LUMP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LUMPED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MEDDLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MEDDLED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MUDDLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MUDDLED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MULE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MULLED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MUMBLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MUMBLED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PLUM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PLUMB",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PLUMBED",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "PLUME",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PLUMED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PLUMP",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PLUMPED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PUMMEL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PUMMELED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PUMMELLED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PUMP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PUMPED",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

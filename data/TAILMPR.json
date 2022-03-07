@@ -1,0 +1,191 @@
+{
+    "letters": "TAILMPR",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 69,
+    "word_count": 33,
+    "pangram_count": 1,
+    "pangram_list": [
+        "IMPARTIAL"
+    ],
+    "word_list": [
+        {
+            "word": "ALTAR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "APART",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ARMPIT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "IMPART",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "IMPARTIAL",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "LILT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LIMIT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MALT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MARITAL",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MART",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MARTIAL",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MATT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MILITIA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MITT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PALATIAL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PART",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PARTIAL",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RAPT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TAIL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TALL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TART",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TARTAR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TIARA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TILT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TRAIL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TRAIT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TRAMP",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TRAP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TRIAL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TRILL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TRIM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TRIP",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

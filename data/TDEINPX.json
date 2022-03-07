@@ -1,0 +1,271 @@
+{
+    "letters": "TDEINPX",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 140,
+    "word_count": 49,
+    "pangram_count": 1,
+    "pangram_list": [
+        "EXPEDIENT"
+    ],
+    "word_list": [
+        {
+            "word": "DENT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DENTED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEPENDENT",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DIET",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DIETED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EDIT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EDITED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EXIT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EXITED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EXPEDIENT",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "EXPEDITE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "EXPEDITED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "EXTEND",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EXTENDED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "EXTENT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "INDENT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "INDENTED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "INDEPENDENT",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "INEPT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "INTEND",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "INTENDED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "INTENT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NETTED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NEXT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NINETEEN",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PENITENT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PETITE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PETTED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PINT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PITIED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PITTED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TEED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TEEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TEND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TENDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TENET",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TENT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TENTED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TEPEE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TEPID",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TEXT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TIDE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TIDED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TIDIED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TIED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TINNED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TINT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TINTED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TIPPED",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

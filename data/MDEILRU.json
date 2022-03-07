@@ -1,0 +1,276 @@
+{
+    "letters": "MDEILRU",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 140,
+    "word_count": 50,
+    "pangram_count": 1,
+    "pangram_list": [
+        "DELIRIUM"
+    ],
+    "word_list": [
+        {
+            "word": "DEEM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DEEMED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DELIRIUM",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "DEMURE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEMURER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DIME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DIMER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DIMMED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DIMMER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DRUM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DRUMMED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DRUMMER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "EMIR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LEMME",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LIME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LIMED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MEDDLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MEDDLED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MEDDLER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MEDIUM",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MERE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MERRIER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MIDDLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MILD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MILDER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MILE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MILLED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MILLER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MIME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MIMED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MIRE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MIRED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MUDDIED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MUDDIER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MUDDLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MUDDLED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MULE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MULLED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MURDER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MURDERED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MURDERER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MURMUR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MURMURED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "REDEEM",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REDEEMED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "REMEDIED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RIMMED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RUMMER",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

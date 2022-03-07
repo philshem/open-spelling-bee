@@ -1,0 +1,156 @@
+{
+    "letters": "MCEINOU",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 77,
+    "word_count": 26,
+    "pangram_count": 1,
+    "pangram_list": [
+        "UNECONOMIC"
+    ],
+    "word_list": [
+        {
+            "word": "COME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COMIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COMMENCE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "COMMON",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COMMUNE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "COMMUNION",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ECONOMIC",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "EMINENCE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "IMMUNE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "INCOME",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MEMO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MENU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MICE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MIEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MIME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MIMIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MINCE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MINE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MINIMUM",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MINION",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MNEMONIC",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NOMINEE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "OMEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "UNCOMMON",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "UNECONOMIC",
+            "score": 7,
+            "pangram": true
+        }
+    ]
+}

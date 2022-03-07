@@ -1,0 +1,276 @@
+{
+    "letters": "TAELOPU",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 109,
+    "word_count": 50,
+    "pangram_count": 1,
+    "pangram_list": [
+        "POPULATE"
+    ],
+    "word_list": [
+        {
+            "word": "ALLOT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ALTO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AUTO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EPAULET",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "EPAULETTE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "LATE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LEAPT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LETUP",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LOOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LUTE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OUTLET",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "OUTPUT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PALATE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PALETTE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PATE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PEAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PELLET",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PELT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PETAL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PLATE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PLATEAU",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PLEAT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PLOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POET",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POLLUTE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "POPULATE",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "POTATO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "POUT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PUPPET",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PUTT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TALE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TALL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TAPE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TATTLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TATTOO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TAUT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TEAPOT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TEAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TEETOTAL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TELLTALE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TEPEE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TOLL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOOL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOPPLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TOTAL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TOTE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOUPEE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TOUT",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

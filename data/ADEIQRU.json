@@ -1,0 +1,201 @@
+{
+    "letters": "ADEIQRU",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 77,
+    "word_count": 35,
+    "pangram_count": 1,
+    "pangram_list": [
+        "QUARRIED"
+    ],
+    "word_list": [
+        {
+            "word": "ADDED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AIDE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AIDED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AIRED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AIRIER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "AREA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ARIA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ARID",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AURA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DARE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DARED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DEAD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DEADER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DEARER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DREAD",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DREADED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DREARIER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "IDEA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "QUARRIED",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "RADAR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RADII",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RAID",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RAIDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RAIDER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RARE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RARED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RARER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "READ",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "READER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "READIED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "READIER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "REAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "REARED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REREAD",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

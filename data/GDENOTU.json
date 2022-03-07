@@ -1,0 +1,181 @@
+{
+    "letters": "GDENOTU",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 68,
+    "word_count": 31,
+    "pangram_count": 1,
+    "pangram_list": [
+        "TONGUED"
+    ],
+    "word_list": [
+        {
+            "word": "DODGE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DODGED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DOGGED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DUGOUT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DUNG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUNGED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DUNGEON",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "EDGE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EDGED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EGGED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GEED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GENE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GENT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GONE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GONG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GONGED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GOOD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOTTEN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GOUGE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GOUGED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GOUT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GUNNED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GUTTED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NUDGE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NUDGED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NUGGET",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TONG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TONGUE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TONGUED",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "TUGGED",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

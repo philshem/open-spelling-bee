@@ -1,0 +1,191 @@
+{
+    "letters": "NGILPUZ",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 123,
+    "word_count": 33,
+    "pangram_count": 1,
+    "pangram_list": [
+        "PUZZLING"
+    ],
+    "word_list": [
+        {
+            "word": "GIGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GIGGLING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GINNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GLUING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GULLING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GULPING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GUNNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GUZZLING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "INNING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LINING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LUGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "LULLING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "LUNG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LUNGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "LUPIN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NIPPING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "NULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NUZZLING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PIGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PILING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PILLING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PINING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PINNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PIPING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PLUGGING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PLUNGING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PULLING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PULPING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PUNNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PUPPING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PUZZLING",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "UPPING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ZIPPING",
+            "score": 4,
+            "pangram": false
+        }
+    ]
+}

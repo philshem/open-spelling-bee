@@ -1,0 +1,221 @@
+{
+    "letters": "PEILMOT",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 73,
+    "word_count": 39,
+    "pangram_count": 1,
+    "pangram_list": [
+        "IMPOLITE"
+    ],
+    "word_list": [
+        {
+            "word": "ELOPE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EPITOME",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "IMPEL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "IMPOLITE",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "LIMP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOLLIPOP",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LOOP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOPE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOPE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PEEL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PEEP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PELLET",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PELT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PEOPLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PETITE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PILE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PILOT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PIMPLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PIPE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PLOP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PLOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POEM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POET",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POLE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POLIO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "POLITE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "POLL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POLO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POMP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POOL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POOP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POPE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TEMPLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TEMPO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TEMPT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TEPEE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TIPTOE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TOPPLE",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

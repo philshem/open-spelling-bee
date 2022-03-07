@@ -1,0 +1,196 @@
+{
+    "letters": "OEFLRVW",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 74,
+    "word_count": 34,
+    "pangram_count": 1,
+    "pangram_list": [
+        "OVERFLOW"
+    ],
+    "word_list": [
+        {
+            "word": "ERROR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EVOLVE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FELLOW",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FERVOR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FLOOR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FLOW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FLOWER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FOLLOW",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FOLLOWER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FOOL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FORE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FOREVER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FOWL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOLL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LORE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOVE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOVER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LOWER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OFFER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OVER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OVERFLOW",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "REVOLVE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "REVOLVER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ROLE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROLL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROLLER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ROOF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VOWEL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WEREWOLF",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "WOLF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WOOF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WOOL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WORE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WOVE",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

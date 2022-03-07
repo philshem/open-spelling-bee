@@ -1,0 +1,196 @@
+{
+    "letters": "EAILTVX",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 75,
+    "word_count": 34,
+    "pangram_count": 1,
+    "pangram_list": [
+        "LAXATIVE"
+    ],
+    "word_list": [
+        {
+            "word": "ALIVE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ALLEVIATE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "AXLE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EAVE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ELEVATE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ELITE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EVIL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EXALT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EXILE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EXIT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LATE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LATEX",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LAXATIVE",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "LEAVE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LEVEE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LEVEL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LITTLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LIVE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TALE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TATTLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TEAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TELLTALE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TEXT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TEXTILE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TILE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TITILLATE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TITLE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VALET",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VALVE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VEAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VEIL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VELVET",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VILE",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

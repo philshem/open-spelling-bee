@@ -1,0 +1,171 @@
+{
+    "letters": "NACEMPR",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 71,
+    "word_count": 29,
+    "pangram_count": 1,
+    "pangram_list": [
+        "PERMANENCE"
+    ],
+    "word_list": [
+        {
+            "word": "ACNE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AMEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "APPEARANCE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "ARCANE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ARENA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CANCER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CANE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CRANE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EARN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EARNER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ENEMA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MANE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MANNER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MEAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MEANER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MENACE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NAME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NAPE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NEAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NEARER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PANACEA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PANE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PECAN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PENANCE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PENCE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PERMANENCE",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "PRANCE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PREEN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RENAME",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

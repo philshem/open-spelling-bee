@@ -1,0 +1,186 @@
+{
+    "letters": "OACIRTU",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 68,
+    "word_count": 32,
+    "pangram_count": 1,
+    "pangram_list": [
+        "AUTOCRATIC"
+    ],
+    "word_list": [
+        {
+            "word": "ACTOR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AORTA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AUTO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AUTOCRAT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "AUTOCRATIC",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "CACAO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CARROT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COCOA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COURT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CURATOR",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CURIO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "IOTA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OCCUR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ORATOR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RATIO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RIOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROTOR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ROUT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TACO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TATTOO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TOOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOUR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOUT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TRACTOR",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TRAITOR",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TRIO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TROT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TROUT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TUTOR",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

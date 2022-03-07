@@ -1,0 +1,181 @@
+{
+    "letters": "MEILNPT",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 66,
+    "word_count": 31,
+    "pangram_count": 1,
+    "pangram_list": [
+        "IMPLEMENT"
+    ],
+    "word_list": [
+        {
+            "word": "ELEMENT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "EMINENT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "EMIT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "IMMINENT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "IMPEL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "IMPLEMENT",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "ITEM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LEMME",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LIME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LIMIT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LIMP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LINIMENT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MEET",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MELT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "METE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "METTLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MIEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MILE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MIME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MINE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MINT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MITE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MITT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MITTEN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PIMPLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TEEM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TEMPLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TEMPT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TENEMENT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TIME",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

@@ -1,0 +1,226 @@
+{
+    "letters": "PCDEINT",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 133,
+    "word_count": 40,
+    "pangram_count": 1,
+    "pangram_list": [
+        "CENTIPEDE"
+    ],
+    "word_list": [
+        {
+            "word": "CENTIPEDE",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "DEEP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DEEPEN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEEPENED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DEPEND",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEPENDED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DEPENDENCE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "DEPENDENT",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DEPICT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEPICTED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DIPPED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EPIC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "INDEPENDENCE",
+            "score": 9,
+            "pangram": false
+        },
+        {
+            "word": "INDEPENDENT",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "INEPT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NIPPED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PEEP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PEEPED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PENCE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PENDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PENITENCE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PENITENT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PENNED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PEPPED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PETITE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PETTED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PICNIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PIECE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PIECED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PINE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PINED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PINNED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PINT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PIPE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PIPED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PITIED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PITTED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TEPEE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TEPID",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TIPPED",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

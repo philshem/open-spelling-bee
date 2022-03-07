@@ -1,0 +1,241 @@
+{
+    "letters": "IGNPTUY",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 139,
+    "word_count": 43,
+    "pangram_count": 1,
+    "pangram_list": [
+        "PUTTYING"
+    ],
+    "word_list": [
+        {
+            "word": "GIGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GINNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GUNNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GUTTING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GUYING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "IGNITING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "INNING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "INPUT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "INPUTTING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "NINNY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NIPPING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "NIPPY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NUTTING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PIGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PINING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PINNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PINT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PIPING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PITTING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PITY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PITYING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PUNNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PUNTING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PUPPING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PUTTING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PUTTYING",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "TING",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TINGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TINNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TINNY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TINT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TINTING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TINY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TIPPING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TUGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TUNING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TYING",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TYPING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "UNIT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "UNITING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "UNITY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UNTYING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "UPPING",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

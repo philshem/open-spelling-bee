@@ -1,0 +1,256 @@
+{
+    "letters": "GCIMNOT",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 180,
+    "word_count": 46,
+    "pangram_count": 1,
+    "pangram_list": [
+        "COMMITTING"
+    ],
+    "word_list": [
+        {
+            "word": "CITING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COCOONING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "COINING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "COMING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COMMITTING",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "CONCOCTING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "CONNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CONNOTING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "COOING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COTTONING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "GIGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GINNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GOING",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GONG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GONGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ICING",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "IGNITING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "IGNITION",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "INCITING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "INCOGNITO",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "INCOMING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "INNING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MIMING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MINCING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MINING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MINTING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MOOING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MOONING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MOOTING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MOTIONING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "NOTICING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "NOTING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "OMITTING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ONCOMING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ONGOING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TIMING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TING",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TINGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TINNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TINTING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TONG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TONING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TOOTING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TOTING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TOTTING",
+            "score": 4,
+            "pangram": false
+        }
+    ]
+}

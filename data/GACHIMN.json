@@ -1,0 +1,266 @@
+{
+    "letters": "GACHIMN",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 166,
+    "word_count": 48,
+    "pangram_count": 1,
+    "pangram_list": [
+        "MACHINING"
+    ],
+    "word_list": [
+        {
+            "word": "ACHING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ACING",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AGAIN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AGING",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AIMING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CACHING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CAGING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CANING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CANNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CHAINING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CHANCING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CHANGING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CHIMING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CHINNING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CINCHING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GAGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GAIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GAINING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GAMING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GAMMA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GANG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GANGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GIGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GINGHAM",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GINNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HAMMING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HANG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HANGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HIGH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HINGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ICING",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "IMAGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "IMAGINING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "INCHING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "INNING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MACHINING",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "MACING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MAGIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MAGICIAN",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MAIMING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MANAGING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MANNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MIMING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MINCING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MINING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NAGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "NAMING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NIGH",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

@@ -1,0 +1,156 @@
+{
+    "letters": "CAELQRU",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 60,
+    "word_count": 26,
+    "pangram_count": 1,
+    "pangram_list": [
+        "LACQUER"
+    ],
+    "word_list": [
+        {
+            "word": "ACCRUE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ACRE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CALL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CALLER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CARE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CAREER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CELLAR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CELLULAR",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CEREAL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CLEAR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CLEARER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CLUE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CRUEL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CRUELER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CRUELLER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CURE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CURL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LACE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LACQUER",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "RACE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RACER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RECALL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RECUR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ULCER",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

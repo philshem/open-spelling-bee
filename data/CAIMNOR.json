@@ -1,0 +1,156 @@
+{
+    "letters": "CAIMNOR",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 65,
+    "word_count": 26,
+    "pangram_count": 1,
+    "pangram_list": [
+        "MACARONI"
+    ],
+    "word_list": [
+        {
+            "word": "ACORN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CACAO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CANNON",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CANON",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CARRION",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CINNAMON",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CIRCA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COCOA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COCOON",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COMA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COMIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COMMA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COMMON",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CORN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CRAM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CROON",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ICON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "IRONIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MACARONI",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "MANIAC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MANIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MIMIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MORONIC",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RACCOON",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RANCOR",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

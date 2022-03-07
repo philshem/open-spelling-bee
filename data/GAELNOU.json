@@ -1,0 +1,226 @@
+{
+    "letters": "GAELNOU",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 78,
+    "word_count": 40,
+    "pangram_count": 1,
+    "pangram_list": [
+        "ANALOGUE"
+    ],
+    "word_list": [
+        {
+            "word": "ALGA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ALGAE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ALLEGE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ALONG",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ANALOG",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ANALOGUE",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "ANGEL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ANGLE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EAGLE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ENGAGE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GALA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GALE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GALL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GALLON",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GANG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GAUGE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GENE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GLEAN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GLEE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GLEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GLUE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOGGLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GONE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GONG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GONNA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOUGE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LAGOON",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LANGUAGE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LEAGUE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LEGAL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LOGO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LONG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOUNGE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LUGGAGE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "LUNG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LUNGE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OGLE",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

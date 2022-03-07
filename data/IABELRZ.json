@@ -1,0 +1,186 @@
+{
+    "letters": "IABELRZ",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 90,
+    "word_count": 32,
+    "pangram_count": 1,
+    "pangram_list": [
+        "LIBERALIZE"
+    ],
+    "word_list": [
+        {
+            "word": "AERIAL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "AIRIER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ALIBI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ARIA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BABIER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BAIL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BARRIER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BELIE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BIBLE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BILE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BIZARRE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BLEARIER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BRAZIER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BREEZIER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BRIBE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EARLIER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "EERIE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EERIER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LAIR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LAZIER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LEERIER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "LIABLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LIAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LIBEL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LIBERAL",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "LIBERALIZE",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "RABBI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RAIL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "REALIZE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RELIABLE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RILE",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

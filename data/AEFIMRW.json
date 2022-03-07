@@ -1,0 +1,206 @@
+{
+    "letters": "AEFIMRW",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 71,
+    "word_count": 36,
+    "pangram_count": 1,
+    "pangram_list": [
+        "FIRMWARE"
+    ],
+    "word_list": [
+        {
+            "word": "AFAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AFFAIR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "AFFIRM",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "AIRIER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "AREA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ARIA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AWARE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FAIR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FAIRER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FAME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FARE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FARM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FARMER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FEAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FIREARM",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FIRMWARE",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "FRAME",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FRIAR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MAIM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MAMA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MAMMA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MARE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MARIA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RARE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RARER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RAWER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "REAM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "REAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WAFER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WAIF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WARFARE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WARIER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WARM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WARMER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WEAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WEARIER",
+            "score": 4,
+            "pangram": false
+        }
+    ]
+}

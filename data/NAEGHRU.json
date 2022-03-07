@@ -1,0 +1,181 @@
+{
+    "letters": "NAEGHRU",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 79,
+    "word_count": 31,
+    "pangram_count": 1,
+    "pangram_list": [
+        "HARANGUE"
+    ],
+    "word_list": [
+        {
+            "word": "ANGER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ARENA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ARRANGE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "EARN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EARNER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ENGAGE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ENRAGE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GANG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GANGRENE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GENE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GENERA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GENRE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GREEN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GREENER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GUNNER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HANG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HANGAR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HANGER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HARANGUE",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "HUNG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HUNGER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NEAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NEARER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RANG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RANGE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RANGER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REARRANGE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "RENEGE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RUNE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RUNG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RUNNER",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

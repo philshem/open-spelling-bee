@@ -1,0 +1,171 @@
+{
+    "letters": "VADEGRY",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 76,
+    "word_count": 29,
+    "pangram_count": 1,
+    "pangram_list": [
+        "GRAVEYARD"
+    ],
+    "word_list": [
+        {
+            "word": "AVERAGE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "AVERAGED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "EAVE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EVADE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EVADED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EVER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EVERY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EVERYDAY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GAVE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GRAVE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GRAVED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GRAVER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GRAVEYARD",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "GRAVY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RAVAGE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RAVAGED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RAVE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RAVED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "REVERE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REVERED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "REVVED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VAGARY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VARY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VEER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VEERED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VERGE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VERGED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VERVE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VERY",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

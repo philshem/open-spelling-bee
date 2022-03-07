@@ -1,0 +1,266 @@
+{
+    "letters": "ICFGNOR",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 168,
+    "word_count": 48,
+    "pangram_count": 1,
+    "pangram_list": [
+        "FORCING"
+    ],
+    "word_list": [
+        {
+            "word": "COCOONING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "COFFIN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COFFINING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "COIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COINING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CONFINING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CONNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "COOING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CORING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CORNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CRINGING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CROONING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FINING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FIRING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FOGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FORCING",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "FORGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FORGOING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FRINGING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GIGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GINNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GOING",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GONGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GOOFING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GORGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GORING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GRIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GRINNING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GROIN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ICING",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ICON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "IGNORING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "INFO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "INFRINGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "INNING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "IRON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "IRONIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "IRONING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "OFFING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ONGOING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ONION",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ORIGIN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RICING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RIGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RIGOR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RING",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RINGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ROOFING",
+            "score": 4,
+            "pangram": false
+        }
+    ]
+}

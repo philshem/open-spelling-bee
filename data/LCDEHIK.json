@@ -1,0 +1,201 @@
+{
+    "letters": "LCDEHIK",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 75,
+    "word_count": 35,
+    "pangram_count": 1,
+    "pangram_list": [
+        "CHILDLIKE"
+    ],
+    "word_list": [
+        {
+            "word": "CELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHILD",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHILDLIKE",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "CHILI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHILL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHILLED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CHILLI",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CLICHE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CLICK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CLICKED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DELI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HECKLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HECKLED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HEEL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HEELED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HELD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ICICLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "IDLE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "IDLED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KEEL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KEELED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KILLED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LEECH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LEECHED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "LEEK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LICE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LICK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LICKED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LIED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LIKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LIKED",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

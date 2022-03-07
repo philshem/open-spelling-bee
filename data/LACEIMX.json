@@ -1,0 +1,186 @@
+{
+    "letters": "LACEIMX",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 61,
+    "word_count": 32,
+    "pangram_count": 1,
+    "pangram_list": [
+        "EXCLAIM"
+    ],
+    "word_list": [
+        {
+            "word": "ACCLAIM",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "AXLE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CALL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CALM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CAMEL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CLAIM",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CLAM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CLIMAX",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CLIME",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EMAIL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EXCEL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EXCLAIM",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "EXILE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ICICLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LACE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LAME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LEMME",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LEXICAL",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "LICE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LILAC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LIME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LLAMA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MAIL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MALE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MALICE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MALL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MAMMAL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MAXIMAL",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MEAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MILE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MILL",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

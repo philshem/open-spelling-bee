@@ -1,0 +1,266 @@
+{
+    "letters": "CEHNORT",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 157,
+    "word_count": 48,
+    "pangram_count": 1,
+    "pangram_list": [
+        "COHERENT"
+    ],
+    "word_list": [
+        {
+            "word": "CENT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CENTER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CENTRE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CHEER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHORE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COCOON",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COERCE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COHERENCE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "COHERENT",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "CONCERN",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CONCERT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CONCERTO",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CONCOCT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CONCRETE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CONE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CONNECT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CONNECTOR",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CONNOTE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CONTENT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CONTORT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CORE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CORN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CORNER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CORNET",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CORONER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CORRECT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CORRECTER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CORRECTOR",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "COTTON",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CROCHET",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CROON",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CROTCH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ECHO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ENCORE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ENTRENCH",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ERECT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ETCH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HENCE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NOTCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ONCE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RECENT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RECENTER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RECONNECT",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "RECTOR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RETCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "THENCE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TORCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TRENCH",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

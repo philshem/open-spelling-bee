@@ -1,0 +1,206 @@
+{
+    "letters": "ABCDEKP",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 78,
+    "word_count": 36,
+    "pangram_count": 1,
+    "pangram_list": [
+        "BACKPACKED"
+    ],
+    "word_list": [
+        {
+            "word": "ABACK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ACCEDE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ACCEDED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ACED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ADDED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "APED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BABE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BACK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BACKED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BACKPACK",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BACKPACKED",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "BADE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BAKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BAKED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BEAD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BEADED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BEAK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BEAKED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CABBED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CAKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CAKED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CAPE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CAPED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CAPPED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DABBED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEAD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DECADE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PACE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PACED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PACK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PACKED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PADDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PAPA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PEACE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PEAK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PEAKED",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

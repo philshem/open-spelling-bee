@@ -1,0 +1,211 @@
+{
+    "letters": "OAGILRT",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 73,
+    "word_count": 37,
+    "pangram_count": 1,
+    "pangram_list": [
+        "ALLIGATOR"
+    ],
+    "word_list": [
+        {
+            "word": "AGITATOR",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ALLIGATOR",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "ALLOT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ALTO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AORTA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GLOAT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GOAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GORILLA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GROTTO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "IGLOO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "IOTA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOGO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOLL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ORAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ORATOR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RATIO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RIGOR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RIOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROLL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROTOR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TAILOR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TATTOO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TOGA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOIL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOLL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOOL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TORTILLA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TOTAL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TRAITOR",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TRIO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TROLL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TROT",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

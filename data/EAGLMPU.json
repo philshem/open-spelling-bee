@@ -1,0 +1,201 @@
+{
+    "letters": "EAGLMPU",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 64,
+    "word_count": 35,
+    "pangram_count": 1,
+    "pangram_list": [
+        "PLUMAGE"
+    ],
+    "word_list": [
+        {
+            "word": "ALGAE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ALLEGE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "AMPLE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "APPEAL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "APPLE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EAGLE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GALE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GAME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GAPE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GAUGE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GLEAM",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GLEE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GLUE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LAME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LAPEL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LEAGUE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LEAP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LEGAL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LEGUME",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LEMME",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LUGGAGE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MALE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MAPLE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MEAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MULE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PAGE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PALE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PEAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PEEL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PEEP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PLAGUE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PLEA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PLUMAGE",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "PLUME",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PUMMEL",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

@@ -1,0 +1,176 @@
+{
+    "letters": "UDEIKNR",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 70,
+    "word_count": 30,
+    "pangram_count": 1,
+    "pangram_list": [
+        "UNKINDER"
+    ],
+    "word_list": [
+        {
+            "word": "DRUNK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DRUNKEN",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DRUNKER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DUDE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUDED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DUKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUNE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUNK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUNKED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ENDURE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ENDURED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "NUDE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NUDER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RUDDER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RUDDIER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RUDE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RUDER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RUED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RUIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RUINED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RUNE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RUNNER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RUNNIER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "UDDER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UNDER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UNDID",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UNDUE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UNKIND",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "UNKINDER",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "URINE",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

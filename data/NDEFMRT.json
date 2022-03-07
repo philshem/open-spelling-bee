@@ -1,0 +1,231 @@
+{
+    "letters": "NDEFMRT",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 124,
+    "word_count": 41,
+    "pangram_count": 1,
+    "pangram_list": [
+        "FERMENTED"
+    ],
+    "word_list": [
+        {
+            "word": "DEFEND",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEFENDED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DEFENDER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DEMENTED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DENT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DENTED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DETERRENT",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ENDED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ENTER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ENTERED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ENTREE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FEND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FENDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FENDER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FERMENT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FERMENTED",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "FERN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MEND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MENDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NEED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NEEDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NETTED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REDDEN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REDDENED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "REND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RENDER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RENDERED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RENT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RENTED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TEEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TEND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TENDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TENDER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TENDERED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TENDERER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TENEMENT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TENET",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TENT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TENTED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TREND",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TRENDED",
+            "score": 4,
+            "pangram": false
+        }
+    ]
+}

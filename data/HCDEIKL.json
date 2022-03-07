@@ -1,0 +1,181 @@
+{
+    "letters": "HCDEIKL",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 73,
+    "word_count": 31,
+    "pangram_count": 1,
+    "pangram_list": [
+        "CHILDLIKE"
+    ],
+    "word_list": [
+        {
+            "word": "CHECK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHECKED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CHEEK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHEEKED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CHIC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHICK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHIDE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHIDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CHILD",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHILDLIKE",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "CHILI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHILL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHILLED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CHILLI",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CLICHE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HECKLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HECKLED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HEED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HEEDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HEEL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HEELED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HELD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HICK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HIDE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HIDED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HIKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HIKED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LEECH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LEECHED",
+            "score": 4,
+            "pangram": false
+        }
+    ]
+}

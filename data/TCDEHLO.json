@@ -1,0 +1,246 @@
+{
+    "letters": "TCDEHLO",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 107,
+    "word_count": 44,
+    "pangram_count": 1,
+    "pangram_list": [
+        "CLOTHED"
+    ],
+    "word_list": [
+        {
+            "word": "CLOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CLOTH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CLOTHE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CLOTHED",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "CLOTTED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "COLLECT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "COLLECTED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "COLT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DELETE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DELETED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DETECT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DETECTED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DOTE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOTED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DOTTED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ELECT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ELECTED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ETCH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ETCHED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HOOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HOOTED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HOTEL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LOOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOOTED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TEED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TEETH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TEETHE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TEETHED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "THEE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TODDLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TODDLED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TOED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOLD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOLL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOLLED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TOOL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOOLED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TOOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOOTED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TOOTH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TOTE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOTED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TOTTED",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

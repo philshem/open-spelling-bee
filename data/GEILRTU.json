@@ -1,0 +1,161 @@
+{
+    "letters": "GEILRTU",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 61,
+    "word_count": 27,
+    "pangram_count": 1,
+    "pangram_list": [
+        "GUILTIER"
+    ],
+    "word_list": [
+        {
+            "word": "GIGGLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GILT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GIRL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GLEE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GLITTER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GLUE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GLUT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GREET",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GRILL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GRILLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GRIT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GRITTIER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GRUEL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GUILE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GUILT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GUILTIER",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "GULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GULLET",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GURGLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GURU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GUTTER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REGRET",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TIGER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TRIGGER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "UGLIER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "URGE",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

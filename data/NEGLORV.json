@@ -1,0 +1,186 @@
+{
+    "letters": "NEGLORV",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 72,
+    "word_count": 32,
+    "pangram_count": 1,
+    "pangram_list": [
+        "OVERLONG"
+    ],
+    "word_list": [
+        {
+            "word": "ELEVEN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ENROL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ENROLL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EVEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EVENER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EVERGREEN",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "GENE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GENRE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GLEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GONE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GONER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GONG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOVERN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GOVERNOR",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GREEN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GREENER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "LONE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LONG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LONGER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NEON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NERVE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NEVER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NONE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NOVEL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OVEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OVERLONG",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "RENEGE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REVENGE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "VENEER",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

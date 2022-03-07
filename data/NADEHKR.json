@@ -1,0 +1,251 @@
+{
+    "letters": "NADEHKR",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 122,
+    "word_count": 45,
+    "pangram_count": 1,
+    "pangram_list": [
+        "HANKERED"
+    ],
+    "word_list": [
+        {
+            "word": "ARENA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DANK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DANKER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DARKEN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DARKENED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DARN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DARNED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEADEN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEADENED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DEAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DRANK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EARN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EARNED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EARNER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ENDEAR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ENDEARED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ENDED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ERRAND",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HAND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HANDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HANKER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HANKERED",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "HARDEN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HARDENED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "KEEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KEENED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KEENER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KNEAD",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KNEADED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "KNEE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KNEED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NAKED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NEAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NEARED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NEARER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NEED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NEEDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RANK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RANKED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RANKER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REDDEN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REDDENED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "REND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RENDER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RENDERED",
+            "score": 5,
+            "pangram": false
+        }
+    ]
+}

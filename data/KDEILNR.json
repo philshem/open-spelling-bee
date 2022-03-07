@@ -1,0 +1,266 @@
+{
+    "letters": "KDEILNR",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 121,
+    "word_count": 48,
+    "pangram_count": 1,
+    "pangram_list": [
+        "KINDLIER"
+    ],
+    "word_list": [
+        {
+            "word": "DIKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DIKED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DRINK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DRINKER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "EKED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "INKED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "INKIER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "IRKED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KEEL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KEELED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KEEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KEENED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KEENER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KENNEL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KENNELED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "KENNELLED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "KERNEL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KIDDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KILLED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KILLER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KILN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KILNED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KIND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KINDER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KINDLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KINDLED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "KINDLIER",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "KINDRED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "KINK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KINKED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KINKIER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "KNEE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KNEED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KNEEL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LEEK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LIKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LIKED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LIKELIER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LIKEN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LIKENED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "LIKER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LINK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LINKED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LINKER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REEK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "REEKED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RINK",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

@@ -1,0 +1,236 @@
+{
+    "letters": "UADEGMR",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 122,
+    "word_count": 42,
+    "pangram_count": 1,
+    "pangram_list": [
+        "RUMMAGED"
+    ],
+    "word_list": [
+        {
+            "word": "ARGUE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ARGUED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "AURA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DEMURE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEMURER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DRUDGE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DRUDGED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DRUG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DRUGGED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DRUM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DRUMMED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DRUMMER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DUDE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUDED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EARDRUM",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GAUGE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GAUGED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GRUDGE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GRUDGED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GUARD",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GUARDED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GUMMED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GURU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MUGGED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MUGGER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MURDER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MURDERED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MURDERER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MURMUR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MURMURED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RUDDER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RUDE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RUDER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RUED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RUGGED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RUGGEDER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RUMMAGE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RUMMAGED",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "RUMMER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "UDDER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "URGE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "URGED",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

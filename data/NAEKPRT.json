@@ -1,0 +1,271 @@
+{
+    "letters": "NAEKPRT",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 133,
+    "word_count": 49,
+    "pangram_count": 1,
+    "pangram_list": [
+        "PARTAKEN"
+    ],
+    "word_list": [
+        {
+            "word": "ANTEATER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ANTENNA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ANTENNAE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "APPARENT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ARENA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EARN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EARNER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EATEN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ENTER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ENTRANT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ENTRAP",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ENTREAT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ENTREE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ERRANT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KEEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KEENER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KNEE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NAPE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NARRATE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "NEAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NEARER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NEAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NEATER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PANE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PANT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PARENT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PARTAKEN",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "PARTNER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PATENT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PATTERN",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PENETRATE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PENNANT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PRANK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PREEN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RANK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RANKER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RANT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RENT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "REPENT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REPENTANT",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TAKEN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TANK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TANKER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TANNER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TARTAN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TEEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TENANT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TENET",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TENT",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

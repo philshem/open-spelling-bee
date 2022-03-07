@@ -1,0 +1,261 @@
+{
+    "letters": "RCELOTY",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 124,
+    "word_count": 47,
+    "pangram_count": 1,
+    "pangram_list": [
+        "CORRECTLY"
+    ],
+    "word_list": [
+        {
+            "word": "CELERY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COERCE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COLLECTOR",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "COLOR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COOLER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CORE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CORRECT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CORRECTER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CORRECTLY",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "CORRECTOR",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "COYER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ELECTOR",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ERECT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ERROR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LEER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LEERY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LETTER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LORE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LORRY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LOTTERY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "LYRE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OTTER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RECOLLECT",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "RECTOR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RECYCLE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "REEL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "REELECT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RELY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RETORT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RETRY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ROLE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROLL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROLLER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ROOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROOTER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ROTE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROTOR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TEETER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TELLER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TERROR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TORE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOTTER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TREE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TROLL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TROLLEY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TROT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TYRE",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

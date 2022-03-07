@@ -1,0 +1,271 @@
+{
+    "letters": "OELMPRY",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 95,
+    "word_count": 49,
+    "pangram_count": 1,
+    "pangram_list": [
+        "EMPLOYER"
+    ],
+    "word_list": [
+        {
+            "word": "ELOPE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EMPEROR",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "EMPLOY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EMPLOYEE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "EMPLOYER",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "ERROR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LOLL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOOM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOOP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOPE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LORE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LORRY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MEMO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MEMORY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MOLE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOOR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOPE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MORE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PEOPLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PLOP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PLOY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POEM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POLE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POLL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POLO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POLYP",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "POMP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POOL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POOP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POOR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POORER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "POORLY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "POPE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POPPY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PORE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PROM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PROP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PROPEL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PROPELLER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PROPER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PROPERER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PROPERLY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ROLE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROLL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROLLER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ROMP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROOM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROOMY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ROPE",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

@@ -1,0 +1,206 @@
+{
+    "letters": "RAFLMOU",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 65,
+    "word_count": 36,
+    "pangram_count": 1,
+    "pangram_list": [
+        "FORMULA"
+    ],
+    "word_list": [
+        {
+            "word": "AFAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ALARM",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AMORAL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ARMOR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ARMOUR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "AROMA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AURA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AURAL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FARM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FLOOR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FLORA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FLORAL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FLOUR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FORM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FORMAL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FORMULA",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "FORUM",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FOUR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FROM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FURL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FUROR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MOLAR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MOOR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MORAL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MURAL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MURMUR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ORAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROAM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROLL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROOF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROOM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RUFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RUMOR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RUMOUR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RURAL",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

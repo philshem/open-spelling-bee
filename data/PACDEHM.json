@@ -1,0 +1,176 @@
+{
+    "letters": "PACDEHM",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 64,
+    "word_count": 30,
+    "pangram_count": 1,
+    "pangram_list": [
+        "CHAMPED"
+    ],
+    "word_list": [
+        {
+            "word": "APED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CAMP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CAMPED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CAPE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CAPED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CAPPED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CHAMP",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHAMPED",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "CHAP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHAPPED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CHEAP",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHEEP",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHEEPED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DAMP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DAMPED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEEP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HEAP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HEAPED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HEMP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MADCAP",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MAPPED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PACE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PACED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PADDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PAPA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PEACE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PEACH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PEEP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PEEPED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PEPPED",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

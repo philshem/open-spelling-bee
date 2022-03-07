@@ -1,0 +1,226 @@
+{
+    "letters": "CDEINTV",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 134,
+    "word_count": 40,
+    "pangram_count": 1,
+    "pangram_list": [
+        "VINDICTIVE"
+    ],
+    "word_list": [
+        {
+            "word": "CEDE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CEDED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CENT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CITE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CITED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CIVIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DECEIT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DECEIVE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DECEIVED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DECENT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DECIDE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DECIDED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DETECT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DETECTED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DETECTIVE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DEVICE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DICE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DICED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EDICT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ENTICE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ENTICED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "EVICT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EVICTED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "EVIDENCE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "EVIDENCED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ICED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "INCENTIVE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "INCIDENCE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "INCIDENT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "INCITE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "INCITED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "INDECENT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "INDICT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "INDICTED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "INVECTIVE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "NICE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NIECE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VICE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VICED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VINDICTIVE",
+            "score": 7,
+            "pangram": true
+        }
+    ]
+}

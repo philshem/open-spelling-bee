@@ -1,0 +1,201 @@
+{
+    "letters": "UCEFLOR",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 77,
+    "word_count": 35,
+    "pangram_count": 1,
+    "pangram_list": [
+        "FORCEFUL"
+    ],
+    "word_list": [
+        {
+            "word": "CLUE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COLORFUL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "COLOUR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COLOURFUL",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CRUEL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CRUELER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CRUELLER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CUFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CURE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CURL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FLOUR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FLUE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FLUFF",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FORCEFUL",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "FOUL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FOULER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FOUR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FUEL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FULLER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FURL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FUROR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FURORE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LURE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OCCUR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RECUR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "REFUEL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RUEFUL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RUFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RUFFLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RULE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RULER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ULCER",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

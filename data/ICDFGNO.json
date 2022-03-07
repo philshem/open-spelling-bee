@@ -1,0 +1,216 @@
+{
+    "letters": "ICDFGNO",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 136,
+    "word_count": 38,
+    "pangram_count": 1,
+    "pangram_list": [
+        "CONFIDING"
+    ],
+    "word_list": [
+        {
+            "word": "COCOONING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CODDING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CODING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COFFIN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COFFINING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "COIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COINCIDING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "COINING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CONDONING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CONFIDING",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "CONFINING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CONNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "COOING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DICING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DIGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DINING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DINNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DODGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DOGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DOING",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FIND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FINDING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FINING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FOGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GIGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GINNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GOING",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GONGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GOOFING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ICING",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ICON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "INDIGO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "INFO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "INNING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NODDING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "OFFING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ONGOING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ONION",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

@@ -1,0 +1,226 @@
+{
+    "letters": "DABILOR",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 74,
+    "word_count": 40,
+    "pangram_count": 1,
+    "pangram_list": [
+        "BILLBOARD"
+    ],
+    "word_list": [
+        {
+            "word": "ABOARD",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ABROAD",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ARDOR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ARID",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BALD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BALLAD",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BARD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BILLBOARD",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "BIRD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BLOOD",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BOARD",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BOLD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BRAID",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BRIDAL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BROAD",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BROOD",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DIAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DODO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOLL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOLLAR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DOOR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DRAB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DRILL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DROLL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DROOL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "IDOL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LAID",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LARD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOAD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LORD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ODOR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RABID",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RADAR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RADIAL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RADII",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RADIO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RAID",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RAILROAD",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ROAD",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

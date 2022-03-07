@@ -1,0 +1,191 @@
+{
+    "letters": "KDEINRT",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 79,
+    "word_count": 33,
+    "pangram_count": 1,
+    "pangram_list": [
+        "TINKERED"
+    ],
+    "word_list": [
+        {
+            "word": "DIKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DIKED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DRINK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DRINKER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "EKED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "INKED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "INKIER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "IRKED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KEEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KEENED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KEENER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KIDDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KIND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KINDER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KINDRED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "KINK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KINKED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KINKIER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "KITE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KITED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KITTEN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KNEE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KNEED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KNIT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KNITTED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "REEK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "REEKED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RINK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TINKER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TINKERED",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "TREK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TREKKED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TRINKET",
+            "score": 4,
+            "pangram": false
+        }
+    ]
+}

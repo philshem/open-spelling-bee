@@ -1,0 +1,211 @@
+{
+    "letters": "OADILMR",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 67,
+    "word_count": 37,
+    "pangram_count": 1,
+    "pangram_list": [
+        "ARMADILLO"
+    ],
+    "word_list": [
+        {
+            "word": "AMORAL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ARDOR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ARMADILLO",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "ARMOR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AROMA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DODO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOLL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOLLAR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DOOM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOOR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DROLL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DROOL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "IDIOM",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "IDOL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "IMMORAL",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "LOAD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOAM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOLL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOOM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LORD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MIRROR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MODAL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MOLAR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MOLD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOOD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOOR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MORAL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ODOR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ORAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RADIO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RAILROAD",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RAMROD",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ROAD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROAM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROLL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROOM",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

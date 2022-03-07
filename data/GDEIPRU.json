@@ -1,0 +1,241 @@
+{
+    "letters": "GDEIPRU",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 117,
+    "word_count": 43,
+    "pangram_count": 1,
+    "pangram_list": [
+        "PUDGIER"
+    ],
+    "word_list": [
+        {
+            "word": "DEGREE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DIRGE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DREDGE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DREDGED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DRUDGE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DRUDGED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DRUG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DRUGGED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "EDGE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EDGED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EDGER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EDGIER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EGGED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GEED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GIDDIER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GIGGED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GIRDER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GREED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GREEDIER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GRID",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GRIP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GRIPE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GRIPED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GRIPPED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GRUDGE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GRUDGED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GUIDE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GUIDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GURU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PEDIGREE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PEGGED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PIGGED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PUDGIER",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "PURGE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PURGED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RIDGE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RIDGED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RIGGED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RIGID",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RUGGED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RUGGEDER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "URGE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "URGED",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

@@ -1,0 +1,171 @@
+{
+    "letters": "ADGIKNP",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 77,
+    "word_count": 29,
+    "pangram_count": 1,
+    "pangram_list": [
+        "KIDNAPPING"
+    ],
+    "word_list": [
+        {
+            "word": "ADDING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "AGAIN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AGING",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AIDING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "AKIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "APING",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DANK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GAGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GAIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GAINING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GANG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GANGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GAPING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KIDNAP",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KIDNAPPING",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "KINDA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NAGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "NAPKIN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NAPPING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PADDING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PAGAN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PAGING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PAID",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PAIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PAINING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PANDA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PANG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PANNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PAPA",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

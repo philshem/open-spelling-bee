@@ -1,0 +1,231 @@
+{
+    "letters": "DEGHITW",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 94,
+    "word_count": 41,
+    "pangram_count": 1,
+    "pangram_list": [
+        "WEIGHTED"
+    ],
+    "word_list": [
+        {
+            "word": "DEED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DEEDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DIED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DIET",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DIETED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DIGIT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EDDIED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EDGE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EDGED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EDIT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EDITED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EGGED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GEED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GIGGED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HEDGE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HEDGED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HEED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HEEDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HEWED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HIDE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HIDED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TEED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TEETHED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TIDE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TIDED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TIDIED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TIED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TWEED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TWEETED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TWIGGED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WEDDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WEDGE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WEDGED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WEED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WEEDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WEIGHED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WEIGHTED",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "WHETTED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WIDE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WIDTH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WIGGED",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

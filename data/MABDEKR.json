@@ -1,0 +1,261 @@
+{
+    "letters": "MABDEKR",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 130,
+    "word_count": 47,
+    "pangram_count": 1,
+    "pangram_list": [
+        "EMBARKED"
+    ],
+    "word_list": [
+        {
+            "word": "AMBER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ARMED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BEAM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BEAMED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DAME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DAMMED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEEM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DEEMED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DRAMA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DREAM",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DREAMED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DREAMER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "EARMARK",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "EARMARKED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "EMBARK",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EMBARKED",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "EMBED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EMBEDDED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "EMBER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MADAM",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MADAME",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MADDER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MADE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MAKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MAKER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MAMA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MAMMA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MARE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MARK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MARKED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MARKER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MARRED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MEEK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MEEKER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MEMBER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MERE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RAMMED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REAM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "REAMED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REDEEM",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REDEEMED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "REMADE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REMAKE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REMARK",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REMARKED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "REMEMBER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "REMEMBERED",
+            "score": 7,
+            "pangram": false
+        }
+    ]
+}

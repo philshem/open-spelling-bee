@@ -1,0 +1,186 @@
+{
+    "letters": "TCFILNO",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 68,
+    "word_count": 32,
+    "pangram_count": 1,
+    "pangram_list": [
+        "CONFLICT"
+    ],
+    "word_list": [
+        {
+            "word": "CLOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COLT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CONCOCT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CONCOCTION",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "CONFLICT",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "COTTON",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FICTION",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FLINT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FLIT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FONT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FOOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ILLICIT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "INFLICT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "INTO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LIFT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LILT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LINT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOFT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOTION",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NONFICTION",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "NOTION",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ONTO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TIFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TILT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TINT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOIL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOLL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TONIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TOOL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOOT",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

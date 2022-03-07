@@ -1,0 +1,186 @@
+{
+    "letters": "RACLMOU",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 66,
+    "word_count": 32,
+    "pangram_count": 1,
+    "pangram_list": [
+        "CLAMOUR"
+    ],
+    "word_list": [
+        {
+            "word": "ALARM",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AMORAL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ARMOR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ARMOUR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "AROMA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AURA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AURAL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CAROL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CLAMOR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CLAMOUR",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "COLLAR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COLOR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COLOUR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CORAL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CORRAL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CRAM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CURL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOLAR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MOOR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MORAL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MURAL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MURMUR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "OCCUR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OCULAR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ORAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROAM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROLL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROOM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RUMOR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RUMOUR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RURAL",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

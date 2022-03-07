@@ -1,0 +1,236 @@
+{
+    "letters": "NBDEGLO",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 85,
+    "word_count": 42,
+    "pangram_count": 1,
+    "pangram_list": [
+        "BELONGED"
+    ],
+    "word_list": [
+        {
+            "word": "BEEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BELONG",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BELONGED",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "BEND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BLEND",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BLENDED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BLOND",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BLONDE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BOND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BONDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BONE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BONED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DONE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ENDED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GENE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GLEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOLDEN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GONE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GONG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GONGED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LEGEND",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LEND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LONE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LONG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LONGED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NEED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NEEDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NEEDLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NEEDLED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "NEON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NOBLE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NODDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NODE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NONE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NOODLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NOODLED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "NOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OBLONG",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "OLDEN",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

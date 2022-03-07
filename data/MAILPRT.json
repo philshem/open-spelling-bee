@@ -1,0 +1,196 @@
+{
+    "letters": "MAILPRT",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 71,
+    "word_count": 34,
+    "pangram_count": 1,
+    "pangram_list": [
+        "IMPARTIAL"
+    ],
+    "word_list": [
+        {
+            "word": "AIRMAIL",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ALARM",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ARMPIT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "IMPAIR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "IMPART",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "IMPARTIAL",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "LAMP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LIMIT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LIMP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LLAMA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MAIL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MAIM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MALARIA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MALL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MALT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MAMA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MAMMA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MAMMAL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MARIA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MARITAL",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MART",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MARTIAL",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MATT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MILITIA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MITT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PALM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PRAM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PRIM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PRIMAL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PRIMP",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RAMP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TRAMP",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TRIM",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

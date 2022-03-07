@@ -1,0 +1,251 @@
+{
+    "letters": "VDEINOT",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 126,
+    "word_count": 45,
+    "pangram_count": 1,
+    "pangram_list": [
+        "DEVOTION"
+    ],
+    "word_list": [
+        {
+            "word": "DEVOID",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEVOTE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEVOTED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DEVOTEE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DEVOTION",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "DIVE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DIVED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DIVIDE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DIVIDED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DIVIDEND",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DIVINE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DIVINED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DOVE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ENDIVE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ENVIED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EVEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EVENED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EVENT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EVIDENT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "INVENT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "INVENTED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "INVENTION",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "INVENTIVE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "INVITE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "INVITED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "OVEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VEIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VEINED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VEND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VENDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VENT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VENTED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VETO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VETOED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VETTED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VIDEO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VIED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VINE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VIVID",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VOID",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VOIDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VOODOO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VOODOOED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "VOTE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VOTED",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

@@ -1,0 +1,191 @@
+{
+    "letters": "ABELMOZ",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 67,
+    "word_count": 33,
+    "pangram_count": 1,
+    "pangram_list": [
+        "BAMBOOZLE"
+    ],
+    "word_list": [
+        {
+            "word": "ABLAZE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ABLE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AMAZE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AMBLE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AMOEBA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "AMOEBAE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "AZALEA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BABBLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BABE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BALE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BALL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BALM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BAMBOO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BAMBOOZLE",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "BEAM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BLAB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BLAME",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BLAZE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EMBALM",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LABEL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LAMB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LAME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LLAMA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LOAM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MALE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MALL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MALLEABLE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MAMA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MAMMA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MAMMAL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MAZE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MEAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ZEAL",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

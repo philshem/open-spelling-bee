@@ -1,0 +1,171 @@
+{
+    "letters": "IBCELNV",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 61,
+    "word_count": 29,
+    "pangram_count": 1,
+    "pangram_list": [
+        "INVINCIBLE"
+    ],
+    "word_list": [
+        {
+            "word": "BELIE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BELIEVE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BIBLE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BILE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CIVIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CIVIL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CLINIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ENLIVEN",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "EVIL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ICICLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "INCLINE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "INVINCIBLE",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "LIBEL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LICE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LICENCE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "LINE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LINEN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LIVE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LIVEN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NIBBLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NICE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NIECE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NINE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VEIL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VEIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VICE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VILE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VINE",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

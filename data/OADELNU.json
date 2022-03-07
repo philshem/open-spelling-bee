@@ -1,0 +1,201 @@
+{
+    "letters": "OADELNU",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 68,
+    "word_count": 35,
+    "pangram_count": 1,
+    "pangram_list": [
+        "UNLOADED"
+    ],
+    "word_list": [
+        {
+            "word": "AEON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ALONE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ALOUD",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ANON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DODO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOLE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOLED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DOLL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOLLED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DONE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOODLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DOODLED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DUNNO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LOAD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOADED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LOAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOANED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LOLL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOLLED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LONE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOUD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NEON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NODDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NODE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NONE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NOODLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NOODLED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "NOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NOUN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OLDEN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UNDO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "UNDONE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "UNLOAD",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "UNLOADED",
+            "score": 5,
+            "pangram": true
+        }
+    ]
+}

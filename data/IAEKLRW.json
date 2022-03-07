@@ -1,0 +1,161 @@
+{
+    "letters": "IAEKLRW",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 62,
+    "word_count": 27,
+    "pangram_count": 1,
+    "pangram_list": [
+        "WARLIKE"
+    ],
+    "word_list": [
+        {
+            "word": "AERIAL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "AIRIER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ALIKE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ALKALI",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ARIA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EARLIER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "EERIE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EERIER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KILLER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KIWI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LAIR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LEERIER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "LIAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LIKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LIKELIER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LIKER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RAIL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RILE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WAIL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WARIER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WARLIKE",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "WEARIER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WILIER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WIRE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WIRIER",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

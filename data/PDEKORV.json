@@ -1,0 +1,276 @@
+{
+    "letters": "PDEKORV",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 122,
+    "word_count": 50,
+    "pangram_count": 1,
+    "pangram_list": [
+        "PROVOKED"
+    ],
+    "word_list": [
+        {
+            "word": "DEEP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DEEPER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DOPE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOPED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DROOP",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DROOPED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DROP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DROPPED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "KEEP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KEEPER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PEEK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PEEKED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PEEP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PEEPED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PEER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PEERED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PEEVE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PEEVED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PEPPED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PEPPER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PEPPERED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PERK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PERKED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PODDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "POKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POKED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "POKER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "POOP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POOPED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "POOR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POORER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "POPE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POPPED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PORE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PORED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PORK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PROD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PRODDED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PROP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PROPER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PROPERER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PROPPED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PROVE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PROVED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PROVOKE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PROVOKED",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "REPROVE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "REPROVED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ROPE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROPED",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

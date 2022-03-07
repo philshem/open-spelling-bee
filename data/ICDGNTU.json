@@ -1,0 +1,221 @@
+{
+    "letters": "ICDGNTU",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 135,
+    "word_count": 39,
+    "pangram_count": 1,
+    "pangram_list": [
+        "INDUCTING"
+    ],
+    "word_list": [
+        {
+            "word": "CITING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CUING",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CUNNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CUTTING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DICING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DIGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DIGIT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DINING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DINNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DUDING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DUNGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GIGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GINNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GUIDING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GUNNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GUTTING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ICING",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "IGNITING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "INCITING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "INDICT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "INDICTING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "INDUCING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "INDUCT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "INDUCTING",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "INNING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NUDGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "NUTTING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TIDING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TING",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TINGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TINNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TINT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TINTING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TUGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TUNIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TUNING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "UNDID",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UNIT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "UNITING",
+            "score": 4,
+            "pangram": false
+        }
+    ]
+}

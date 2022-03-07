@@ -1,0 +1,251 @@
+{
+    "letters": "CDELRUY",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 123,
+    "word_count": 45,
+    "pangram_count": 1,
+    "pangram_list": [
+        "CRUDELY"
+    ],
+    "word_list": [
+        {
+            "word": "CEDE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CEDED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CELERY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CLUE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CLUED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CREED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CRUDE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CRUDELY",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "CRUDER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CRUEL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CRUELER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CRUELLER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CRUELLY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CUDDLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CUDDLED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CUDDLY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CUED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CULLED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CURD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CURDLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CURDLED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CURE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CURED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CURL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CURLED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CURLY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CURRY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CYCLE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CYCLED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DECREE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DECREED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DECRY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DEDUCE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEDUCED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RECEDE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RECEDED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RECUR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RECURRED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RECYCLE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RECYCLED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "REDUCE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REDUCED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ULCER",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

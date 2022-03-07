@@ -1,0 +1,191 @@
+{
+    "letters": "ABENOTY",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 72,
+    "word_count": 33,
+    "pangram_count": 1,
+    "pangram_list": [
+        "BAYONET"
+    ],
+    "word_list": [
+        {
+            "word": "ABATE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ABBEY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ABBOT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ABET",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AEON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ANNOTATE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ANNOY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ANON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ANTENNA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ANTENNAE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ANYONE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ATONE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BABE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BABOON",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BABY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BANANA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BATON",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BAYONET",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "BEAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BEAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BEATEN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BETA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BOAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BOTANY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EATEN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NATTY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NEAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TABBY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TABOO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TATTOO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TATTY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TEAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TENANT",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

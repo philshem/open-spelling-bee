@@ -1,0 +1,196 @@
+{
+    "letters": "RAFGIOT",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 70,
+    "word_count": 34,
+    "pangram_count": 1,
+    "pangram_list": [
+        "GRAFFITO"
+    ],
+    "word_list": [
+        {
+            "word": "AFAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AFFAIR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "AGITATOR",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "AORTA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ARIA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FAIR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FORGO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FORGOT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FORT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FRIAR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FROG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GRAFFITI",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GRAFFITO",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "GRAFT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GRIT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GROTTO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ORATOR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RAFT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RATIO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RIFT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RIGOR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RIOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROOF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROTOR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TARIFF",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TART",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TARTAR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TIARA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TRAIT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TRAITOR",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TRIO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TROT",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

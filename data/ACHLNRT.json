@@ -1,0 +1,216 @@
+{
+    "letters": "ACHLNRT",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 73,
+    "word_count": 38,
+    "pangram_count": 1,
+    "pangram_list": [
+        "CHARLATAN"
+    ],
+    "word_list": [
+        {
+            "word": "ALTAR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ANAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ARCH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ATTACH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ATTRACT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CALL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CANAL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CANT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CARAT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CARNAL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CART",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CATARACT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CATCALL",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CATCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHANT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHARLATAN",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "CHART",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CLAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HALL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HALT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HART",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HATCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LATCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LATH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RANCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RANT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TACT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TALC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TALL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TART",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TARTAN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TARTAR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "THAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "THAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "THATCH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TRACT",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

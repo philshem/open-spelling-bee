@@ -1,0 +1,156 @@
+{
+    "letters": "NADILMU",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 72,
+    "word_count": 26,
+    "pangram_count": 1,
+    "pangram_list": [
+        "MAUDLIN"
+    ],
+    "word_list": [
+        {
+            "word": "ALUMINIUM",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ALUMINUM",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ANAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ANIMAL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ANNUAL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ANNUL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DAMN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "INLAID",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "INLAND",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LAIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LAND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MADMAN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MAILMAN",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MAIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MAINLAND",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MAMMALIAN",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MANIA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MANUAL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MAUDLIN",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "MIND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MINIMAL",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MINIMUM",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "NAIL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "UNDID",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UNMAN",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

@@ -1,0 +1,166 @@
+{
+    "letters": "TADGINV",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 103,
+    "word_count": 28,
+    "pangram_count": 1,
+    "pangram_list": [
+        "ADVANTAGING"
+    ],
+    "word_list": [
+        {
+            "word": "ADVANTAGING",
+            "score": 8,
+            "pangram": true
+        },
+        {
+            "word": "AGITATING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ATTAIN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ATTAINING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DATA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DATING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DIGIT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GAIT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GATING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GIANT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GNAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "IGNITING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "INDIGNANT",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "INITIATING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "INVITING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "NAVIGATING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "TAGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TAINT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TAINTING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TANG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TANNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TIDING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TING",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TINGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TINNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TINT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TINTING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "VATTING",
+            "score": 4,
+            "pangram": false
+        }
+    ]
+}

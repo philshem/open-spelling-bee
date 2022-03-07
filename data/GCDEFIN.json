@@ -1,0 +1,231 @@
+{
+    "letters": "GCDEFIN",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 139,
+    "word_count": 41,
+    "pangram_count": 1,
+    "pangram_list": [
+        "DEFENCING"
+    ],
+    "word_list": [
+        {
+            "word": "CEDING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DECIDING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DEEDING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DEFENCING",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "DEFENDING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DEFINING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DEIGN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DEIGNED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DEIGNING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DICING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DIGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DIGNIFIED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DINING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DINNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "EDGE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EDGED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EDGING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EGGED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EGGING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ENDING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ENGINE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FEEDING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FEIGN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FEIGNED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FEIGNING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FENCING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FENDING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FINDING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FINING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GEED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GEEING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GENE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GENIE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GENII",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GIGGED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GIGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GINNED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GINNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ICING",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "INNING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NEEDING",
+            "score": 4,
+            "pangram": false
+        }
+    ]
+}

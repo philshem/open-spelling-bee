@@ -1,0 +1,231 @@
+{
+    "letters": "WABDEIR",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 101,
+    "word_count": 41,
+    "pangram_count": 1,
+    "pangram_list": [
+        "BAWDIER"
+    ],
+    "word_list": [
+        {
+            "word": "AWARD",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AWARDED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "AWARE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AWED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BAWDIER",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "BEWARE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BEWARED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BREW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BREWED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DRAW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DRAWER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DREW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RAWER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "REDRAW",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REWARD",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REWARDED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "WADDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WADE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WADED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WARD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WARDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WARIER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WARRED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WEAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WEARIED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WEARIER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WEBBED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WEDDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WEDDER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WEED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WEEDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WEEDIER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WEER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WEIRD",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WEIRDER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WERE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WIDE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WIDER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WIRE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WIRED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WIRIER",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

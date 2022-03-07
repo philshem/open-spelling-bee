@@ -1,0 +1,156 @@
+{
+    "letters": "WGHINOT",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 79,
+    "word_count": 26,
+    "pangram_count": 1,
+    "pangram_list": [
+        "NIGHTGOWN"
+    ],
+    "word_list": [
+        {
+            "word": "GOWN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOWNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "NIGHTGOWN",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "NITWIT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "OWING",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OWNING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TOWING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TOWN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TWIG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TWIGGING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TWIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TWINGING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TWINING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TWINNING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "WHINING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WIGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WING",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WINGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WINING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WINNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WITH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WITHIN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WITTING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WONT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WOOING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WOWING",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

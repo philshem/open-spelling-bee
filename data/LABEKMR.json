@@ -1,0 +1,276 @@
+{
+    "letters": "LABEKMR",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 110,
+    "word_count": 50,
+    "pangram_count": 1,
+    "pangram_list": [
+        "REMARKABLE"
+    ],
+    "word_list": [
+        {
+            "word": "ABLE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ABLER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ALARM",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AMBLE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ARABLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BABBLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BALE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BALK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BALL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BALM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BARREL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BEARABLE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BLAB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BLAME",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BLAMER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BLARE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BLEAK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BLEAKER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BREAKABLE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "EARL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EMBALM",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EMBLEM",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KEEL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LABEL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LAKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LAMB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LAME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LAMER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LARK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LEAK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LEEK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LEER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LEMME",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LLAMA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MALE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MALL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MALLEABLE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MAMMAL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MARBLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MEAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RABBLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RAMBLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RAMBLER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "REAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "REALER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REALM",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "REBEL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "REEL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "REMARKABLE",
+            "score": 7,
+            "pangram": true
+        }
+    ]
+}

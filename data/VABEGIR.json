@@ -1,0 +1,156 @@
+{
+    "letters": "VABEGIR",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 66,
+    "word_count": 26,
+    "pangram_count": 1,
+    "pangram_list": [
+        "VERBIAGE"
+    ],
+    "word_list": [
+        {
+            "word": "ARRIVE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "AVERAGE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BEAVER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BEREAVE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BEVERAGE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BRAVE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BRAVER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EAVE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EVER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GAVE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GIVE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GRAVE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GRAVER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GRIEVE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RAVAGE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RAVE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "REVERE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REVERIE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "REVIVE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RIVER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VEER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VERB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VERBIAGE",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "VERGE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VERIER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VERVE",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

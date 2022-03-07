@@ -1,0 +1,221 @@
+{
+    "letters": "ABDLORY",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 68,
+    "word_count": 39,
+    "pangram_count": 1,
+    "pangram_list": [
+        "BROADLY"
+    ],
+    "word_list": [
+        {
+            "word": "ABLY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ABOARD",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ABROAD",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ALLAY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ALLOY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ALLY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ARBOR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ARDOR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ARRAY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BABY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BADLY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BALD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BALL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BALLAD",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BARB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BARD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BLAB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BOAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BOARD",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BRAY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BROAD",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BROADLY",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "DADDY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DALLY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DOLLAR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DRAB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LABOR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LADY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LARD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOAD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOYAL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ORAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RADAR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RALLY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ROAD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROYAL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ROYALLY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "YARD",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

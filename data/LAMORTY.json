@@ -1,0 +1,216 @@
+{
+    "letters": "LAMORTY",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 78,
+    "word_count": 38,
+    "pangram_count": 1,
+    "pangram_list": [
+        "MORTALLY"
+    ],
+    "word_list": [
+        {
+            "word": "ALARM",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ALLAY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ALLOT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ALLOY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ALLY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ALTAR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ALTO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AMORAL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LLAMA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LOAM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOLL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOOM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LORRY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LOYAL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LOYALTY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MALL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MALT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MAMMAL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MOLAR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MOLT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MORAL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MORALLY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MORTAL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MORTALLY",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "ORAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RALLY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ROLL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROYAL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ROYALLY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ROYALTY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TALL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TALLY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TOLL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOOL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOTAL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TOTALLY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TROLL",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

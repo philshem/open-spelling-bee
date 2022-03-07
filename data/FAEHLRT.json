@@ -1,0 +1,266 @@
+{
+    "letters": "FAEHLRT",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 114,
+    "word_count": 48,
+    "pangram_count": 1,
+    "pangram_list": [
+        "HEARTFELT"
+    ],
+    "word_list": [
+        {
+            "word": "AFAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AFTER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FALL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FALTER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FARE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FARTHER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FATAL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FATE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FATHER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FATTER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FEAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FEAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FEATHER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FEEL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FEELER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FEET",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FELLER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FELT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FERRET",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FETE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FETTER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FLARE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FLAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FLATTER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FLATTERER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "FLEA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FLEE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FLEET",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FLEETER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FREE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FREER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FRET",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HALF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HEARTFELT",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "HEREAFTER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "LEAF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LEAFLET",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "LEFT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LEFTER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RAFFLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RAFT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RAFTER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REEF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "REFER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "REFEREE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "THEFT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "THEREAFTER",
+            "score": 7,
+            "pangram": false
+        }
+    ]
+}

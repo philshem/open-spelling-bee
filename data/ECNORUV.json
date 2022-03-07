@@ -1,0 +1,251 @@
+{
+    "letters": "ECNORUV",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 125,
+    "word_count": 45,
+    "pangram_count": 1,
+    "pangram_list": [
+        "UNCOVER"
+    ],
+    "word_list": [
+        {
+            "word": "COERCE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CONCERN",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CONCURRENCE",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "CONE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CONVENE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CORE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CORNER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CORONER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "COVE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COVER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CURE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CURVE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ENCORE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ERROR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EVEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EVENER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EVER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NEON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NERVE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NEURON",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NEVER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NONE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OCCURRENCE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "ONCE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OUNCE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OVEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OVER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OVERRUN",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RECOVER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RECUR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RECURRENCE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "RENOUNCE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "REVENUE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "REVERE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REVERENCE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "REVUE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RUNE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RUNNER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "UNCOVER",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "UNEVEN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "UNNERVE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "VEER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VENEER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VENUE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VERVE",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

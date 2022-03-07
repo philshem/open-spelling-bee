@@ -1,0 +1,176 @@
+{
+    "letters": "FCDEHIL",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 70,
+    "word_count": 30,
+    "pangram_count": 1,
+    "pangram_list": [
+        "FILCHED"
+    ],
+    "word_list": [
+        {
+            "word": "CHEF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHIEF",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CLEF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CLIFF",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DEFIED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEFILE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEFILED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DEIFIED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "EDIFICE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FEED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FEEL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FELLED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FICHE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FIDDLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FIDDLED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FIELD",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FIELDED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FILCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FILCHED",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "FILE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FILED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FILLED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FLED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FLEE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FLEECE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FLEECED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FLIED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LIFE",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

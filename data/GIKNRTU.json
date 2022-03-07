@@ -1,0 +1,241 @@
+{
+    "letters": "GIKNRTU",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 151,
+    "word_count": 43,
+    "pangram_count": 1,
+    "pangram_list": [
+        "TRUNKING"
+    ],
+    "word_list": [
+        {
+            "word": "GIGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GINNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GRIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GRINNING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GRIT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GRITTING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GRUNT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GRUNTING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GUNNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GURU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GUTTING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "IGNITING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "INKING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "INNING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "INTRIGUING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "IRKING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KING",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KINKING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "KITING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KNITTING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "NURTURING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "NUTTING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RIGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RING",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RINGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RUING",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RUINING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RUNG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RUNNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RUTTING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TING",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TINGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TINNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TINTING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TIRING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TRUING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TRUNKING",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "TUGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TUNING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TURNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "UNITING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "UNTIRING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "URGING",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

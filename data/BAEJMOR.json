@@ -1,0 +1,176 @@
+{
+    "letters": "BAEJMOR",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 62,
+    "word_count": 30,
+    "pangram_count": 1,
+    "pangram_list": [
+        "JAMBOREE"
+    ],
+    "word_list": [
+        {
+            "word": "AMBER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AMOEBA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "AMOEBAE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ARBOR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BABE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BAMBOO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BARB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BARBER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BARE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BARER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BEAM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BEAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BEARER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BEER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BOAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BOMB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BOMBER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BOOM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BOOR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BORE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BROOM",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EMBER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "JABBER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "JAMB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "JAMBOREE",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "MEMBER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "OBOE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "REMEMBER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ROBBER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ROBE",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

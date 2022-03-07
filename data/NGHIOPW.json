@@ -1,0 +1,251 @@
+{
+    "letters": "NGHIOPW",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 151,
+    "word_count": 45,
+    "pangram_count": 1,
+    "pangram_list": [
+        "WHOOPING"
+    ],
+    "word_list": [
+        {
+            "word": "GIGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GINNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GOING",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GONG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GONGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOWN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOWNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HINGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HIPPING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HOGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HONING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HOOPING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HOPING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HOPPING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "INNING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NIGH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NIPPING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "NOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ONGOING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ONION",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OPINION",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "OWING",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OWNING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PHONING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PIGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PINING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PINION",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PINIONING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PINNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PIPING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "POOPING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "POPPING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "POWWOWING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "WHINING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WHIPPING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "WHOOPING",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "WIGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WING",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WINGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WINING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WINNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WIPING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WOOING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WOWING",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

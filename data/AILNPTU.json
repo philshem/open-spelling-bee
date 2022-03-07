@@ -1,0 +1,176 @@
+{
+    "letters": "AILNPTU",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 60,
+    "word_count": 30,
+    "pangram_count": 1,
+    "pangram_list": [
+        "NUPTIAL"
+    ],
+    "word_list": [
+        {
+            "word": "ANAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ANNUAL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ANNUL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "APPAL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "APPALL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ATTAIN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "AUNT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "INITIAL",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "LAIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NAIL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NUPTIAL",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "PAIL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PAIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PAINT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PALATIAL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PALL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PANT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PAPA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PAPAL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PLAIN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PLAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PLANT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PLANTAIN",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PLIANT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TAIL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TAINT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TALL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TAUNT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TAUT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TUNA",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

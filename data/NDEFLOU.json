@@ -1,0 +1,251 @@
+{
+    "letters": "NDEFLOU",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 113,
+    "word_count": 45,
+    "pangram_count": 1,
+    "pangram_list": [
+        "UNFOLDED"
+    ],
+    "word_list": [
+        {
+            "word": "DEFEND",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEFENDED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DONE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUNE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUNNO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ENDED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FELON",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FEND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FENDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FOND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FONDLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FONDLED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FOUND",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FOUNDED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FUND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FUNDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FUNNEL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FUNNELED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FUNNELLED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "LEND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LONE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NEED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NEEDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NEEDLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NEEDLED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "NEON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NODDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NODE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NONE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NOODLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NOODLED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "NOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NOUN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NUDE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OFFEND",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "OFFENDED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "OLDEN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UNDO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "UNDONE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "UNDUE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UNFOLD",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "UNFOLDED",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "UNFOUNDED",
+            "score": 6,
+            "pangram": false
+        }
+    ]
+}

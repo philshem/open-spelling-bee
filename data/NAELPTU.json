@@ -1,0 +1,211 @@
+{
+    "letters": "NAELPTU",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 77,
+    "word_count": 37,
+    "pangram_count": 1,
+    "pangram_list": [
+        "PETULANT"
+    ],
+    "word_list": [
+        {
+            "word": "ANAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ANNUAL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ANNUL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ANTENNA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ANTENNAE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "AUNT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EATEN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LANE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LATENT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LEAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LENT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NAPE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NEAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NETTLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PANE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PANEL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PANT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PATENT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PEANUT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PENAL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PENNANT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PETULANT",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "PLAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PLANE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PLANET",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PLANT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PUNT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TALENT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TAUNT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TEEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TENANT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TENET",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TENT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TUNA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TUNE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TUNNEL",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

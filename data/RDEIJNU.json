@@ -1,0 +1,276 @@
+{
+    "letters": "RDEIJNU",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 126,
+    "word_count": 50,
+    "pangram_count": 1,
+    "pangram_list": [
+        "INJURED"
+    ],
+    "word_list": [
+        {
+            "word": "DEER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DERIDE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DERIDED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DINER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DINNER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DINNERED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DIRE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DIRER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DRIED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DRIER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EERIE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EERIER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ENDURE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ENDURED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ERRED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "INJURE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "INJURED",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "INNER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "JEER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "JEERED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NEEDIER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "NUDER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "REDDEN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REDDENED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "REDDER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REDID",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "REED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "REIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "REINDEER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "REINED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RENDER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RENDERED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RIDDEN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RIDE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RIDER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RIND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RUDDER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RUDDIER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RUDE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RUDER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RUED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RUIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RUINED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RUNE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RUNNER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RUNNIER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "UDDER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UNDER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "URINE",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

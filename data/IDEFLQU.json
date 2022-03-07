@@ -1,0 +1,171 @@
+{
+    "letters": "IDEFLQU",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 74,
+    "word_count": 29,
+    "pangram_count": 1,
+    "pangram_list": [
+        "LIQUEFIED"
+    ],
+    "word_list": [
+        {
+            "word": "DEFIED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEFILE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEFILED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DEIFIED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DELI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DIED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EDDIED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FIDDLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FIDDLED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FIELD",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FIELDED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FILE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FILED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FILLED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FLIED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FLUID",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FULFIL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FULFILL",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FULFILLED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "IDLE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "IDLED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LIED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LIEU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LIFE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LIQUEFIED",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "LIQUID",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "QUILL",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

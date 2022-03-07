@@ -1,0 +1,186 @@
+{
+    "letters": "FAILRTY",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 65,
+    "word_count": 32,
+    "pangram_count": 1,
+    "pangram_list": [
+        "FRAILTY"
+    ],
+    "word_list": [
+        {
+            "word": "AFAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AFFAIR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FAIL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FAIR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FAIRLY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FAIRY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FALL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FATAL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FATALITY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FATALLY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FATTY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FIFTY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FILLY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FLAIL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FLAIR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FLAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FLATLY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FLIRT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FLIT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FRAIL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FRAILTY",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "FRAY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FRIAR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FRILL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FRILLY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LIFT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RAFT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RATIFY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RIFT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TARIFF",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TIFF",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

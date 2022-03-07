@@ -1,0 +1,261 @@
+{
+    "letters": "TCEINOU",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 137,
+    "word_count": 47,
+    "pangram_count": 1,
+    "pangram_list": [
+        "CONTINUE"
+    ],
+    "word_list": [
+        {
+            "word": "CENT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CITE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COCONUT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CONCEIT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CONCOCT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CONCOCTION",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "CONNECT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CONNECTION",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "CONNOTE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CONTENT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CONTENTION",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "CONTINENT",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CONTINUE",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "COTTON",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COUNT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CUTE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ENTICE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "INCITE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "INNOCENT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "INTENT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "INTENTION",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "INTO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "INTUITION",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "NICOTINE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "NINETEEN",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "NOTE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NOTICE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NOTION",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ONTO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TEEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TENET",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TENT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TINT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TONE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TONIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TONNE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TOOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOTE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOUT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TUITION",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TUNE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TUNIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UNCUT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UNIT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "UNITE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UNTIE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UNTO",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

@@ -1,0 +1,176 @@
+{
+    "letters": "HACIORT",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 64,
+    "word_count": 30,
+    "pangram_count": 1,
+    "pangram_list": [
+        "CHARIOT"
+    ],
+    "word_list": [
+        {
+            "word": "ARCH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ARCHAIC",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ARTHRITIC",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ATTACH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CATCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHAIR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHAOTIC",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CHAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHARIOT",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "CHART",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHIC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHOIR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COACH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CROTCH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HAIR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HART",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HATCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HITCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HOOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HORROR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ITCH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OATH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RICH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROACH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "THAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "THATCH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "THROAT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TOOTH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TORCH",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

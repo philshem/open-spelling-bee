@@ -1,0 +1,266 @@
+{
+    "letters": "FDELNOU",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 125,
+    "word_count": 48,
+    "pangram_count": 1,
+    "pangram_list": [
+        "UNFOLDED"
+    ],
+    "word_list": [
+        {
+            "word": "DEFEND",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEFENDED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DOLEFUL",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DUFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FEED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FEEL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FELLED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FELON",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FEND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FENDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FEUD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FEUDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FLED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FLEE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FLOOD",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FLOODED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FLUE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FLUFF",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FLUFFED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FOLD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FOLDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FOND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FONDLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FONDLED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FOOD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FOOL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FOOLED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FOUL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FOULED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FOUND",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FOUNDED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FUEL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FUELED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FUELLED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FULLED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FUND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FUNDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FUNNEL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FUNNELED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FUNNELLED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "OFFED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OFFEND",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "OFFENDED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "UNFOLD",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "UNFOLDED",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "UNFOUNDED",
+            "score": 6,
+            "pangram": false
+        }
+    ]
+}

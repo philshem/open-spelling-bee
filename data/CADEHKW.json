@@ -1,0 +1,161 @@
+{
+    "letters": "CADEHKW",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 63,
+    "word_count": 27,
+    "pangram_count": 1,
+    "pangram_list": [
+        "WHACKED"
+    ],
+    "word_list": [
+        {
+            "word": "ACCEDE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ACCEDED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ACED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ACHE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ACHED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CACHE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CACHED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CAKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CAKED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CAWED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CEDE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CEDED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHECK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHECKED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CHEEK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHEEKED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CHEW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHEWED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DECADE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DECK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DECKED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EACH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HACK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HACKED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HEADACHE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "WHACK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WHACKED",
+            "score": 4,
+            "pangram": true
+        }
+    ]
+}

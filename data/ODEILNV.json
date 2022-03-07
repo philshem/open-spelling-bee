@@ -1,0 +1,256 @@
+{
+    "letters": "ODEILNV",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 105,
+    "word_count": 46,
+    "pangram_count": 1,
+    "pangram_list": [
+        "INVOLVED"
+    ],
+    "word_list": [
+        {
+            "word": "DEVOID",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEVOLVE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DEVOLVED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DODO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOLE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOLED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DOLL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOLLED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DONE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOODLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DOODLED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DOVE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EVOLVE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EVOLVED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "IDOL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "INVOLVE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "INVOLVED",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "IODINE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LION",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOLL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOLLED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LONE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOONIE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LOVE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOVED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NEON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NODDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NODE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NONE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NOODLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NOODLED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "NOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NOVEL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OILED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OLDEN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OLIVE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ONION",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OVEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VIDEO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VIOLIN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VOID",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VOIDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VOODOO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VOODOOED",
+            "score": 5,
+            "pangram": false
+        }
+    ]
+}
