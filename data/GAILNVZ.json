@@ -1,0 +1,216 @@
+{
+    "letters": "GAILNVZ",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 129,
+    "word_count": 38,
+    "pangram_count": 1,
+    "pangram_list": [
+        "GALVANIZING"
+    ],
+    "word_list": [
+        {
+            "word": "AGAIN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AGING",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AILING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ALGA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ALIGN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ALIGNING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ANGLING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "AVAILING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GAGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GAIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GAINING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GALA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GALL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GALLING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GALVANIZING",
+            "score": 8,
+            "pangram": true
+        },
+        {
+            "word": "GANG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GANGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GANGLING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GAZING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GIGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GIGGLING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GINNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GIVING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GLAZING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "INNING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LAGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "LINING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LIVING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NAGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "NAILING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "VAGINA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VAGINAL",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "VALVING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "VANNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "VIGIL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ZIGZAG",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ZIGZAGGING",
+            "score": 7,
+            "pangram": false
+        }
+    ]
+}

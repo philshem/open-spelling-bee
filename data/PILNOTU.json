@@ -1,0 +1,186 @@
+{
+    "letters": "PILNOTU",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 68,
+    "word_count": 32,
+    "pangram_count": 1,
+    "pangram_list": [
+        "POLLUTION"
+    ],
+    "word_list": [
+        {
+            "word": "INPUT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LOLLIPOP",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LOOP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LUPIN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OPINION",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "OPTION",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "OUTPUT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PILOT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PINION",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PINPOINT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PINT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PLOP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PLOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POINT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "POLIO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "POLL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POLLUTION",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "POLO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PONTOON",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "POOL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POOP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POTION",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "POUT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PULP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PULPIT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PUNT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PUPIL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PUTT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TULIP",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UPON",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

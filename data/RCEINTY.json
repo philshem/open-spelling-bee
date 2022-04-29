@@ -1,0 +1,256 @@
+{
+    "letters": "RCEINTY",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 136,
+    "word_count": 46,
+    "pangram_count": 1,
+    "pangram_list": [
+        "ECCENTRICITY"
+    ],
+    "word_list": [
+        {
+            "word": "CENTER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CENTRE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CITRIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CRETIN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CRITIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ECCENTRIC",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ECCENTRICITY",
+            "score": 9,
+            "pangram": true
+        },
+        {
+            "word": "EERIE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EERIER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ENTER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ENTIRE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ENTIRETY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ENTREE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ENTRY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ERECT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ETERNITY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ICIER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "INERT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "INNER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "INTER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "INTERN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "INTERNET",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "NICER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RECENT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RECENTER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RECITE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RENT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RETICENCE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "RETICENT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RETIRE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RETRY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RICE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RITE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TEETER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TERRIER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TIER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TINIER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TINNIER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TIRE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TITTER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TREE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TRINITY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TRITE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TRITER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TYRE",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

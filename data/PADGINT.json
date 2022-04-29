@@ -1,0 +1,181 @@
+{
+    "letters": "PADGINT",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 93,
+    "word_count": 31,
+    "pangram_count": 1,
+    "pangram_list": [
+        "ADAPTING"
+    ],
+    "word_list": [
+        {
+            "word": "ADAPT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ADAPTING",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "APING",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DIPPING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GAPING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NAPPING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "NIPPING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PADDING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PAGAN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PAGING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PAID",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PAIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PAINING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PAINT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PAINTING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PANDA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PANG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PANNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PANT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PANTING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PAPA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PATTING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PIGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PINING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PINNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PINT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PIPING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PITTING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TAPING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TAPPING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TIPPING",
+            "score": 4,
+            "pangram": false
+        }
+    ]
+}

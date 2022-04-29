@@ -1,0 +1,251 @@
+{
+    "letters": "TACDELU",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 118,
+    "word_count": 45,
+    "pangram_count": 1,
+    "pangram_list": [
+        "CALCULATED"
+    ],
+    "word_list": [
+        {
+            "word": "ACTED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ACTUAL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ACUTE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ADULT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CADET",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CALCULATE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CALCULATED",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "CATCALL",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CATCALLED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CATTLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CLEAT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CULT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CUTE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CUTLET",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DATA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DATE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DATED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DEALT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DEDUCT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEDUCTED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DELETE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DELETED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DELTA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DETECT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DETECTED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DUCT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUET",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EDUCATE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "EDUCATED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ELECT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ELECTED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "LATE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LETTUCE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "LUTE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TACT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TALC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TALE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TALL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TATTLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TATTLED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TAUT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TEAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TEED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TELLTALE",
+            "score": 5,
+            "pangram": false
+        }
+    ]
+}

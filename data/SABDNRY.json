@@ -1,0 +1,206 @@
+{
+    "letters": "SABDNRY",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 71,
+    "word_count": 36,
+    "pangram_count": 1,
+    "pangram_list": [
+        "BARNYARDS"
+    ],
+    "word_list": [
+        {
+            "word": "ABYSS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ADDS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ARRAYS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BANANAS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BANDANNAS",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BANDS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BANS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BARBS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BARDS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BARNS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BARNYARDS",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "BARS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BASS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BAYS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BRANDS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BRAS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BRASS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BRASSY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BRAYS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DABS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DADS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DARNS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DAYS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DRABS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DRYS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NABS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NAYS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RADARS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RAYS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SAND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SANDS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SANDY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SASSY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SAYS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YARDS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "YARNS",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

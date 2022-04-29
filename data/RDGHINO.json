@@ -1,0 +1,201 @@
+{
+    "letters": "RDGHINO",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 100,
+    "word_count": 35,
+    "pangram_count": 1,
+    "pangram_list": [
+        "HORDING"
+    ],
+    "word_list": [
+        {
+            "word": "DONOR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DOOR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DRONING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GORGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GORING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GRID",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GRIDIRON",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GRIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GRIND",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GRINDING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GRINNING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GROIN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HIRING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HONOR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HONORING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "HORDING",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "HORN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HORRID",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HORROR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "IGNORING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "INDOOR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "IRON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "IRONING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ODOR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ORIGIN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RHINO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RIDDING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RIDGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RIDING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RIGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RIGID",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RIGOR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RIND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RING",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RINGING",
+            "score": 4,
+            "pangram": false
+        }
+    ]
+}

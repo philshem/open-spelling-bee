@@ -1,0 +1,191 @@
+{
+    "letters": "YAEOPRT",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 87,
+    "word_count": 33,
+    "pangram_count": 1,
+    "pangram_list": [
+        "PREPARATORY"
+    ],
+    "word_list": [
+        {
+            "word": "ARRAY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ARTERY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ORATORY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PAPAYA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PARTY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PATTY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PAYER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PETTY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "POETRY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "POPPY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PORTRAY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "POTTERY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PRAY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PRAYER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PREPARATORY",
+            "score": 8,
+            "pangram": true
+        },
+        {
+            "word": "PREPAY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PRETTY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PREY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PROPERTY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PROTOTYPE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PYRE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RATTY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "REPAY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RETRY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RETYPE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ROTARY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TARRY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TATTY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TRAY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TREATY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TYPE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TYRE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YEAR",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

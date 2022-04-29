@@ -1,0 +1,201 @@
+{
+    "letters": "OABCLNY",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 70,
+    "word_count": 35,
+    "pangram_count": 1,
+    "pangram_list": [
+        "BALCONY"
+    ],
+    "word_list": [
+        {
+            "word": "ALLOY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ANNOY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ANON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BABOON",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BACON",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BALCONY",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "BALLOON",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BLOB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BLOC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BONY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BOOBY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CACAO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CANNON",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CANON",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CANYON",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COCOA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COCOON",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COLON",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COLONY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COOL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COOLLY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LOAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOBBY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LOCAL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LOCALLY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "LOLL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOONY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LOYAL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NOBLY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NYLON",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ONLY",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

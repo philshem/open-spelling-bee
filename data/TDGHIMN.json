@@ -1,71 +1,30 @@
 {
     "letters": "TDGHIMN",
     "generation_info": {
-        "path": "word_lists/TWL06.txt",
+        "path": "word_lists/scowl.txt",
         "min_word_length": 4,
         "total_letter_count": 7,
-        "min_word_count": 30,
+        "min_word_count": 25,
         "max_word_count": 50,
-        "min_total_score": 80,
-        "max_total_score": 120,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": false
+        "manual_puzzle": true
     },
-    "total_score": 112,
-    "word_count": 40,
+    "total_score": 67,
+    "word_count": 25,
     "pangram_count": 1,
     "pangram_list": [
         "MIDNIGHT"
     ],
     "word_list": [
         {
-            "word": "DIGHT",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "DIGHTING",
-            "score": 5,
-            "pangram": false
-        },
-        {
             "word": "DIGIT",
             "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "DINT",
-            "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "DINTING",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "GITTIN",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "GITTING",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "HIGHT",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "HIGHTH",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "HIGHTING",
-            "score": 5,
             "pangram": false
         },
         {
@@ -86,16 +45,6 @@
         {
             "word": "IGNITING",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "INDITING",
-            "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "INTI",
-            "score": 1,
             "pangram": false
         },
         {
@@ -130,11 +79,6 @@
         },
         {
             "word": "NINTH",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "NITID",
             "score": 2,
             "pangram": false
         },
@@ -189,11 +133,6 @@
             "pangram": false
         },
         {
-            "word": "TINING",
-            "score": 3,
-            "pangram": false
-        },
-        {
             "word": "TINNING",
             "score": 4,
             "pangram": false
@@ -206,16 +145,6 @@
         {
             "word": "TINTING",
             "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "TITHING",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "TITI",
-            "score": 1,
             "pangram": false
         }
     ]

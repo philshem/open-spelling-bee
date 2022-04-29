@@ -1,0 +1,231 @@
+{
+    "letters": "FAEMORT",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 82,
+    "word_count": 41,
+    "pangram_count": 1,
+    "pangram_list": [
+        "REFORMAT"
+    ],
+    "word_list": [
+        {
+            "word": "AFAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AFOOT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AFTER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EFFORT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FAME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FARE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FARM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FARMER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FATE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FATTER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FEAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FEAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FEET",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FERRET",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FETE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FETTER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FOAM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FOOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FORE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FOREARM",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FORM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FORMAT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FORMER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FORT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FORTE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FRAME",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FREE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FREER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FRET",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FROM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OFFER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RAFT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RAFTER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REEF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "REFER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "REFEREE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "REFORM",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REFORMAT",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "REFORMER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ROOF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOFFEE",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

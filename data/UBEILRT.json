@@ -1,0 +1,226 @@
+{
+    "letters": "UBEILRT",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 91,
+    "word_count": 40,
+    "pangram_count": 1,
+    "pangram_list": [
+        "REBUILT"
+    ],
+    "word_list": [
+        {
+            "word": "BLUBBER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BLUE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BLUEBELL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BLUER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BLUR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BLURB",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BLURT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BRUTE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BUBBLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BUBBLIER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BUILT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BULB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BULLET",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BURBLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BURLIER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BURR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BUTLER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BUTT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BUTTE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BUTTER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LIEU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LURE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LUTE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "REBUILT",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "REBUT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RUBBER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RUBBLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RUBIER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RULE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RULER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TRIBUTE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TRUE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TRUER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TUBE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TURRET",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TURTLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "UTERI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UTTER",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

@@ -1,0 +1,156 @@
+{
+    "letters": "PGINTUY",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 78,
+    "word_count": 26,
+    "pangram_count": 1,
+    "pangram_list": [
+        "PUTTYING"
+    ],
+    "word_list": [
+        {
+            "word": "GUPPY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "INPUT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "INPUTTING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "NIPPING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "NIPPY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PIGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PINING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PINNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PINT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PIPING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PITTING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PITY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PITYING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PUNNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PUNT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PUNTING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PUNY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PUPPING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PUPPY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PUTT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PUTTING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PUTTY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PUTTYING",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "TIPPING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TYPING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "UPPING",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

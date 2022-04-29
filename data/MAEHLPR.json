@@ -1,0 +1,186 @@
+{
+    "letters": "MAEHLPR",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 60,
+    "word_count": 32,
+    "pangram_count": 1,
+    "pangram_list": [
+        "EPHEMERAL"
+    ],
+    "word_list": [
+        {
+            "word": "ALARM",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AMPERE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "AMPLE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AMPLER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EPHEMERAL",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "HAMMER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HAMPER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HAREM",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HARM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HELM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HEMP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LAME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LAMER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LAMP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LEMME",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LLAMA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MALE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MALL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MAMA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MAMMA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MAMMAL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MAPLE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MAPPER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MARE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MEAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MERE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PALM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PAMPER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PRAM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RAMP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "REALM",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "REAM",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

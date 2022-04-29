@@ -1,0 +1,206 @@
+{
+    "letters": "SBKMORW",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 72,
+    "word_count": 36,
+    "pangram_count": 1,
+    "pangram_list": [
+        "BOOKWORMS"
+    ],
+    "word_list": [
+        {
+            "word": "BOBS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BOMBS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BOOKS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BOOKWORMS",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "BOOMS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BOORS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BOOS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BORROWS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BOSOM",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BOSOMS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BOSS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BOWS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BROOKS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BROOMS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BROWS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MOBS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOMS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOORS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MOOS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOSS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOWS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROBS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROOKS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ROOMS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ROWS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SOBS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SORROW",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SORROWS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "SOWS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WOKS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WOMBS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WOOS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WORKBOOKS",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "WORKS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WORMS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WOWS",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

@@ -1,0 +1,156 @@
+{
+    "letters": "RACILUY",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 68,
+    "word_count": 26,
+    "pangram_count": 1,
+    "pangram_list": [
+        "CRUCIALLY"
+    ],
+    "word_list": [
+        {
+            "word": "ACCURACY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ACRYLIC",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "AIRY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ARIA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ARRAY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AURA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AURAL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CARRY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CIRCA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CIRCULAR",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CRUCIAL",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CRUCIALLY",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "CURL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CURLY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CURRICULA",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CURRY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LAIR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LIAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LYRIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LYRICAL",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RACIAL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RACIALLY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RACY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RAIL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RALLY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RURAL",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

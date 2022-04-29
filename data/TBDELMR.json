@@ -1,0 +1,221 @@
+{
+    "letters": "TBDELMR",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 104,
+    "word_count": 39,
+    "pangram_count": 1,
+    "pangram_list": [
+        "TREMBLED"
+    ],
+    "word_list": [
+        {
+            "word": "BEET",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BEETLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BEETLED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BELT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BELTED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BERET",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BETTER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BETTERED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DEBT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DELETE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DELETED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DETER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DETERRED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LETTER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LETTERED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MEET",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MELT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MELTED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "METE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "METED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "METER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "METERED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "METRE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "METTLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TEED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TEEM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TEEMED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TEETER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TEETERED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TELLER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TERM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TERMED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TREBLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TREBLED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TREE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TREED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TREMBLE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TREMBLED",
+            "score": 5,
+            "pangram": true
+        }
+    ]
+}

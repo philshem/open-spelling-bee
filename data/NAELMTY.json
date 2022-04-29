@@ -1,0 +1,221 @@
+{
+    "letters": "NAELMTY",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 98,
+    "word_count": 39,
+    "pangram_count": 1,
+    "pangram_list": [
+        "MENTALLY"
+    ],
+    "word_list": [
+        {
+            "word": "AMEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ANAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ANTENNA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ANTENNAE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "EATEN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ELEMENT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ELEMENTAL",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "EMANATE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ENAMEL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ENEMA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ENEMY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LAMENT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LANE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LATENT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LAYMAN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LAYMEN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LEAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LENT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MANE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MANLY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MANTEL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MANTLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MANY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MEAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MEANT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MENTAL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MENTALLY",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "NAME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NAMELY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NATTY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NEAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NEATLY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NETTLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TALENT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TEEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TENANT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TENEMENT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TENET",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TENT",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

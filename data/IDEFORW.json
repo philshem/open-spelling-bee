@@ -1,0 +1,241 @@
+{
+    "letters": "IDEFORW",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 117,
+    "word_count": 43,
+    "pangram_count": 1,
+    "pangram_list": [
+        "FIREWOOD"
+    ],
+    "word_list": [
+        {
+            "word": "DEFIED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEIFIED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DERIDE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DERIDED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DIED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DIFFER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DIFFERED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DIRE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DIRER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DOWDIER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DRIED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DRIER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EDDIED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EERIE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EERIER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FERRIED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FIERIER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FIRE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FIRED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FIREWOOD",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "FRIED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "REDID",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RIDE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RIDER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RIFE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RIFER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ROWDIER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WEEDIER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WEIRD",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WEIRDER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WEIRDO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WIDE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WIDER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WIDOW",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WIDOWED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WIDOWER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WIFE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WIRE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WIRED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WIRIER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WOODIER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WORDIER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WORRIED",
+            "score": 4,
+            "pangram": false
+        }
+    ]
+}

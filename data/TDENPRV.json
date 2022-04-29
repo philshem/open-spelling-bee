@@ -1,0 +1,276 @@
+{
+    "letters": "TDENPRV",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 162,
+    "word_count": 50,
+    "pangram_count": 1,
+    "pangram_list": [
+        "PREVENTED"
+    ],
+    "word_list": [
+        {
+            "word": "DENT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DENTED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEPENDENT",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DETER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DETERRED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DETERRENT",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ENTER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ENTERED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ENTREE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EVENT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NETTED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PERT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PERTER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PERVERT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PERVERTED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PETER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PETERED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PETTED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PRETEND",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PRETENDED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PRETENDER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PREVENT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PREVENTED",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "RENT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RENTED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REPENT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REPENTED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "REVERENT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "REVERT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REVERTED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TEED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TEEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TEETER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TEETERED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TEND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TENDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TENDER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TENDERED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TENDERER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TENET",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TENT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TENTED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TEPEE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TREE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TREED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TREND",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TRENDED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "VENT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VENTED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VETTED",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

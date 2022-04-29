@@ -1,0 +1,226 @@
+{
+    "letters": "ODGILNZ",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 105,
+    "word_count": 40,
+    "pangram_count": 1,
+    "pangram_list": [
+        "IDOLIZING"
+    ],
+    "word_list": [
+        {
+            "word": "DODGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DODO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DOING",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DOLING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DOLL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOLLING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DOODLING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DOZING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GOING",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GOLD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GONG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GONGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GOOD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "IDOL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "IDOLIZING",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "IGLOO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "INDIGO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LINGO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LION",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LODGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "LOGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "LOGO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOLL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOLLING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "LONG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LONGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "LOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NODDING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "NOODLING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "NOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OGLING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "OILING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ONGOING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ONION",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OOZING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ZILLION",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ZONING",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

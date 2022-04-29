@@ -1,0 +1,221 @@
+{
+    "letters": "HADELNR",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 94,
+    "word_count": 39,
+    "pangram_count": 1,
+    "pangram_list": [
+        "HANDLER"
+    ],
+    "word_list": [
+        {
+            "word": "ADHERE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ADHERED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "AHEAD",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HALE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HALED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HALER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HALL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HAND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HANDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HANDLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HANDLED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HANDLER",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "HARD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HARDEN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HARDENED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "HARDER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HARE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HARED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HEAD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HEADED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HEADER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HEADLAND",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "HEAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HEALED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HEALER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HEAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HEARD",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HEED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HEEDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HEEL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HEELED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HELD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HERALD",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HERALDED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "HERD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HERDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HERE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "REDHEAD",
+            "score": 4,
+            "pangram": false
+        }
+    ]
+}

@@ -1,0 +1,191 @@
+{
+    "letters": "OFGINTY",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 87,
+    "word_count": 33,
+    "pangram_count": 1,
+    "pangram_list": [
+        "NOTIFYING"
+    ],
+    "word_list": [
+        {
+            "word": "FOGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FOGGY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FOGY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FONT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FOOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FOOTING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FOOTNOTING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "GOING",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GONG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GONGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GOOF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOOFING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GOOFY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "IGNITION",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "INFO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "INTO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NOTIFY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NOTIFYING",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "NOTING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NOTION",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "OFFING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ONGOING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ONION",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ONTO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TONG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TONING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TOOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOOTING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TOTING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TOTTING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TOYING",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

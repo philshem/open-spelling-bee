@@ -1,0 +1,196 @@
+{
+    "letters": "KABDEMR",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 82,
+    "word_count": 34,
+    "pangram_count": 1,
+    "pangram_list": [
+        "EMBARKED"
+    ],
+    "word_list": [
+        {
+            "word": "BAKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BAKED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BAKER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BARK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BARKED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BEAK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BEAKED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BEAKER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BRAKE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BRAKED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BREAK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DARK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DARKER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EARMARK",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "EARMARKED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "EKED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EMBARK",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EMBARKED",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "KERB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KERBED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MAKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MAKER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MARK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MARKED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MARKER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MEEK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MEEKER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RAKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RAKED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "REEK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "REEKED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REMAKE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REMARK",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REMARKED",
+            "score": 5,
+            "pangram": false
+        }
+    ]
+}

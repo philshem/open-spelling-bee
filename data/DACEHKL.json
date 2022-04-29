@@ -1,0 +1,266 @@
+{
+    "letters": "DACEHKL",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 119,
+    "word_count": 48,
+    "pangram_count": 1,
+    "pangram_list": [
+        "CHALKED"
+    ],
+    "word_list": [
+        {
+            "word": "ACCEDE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ACCEDED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ACED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ACHED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ADDED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AHEAD",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CACHED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CACKLED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CAKED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CALKED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CALLED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CEDE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CEDED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHALKED",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "CHECKED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CHEEKED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CLACKED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CLAD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DEAD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DEAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DECADE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DECK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DECKED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DEEDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EKED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HACKED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HALED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HEAD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HEADACHE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "HEADED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HEALED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HECKLED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HEED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HEEDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HEELED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HELD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KEELED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LACED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LACKED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LADE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LADED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LADLE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LADLED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LEAD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LEADED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LEAKED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LEECHED",
+            "score": 4,
+            "pangram": false
+        }
+    ]
+}

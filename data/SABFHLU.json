@@ -1,0 +1,226 @@
+{
+    "letters": "SABFHLU",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 70,
+    "word_count": 40,
+    "pangram_count": 1,
+    "pangram_list": [
+        "BASHFUL"
+    ],
+    "word_list": [
+        {
+            "word": "ALAS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BALLS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BASH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BASHFUL",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "BASS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BLABS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BLUFFS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BLUSH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BUFFS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BULBS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BULLS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BUSH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BUSS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FALLS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FLASH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FLUFFS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FLUSH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FULLS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FUSS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HALLS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HASH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HAULS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HUBBUBS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HUBS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HUFFS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HULLS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HUSH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LABS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LASH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LASS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LULLS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LUSH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SASH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SHALL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SLAB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SLABS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SLASH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SLUSH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SUBS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "USUAL",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

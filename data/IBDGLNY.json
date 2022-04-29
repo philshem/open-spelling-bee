@@ -1,0 +1,211 @@
+{
+    "letters": "IBDGLNY",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 110,
+    "word_count": 37,
+    "pangram_count": 1,
+    "pangram_list": [
+        "BLINDINGLY"
+    ],
+    "word_list": [
+        {
+            "word": "BIDDING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BIDING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BILLING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BIND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BINDING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BINNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BLIND",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BLINDING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BLINDINGLY",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "BLINDLY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DIGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DINGY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DINING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DINNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DYING",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GIBING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GIDDY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GIGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GIGGLING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GILD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GILDING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GINNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GLIB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GLIBLY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GLIDING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GYBING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "IDLING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "IDLY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "INNING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LILY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LINING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LYING",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NIBBLING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "NINNY",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

@@ -1,0 +1,241 @@
+{
+    "letters": "IAEHLNT",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 112,
+    "word_count": 43,
+    "pangram_count": 1,
+    "pangram_list": [
+        "ANNIHILATE"
+    ],
+    "word_list": [
+        {
+            "word": "ALIEN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ALIENATE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ANNIHILATE",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "ANTHILL",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ATTAIN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ELITE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ENTAIL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ENTITLE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HAIL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HILT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HINT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "INANE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "INHALE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "INITIAL",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "INITIATE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "INLET",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "INNATE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "INTENT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LAIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LENIENT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "LENTIL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LILT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LINE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LINEN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LINT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LITHE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LITTLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NAIL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NINE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NINETEEN",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "NINETEENTH",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "NINETIETH",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "NINTH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TAIL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TAINT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "THIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TILE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TILT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TINT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TITILLATE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TITLE",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

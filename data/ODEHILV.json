@@ -1,0 +1,201 @@
+{
+    "letters": "ODEHILV",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 82,
+    "word_count": 35,
+    "pangram_count": 1,
+    "pangram_list": [
+        "LIVELIHOOD"
+    ],
+    "word_list": [
+        {
+            "word": "DEVOID",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEVOLVE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DEVOLVED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DODO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOLE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOLED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DOLL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOLLED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DOODLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DOODLED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DOVE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EVOLVE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EVOLVED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HELLO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HOED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HOLD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HOLE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HOLED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HOOD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HOODED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HOVE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HOVEL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "IDOL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LIVELIHOOD",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "LOLL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOLLED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LOVE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOVED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OILED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OLIVE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VIDEO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VOID",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VOIDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VOODOO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VOODOOED",
+            "score": 5,
+            "pangram": false
+        }
+    ]
+}

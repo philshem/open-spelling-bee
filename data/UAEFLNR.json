@@ -1,0 +1,191 @@
+{
+    "letters": "UAEFLNR",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 72,
+    "word_count": 33,
+    "pangram_count": 1,
+    "pangram_list": [
+        "FUNERAL"
+    ],
+    "word_list": [
+        {
+            "word": "ALLURE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ANNUAL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ANNUL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AURA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AURAL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FAUNA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FEARFUL",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FLUE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FLUFF",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FUEL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FULLER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FUNERAL",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "FUNNEL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FUNNER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FURL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LAUREL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LUNAR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LURE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NEURAL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "REFUEL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RUEFUL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RUFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RUFFLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RULE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RULER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RUNE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RUNNER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RURAL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UNFURL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "UNREAL",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

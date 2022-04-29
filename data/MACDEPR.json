@@ -1,0 +1,266 @@
+{
+    "letters": "MACDEPR",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 117,
+    "word_count": 48,
+    "pangram_count": 1,
+    "pangram_list": [
+        "CRAMPED"
+    ],
+    "word_list": [
+        {
+            "word": "AMPERE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ARMED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CAME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CAMERA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CAMP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CAMPED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CAMPER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CRAM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CRAMMED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CRAMP",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CRAMPED",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "CREAM",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CREAMED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DAME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DAMMED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DAMP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DAMPED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DAMPER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEEM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DEEMED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DRAMA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DREAM",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DREAMED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DREAMER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MACE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MACED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MADAM",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MADAME",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MADCAP",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MADDER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MADE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MAMA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MAMMA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MAPPED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MAPPER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MARE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MARRED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MERE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PAMPER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PAMPERED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PRAM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RAMMED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RAMP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "REAM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "REAMED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REDEEM",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REDEEMED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "REMADE",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

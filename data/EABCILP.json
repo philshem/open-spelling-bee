@@ -1,0 +1,241 @@
+{
+    "letters": "EABCILP",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 94,
+    "word_count": 43,
+    "pangram_count": 1,
+    "pangram_list": [
+        "APPLICABLE"
+    ],
+    "word_list": [
+        {
+            "word": "ABLE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "APIECE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "APPEAL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "APPLE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "APPLICABLE",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "BABBLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BABE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BALE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BELIE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BIBLE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BILE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CABLE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CALLABLE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CAPABLE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CAPE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EPIC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ICICLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LABEL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LACE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LAPEL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LEAP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LIABLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LIBEL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LICE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PACE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PALACE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PALE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PALPABLE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PEACE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PEACEABLE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PEAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PEBBLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PEEL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PEEP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PIECE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PILE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PIPE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PLACE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PLAICE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PLEA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PLIABLE",
+            "score": 4,
+            "pangram": false
+        }
+    ]
+}

@@ -1,0 +1,186 @@
+{
+    "letters": "TCEFINV",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 108,
+    "word_count": 32,
+    "pangram_count": 1,
+    "pangram_list": [
+        "INEFFECTIVE"
+    ],
+    "word_list": [
+        {
+            "word": "CENT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CITE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EFFECT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EFFECTIVE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "EFFICIENT",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ENTICE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EVENT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EVICT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FEET",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FEINT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FETE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FIFTEEN",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FINITE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "INCENTIVE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "INCITE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "INEFFECTIVE",
+            "score": 8,
+            "pangram": true
+        },
+        {
+            "word": "INEFFICIENT",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "INFECT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "INFINITE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "INFINITIVE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "INTENT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "INVECTIVE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "INVENT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "INVENTIVE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "INVITE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NINETEEN",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TEEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TENET",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TENT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TIFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TINT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VENT",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

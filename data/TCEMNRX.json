@@ -1,0 +1,176 @@
+{
+    "letters": "TCEMNRX",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 73,
+    "word_count": 30,
+    "pangram_count": 1,
+    "pangram_list": [
+        "EXCREMENT"
+    ],
+    "word_list": [
+        {
+            "word": "CEMENT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CENT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CENTER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CENTRE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ENTER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ENTREE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ERECT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EXCREMENT",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "EXCRETE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "EXERT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EXTENT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EXTREME",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "EXTREMER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MEET",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "METE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "METER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "METRE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NEXT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RECENT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RECENTER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RENT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TEEM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TEEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TEETER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TENEMENT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TENET",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TENT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TERM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TEXT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TREE",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

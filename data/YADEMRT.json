@@ -1,0 +1,171 @@
+{
+    "letters": "YADEMRT",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 69,
+    "word_count": 29,
+    "pangram_count": 1,
+    "pangram_list": [
+        "MARTYRED"
+    ],
+    "word_list": [
+        {
+            "word": "ARMY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ARRAY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ARRAYED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ARTERY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DADDY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DAYDREAM",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DAYDREAMED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "DREAMY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DREARY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DRYER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DYED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EDDY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EYED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MARRY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MARTYR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MARTYRED",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "MERRY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RATTY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "READY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "REMEDY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RETRY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TARDY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TARRY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TATTY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TRAY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TREATY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TYRE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YARD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YEAR",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

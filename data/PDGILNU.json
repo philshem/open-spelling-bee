@@ -1,0 +1,161 @@
+{
+    "letters": "PDGILNU",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 88,
+    "word_count": 27,
+    "pangram_count": 1,
+    "pangram_list": [
+        "PUDDLING"
+    ],
+    "word_list": [
+        {
+            "word": "DIPPING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DUPING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GULP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GULPING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "LUPIN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NIPPING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PIDDLING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PIGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PILING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PILLING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PINING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PINNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PIPING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PLUG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PLUGGING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PLUNGING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PUDDING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PUDDLING",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "PULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PULLING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PULP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PULPING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PUNNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PUPIL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PUPPING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "UPPING",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

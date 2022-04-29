@@ -1,0 +1,256 @@
+{
+    "letters": "TEKNORW",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 89,
+    "word_count": 46,
+    "pangram_count": 1,
+    "pangram_list": [
+        "NETWORK"
+    ],
+    "word_list": [
+        {
+            "word": "ENTER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ENTREE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KNOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KOWTOW",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NETWORK",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "NEWT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NEWTON",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NOTE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ONTO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OTTER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RENT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RETORT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REWROTE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ROOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROOTER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ROTE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROTOR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ROTTEN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ROTTENER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TEEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TEETER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TENET",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TENOR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TENT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TERROR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TOKEN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TONE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TONNE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TOOK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TORE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TORN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TORRENT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TOTE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOTTER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TOWER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TOWN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TREE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TREK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TROT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TWEE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TWEET",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WENT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WETTER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WONT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WROTE",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

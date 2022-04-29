@@ -1,0 +1,236 @@
+{
+    "letters": "TDEFIOU",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 87,
+    "word_count": 42,
+    "pangram_count": 1,
+    "pangram_list": [
+        "OUTFITTED"
+    ],
+    "word_list": [
+        {
+            "word": "DEFT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DIET",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DIETED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DITTO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DITTOED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DOTE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOTED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DOTTED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DUET",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EDIT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EDITED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FEET",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FETE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FETED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FETID",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FITTED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FOOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FOOTED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "IDIOT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OUTDID",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "OUTDO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OUTED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OUTFIT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "OUTFITTED",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "TEED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TIDE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TIDED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TIDIED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TIED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TIFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TIFFED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TOED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOFFEE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TOOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOOTED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TOTE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOTED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TOTTED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TOUT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOUTED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TUFT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TUFTED",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

@@ -1,0 +1,151 @@
+{
+    "letters": "WEIORTV",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 64,
+    "word_count": 25,
+    "pangram_count": 1,
+    "pangram_list": [
+        "OVERWRITE"
+    ],
+    "word_list": [
+        {
+            "word": "OVERVIEW",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "OVERWRITE",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "REVIEW",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REVIEWER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "REWRITE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "REWROTE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TOWER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TWEE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TWEET",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TWITTER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "VIEW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VIEWER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WEER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WERE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WETTER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WIRE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WIRIER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WITTIER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WIVE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WORE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WOVE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WRIT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WRITE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WRITER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WROTE",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

@@ -1,0 +1,231 @@
+{
+    "letters": "ICDELVZ",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 97,
+    "word_count": 41,
+    "pangram_count": 1,
+    "pangram_list": [
+        "CIVILIZED"
+    ],
+    "word_list": [
+        {
+            "word": "CIVIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CIVIL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CIVILIZE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CIVILIZED",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "DECEIVE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DECEIVED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DECIDE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DECIDED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DELI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DEVICE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEVIL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DEVILED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DEVILLED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DICE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DICED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DIED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DIVE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DIVED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DIVIDE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DIVIDED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DIZZIED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "EDDIED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EVIL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ICED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ICICLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "IDLE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "IDLED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LEVIED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LICE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LIED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LIVE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LIVED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LIVID",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VEIL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VEILED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VICE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VICED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VIED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VILE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VIVID",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

@@ -1,0 +1,151 @@
+{
+    "letters": "VDEOPRW",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 78,
+    "word_count": 25,
+    "pangram_count": 1,
+    "pangram_list": [
+        "OVERPOWERED"
+    ],
+    "word_list": [
+        {
+            "word": "DOVE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DROVE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EVER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OVER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OVERDO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "OVERDREW",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "OVERPOWER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "OVERPOWERED",
+            "score": 8,
+            "pangram": true
+        },
+        {
+            "word": "OVERRODE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PEEVE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PEEVED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PROVE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PROVED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REPROVE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "REPROVED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "REVERE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REVERED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "REVVED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VEER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VEERED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VERVE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VOODOO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VOODOOED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "VOWED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WOVE",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

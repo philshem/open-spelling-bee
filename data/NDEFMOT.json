@@ -1,0 +1,276 @@
+{
+    "letters": "NDEFMOT",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 122,
+    "word_count": 50,
+    "pangram_count": 1,
+    "pangram_list": [
+        "FOMENTED"
+    ],
+    "word_list": [
+        {
+            "word": "DEFEND",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEFENDED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DEMENTED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DEMON",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DENOTE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DENOTED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DENT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DENTED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DONE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ENDED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FEND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FENDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FOMENT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FOMENTED",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "FOND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FONT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FOOTNOTE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FOOTNOTED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MEMENTO",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MEND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MENDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MOMENT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOONED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NEED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NEEDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NEON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NETTED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NODDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NODE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NONE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NOTE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NOTED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OFFEND",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "OFFENDED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "OFTEN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OMEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ONTO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TEEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TEND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TENDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TENDON",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TENEMENT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TENET",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TENT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TENTED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TONE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TONED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TONNE",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

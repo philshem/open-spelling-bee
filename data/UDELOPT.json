@@ -1,0 +1,236 @@
+{
+    "letters": "UDELOPT",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 102,
+    "word_count": 42,
+    "pangram_count": 1,
+    "pangram_list": [
+        "POLLUTED"
+    ],
+    "word_list": [
+        {
+            "word": "DELUDE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DELUDED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DUDE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUDED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DUEL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUELED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DUELLED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DUET",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DULLED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DUPE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUPED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ELUDE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ELUDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LETUP",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LOUD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LULLED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LUTE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OUTDO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OUTED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OUTLET",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "OUTPUT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "OUTPUTTED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "POLLUTE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "POLLUTED",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "POUT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POUTED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PUDDLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PUDDLED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PULLED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PULP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PULPED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PUPPED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PUPPET",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PUTT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PUTTED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TOUPEE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TOUT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOUTED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "UPPED",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

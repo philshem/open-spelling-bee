@@ -1,0 +1,161 @@
+{
+    "letters": "VEIMORT",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 74,
+    "word_count": 27,
+    "pangram_count": 1,
+    "pangram_list": [
+        "OVERTIME"
+    ],
+    "word_list": [
+        {
+            "word": "EMOTIVE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "EVER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EVERMORE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MOREOVER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MOTIVE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MOVE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOVER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MOVIE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OVER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OVERT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OVERTIME",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "REMOVE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RETRIEVE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RETRIEVER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "REVERE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REVERIE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "REVERT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REVIVE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RIVER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RIVET",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VEER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VERIER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VERVE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VETO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VOMIT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VOTE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VOTER",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

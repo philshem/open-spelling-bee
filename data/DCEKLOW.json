@@ -1,0 +1,276 @@
+{
+    "letters": "DCEKLOW",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 110,
+    "word_count": 50,
+    "pangram_count": 1,
+    "pangram_list": [
+        "WEDLOCK"
+    ],
+    "word_list": [
+        {
+            "word": "CEDE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CEDED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CLOCKED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CLOD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COCKED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CODDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CODE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CODED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COKED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COLD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COOED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COOKED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COOLED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COWED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DECK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DECKED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DECODE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DECODED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DEED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DEEDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DOCK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOCKED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DODO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOLE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOLED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DOLL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOLLED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DOODLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DOODLED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DWELL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EKED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KEELED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LEWD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOCKED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LOLLED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LOOKED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LOWED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OKED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OWED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WEDDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WEDLOCK",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "WEED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WEEDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WELD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WELDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WELLED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WOOD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WOODED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WOOED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WOWED",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

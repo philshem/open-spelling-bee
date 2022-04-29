@@ -1,0 +1,241 @@
+{
+    "letters": "LAINOTV",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 86,
+    "word_count": 43,
+    "pangram_count": 1,
+    "pangram_list": [
+        "VIOLATION"
+    ],
+    "word_list": [
+        {
+            "word": "ALLOT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ALTO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ANAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ANVIL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AVAIL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "INITIAL",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "LAIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LAVA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LILT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LINT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LION",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOLL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOTION",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NAIL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NATIONAL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "NAVAL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NOTIONAL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "OVAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TAIL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TALL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TALON",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TILT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOIL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOLL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TONAL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TOOL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOTAL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VALIANT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "VANILLA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "VIAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VILLA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VILLAIN",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "VIOLA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VIOLATION",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "VIOLIN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VITAL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VOLITION",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "VOLT",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

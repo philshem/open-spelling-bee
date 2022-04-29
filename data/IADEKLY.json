@@ -1,0 +1,206 @@
+{
+    "letters": "IADEKLY",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 77,
+    "word_count": 36,
+    "pangram_count": 1,
+    "pangram_list": [
+        "LADYLIKE"
+    ],
+    "word_list": [
+        {
+            "word": "AIDE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AIDED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AILED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ALIKE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ALKALI",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ALLIED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DAILY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DALLIED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DELI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DIAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DIALED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DIALLED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DIED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DIKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DIKED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EDDIED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EYELID",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "IDEA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "IDEAL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "IDEALLY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "IDLE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "IDLED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "IDLY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KIDDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KILLED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LADYLIKE",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "LAID",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LIED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LIKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LIKED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LIKELY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LILY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YIELD",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "YIELDED",
+            "score": 4,
+            "pangram": false
+        }
+    ]
+}

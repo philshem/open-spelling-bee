@@ -1,0 +1,261 @@
+{
+    "letters": "TADEGNW",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 112,
+    "word_count": 47,
+    "pangram_count": 1,
+    "pangram_list": [
+        "TWANGED"
+    ],
+    "word_list": [
+        {
+            "word": "AGENT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ANTENNA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ANTENNAE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ATTEND",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ATTENDANT",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ATTENDED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DATA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DATE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DATED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DENT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DENTED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EATEN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GADGET",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GATE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GATED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GENT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GNAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NEAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NEGATE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NEGATED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "NETTED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NEWT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TAGGED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TANG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TANGENT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TANNED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TEAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TEED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TEEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TEENAGE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TENANT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TENANTED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TEND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TENDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TENET",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TENT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TENTED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TWANG",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TWANGED",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "TWEE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TWEED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TWEET",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TWEETED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WANT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WANTED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WATT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WENT",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

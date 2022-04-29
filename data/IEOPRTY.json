@@ -1,0 +1,186 @@
+{
+    "letters": "IEOPRTY",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 88,
+    "word_count": 32,
+    "pangram_count": 1,
+    "pangram_list": [
+        "PROPRIETY"
+    ],
+    "word_list": [
+        {
+            "word": "EERIE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EERIER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PETITE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PETTIER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PIER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PIETY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PIPE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PITY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PRETTIER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PRIOR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PRIORITY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PROPRIETOR",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "PROPRIETY",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "REPERTOIRE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "RETIRE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RIOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RIOTER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RIPE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RIPER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RITE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TERRIER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TERRITORY",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TIER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TIPTOE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TIRE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TITTER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TRIO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TRIP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TRIPE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TRITE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TRITER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "YETI",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

@@ -1,0 +1,266 @@
+{
+    "letters": "CBDEKOR",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 132,
+    "word_count": 48,
+    "pangram_count": 1,
+    "pangram_list": [
+        "BEDROCK"
+    ],
+    "word_list": [
+        {
+            "word": "BEDROCK",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "CEDE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CEDED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COCK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COCKED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CODDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CODE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CODED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COERCE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COERCED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "COKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COKED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COOED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COOK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COOKBOOK",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "COOKED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COOKER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CORD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CORDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CORE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CORED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CORK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CORKED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CORRODE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CORRODED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CREED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CREEK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CROCK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CROOK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CROOKED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CROOKEDER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DECK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DECKED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DECODE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DECODED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DECODER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DECREE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DECREED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DOCK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOCKED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RECEDE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RECEDED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RECORD",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RECORDED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RECORDER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ROCK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROCKED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ROCKER",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

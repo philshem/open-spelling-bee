@@ -1,0 +1,261 @@
+{
+    "letters": "UABDELT",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 114,
+    "word_count": 47,
+    "pangram_count": 1,
+    "pangram_list": [
+        "TABULATED"
+    ],
+    "word_list": [
+        {
+            "word": "ADULT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ALLUDE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ALLUDED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BAUD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BLUE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BLUEBELL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BLUED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BUBBLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BUBBLED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BUDDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BULB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BULLED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BULLET",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BUTT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BUTTE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BUTTED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DAUB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DAUBED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEBUT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DEBUTED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DELUDE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DELUDED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DUAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUBBED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DUDE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUDED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DUEL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUELED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DUELLED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DUET",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DULLED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ELUDE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ELUDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LAUD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LAUDABLE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LAUDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LULLED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LUTE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TABULATE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TABULATED",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "TAUT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TUBA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TUBE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TUBED",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

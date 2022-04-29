@@ -1,0 +1,276 @@
+{
+    "letters": "MADEGNU",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 135,
+    "word_count": 50,
+    "pangram_count": 1,
+    "pangram_list": [
+        "UNDAMAGED"
+    ],
+    "word_list": [
+        {
+            "word": "ADDENDUM",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "AMEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AMEND",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AMENDED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DAMAGE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DAMAGED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DAME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DAMMED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DAMN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DAMNED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEEM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DEEMED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEMAND",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEMANDED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DEMEAN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEMEANED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ENEMA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GAME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GAMED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GAMMA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GUMMED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GUNMAN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GUNMEN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MADAM",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MADAME",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MADDEN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MADDENED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MADE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MADMAN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MADMEN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MAGNUM",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MAMA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MAMMA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MANAGE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MANAGED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MANE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MANGE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MANNED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MEAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MEND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MENDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MENU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MUGGED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MUNDANE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "NAME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NAMED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UNDAMAGED",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "UNMAN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UNMANNED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "UNNAMED",
+            "score": 4,
+            "pangram": false
+        }
+    ]
+}

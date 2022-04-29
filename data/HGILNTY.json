@@ -1,0 +1,156 @@
+{
+    "letters": "HGILNTY",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 81,
+    "word_count": 26,
+    "pangram_count": 1,
+    "pangram_list": [
+        "NIGHTLY"
+    ],
+    "word_list": [
+        {
+            "word": "HIGH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HIGHLIGHT",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "HIGHLIGHTING",
+            "score": 9,
+            "pangram": false
+        },
+        {
+            "word": "HIGHLY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HILLY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HILT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HINGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HINT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HINTING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HITTING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "LIGHT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LIGHTING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LIGHTLY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "LIGHTNING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "NIGH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NIGHT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NIGHTLY",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "NINTH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "THIGH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "THIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "THING",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "THINLY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "THINNING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TIGHT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TIGHTLY",
+            "score": 4,
+            "pangram": false
+        }
+    ]
+}

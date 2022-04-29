@@ -1,0 +1,216 @@
+{
+    "letters": "NAELOPR",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 72,
+    "word_count": 38,
+    "pangram_count": 1,
+    "pangram_list": [
+        "AEROPLANE"
+    ],
+    "word_list": [
+        {
+            "word": "AEON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AEROPLANE",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "ALONE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ANAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ANON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "APRON",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ARENA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EARN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EARNER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ENROL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ENROLL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LANE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LEAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LEANER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LEARN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LOAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LONE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NAPE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NEAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NEARER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NEON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NONE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OPEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OPENER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PANE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PANEL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PENAL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PEON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PLAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PLANAR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PLANE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PLANNER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "POLLEN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PREEN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PRONE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "REOPEN",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

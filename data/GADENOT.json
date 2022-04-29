@@ -1,0 +1,251 @@
+{
+    "letters": "GADENOT",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 99,
+    "word_count": 45,
+    "pangram_count": 1,
+    "pangram_list": [
+        "TANGOED"
+    ],
+    "word_list": [
+        {
+            "word": "ADAGE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AGED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AGENDA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "AGENT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DODGE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DODGED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DOGGED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EDGE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EDGED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EGGED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ENGAGE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ENGAGED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GADGET",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GAGGED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GANG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GANGED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GATE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GATED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GEED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GENE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GENT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GNAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOAD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOADED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GOAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOATEE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GONE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GONG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GONGED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GONNA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GOOD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOTTEN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NAGGED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NEGATE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NEGATED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TAGGED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TANG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TANGENT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TANGO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TANGOED",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "TEENAGE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TOGA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TONG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TONNAGE",
+            "score": 4,
+            "pangram": false
+        }
+    ]
+}

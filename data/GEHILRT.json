@@ -1,0 +1,171 @@
+{
+    "letters": "GEHILRT",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 79,
+    "word_count": 29,
+    "pangram_count": 1,
+    "pangram_list": [
+        "LIGHTER"
+    ],
+    "word_list": [
+        {
+            "word": "EIGHT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EIGHTH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EIGHTIETH",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "GIGGLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GILT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GIRL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GIRTH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GLEE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GLITTER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GREET",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GRILL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GRILLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GRIT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GRITTIER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "HEIGHT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HIGH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HIGHER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HIGHLIGHT",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "LIGHT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LIGHTER",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "REGRET",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RIGHT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RIGHTER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "THIGH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TIGER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TIGHT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TIGHTER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TRIGGER",
+            "score": 4,
+            "pangram": false
+        }
+    ]
+}

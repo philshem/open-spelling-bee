@@ -1,0 +1,276 @@
+{
+    "letters": "OBDEGLU",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 124,
+    "word_count": 50,
+    "pangram_count": 1,
+    "pangram_list": [
+        "BULLDOGGED"
+    ],
+    "word_list": [
+        {
+            "word": "BLOB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BLOBBED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BLOG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BLOGGED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BLOOD",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BLOODED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BOBBED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BODE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BODED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BOGGED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BOGGLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BOGGLED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BOLD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BOOED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BULLDOG",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BULLDOGGED",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "DODGE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DODGED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DODO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOGGED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DOLE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOLED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DOLL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOLLED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DOODLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DOODLED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DOUBLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DOUBLED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GLOBE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GLOBULE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GOBBED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GOBBLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GOBBLED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GOGGLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GOLD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOOD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOUGE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GOUGED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LOBBED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LOBE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LODGE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LODGED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LOGGED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LOGO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOLL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOLLED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LOUD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OBOE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OGLE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OGLED",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

@@ -1,0 +1,176 @@
+{
+    "letters": "DGINOTU",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 89,
+    "word_count": 30,
+    "pangram_count": 1,
+    "pangram_list": [
+        "OUTDOING"
+    ],
+    "word_list": [
+        {
+            "word": "DIGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DIGIT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DINING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DINNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DITTO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DITTOING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DODGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DODO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DOING",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DOTING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DOTTING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DUDING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DUGOUT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DUNG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUNGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DUNNO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GOOD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GUIDING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "IDIOT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "INDIGO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NODDING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "NUDGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "OUTDID",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "OUTDO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OUTDOING",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "TIDING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "UNDID",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UNDO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "UNDOING",
+            "score": 4,
+            "pangram": false
+        }
+    ]
+}

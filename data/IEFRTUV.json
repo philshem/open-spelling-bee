@@ -1,0 +1,191 @@
+{
+    "letters": "IEFRTUV",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 88,
+    "word_count": 33,
+    "pangram_count": 1,
+    "pangram_list": [
+        "FURTIVE"
+    ],
+    "word_list": [
+        {
+            "word": "EERIE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EERIER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FIERIER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FIRE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FITTER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FIVE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FIVER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FRITTER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FRUIT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FRUITIER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FURRIER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FURTIVE",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "RETIRE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RETRIEVE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RETRIEVER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "REVERIE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "REVIVE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RIFE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RIFER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RIFT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RITE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RIVER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RIVET",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TERRIER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TIER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TIFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TIRE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TITTER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TRITE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TRITER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "UTERI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VERIER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VIRTUE",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

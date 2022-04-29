@@ -1,0 +1,276 @@
+{
+    "letters": "DEFIPRX",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 138,
+    "word_count": 50,
+    "pangram_count": 1,
+    "pangram_list": [
+        "PREFIXED"
+    ],
+    "word_list": [
+        {
+            "word": "DEED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DEEDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEEP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DEEPER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DEFER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DEFERRED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DEFIED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEIFIED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DERIDE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DERIDED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DIED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DIFFER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DIFFERED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DIPPED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DIRE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DIRER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DRIED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DRIER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DRIP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DRIPPED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "EDDIED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ERRED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EXPIRED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FEED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FEEDER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FERRIED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FIRED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FIXED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FREED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FRIED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PEEPED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PEERED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PEPPED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PEPPERED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PIPED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PREFERRED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PREFIXED",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "PRIDE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PRIDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PRIED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "REDDER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REDID",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "REED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "REEFED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REFEREED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "REFERRED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RIDE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RIDER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RIPPED",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

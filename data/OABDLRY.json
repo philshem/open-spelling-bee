@@ -1,0 +1,226 @@
+{
+    "letters": "OABDLRY",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 73,
+    "word_count": 40,
+    "pangram_count": 1,
+    "pangram_list": [
+        "BROADLY"
+    ],
+    "word_list": [
+        {
+            "word": "ABOARD",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ABROAD",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ALLOY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ARBOR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ARDOR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BLOB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BLOOD",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BLOODY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BOAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BOARD",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BODY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BOLD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BOLDLY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BOOBY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BOOR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BROAD",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BROADLY",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "BROOD",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DODO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOLL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOLLAR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DOLLY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DOOR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DROLL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DROOL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LABOR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LOAD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOBBY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LOLL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LORD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LORRY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LOYAL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ODDLY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ODOR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ORAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROAD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROLL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROYAL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ROYALLY",
+            "score": 4,
+            "pangram": false
+        }
+    ]
+}

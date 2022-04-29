@@ -1,0 +1,196 @@
+{
+    "letters": "OCDEIJR",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 92,
+    "word_count": 34,
+    "pangram_count": 1,
+    "pangram_list": [
+        "REJOICED"
+    ],
+    "word_list": [
+        {
+            "word": "CODDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CODE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CODED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COERCE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COERCED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "COOED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CORD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CORDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CORE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CORED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CORRIDOR",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CORRODE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CORRODED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DECODE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DECODED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DECODER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DODO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOOR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ERODE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ERODED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ERROR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ODDER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ODOR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ORDER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ORDERED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RECORD",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RECORDED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RECORDER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "REDO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "REJOICE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "REJOICED",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "RODE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RODEO",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

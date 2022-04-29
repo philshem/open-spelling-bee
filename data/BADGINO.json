@@ -1,0 +1,196 @@
+{
+    "letters": "BADGINO",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 114,
+    "word_count": 34,
+    "pangram_count": 1,
+    "pangram_list": [
+        "ABANDONING"
+    ],
+    "word_list": [
+        {
+            "word": "ABANDON",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ABANDONING",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "ABIDING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BABOON",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BAGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BANANA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BAND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BANDAGING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BANDANNA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BANDING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BANG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BANGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BANI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BANNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BIDDING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BIDING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BIND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BINDING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BINGO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BINNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BOBBIN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BOBBING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BODING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BOGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BOND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BONDING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BONING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BOOING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DABBING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GABBING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GIBING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GOBBING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "NABBING",
+            "score": 4,
+            "pangram": false
+        }
+    ]
+}

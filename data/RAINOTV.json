@@ -1,0 +1,196 @@
+{
+    "letters": "RAINOTV",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 100,
+    "word_count": 34,
+    "pangram_count": 1,
+    "pangram_list": [
+        "VARIATION"
+    ],
+    "word_list": [
+        {
+            "word": "AORTA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ARIA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AVIATOR",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "INITIATOR",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "INVARIANT",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "IRON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "IRRITANT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "IRRITATION",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "NARRATION",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "NARRATOR",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ORATION",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ORATOR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RAIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RANT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RATIO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RATION",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RIOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROTATION",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ROTOR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TART",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TARTAN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TARTAR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TIARA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TORN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TRAIN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TRAIT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TRAITOR",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TRIO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TRIVIA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TROT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VARIANT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "VARIATION",
+            "score": 6,
+            "pangram": true
+        }
+    ]
+}

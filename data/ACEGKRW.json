@@ -1,0 +1,211 @@
+{
+    "letters": "ACEGKRW",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 68,
+    "word_count": 37,
+    "pangram_count": 1,
+    "pangram_list": [
+        "WRECKAGE"
+    ],
+    "word_list": [
+        {
+            "word": "ACRE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ACREAGE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "AGREE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AREA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AWAKE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AWARE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CAGE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CAKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CARE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CAREER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CRACK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CRACKER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CRAG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CREAK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EAGER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EAGERER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GARAGE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GAWK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GEAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GRACE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RACE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RACER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RACK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RAGE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RAKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RARE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RARER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RAWER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "REAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WAGE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WAGER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WAKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WEAK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WEAKER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WEAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WREAK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WRECKAGE",
+            "score": 5,
+            "pangram": true
+        }
+    ]
+}

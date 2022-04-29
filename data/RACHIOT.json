@@ -1,0 +1,236 @@
+{
+    "letters": "RACHIOT",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 96,
+    "word_count": 42,
+    "pangram_count": 1,
+    "pangram_list": [
+        "CHARIOT"
+    ],
+    "word_list": [
+        {
+            "word": "ACTOR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AORTA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ARCH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ARCHAIC",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ARIA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ARTHRITIC",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ATTRACT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CARAT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CARROT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CART",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CATARACT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CHAIR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHARIOT",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "CHART",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHOIR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CIRCA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CITRIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CRITIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CROTCH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HAIR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HART",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HORROR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ORATOR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RATIO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RICH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RIOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROACH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ROAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROTOR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TART",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TARTAR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "THROAT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TIARA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TORCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TRACT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TRACTOR",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TRAIT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TRAITOR",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TRIO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TROT",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

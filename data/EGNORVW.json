@@ -1,0 +1,266 @@
+{
+    "letters": "EGNORVW",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 109,
+    "word_count": 48,
+    "pangram_count": 1,
+    "pangram_list": [
+        "OVERGROWN"
+    ],
+    "word_list": [
+        {
+            "word": "ERGO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ERROR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EVEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EVENER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EVER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EVERGREEN",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "GENE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GENRE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GONE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GONER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GORE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GORGE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GOVERN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GOVERNOR",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GREEN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GREENER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GREW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GROOVE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GROVE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GROWER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NEON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NERVE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NEVER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NEWER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NONE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OGRE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OVEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OVER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OVERGREW",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "OVERGROW",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "OVERGROWN",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "OWNER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RENEGE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RENEW",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RENOWN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REVENGE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "REVERE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VEER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VENEER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VERGE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VERVE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WEER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WERE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WORE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WOVE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WOVEN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WREN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WRONGER",
+            "score": 4,
+            "pangram": false
+        }
+    ]
+}

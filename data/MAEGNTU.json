@@ -1,0 +1,236 @@
+{
+    "letters": "MAEGNTU",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 100,
+    "word_count": 42,
+    "pangram_count": 1,
+    "pangram_list": [
+        "AUGMENT"
+    ],
+    "word_list": [
+        {
+            "word": "AMEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AUGMENT",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "AUTUMN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EMANATE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ENEMA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ENGAGEMENT",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "GAME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GAMMA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GAMUT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GUNMAN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GUNMEN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MAGENTA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MAGNATE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MAGNET",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MAGNUM",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MAMA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MAMMA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MANAGE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MANAGEMENT",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "MANE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MANGE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MATE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MATT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MATTE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MEAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MEANT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MEAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MEET",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MENU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "METE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MUTANT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MUTATE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MUTE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MUTT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NAME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NUTMEG",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TAME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TEAM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TEAMMATE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TEEM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TENEMENT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "UNMAN",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

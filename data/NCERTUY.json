@@ -1,0 +1,196 @@
+{
+    "letters": "NCERTUY",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 94,
+    "word_count": 34,
+    "pangram_count": 1,
+    "pangram_list": [
+        "CENTURY"
+    ],
+    "word_list": [
+        {
+            "word": "CENT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CENTER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CENTRE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CENTURY",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "CURRENCY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CURRENT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ENTER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ENTREE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ENTRY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NEUTER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NURTURE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "NUTTY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RECENT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RECENTER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RECURRENCE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "RECURRENT",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "RENT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RETURN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RUNE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RUNNER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RUNNY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RUNT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TEEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TENET",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TENT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TENURE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TUNE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TUNER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TUREEN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TURN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TURNER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "UNCUT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UNTRUE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "UNTRUER",
+            "score": 4,
+            "pangram": false
+        }
+    ]
+}

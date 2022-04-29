@@ -1,0 +1,276 @@
+{
+    "letters": "UEINORT",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 134,
+    "word_count": 50,
+    "pangram_count": 1,
+    "pangram_list": [
+        "ROUTINE"
+    ],
+    "word_list": [
+        {
+            "word": "INTUITION",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "NEURON",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NEUTER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NEUTRON",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "NOUN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NURTURE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "NUTRIENT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "NUTRITION",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "NUTTIER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "OUTER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OUTRUN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REROUTE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RETURN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REUNION",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "REUNITE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ROUT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROUTE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ROUTER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ROUTINE",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "RUIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RUNE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RUNNER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RUNNIER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RUNT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TENURE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TORTURE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TOUR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOUT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TROUT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TRUE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TRUER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TUITION",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TUNE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TUNER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TUREEN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TURN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TURNER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TURNOUT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TURRET",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TUTOR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UNION",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UNIT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "UNITE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UNTIE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UNTO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "UNTRUE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "UNTRUER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "URINE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UTERI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UTTER",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

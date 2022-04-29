@@ -1,0 +1,151 @@
+{
+    "letters": "YDELNSU",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 64,
+    "word_count": 25,
+    "pangram_count": 1,
+    "pangram_list": [
+        "SUDDENLY"
+    ],
+    "word_list": [
+        {
+            "word": "DENSELY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DENY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DULLY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DULY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DYED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DYES",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EDDY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ENDLESSLY",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "EYED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EYES",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NEEDLESSLY",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "NEEDY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SEEDY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SLYLY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SLYNESS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "SUDDENLY",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "SUNNY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UNDULY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "USELESSLY",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "YELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YELLED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "YELLS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "YENS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YESES",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "YESSED",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

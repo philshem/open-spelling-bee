@@ -1,0 +1,241 @@
+{
+    "letters": "PADEHNO",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 106,
+    "word_count": 43,
+    "pangram_count": 1,
+    "pangram_list": [
+        "HEADPHONE"
+    ],
+    "word_list": [
+        {
+            "word": "APED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "APPEND",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "APPENDED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DEEP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DEEPEN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEEPENED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DEPEND",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEPENDED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DOPE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOPED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HAPPEN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HAPPENED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "HEADPHONE",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "HEAP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HEAPED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HOOP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HOOPED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HOPE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HOPED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HOPPED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NAPE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NAPPED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "OPEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OPENED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PADDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PANDA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PANE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PANNED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PAPA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PEEP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PEEPED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PENDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PENNED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PEON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PEPPED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PHONE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PHONED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PODDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "POND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POOP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POOPED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "POPE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POPPED",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

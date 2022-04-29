@@ -1,0 +1,216 @@
+{
+    "letters": "VDEGNOR",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 114,
+    "word_count": 38,
+    "pangram_count": 1,
+    "pangram_list": [
+        "GOVERNED"
+    ],
+    "word_list": [
+        {
+            "word": "DOVE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DROVE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EVEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EVENED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EVENER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EVER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EVERGREEN",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "GOVERN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GOVERNED",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "GOVERNOR",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GROOVE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GROOVED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GROVE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NERVE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NERVED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NEVER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OVEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OVER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OVERDO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "OVERDONE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "OVERRODE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "REVENGE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "REVENGED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "REVERE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REVERED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "REVVED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VEER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VEERED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VEND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VENDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VENDOR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VENEER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VENEERED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "VERGE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VERGED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VERVE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VOODOO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VOODOOED",
+            "score": 5,
+            "pangram": false
+        }
+    ]
+}

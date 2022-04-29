@@ -1,0 +1,206 @@
+{
+    "letters": "YADENSW",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 64,
+    "word_count": 36,
+    "pangram_count": 1,
+    "pangram_list": [
+        "ENDWAYS"
+    ],
+    "word_list": [
+        {
+            "word": "ANYWAY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "AWAY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AYES",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DADDY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DANDY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DAYS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DENY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DYED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DYES",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EASY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EDDY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ENDWAYS",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "ESSAY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ESSAYED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ESSAYS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EYED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EYES",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NAYS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NEEDY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NEWSY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SANDY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SASSY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SAYS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SEEDY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SWAY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SWAYED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SWAYS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WAYS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WEEDY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "YAWN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YAWNED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "YAWNS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "YENS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YESES",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "YESSED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "YEWS",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

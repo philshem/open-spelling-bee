@@ -1,0 +1,226 @@
+{
+    "letters": "FAELRUW",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 85,
+    "word_count": 40,
+    "pangram_count": 1,
+    "pangram_list": [
+        "AWFULLER"
+    ],
+    "word_list": [
+        {
+            "word": "AFAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AWFUL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AWFULLER",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "FALL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FARE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FAREWELL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FEAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FEARFUL",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FEEL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FEELER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FELLER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FEWER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FLARE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FLAW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FLEA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FLEE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FLEW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FLUE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FLUFF",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FREE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FREER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FUEL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FULLER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FURL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LAWFUL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LEAF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RAFFLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REEF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "REFER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "REFEREE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "REFUEL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RUEFUL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RUFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RUFFLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WAFER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WAFFLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WARFARE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WELFARE",
+            "score": 4,
+            "pangram": false
+        }
+    ]
+}

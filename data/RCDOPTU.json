@@ -1,0 +1,201 @@
+{
+    "letters": "RCDOPTU",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 63,
+    "word_count": 35,
+    "pangram_count": 1,
+    "pangram_list": [
+        "PRODUCT"
+    ],
+    "word_list": [
+        {
+            "word": "CORD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CORRUPT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "COURT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CROP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CURD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CURT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOCTOR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DOOR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOUR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DROOP",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DROP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DROPOUT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "OCCUR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ODOR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ODOUR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OUTDOOR",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "POOR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PORT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POUR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PROD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PRODUCT",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "PROP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PROUD",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PURPORT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PURR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROTOR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ROUT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOUR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TROD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TROOP",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TROT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TROUT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TUTOR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UPROOT",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

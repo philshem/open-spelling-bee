@@ -1,0 +1,186 @@
+{
+    "letters": "FDEINTV",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 99,
+    "word_count": 32,
+    "pangram_count": 1,
+    "pangram_list": [
+        "DEFINITIVE"
+    ],
+    "word_list": [
+        {
+            "word": "DEFEND",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEFENDED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DEFIED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEFINE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEFINED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DEFINITE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DEFINITIVE",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "DEFT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DEIFIED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FEED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FEET",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FEINT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FEINTED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FEND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FENDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FETE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FETED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FETID",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FIEND",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FIFTEEN",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FIND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FINE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FINED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FINITE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FITTED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FIVE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "IDENTIFIED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "INDEFINITE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "INFINITE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "INFINITIVE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "TIFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TIFFED",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

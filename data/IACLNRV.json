@@ -1,0 +1,166 @@
+{
+    "letters": "IACLNRV",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 65,
+    "word_count": 28,
+    "pangram_count": 1,
+    "pangram_list": [
+        "CARNIVAL"
+    ],
+    "word_list": [
+        {
+            "word": "ANVIL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ARIA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ARRIVAL",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "AVAIL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CARNIVAL",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "CAVIAR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CIRCA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CIVIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CIVIL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CIVILIAN",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CLINIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CLINICAL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LAIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LAIR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LIAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LILAC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NAIL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RACIAL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RAIL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RAIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RIVAL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VAIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VANILLA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "VIAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VICAR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VILLA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VILLAIN",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "VIRAL",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

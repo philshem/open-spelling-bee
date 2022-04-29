@@ -1,0 +1,211 @@
+{
+    "letters": "MEIPRTV",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 88,
+    "word_count": 37,
+    "pangram_count": 1,
+    "pangram_list": [
+        "PRIMITIVE"
+    ],
+    "word_list": [
+        {
+            "word": "EMIR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EMIT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EMPIRE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EMPTIER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ITEM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MEET",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MERE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MERIT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MERRIER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "METE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "METER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "METRE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MIME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MIRE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MITE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MITT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PERIMETER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PERMIT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PREEMPT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PREMIER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PREMIERE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PRIM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PRIME",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PRIMER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PRIMITIVE",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "PRIMMER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PRIMP",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "REMIT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TEEM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TEMPER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TEMPT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TERM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TERMITE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TIME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TIMER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TRIM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TRIMMER",
+            "score": 4,
+            "pangram": false
+        }
+    ]
+}

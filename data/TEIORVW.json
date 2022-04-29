@@ -1,0 +1,256 @@
+{
+    "letters": "TEIORVW",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 109,
+    "word_count": 46,
+    "pangram_count": 1,
+    "pangram_list": [
+        "OVERWRITE"
+    ],
+    "word_list": [
+        {
+            "word": "OTTER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OVERT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OVERWRITE",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "RETIRE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RETORT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RETRIEVE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RETRIEVER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "REVERT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REWRITE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "REWROTE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RIOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RIOTER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RITE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RIVET",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ROOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROOTER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ROTE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROTOR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TEETER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TERRIER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TERROR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TIER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TIRE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TITTER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TOOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TORE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOTE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOTTER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TOWER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TREE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TRIO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TRITE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TRITER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TROT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TWEE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TWEET",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TWITTER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "VETO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VOTE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VOTER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WETTER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WITTIER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WRIT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WRITE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WRITER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WROTE",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

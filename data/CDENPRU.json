@@ -1,0 +1,181 @@
+{
+    "letters": "CDENPRU",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 101,
+    "word_count": 31,
+    "pangram_count": 1,
+    "pangram_list": [
+        "PRUDENCE"
+    ],
+    "word_list": [
+        {
+            "word": "CEDE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CEDED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CREDENCE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CREED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CREEP",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CREPE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CRUDE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CRUDER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CUED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CUPPED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CURD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CURE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CURED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DECREE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DECREED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DEDUCE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEDUCED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DEPENDENCE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "DUNCE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PENCE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PRECEDE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PRECEDED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PRECEDENCE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "PRUDENCE",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "RECEDE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RECEDED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RECUR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RECURRED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RECURRENCE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "REDUCE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REDUCED",
+            "score": 4,
+            "pangram": false
+        }
+    ]
+}

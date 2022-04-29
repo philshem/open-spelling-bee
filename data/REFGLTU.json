@@ -1,0 +1,276 @@
+{
+    "letters": "REFGLTU",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 124,
+    "word_count": 50,
+    "pangram_count": 1,
+    "pangram_list": [
+        "REGRETFUL"
+    ],
+    "word_list": [
+        {
+            "word": "FEELER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FELLER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FERRET",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FETTER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FLEETER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FLUTTER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FREE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FREER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FRET",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FRETFUL",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FULLER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FURL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FUTURE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GREET",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GRUEL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GRUFF",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GRUFFER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GURGLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GURU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GUTTER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LEER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LEFTER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LETTER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LURE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "REEF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "REEL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "REFER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "REFEREE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "REFUEL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REFUGE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REFUGEE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "REFUTE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REGRET",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REGRETFUL",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "RUEFUL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RUFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RUFFLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RULE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RULER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TEETER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TELLER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TREE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TRUE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TRUER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TRUFFLE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TURF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TURRET",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TURTLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "URGE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "UTTER",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

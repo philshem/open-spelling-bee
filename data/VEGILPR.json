@@ -1,0 +1,206 @@
+{
+    "letters": "VEGILPR",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 96,
+    "word_count": 36,
+    "pangram_count": 1,
+    "pangram_list": [
+        "PRIVILEGE"
+    ],
+    "word_list": [
+        {
+            "word": "EVER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EVIL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EVILER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EVILLER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GIVE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GRIEVE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LEVEE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LEVEL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LEVER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LIVE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LIVELIER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LIVER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PEEVE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PRIVIER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PRIVILEGE",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "RELIEVE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RELIVE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REPRIEVE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "REVEL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "REVELER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "REVELLER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "REVERE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REVERIE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "REVILE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REVIVE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RIVER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VEER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VEIL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VERGE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VERIER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VERVE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VIGIL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VILE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VILER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VIPER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VIRILE",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

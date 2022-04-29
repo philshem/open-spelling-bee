@@ -1,0 +1,206 @@
+{
+    "letters": "FEGNORT",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 87,
+    "word_count": 36,
+    "pangram_count": 1,
+    "pangram_list": [
+        "FORGOTTEN"
+    ],
+    "word_list": [
+        {
+            "word": "EFFORT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FEET",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FERN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FERRET",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FETE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FETTER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FONT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FOOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FOOTNOTE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FORE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FOREFRONT",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "FOREGO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FOREGONE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FORGE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FORGER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FORGET",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FORGO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FORGONE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FORGOT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FORGOTTEN",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "FORT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FORTE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FREE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FREER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FRET",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FROG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FRONT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GOOF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OFFER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OFTEN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OFTENER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "REEF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "REFER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "REFEREE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ROOF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOFFEE",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

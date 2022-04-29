@@ -25,11 +25,23 @@ VOWEL_LIST = ('A', 'E', 'I', 'O', 'U')
 COUNT_PANGRAMS = 1
 
 # word count limits
-MIN_WORD_COUNT = 30
+MIN_WORD_COUNT = 25
 MAX_WORD_COUNT = 50
 
-# total score limits
-MIN_TOTAL_SCORE = 80
-MAX_TOTAL_SCORE = 120
+# Reject games with too many plural pairs (-S)
+CAP_PLURALS = True
+MAX_PLURALS = 3
 
-PRINT_INVALID = False
+
+# Reject games with too many gerund pairs (-ING)
+CAP_GERUNDS = True
+MAX_GERUNDS = 5
+
+# total score limits
+MIN_TOTAL_SCORE = 60
+MAX_TOTAL_SCORE = 240
+
+# Show rejected games as well as valid ones.
+# True, False, or "dots", or "why".
+PRINT_INVALID = "dots"        # "dots" simply prints a dot per invalid game.
+PRINT_INVALID = "why"         # "why" prints % stats for invalid games.

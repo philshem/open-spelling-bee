@@ -1,0 +1,231 @@
+{
+    "letters": "WBDEILO",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 95,
+    "word_count": 41,
+    "pangram_count": 1,
+    "pangram_list": [
+        "BILLOWED"
+    ],
+    "word_list": [
+        {
+            "word": "BELLOW",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BELLOWED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BELOW",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BILLOW",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BILLOWED",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "BLEW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BLOW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BOWED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BOWEL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BOWL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BOWLED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DWELL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ELBOW",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ELBOWED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "LEWD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOWED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OWED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WEBBED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WEDDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WEED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WEEDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WELD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WELDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WELLED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WIDE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WIDOW",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WIDOWED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WIELD",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WIELDED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WILD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WILLED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WILLOW",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WOBBLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WOBBLED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WOOD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WOODED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WOOED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WOOL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WOWED",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

@@ -1,0 +1,211 @@
+{
+    "letters": "LADENYZ",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 87,
+    "word_count": 37,
+    "pangram_count": 1,
+    "pangram_list": [
+        "ANALYZED"
+    ],
+    "word_list": [
+        {
+            "word": "ALLAY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ALLAYED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ALLEY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ALLY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ANAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ANALYZE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ANALYZED",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "AZALEA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DALLY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DAZZLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DAZZLED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DEADLY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DELAY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DELAYED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "LADE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LADED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LADEN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LADLE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LADLED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LADY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LAND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LANDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LANDLADY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LANE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LAZY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LEAD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LEADED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LEADEN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LEAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LEANED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LEND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NEEDLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NEEDLED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "YELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YELLED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ZEAL",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

@@ -1,0 +1,186 @@
+{
+    "letters": "HADEMPR",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 76,
+    "word_count": 32,
+    "pangram_count": 1,
+    "pangram_list": [
+        "HAMPERED"
+    ],
+    "word_list": [
+        {
+            "word": "ADHERE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ADHERED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "AHEAD",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HAMMED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HAMMER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HAMMERED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "HAMPER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HAMPERED",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "HARD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HARDER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HARE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HARED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HAREM",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HARM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HARMED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HARP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HARPED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HEAD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HEADED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HEADER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HEAP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HEAPED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HEAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HEARD",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HEED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HEEDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HEMMED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HEMP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HERD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HERDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HERE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "REDHEAD",
+            "score": 4,
+            "pangram": false
+        }
+    ]
+}

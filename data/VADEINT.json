@@ -1,0 +1,271 @@
+{
+    "letters": "VADEINT",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 149,
+    "word_count": 49,
+    "pangram_count": 1,
+    "pangram_list": [
+        "DEVIANT"
+    ],
+    "word_list": [
+        {
+            "word": "ADDITIVE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ADVENT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ATTENTIVE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "AVID",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DEVIANT",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "DEVIATE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DEVIATED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DIVE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DIVED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DIVIDE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DIVIDED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DIVIDEND",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DIVINE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DIVINED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "EAVE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ENDIVE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ENVIED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EVADE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EVADED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EVEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EVENED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EVENT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EVIDENT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "INITIATIVE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "INVADE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "INVADED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "INVENT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "INVENTED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "INVENTIVE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "INVITE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "INVITED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "NAIVE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NAIVETE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "NATIVE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TENTATIVE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "VAIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VANE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VANNED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VATTED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VEIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VEINED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VEND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VENDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VENT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VENTED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VETTED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VIED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VINE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VIVID",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

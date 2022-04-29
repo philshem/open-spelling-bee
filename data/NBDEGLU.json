@@ -1,0 +1,181 @@
+{
+    "letters": "NBDEGLU",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 67,
+    "word_count": 31,
+    "pangram_count": 1,
+    "pangram_list": [
+        "BUNGLED"
+    ],
+    "word_list": [
+        {
+            "word": "BEEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BEGUN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BEND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BLEND",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BLENDED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BUNDLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BUNDLED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BUNG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BUNGLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BUNGLED",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "DUNE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUNG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUNGED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ENDED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GENE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GLEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GUNNED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LEGEND",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LEND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LUNG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LUNGE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LUNGED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NEED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NEEDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NEEDLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NEEDLED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "NUDE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NUDGE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NUDGED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "UNDUE",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

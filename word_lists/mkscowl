@@ -11,8 +11,8 @@
 
 spelling_categories={english,american,british}
 #sub_categories={words,proper-names,abbreviations}
-sub_categories=words		# No brace expansion for a single item
-size=35
+sub_categories=words		# No brace expansion for a single item.
+size=${1:-35}			# Default to 35 if no command line arg given.
 
 ###
 
@@ -47,7 +47,8 @@ for f in ${wordlists[@]}; do
 done
 
 cat ${wordlists[@]} |
-    LANG=C egrep '^[A-Za-z]+$' |		# We use LANG=C to remove attaché
+    LANG=C grep -v "'" |			# Skip words with apostrophes
+    iconv -f latin1 -t ASCII//TRANSLIT |	# Remove accents (café -> cafe)
     tr '[a-z]' '[A-Z]' |
     sort -u > $outputfile
 

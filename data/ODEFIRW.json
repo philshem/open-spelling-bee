@@ -1,0 +1,251 @@
+{
+    "letters": "ODEFIRW",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 107,
+    "word_count": 45,
+    "pangram_count": 1,
+    "pangram_list": [
+        "FIREWOOD"
+    ],
+    "word_list": [
+        {
+            "word": "DODO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOOR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOWDIER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ERODE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ERODED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ERROR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FIREWOOD",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "FODDER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FOOD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FORD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FORDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FORE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FOREWORD",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ODDER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ODOR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OFFED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OFFER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OFFERED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ORDER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ORDERED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "OWED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "REDO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RODE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RODEO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ROOF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROOFED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ROWDIER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ROWED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WEIRDO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WIDOW",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WIDOWED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WIDOWER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WOOD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WOODED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WOODIER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WOOED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WOOF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WOOFED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WORD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WORDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WORDIER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WORE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WORRIED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WOWED",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

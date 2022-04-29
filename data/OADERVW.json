@@ -1,0 +1,241 @@
+{
+    "letters": "OADERVW",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 92,
+    "word_count": 43,
+    "pangram_count": 1,
+    "pangram_list": [
+        "OVERDRAW"
+    ],
+    "word_list": [
+        {
+            "word": "ADORE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ADORED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ARDOR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ARROW",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AVOW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AVOWED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DODO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOOR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOVE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DROVE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ERODE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ERODED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ERROR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OARED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ODDER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ODOR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ORDER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ORDERED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "OVER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OVERDO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "OVERDRAW",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "OVERDREW",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "OVERRODE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "OWED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "REDO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROAD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROARED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RODE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RODEO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ROWED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VOODOO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VOODOOED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "VOWED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WOOD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WOODED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WOOED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WORD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WORDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WORE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WOVE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WOWED",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

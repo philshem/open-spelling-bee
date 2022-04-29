@@ -1,0 +1,161 @@
+{
+    "letters": "MAINOTV",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 75,
+    "word_count": 27,
+    "pangram_count": 1,
+    "pangram_list": [
+        "MOTIVATION"
+    ],
+    "word_list": [
+        {
+            "word": "AMMONIA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ANIMATION",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ATOM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "IMITATION",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "INTIMATION",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "MAIM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MAIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MAINTAIN",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MAMA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MAMMA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MANIA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MATT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MINION",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MINT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MITT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOTION",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MOTIVATION",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "MOTTO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NOMINATION",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "OMIT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOMATO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VITAMIN",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "VOMIT",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

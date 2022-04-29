@@ -1,0 +1,161 @@
+{
+    "letters": "UFGINOT",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 88,
+    "word_count": 27,
+    "pangram_count": 1,
+    "pangram_list": [
+        "OUTFITTING"
+    ],
+    "word_list": [
+        {
+            "word": "FOUNT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FUNGI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GOUGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GOUT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GUNNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GUTTING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "INTUITION",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "NOUN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NUTTING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "OUTFIT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "OUTFITTING",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "OUTGOING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "OUTING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TONGUING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TOUT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOUTING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TUFT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TUFTING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TUGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TUITION",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TUNING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "UNFIT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UNFITTING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "UNION",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UNIT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "UNITING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "UNTO",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

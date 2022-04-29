@@ -1,0 +1,251 @@
+{
+    "letters": "GABDINU",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 155,
+    "word_count": 45,
+    "pangram_count": 1,
+    "pangram_list": [
+        "DAUBING"
+    ],
+    "word_list": [
+        {
+            "word": "ABIDING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ADDING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "AGAIN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AGING",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AIDING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BAGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BANDAGING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BANDING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BANG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BANGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BANNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BIDDING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BIDING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BINDING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BINNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BUDDING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BUDGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BUGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BUNG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DABBING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DAUBING",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "DIGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DINING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DINNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DUBBING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DUDING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DUNG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUNGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GABBING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GAGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GAIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GAINING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GANG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GANGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GAUGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GIBING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GIGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GINNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GUIDING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GUNNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "IGUANA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "INNING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NABBING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "NAGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "NUDGING",
+            "score": 4,
+            "pangram": false
+        }
+    ]
+}

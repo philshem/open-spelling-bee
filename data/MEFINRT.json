@@ -1,0 +1,241 @@
+{
+    "letters": "MEFINRT",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 121,
+    "word_count": 43,
+    "pangram_count": 1,
+    "pangram_list": [
+        "REFINEMENT"
+    ],
+    "word_list": [
+        {
+            "word": "EMINENT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "EMIR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EMIT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FEMININE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FERMENT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FIREMEN",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FIRM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FIRMER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "IMMINENT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "INFIRM",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "INTERIM",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "INTERMENT",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "INTERMITTENT",
+            "score": 9,
+            "pangram": false
+        },
+        {
+            "word": "ITEM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MEET",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MERE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MERIT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MERRIER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MERRIMENT",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "METE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "METER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "METRE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MIEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MIME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MINE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MINER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MINT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MIRE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MITE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MITT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MITTEN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REFINEMENT",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "REMIT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RETIREMENT",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "TEEM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TENEMENT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TERM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TERMINI",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TERMITE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TIME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TIMER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TRIM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TRIMMER",
+            "score": 4,
+            "pangram": false
+        }
+    ]
+}

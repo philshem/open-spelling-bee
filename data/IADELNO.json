@@ -1,0 +1,251 @@
+{
+    "letters": "IADELNO",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 98,
+    "word_count": 45,
+    "pangram_count": 1,
+    "pangram_list": [
+        "DANDELION"
+    ],
+    "word_list": [
+        {
+            "word": "AIDE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AIDED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AILED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ALIEN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ALIENED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ALLIED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DALLIED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DANDELION",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "DEADLINE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DELI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DENIAL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DENIED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DIAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DIALED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DIALLED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DIED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DINE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DINED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DINNED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EDDIED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "IDEA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "IDEAL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "IDLE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "IDLED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "IDOL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "INANE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "INDEED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "INLAID",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "INLAND",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "IODINE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LAID",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LAIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LIED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LINE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LINED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LINEN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LION",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOONIE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NAIL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NAILED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NINE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OILED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ONION",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

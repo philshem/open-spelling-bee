@@ -1,0 +1,246 @@
+{
+    "letters": "LBEMRTU",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 102,
+    "word_count": 44,
+    "pangram_count": 1,
+    "pangram_list": [
+        "TUMBLER"
+    ],
+    "word_list": [
+        {
+            "word": "BEETLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BELT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BLUBBER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BLUE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BLUEBELL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BLUER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BLUR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BLURB",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BLURT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BUBBLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BULB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BULLET",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BUMBLEBEE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BURBLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BUTLER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EMBLEM",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LEER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LEMME",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LETTER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LUMBER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LURE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LUTE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MELT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "METTLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MULE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MUMBLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REBEL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "REEL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RUBBLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RULE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RULER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RUMBLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TELLER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TREBLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TREMBLE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TUMBLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TUMBLER",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "TUMULT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TURTLE",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

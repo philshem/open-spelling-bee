@@ -1,0 +1,256 @@
+{
+    "letters": "HAEFORT",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 121,
+    "word_count": 46,
+    "pangram_count": 1,
+    "pangram_list": [
+        "FOREFATHER"
+    ],
+    "word_list": [
+        {
+            "word": "EARTH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ETHER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FARTHER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FATHER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FEATHER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FOREFATHER",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "FORTH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FROTH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HARE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HART",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HATE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HEAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HEART",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HEARTH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HEAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HEATER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HEATH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HEATHER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HERE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HEREAFTER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "HERO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HOOF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HOOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HOOTER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HORROR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HOTTER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "OATH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OTHER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RATHER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TEETH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TEETHE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TETHER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "THAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "THEATER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "THEATRE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "THEE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "THEFT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "THERE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "THEREAFTER",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "THEREFORE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "THEREOF",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "THETA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "THREAT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "THREE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "THROAT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TOOTH",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

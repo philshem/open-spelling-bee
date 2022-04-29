@@ -1,0 +1,266 @@
+{
+    "letters": "NAEFLRT",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 134,
+    "word_count": 48,
+    "pangram_count": 1,
+    "pangram_list": [
+        "FRATERNAL"
+    ],
+    "word_list": [
+        {
+            "word": "ALTERNATE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ANAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ANTEATER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ANTENNA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ANTENNAE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ANTLER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ARENA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EARN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EARNER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EATEN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ENTER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ENTRANT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ENTREAT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ENTREE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ERRANT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ETERNAL",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FALLEN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FANFARE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FATTEN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FERN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FLANNEL",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FLATTEN",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FRATERNAL",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "LANE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LANTERN",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "LATENT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LEAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LEANER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LEARN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LEARNT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LENT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NARRATE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "NEAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NEARER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NEAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NEATER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NETTLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RANT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RELENT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RENT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RENTAL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TALENT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TANNER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TARTAN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TEEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TENANT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TENET",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TENT",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

@@ -1,0 +1,276 @@
+{
+    "letters": "WADELPR",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 128,
+    "word_count": 50,
+    "pangram_count": 1,
+    "pangram_list": [
+        "WALLPAPERED"
+    ],
+    "word_list": [
+        {
+            "word": "AWARD",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AWARDED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "AWARE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AWED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DAWDLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DAWDLED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DRAW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DRAWER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DRAWL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DRAWLED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DREW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DWELL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DWELLER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "LEWD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LEWDER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PAWED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RAWER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "REDRAW",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REWARD",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REWARDED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "WADDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WADDLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WADDLED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WADE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WADED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WALL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WALLED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WALLPAPER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "WALLPAPERED",
+            "score": 8,
+            "pangram": true
+        },
+        {
+            "word": "WARD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WARDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WARP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WARPED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WARRED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WEAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WEDDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WEDDER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WEED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WEEDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WEEP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WEER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WELD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WELDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WELDER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WELLED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WERE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WRAP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WRAPPED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WRAPPER",
+            "score": 4,
+            "pangram": false
+        }
+    ]
+}

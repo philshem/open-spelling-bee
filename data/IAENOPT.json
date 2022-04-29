@@ -1,0 +1,246 @@
+{
+    "letters": "IAENOPT",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 146,
+    "word_count": 44,
+    "pangram_count": 1,
+    "pangram_list": [
+        "APPOINTEE"
+    ],
+    "word_list": [
+        {
+            "word": "ANNOTATION",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "ANOINT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "APPETITE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "APPOINT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "APPOINTEE",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "ATTAIN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ATTENTION",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "INANE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "INEPT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "INITIATE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "INITIATION",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "INNATE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "INTENT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "INTENTION",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "INTO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "INTONATION",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "IOTA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NATION",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NINE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NINETEEN",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "NOTATION",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "NOTION",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ONION",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OPINION",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "OPTION",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PAIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PAINT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PANTIE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PATIENT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PATIO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PENITENT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PETITE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PETITION",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PIANO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PINE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PINION",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PINPOINT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PINT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PIPE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POINT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "POTION",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TAINT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TINT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TIPTOE",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

@@ -1,0 +1,241 @@
+{
+    "letters": "UABEGLR",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 99,
+    "word_count": 43,
+    "pangram_count": 1,
+    "pangram_list": [
+        "ARGUABLE"
+    ],
+    "word_list": [
+        {
+            "word": "ALLURE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ARGUABLE",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "ARGUE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AURA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AURAL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BLUBBER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BLUE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BLUEBELL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BLUER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BLUR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BLURB",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BUBBLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BUGGER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BUGLE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BUGLER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BULB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BULGE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BURBLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BUREAU",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BURGER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BURGLAR",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BURGLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BURR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GAUGE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GLUE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GRUB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GRUEL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GURGLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GURU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LAUREL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LEAGUE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LUGGAGE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "LULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LURE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "REGULAR",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RUBBER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RUBBLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RULE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RULER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RURAL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "URGE",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

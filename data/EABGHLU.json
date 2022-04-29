@@ -1,0 +1,186 @@
+{
+    "letters": "EABGHLU",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 68,
+    "word_count": 32,
+    "pangram_count": 1,
+    "pangram_list": [
+        "LAUGHABLE"
+    ],
+    "word_list": [
+        {
+            "word": "ABLE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ALGAE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ALLEGE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BABBLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BABE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BAGEL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BAGGAGE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BALE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BEAGLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BLUE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BLUEBELL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BUBBLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BUGLE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BULGE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EAGLE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GABLE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GALE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GAUGE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GLEE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GLUE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HAGGLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HALE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HEAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HEEL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HUGE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LABEL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LAUGHABLE",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "LEAGUE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LEGAL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LUGGAGE",
+            "score": 4,
+            "pangram": false
+        }
+    ]
+}

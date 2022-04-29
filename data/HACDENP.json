@@ -1,0 +1,176 @@
+{
+    "letters": "HACDENP",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 83,
+    "word_count": 30,
+    "pangram_count": 1,
+    "pangram_list": [
+        "CHEAPENED"
+    ],
+    "word_list": [
+        {
+            "word": "ACHE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ACHED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AHEAD",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CACHE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CACHED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CHANCE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CHANCED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CHAP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHAPPED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CHEAP",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHEAPEN",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CHEAPENED",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "CHEEP",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHEEPED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "EACH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ENHANCE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ENHANCED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "HAND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HANDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HAPPEN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HAPPENED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "HEAD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HEADACHE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "HEADED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HEAP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HEAPED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HEED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HEEDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HENCE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PEACH",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

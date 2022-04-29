@@ -1,0 +1,226 @@
+{
+    "letters": "GADELMT",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 101,
+    "word_count": 40,
+    "pangram_count": 1,
+    "pangram_list": [
+        "AMALGAMATED"
+    ],
+    "word_list": [
+        {
+            "word": "ADAGE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AGED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ALGA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ALGAE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ALLEGE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ALLEGED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "AMALGAMATE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "AMALGAMATED",
+            "score": 8,
+            "pangram": true
+        },
+        {
+            "word": "DAMAGE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DAMAGED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DELEGATE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DELEGATED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "EAGLE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EDGE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EDGED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EGGED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GADGET",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GAGGED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GALA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GALE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GALL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GALLED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GAME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GAMED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GAMMA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GATE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GATED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GEED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GELD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GELDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GLAD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GLADE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GLEAM",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GLEAMED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GLEE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LAGGED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LEDGE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LEGAL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LEGGED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TAGGED",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

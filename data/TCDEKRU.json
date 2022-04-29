@@ -1,0 +1,196 @@
+{
+    "letters": "TCDEKRU",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 87,
+    "word_count": 34,
+    "pangram_count": 1,
+    "pangram_list": [
+        "TRUCKED"
+    ],
+    "word_list": [
+        {
+            "word": "CURT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CURTER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CUTE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CUTER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CUTTER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEDUCT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEDUCTED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DETECT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DETECTED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DETER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DETERRED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DUCT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUET",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ERECT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ERECTED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RUTTED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TEED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TEETER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TEETERED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TREE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TREED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TREK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TREKKED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TRUCE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TRUCK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TRUCKED",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "TRUE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TRUED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TRUER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TUCK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TUCKED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TURRET",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "UTTER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UTTERED",
+            "score": 4,
+            "pangram": false
+        }
+    ]
+}

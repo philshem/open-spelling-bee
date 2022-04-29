@@ -1,0 +1,211 @@
+{
+    "letters": "RCEHIVW",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 95,
+    "word_count": 37,
+    "pangram_count": 1,
+    "pangram_list": [
+        "WHICHEVER"
+    ],
+    "word_list": [
+        {
+            "word": "CHEER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHEERIER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CHEWIER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CHICER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CREVICE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CREW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EERIE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EERIER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EVER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HEIR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HERE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HIRE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ICIER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RECEIVE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RECEIVER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "REVERE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REVERIE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "REVIEW",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REVIEWER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "REVIVE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RICE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RICH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RICHER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RIVER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VEER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VERIER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VERVE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VIEWER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WEER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WERE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WHERE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WHEREVER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "WHICHEVER",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "WHIR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WHIRR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WIRE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WIRIER",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

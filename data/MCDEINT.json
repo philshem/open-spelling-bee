@@ -1,0 +1,256 @@
+{
+    "letters": "MCDEINT",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 123,
+    "word_count": 46,
+    "pangram_count": 1,
+    "pangram_list": [
+        "INDICTMENT"
+    ],
+    "word_list": [
+        {
+            "word": "CEMENT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CEMENTED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DEEM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DEEMED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEMENTED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DENIM",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DIME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DIMMED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EMINENCE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "EMINENT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "EMIT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EMITTED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ENDEMIC",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ENTICEMENT",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "IMMINENT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "INCITEMENT",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "INDICTMENT",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "ITEM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MEDICINE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MEET",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MEND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MENDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "METE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "METED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MICE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MIEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MIME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MIMED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MIMIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MINCE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MINCED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MIND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MINDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MINE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MINED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MINT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MINTED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MITE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MITT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MITTEN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TEEM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TEEMED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TENEMENT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TIME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TIMED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TIMID",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

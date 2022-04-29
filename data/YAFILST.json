@@ -1,0 +1,176 @@
+{
+    "letters": "YAFILST",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 70,
+    "word_count": 30,
+    "pangram_count": 1,
+    "pangram_list": [
+        "FALSITY"
+    ],
+    "word_list": [
+        {
+            "word": "ALLAY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ALLAYS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ALLY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FALSIFY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FALSITY",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "FATALITY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FATALLY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FATTY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FIFTY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FILLY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FLATLY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LASTLY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LAYS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LILY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SALLY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SALTY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SASSY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SATISFY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "SAYS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SILLY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SISSY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SLAY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SLAYS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SLYLY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "STAY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "STAYS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "STIFFLY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TALLY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TASTY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TATTY",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

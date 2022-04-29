@@ -1,0 +1,241 @@
+{
+    "letters": "RACLOTU",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 101,
+    "word_count": 43,
+    "pangram_count": 1,
+    "pangram_list": [
+        "CALCULATOR"
+    ],
+    "word_list": [
+        {
+            "word": "ACTOR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ALTAR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AORTA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ATTRACT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "AURA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AURAL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AUTOCRAT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CALCULATOR",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "CARAT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CAROL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CARROT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CART",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CATARACT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "COLLAR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COLOR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COLOUR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CORAL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CORRAL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COURT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CULTURAL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CURATOR",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CURL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CURT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OCCUR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OCULAR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ORAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ORATOR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ROAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROLL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROTOR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ROUT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RURAL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TART",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TARTAR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TOUR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TRACT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TRACTOR",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TROLL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TROT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TROUT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TUTOR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ULTRA",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

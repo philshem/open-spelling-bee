@@ -1,0 +1,196 @@
+{
+    "letters": "HDEINTW",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 89,
+    "word_count": 34,
+    "pangram_count": 1,
+    "pangram_list": [
+        "WHITENED"
+    ],
+    "word_list": [
+        {
+            "word": "HEED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HEEDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HEWED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HIDDEN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HIDE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HIDED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HIND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HINT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HINTED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NINETEENTH",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "NINETIETH",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "NINTH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TEETH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TEETHE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TEETHED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TENTH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "THEE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "THEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "THIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "THINNED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TWENTIETH",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "WHEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WHET",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WHETTED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WHEW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WHINE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WHINED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WHINNIED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "WHITE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WHITEN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WHITENED",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "WIDTH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WITH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WITHIN",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

@@ -1,0 +1,186 @@
+{
+    "letters": "CEFINRT",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 116,
+    "word_count": 32,
+    "pangram_count": 1,
+    "pangram_list": [
+        "INTERFERENCE"
+    ],
+    "word_list": [
+        {
+            "word": "CENT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CENTER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CENTRE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CITE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CITRIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CRETIN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CRITIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ECCENTRIC",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "EFFECT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EFFICIENT",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ENTICE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ERECT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FENCE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FIERCE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FIERCER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ICIER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "INCITE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "INEFFICIENT",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "INFECT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "INFERENCE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "INTERFERENCE",
+            "score": 9,
+            "pangram": true
+        },
+        {
+            "word": "NICE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NICER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NIECE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RECENT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RECENTER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RECITE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REFERENCE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "RETICENCE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "RETICENT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RICE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TERRIFIC",
+            "score": 5,
+            "pangram": false
+        }
+    ]
+}

@@ -1,0 +1,236 @@
+{
+    "letters": "TABCELP",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 94,
+    "word_count": 42,
+    "pangram_count": 1,
+    "pangram_list": [
+        "ACCEPTABLE"
+    ],
+    "word_list": [
+        {
+            "word": "ABATE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ABET",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ACCEPT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ACCEPTABLE",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "BALLET",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BATTLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BEAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BEET",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BEETLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BELT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BETA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BLEAT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CATCALL",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CATTLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CLEAT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ELECT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LATE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LEAPT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PACT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PALATABLE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PALATE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PALETTE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PATE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PEAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PELLET",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PELT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PETAL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PLACATE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PLATE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PLEAT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TABLE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TABLET",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TACT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TALC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TALE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TALL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TAPE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TATTLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TEAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TELLTALE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TEPEE",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

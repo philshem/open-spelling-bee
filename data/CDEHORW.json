@@ -1,0 +1,251 @@
+{
+    "letters": "CDEHORW",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 122,
+    "word_count": 45,
+    "pangram_count": 1,
+    "pangram_list": [
+        "CHOWDER"
+    ],
+    "word_list": [
+        {
+            "word": "CEDE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CEDED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHEER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHEERED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CHEW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHEWED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CHORD",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHORE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHOW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHOWDER",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "CHOWED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CODDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CODE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CODED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COERCE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COERCED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "COOED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CORD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CORDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CORE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CORED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CORRODE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CORRODED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "COWED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COWER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COWERED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CREED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CREW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CREWED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CROW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CROWD",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CROWDED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CROWED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DECODE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DECODED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DECODER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DECREE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DECREED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ECHO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ECHOED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RECEDE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RECEDED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RECORD",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RECORDED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RECORDER",
+            "score": 5,
+            "pangram": false
+        }
+    ]
+}

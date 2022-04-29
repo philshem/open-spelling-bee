@@ -1,0 +1,186 @@
+{
+    "letters": "UCDEINT",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 86,
+    "word_count": 32,
+    "pangram_count": 1,
+    "pangram_list": [
+        "INDUCTED"
+    ],
+    "word_list": [
+        {
+            "word": "CUED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CUTE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DEDUCE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEDUCED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DEDUCT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEDUCTED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DUCT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUDE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUDED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DUET",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUNCE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DUNE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "INDUCE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "INDUCED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "INDUCT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "INDUCTED",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "NUDE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NUTTED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TUNE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TUNED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TUNIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UNCUT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UNDECIDED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "UNDETECTED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "UNDID",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UNDUE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UNINTENDED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "UNIT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "UNITE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UNITED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "UNTIE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UNTIED",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

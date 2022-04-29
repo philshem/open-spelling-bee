@@ -1,0 +1,191 @@
+{
+    "letters": "EBCJORT",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 81,
+    "word_count": 33,
+    "pangram_count": 1,
+    "pangram_list": [
+        "OBJECTOR"
+    ],
+    "word_list": [
+        {
+            "word": "BEER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BEET",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BERET",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BETTER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BETTOR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BOOTEE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BORE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COERCE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CORE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CORRECT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CORRECTER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CORRECTOR",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "EJECT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ERECT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ERROR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "JEER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OBJECT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "OBJECTOR",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "OBOE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OTTER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RECTOR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REJECT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RETORT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ROBBER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ROBE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROOTER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ROTE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TEETER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TERROR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TORE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOTE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOTTER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TREE",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

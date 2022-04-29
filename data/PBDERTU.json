@@ -1,0 +1,241 @@
+{
+    "letters": "PBDERTU",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 116,
+    "word_count": 43,
+    "pangram_count": 1,
+    "pangram_list": [
+        "PERTURBED"
+    ],
+    "word_list": [
+        {
+            "word": "BEEPER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BURP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BURPED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEEP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DEEPER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DUPE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUPED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ERUPT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ERUPTED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PEEP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PEEPED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PEER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PEERED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PEPPED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PEPPER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PEPPERED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PERT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PERTER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PERTURB",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PERTURBED",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "PETER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PETERED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PETTED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PRUDE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PUPPED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PUPPET",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PURE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PUREE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PUREED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PURER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PURR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PURRED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PUTT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PUTTED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PUTTER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PUTTERED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "REPUTE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REPUTED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RUPTURE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RUPTURED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TEPEE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UPPED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UPPER",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

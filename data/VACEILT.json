@@ -1,0 +1,191 @@
+{
+    "letters": "VACEILT",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 77,
+    "word_count": 33,
+    "pangram_count": 1,
+    "pangram_list": [
+        "VACILLATE"
+    ],
+    "word_list": [
+        {
+            "word": "ACTIVATE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ACTIVE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ALIVE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ALLEVIATE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "AVAIL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CALVE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CAVE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CAVEAT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CIVIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CIVIL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CLEAVE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EAVE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ELECTIVE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ELEVATE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "EVICT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EVIL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LAVA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LEAVE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LEVEE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LEVEL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LIVE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VACATE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VACILLATE",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "VALET",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VALVE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VEAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VEIL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VELVET",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VIAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VICE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VILE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VILLA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VITAL",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

@@ -1,0 +1,251 @@
+{
+    "letters": "GDENORV",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 124,
+    "word_count": 45,
+    "pangram_count": 1,
+    "pangram_list": [
+        "GOVERNED"
+    ],
+    "word_list": [
+        {
+            "word": "DEGREE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DODGE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DODGED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DOGGED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DREDGE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DREDGED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "EDGE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EDGED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EDGER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EGGED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ENGENDER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ENGENDERED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "ERGO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EVERGREEN",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "GEED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GENDER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GENE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GENRE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GONE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GONER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GONG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GONGED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GOOD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GORE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GORED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GORGE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GORGED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GOVERN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GOVERNED",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "GOVERNOR",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GREED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GREEN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GREENED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GREENER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GROOVE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GROOVED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GROVE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OGRE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RENEGE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RENEGED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "REVENGE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "REVENGED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "VERGE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VERGED",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

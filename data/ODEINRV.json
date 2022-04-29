@@ -1,0 +1,251 @@
+{
+    "letters": "ODEINRV",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 107,
+    "word_count": 45,
+    "pangram_count": 1,
+    "pangram_list": [
+        "OVERRIDDEN"
+    ],
+    "word_list": [
+        {
+            "word": "DEVOID",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DODO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DONE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DONOR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DOOR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOVE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DRONE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DRONED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DROVE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ERODE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ERODED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ERROR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "INDOOR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "IODINE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "IRON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "IRONED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NEON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NODDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NODE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NONE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ODDER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ODOR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ONION",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ORDER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ORDERED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "OVEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OVER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OVERDID",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "OVERDO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "OVERDONE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "OVERRIDDEN",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "OVERRIDE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "OVERRODE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "REDO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "REDONE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RODE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RODEO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VENDOR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VIDEO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VOID",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VOIDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VOODOO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VOODOOED",
+            "score": 5,
+            "pangram": false
+        }
+    ]
+}

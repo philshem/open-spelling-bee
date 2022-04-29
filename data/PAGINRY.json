@@ -1,0 +1,196 @@
+{
+    "letters": "PAGINRY",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 101,
+    "word_count": 34,
+    "pangram_count": 1,
+    "pangram_list": [
+        "PRAYING"
+    ],
+    "word_list": [
+        {
+            "word": "APING",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GAPING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GRIP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GRIPING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GRIPPING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "NAPPING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "NAPPY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NIPPING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "NIPPY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PAGAN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PAGING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PAIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PAINING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PAIR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PAIRING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PANG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PANNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PAPA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PAPAYA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PAPYRI",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PARING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PARRING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PAYING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PIGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PINING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PINNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PIPING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PRAY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PRAYING",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "PRYING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RAPING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RAPPING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RIPPING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "YAPPING",
+            "score": 4,
+            "pangram": false
+        }
+    ]
+}

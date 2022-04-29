@@ -1,0 +1,231 @@
+{
+    "letters": "HCEIPRT",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 103,
+    "word_count": 41,
+    "pangram_count": 1,
+    "pangram_list": [
+        "PITCHER"
+    ],
+    "word_list": [
+        {
+            "word": "CHEEP",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHEER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CHEERIER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CHIC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHICER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CHIP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHIPPER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CHIRP",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CIPHER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EITHER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EPITHET",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ETCH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ETHER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ETHIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HECTIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HEIR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HERE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HERETIC",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HIPPER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HIPPIE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HIRE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HITCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HITHER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ITCH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ITCHIER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PERCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PITCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PITCHER",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "PITHIER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RETCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RICH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RICHER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TEETH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TEETHE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TETHER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "THEE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "THEIR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "THERE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "THIRTIETH",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "THREE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "THRICE",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

@@ -1,0 +1,211 @@
+{
+    "letters": "ODEGILY",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 87,
+    "word_count": 37,
+    "pangram_count": 1,
+    "pangram_list": [
+        "IDEOLOGY"
+    ],
+    "word_list": [
+        {
+            "word": "DODGE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DODGED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DODO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOGGED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DOGGEDLY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DOILY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DOLE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOLED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DOLL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOLLED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DOLLY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DOODLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DOODLED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GEOLOGY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GODLY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GOGGLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GOLD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOOD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOODY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GOOEY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "IDEOLOGY",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "IDOL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "IGLOO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LODGE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LODGED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LOGGED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LOGO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOLL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOLLED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ODDLY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OGLE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OGLED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OILED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OILY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YODEL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "YODELED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "YODELLED",
+            "score": 5,
+            "pangram": false
+        }
+    ]
+}

@@ -1,0 +1,216 @@
+{
+    "letters": "CAENOTV",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 101,
+    "word_count": 38,
+    "pangram_count": 1,
+    "pangram_list": [
+        "COVENANT"
+    ],
+    "word_list": [
+        {
+            "word": "ACCENT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ACNE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CACAO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CANE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CANNON",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CANNOT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CANOE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CANON",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CANT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CANTEEN",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CAVE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CAVEAT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CENT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COCOA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COCOON",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CONCATENATE",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "CONCAVE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CONCOCT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CONE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CONNECT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CONNOTE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CONTACT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CONTENT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CONVENE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CONVENT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "COTTON",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COVE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COVENANT",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "COVET",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ENACT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OCEAN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OCTAVE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ONCE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TACO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TACT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VACANT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VACATE",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

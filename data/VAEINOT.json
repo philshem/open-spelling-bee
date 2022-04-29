@@ -1,0 +1,161 @@
+{
+    "letters": "VAEINOT",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 89,
+    "word_count": 27,
+    "pangram_count": 1,
+    "pangram_list": [
+        "INNOVATIVE"
+    ],
+    "word_list": [
+        {
+            "word": "ATTENTIVE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "AVIATION",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "EAVE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EVEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EVENT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "INITIATIVE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "INNOVATION",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "INNOVATIVE",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "INVENT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "INVENTION",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "INVENTIVE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "INVITATION",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "INVITE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NAIVE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NAIVETE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "NATIVE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NOVA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OVATION",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "OVEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TENTATIVE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "VAIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VANE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VEIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VENT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VETO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VINE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VOTE",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

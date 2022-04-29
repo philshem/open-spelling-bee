@@ -1,0 +1,221 @@
+{
+    "letters": "OACENRU",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 105,
+    "word_count": 39,
+    "pangram_count": 1,
+    "pangram_list": [
+        "ANNOUNCER"
+    ],
+    "word_list": [
+        {
+            "word": "ACORN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AEON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ANNOUNCE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ANNOUNCER",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "ANON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CACAO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CANNON",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CANOE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CANON",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COCOA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COCOON",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COERCE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CONCERN",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CONCUR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CONCURRENCE",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "CONE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CORE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CORN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CORNEA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CORNER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CORONER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CROON",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ENCORE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ERROR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NEON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NEURON",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NONE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NOUN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OCCUR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OCCURRENCE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "OCEAN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ONCE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OUNCE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RACCOON",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RANCOR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RANCOUR",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RENOUNCE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ROAR",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

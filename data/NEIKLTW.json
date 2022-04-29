@@ -1,0 +1,216 @@
+{
+    "letters": "NEIKLTW",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 75,
+    "word_count": 38,
+    "pangram_count": 1,
+    "pangram_list": [
+        "TWINKLE"
+    ],
+    "word_list": [
+        {
+            "word": "ENTITLE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ENTWINE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "INLET",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "INTENT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KEEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KENNEL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KILN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KINK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KITTEN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KNEE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KNEEL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KNELT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KNEW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KNIT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LENIENT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "LENT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LENTIL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LIKEN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LINE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LINEN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LINK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LINT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NETTLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NEWT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NINE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NINETEEN",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "NITWIT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TEEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TENET",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TENT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TINKLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TINT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TWIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TWINE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TWINKLE",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "WENT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WINE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WINK",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

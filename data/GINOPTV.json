@@ -1,0 +1,226 @@
+{
+    "letters": "GINOPTV",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 150,
+    "word_count": 40,
+    "pangram_count": 1,
+    "pangram_list": [
+        "PIVOTING"
+    ],
+    "word_list": [
+        {
+            "word": "GIGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GINNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GIVING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GOING",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GONG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GONGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "IGNITING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "IGNITION",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "INNING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "INVITING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "NIPPING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "NOTING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ONGOING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "OPTING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "OPTIONING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PIGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PINING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PINIONING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PINNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PINPOINTING",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "PIPING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PITTING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PIVOTING",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "POINTING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "POOPING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "POPPING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "POTTING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TING",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TINGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TINNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TINTING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TIPPING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TONG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TONING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TOOTING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TOPPING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TOTING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TOTTING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "VOTING",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

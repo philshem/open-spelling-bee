@@ -1,0 +1,241 @@
+{
+    "letters": "BACDEHL",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 114,
+    "word_count": 43,
+    "pangram_count": 1,
+    "pangram_list": [
+        "BLEACHED"
+    ],
+    "word_list": [
+        {
+            "word": "ABLE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BABBLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BABBLED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BABE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BADE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BALD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BALDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BALE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BALED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BALL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BALLAD",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BALLED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BEACH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BEACHED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BEAD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BEADED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BEDDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BEECH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BEHEAD",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BEHEADED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BEHELD",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BELCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BELCHED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BELLED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BLAB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BLABBED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BLADE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BLEACH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BLEACHED",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "BLED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BLEED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CABBED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CABLE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CABLED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CALLABLE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DABBED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DABBLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DABBLED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "EBBED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LABEL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LABELED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "LABELLED",
+            "score": 5,
+            "pangram": false
+        }
+    ]
+}

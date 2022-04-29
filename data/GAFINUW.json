@@ -1,0 +1,191 @@
+{
+    "letters": "GAFINUW",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 103,
+    "word_count": 33,
+    "pangram_count": 1,
+    "pangram_list": [
+        "GUFFAWING"
+    ],
+    "word_list": [
+        {
+            "word": "AGAIN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AGING",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AWING",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AWNING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FANG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FANNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FAWNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FINING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FUNGI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GAGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GAIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GAINING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GANG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GANGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GAUGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GIGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GINNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GNAW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GNAWING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GUFFAW",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GUFFAWING",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "GUNNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "IGUANA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "INNING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NAGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WAGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WAGING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WANING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WIGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WING",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WINGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WINING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WINNING",
+            "score": 4,
+            "pangram": false
+        }
+    ]
+}

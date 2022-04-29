@@ -1,0 +1,276 @@
+{
+    "letters": "SADGIMR",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 88,
+    "word_count": 50,
+    "pangram_count": 1,
+    "pangram_list": [
+        "DIAGRAMS"
+    ],
+    "word_list": [
+        {
+            "word": "ADDS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AIDS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AIMS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AIRS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AMASS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AMISS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ARIAS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ARMS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DADS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DAIS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DAMS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DIAGRAMS",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "DIGS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DIMS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DISARM",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DISARMS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DISMISS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DRAGS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DRAMAS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GAGS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GIGS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GRAMMARS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GRAMS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GRASS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GRIDS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "IRIS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MADAMS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MADS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MAIDS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MAIMS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MAMAS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MARS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MASS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MISS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RADARS",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RAGS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RAIDS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RAMS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RIDS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RIGS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RIMS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SADISM",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SAGA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SAGAS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SAGS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SAID",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SARI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SARIS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SIGMA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SIRS",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

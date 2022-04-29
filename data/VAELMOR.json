@@ -1,0 +1,206 @@
+{
+    "letters": "VAELMOR",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 88,
+    "word_count": 36,
+    "pangram_count": 1,
+    "pangram_list": [
+        "REMOVAL"
+    ],
+    "word_list": [
+        {
+            "word": "EAVE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EVER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EVERMORE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "EVOLVE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LARVA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LARVAE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LAVA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LEAVE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LEVEE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LEVEL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LEVER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LOVE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOVER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MARVEL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MOREOVER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MOVE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOVER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OVAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OVER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OVERALL",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RAVE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RAVEL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "REMOVAL",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "REMOVE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REVEAL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REVEL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "REVELER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "REVELLER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "REVERE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REVOLVE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "REVOLVER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "VALOR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VALVE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VEAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VEER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VERVE",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

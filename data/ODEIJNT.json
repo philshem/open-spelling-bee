@@ -1,0 +1,226 @@
+{
+    "letters": "ODEIJNT",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 91,
+    "word_count": 40,
+    "pangram_count": 1,
+    "pangram_list": [
+        "JOINTED"
+    ],
+    "word_list": [
+        {
+            "word": "DENOTE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DENOTED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DETENTION",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DITTO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DITTOED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DODO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DONE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOTE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOTED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DOTTED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EDITION",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "IDIOT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "INTENTION",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "INTO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "IODINE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "JOIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "JOINED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "JOINT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "JOINTED",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "JOTTED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NEON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NODDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NODE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NONE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NOTE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NOTED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NOTION",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ONION",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ONTO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TENDON",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TOED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TONE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TONED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TONNE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TOOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOOTED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TOTE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOTED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TOTTED",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

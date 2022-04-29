@@ -1,0 +1,271 @@
+{
+    "letters": "GBDEILU",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 128,
+    "word_count": 49,
+    "pangram_count": 1,
+    "pangram_list": [
+        "BEGUILED"
+    ],
+    "word_list": [
+        {
+            "word": "BEDBUG",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BEGGED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BEGUILE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BEGUILED",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "BEIGE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BUDGE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BUDGED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BUGGED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BUGLE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BUGLED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BULGE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BULGED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEBUG",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DEBUGGED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DELUGE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DELUGED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "EDGE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EDGED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EGGED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ELIGIBLE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GEED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GELD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GELDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GIBE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GIBED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GIGGED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GIGGLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GIGGLED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GILD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GILDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GLEE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GLIB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GLIDE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GLIDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GLUE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GLUED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GUIDE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GUIDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GUILD",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GUILE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GULLED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GULLIBLE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ILLEGIBLE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "LEDGE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LEGGED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LEGIBLE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "LUGGED",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

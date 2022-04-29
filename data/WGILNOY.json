@@ -1,0 +1,151 @@
+{
+    "letters": "WGILNOY",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 71,
+    "word_count": 25,
+    "pangram_count": 1,
+    "pangram_list": [
+        "YOWLING"
+    ],
+    "word_list": [
+        {
+            "word": "GLOW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GLOWING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GOWN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOWNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "LOWING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LOWLY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OWING",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OWNING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WIGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WIGGLING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "WILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WILLING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WILLINGLY",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "WILLOW",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WILY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WING",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WINGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WINING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WINNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WOOING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WOOL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WOOLLY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WOWING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "YOWL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YOWLING",
+            "score": 4,
+            "pangram": true
+        }
+    ]
+}

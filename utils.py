@@ -9,19 +9,20 @@ import os
 import random
 import json
 import glob
+import sys
 
 # check validity of provided letters
 def check_letters(pzl):
 
 	if len(pzl) != len(list(set(pzl))):
-		print('Invalid count of letters requested.')
-		print('Exiting...')
-		exit(0)
+		print('Invalid count of letters requested.', file=sys.stderr)
+		print('Exiting...', file=sys.stderr)
+		exit(1)
 
 	elif len(pzl) != params.TOTAL_LETTER_COUNT:
-		print('Invalid count of letters requested.')
-		print('Exiting...')
-		exit(0)
+		print('Invalid count of letters requested.', file=sys.stderr)
+		print('Exiting...', file=sys.stderr)
+		exit(1)
 	else:
 		return
 
@@ -43,8 +44,8 @@ def select_puzzle(puzl_idx=None):
         return puzl_path
 
     if len(puzl_idx) != params.TOTAL_LETTER_COUNT:
-        print ('Puzzles must be ',str(params.TOTAL_LETTER_COUNT),'letters long. Please try again.')
-        exit(0)
+        print ('Puzzles must be ',str(params.TOTAL_LETTER_COUNT),'letters long. Please try again.', file=sys.stderr)
+        exit(1)
 
     # scenario 2: specific puzzle requested but not already available
     if puzl_idx in puzl_idx_list:

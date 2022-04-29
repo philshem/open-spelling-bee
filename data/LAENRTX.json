@@ -1,0 +1,251 @@
+{
+    "letters": "LAENRTX",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 111,
+    "word_count": 45,
+    "pangram_count": 1,
+    "pangram_list": [
+        "EXTERNAL"
+    ],
+    "word_list": [
+        {
+            "word": "ALERT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ALTAR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ALTER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ALTERNATE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ANAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ANTLER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "AXLE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EARL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ETERNAL",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "EXALT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EXTERNAL",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "LANE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LANTERN",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "LATE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LATENT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LATER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LATERAL",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "LATEX",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LATTER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LAXER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LEAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LEANER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LEARN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LEARNT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LEER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LENT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LETTER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NETTLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RATTLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RATTLER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "REAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "REALER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REEL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RELATE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RELAX",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RELENT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RENTAL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TALE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TALENT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TALL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TALLER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TATTLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TELLER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TELLTALE",
+            "score": 5,
+            "pangram": false
+        }
+    ]
+}

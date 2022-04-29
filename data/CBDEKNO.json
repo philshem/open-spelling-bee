@@ -1,0 +1,206 @@
+{
+    "letters": "CBDEKNO",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 98,
+    "word_count": 36,
+    "pangram_count": 1,
+    "pangram_list": [
+        "BECKONED"
+    ],
+    "word_list": [
+        {
+            "word": "BECKON",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BECKONED",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "CEDE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CEDED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COCK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COCKED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COCOON",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COCOONED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CODDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CODE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CODED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COKED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CONCEDE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CONCEDED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CONDONE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CONDONED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CONE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CONNED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "COOED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COOK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COOKBOOK",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "COOKED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DECK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DECKED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DECODE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DECODED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DOCK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOCKED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ENCODE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ENCODED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "KNOCK",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "KNOCKED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "NECK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NECKED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ONCE",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

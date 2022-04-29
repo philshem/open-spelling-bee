@@ -1,0 +1,186 @@
+{
+    "letters": "NAIJORT",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 104,
+    "word_count": 32,
+    "pangram_count": 1,
+    "pangram_list": [
+        "JANITOR"
+    ],
+    "word_list": [
+        {
+            "word": "ANNOTATION",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "ANOINT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ANON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ATTAIN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "INITIATION",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "INITIATOR",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "INTO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "INTONATION",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "IRON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "IRRITANT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "IRRITATION",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "JANITOR",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "JOIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "JOINT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NARRATION",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "NARRATOR",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "NATION",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NOTATION",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "NOTION",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ONION",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ONTO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ORATION",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RAIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RANT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RATION",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ROTATION",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TAINT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TARTAN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TINT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TORN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TRAIN",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

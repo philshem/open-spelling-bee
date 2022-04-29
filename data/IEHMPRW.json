@@ -1,0 +1,181 @@
+{
+    "letters": "IEHMPRW",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 65,
+    "word_count": 31,
+    "pangram_count": 1,
+    "pangram_list": [
+        "WHIMPER"
+    ],
+    "word_list": [
+        {
+            "word": "EERIE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EERIER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EMIR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EMPIRE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HEIR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HIPPER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HIPPIE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HIRE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MERRIER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MIME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MIRE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PIER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PIPE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PREMIER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PREMIERE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PRIM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PRIME",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PRIMER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PRIMMER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PRIMP",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RIPE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RIPER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WHIM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WHIMPER",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "WHIP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WHIR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WHIRR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WIPE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WIPER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WIRE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WIRIER",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

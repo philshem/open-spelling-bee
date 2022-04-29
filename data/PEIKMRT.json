@@ -1,0 +1,221 @@
+{
+    "letters": "PEIKMRT",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 101,
+    "word_count": 39,
+    "pangram_count": 1,
+    "pangram_list": [
+        "TIMEKEEPER"
+    ],
+    "word_list": [
+        {
+            "word": "EMPIRE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EMPTIER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "KEEP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KEEPER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "KEPT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KIPPER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PEEK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PEEP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PEER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PEPPER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PERIMETER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PERK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PERKIER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PERMIT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PERT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PERTER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PETER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PETITE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PETTIER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PIER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PIKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PIPE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PREEMPT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PREMIER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PREMIERE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PRETTIER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PRIM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PRIME",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PRIMER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PRIMMER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PRIMP",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RIPE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RIPER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TEMPER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TEMPT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TEPEE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TIMEKEEPER",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "TRIP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TRIPE",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

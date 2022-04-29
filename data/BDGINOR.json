@@ -1,0 +1,196 @@
+{
+    "letters": "BDGINOR",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 103,
+    "word_count": 34,
+    "pangram_count": 1,
+    "pangram_list": [
+        "BROODING"
+    ],
+    "word_list": [
+        {
+            "word": "BIDDING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BIDING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BIND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BINDING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BINGO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BINNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BIRD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BIRDING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BOBBIN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BOBBING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BODING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BOGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BOND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BONDING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BONING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BOOING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BOOR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BORING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BORN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BRIBING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BRIDGING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BRING",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BRINGING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BROOD",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BROODING",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "GIBING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GOBBING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "INBORN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RIBBING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RIBBON",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ROBBING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ROBIN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ROBING",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

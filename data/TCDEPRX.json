@@ -1,0 +1,181 @@
+{
+    "letters": "TCDEPRX",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 99,
+    "word_count": 31,
+    "pangram_count": 1,
+    "pangram_list": [
+        "EXCERPTED"
+    ],
+    "word_list": [
+        {
+            "word": "CREPT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DETECT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DETECTED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DETER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DETERRED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ERECT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ERECTED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "EXCEPT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EXCEPTED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "EXCERPT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "EXCERPTED",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "EXCRETE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "EXCRETED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "EXERT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EXERTED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "EXPECT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EXPECTED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "EXPERT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PERT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PERTER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PETER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PETERED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PETTED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PRETEXT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TEED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TEETER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TEETERED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TEPEE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TEXT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TREE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TREED",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

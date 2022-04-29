@@ -1,0 +1,276 @@
+{
+    "letters": "GAFINTU",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 175,
+    "word_count": 50,
+    "pangram_count": 1,
+    "pangram_list": [
+        "FATIGUING"
+    ],
+    "word_list": [
+        {
+            "word": "AGAIN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AGING",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AGITATING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ATTAINING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "FAINTING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FANG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FANNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FATIGUING",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "FATING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FINING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FITTING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FUNGI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GAGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GAIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GAINING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GAIT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GANG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GANGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GATING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GAUGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GAUNT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GIANT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GIFT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GIFTING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GIGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GINNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GNAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GUNNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GUTTING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "IGNITING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "IGUANA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "INITIATING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "INNING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NAGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "NUTTING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TAGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TAINTING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TANG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TANNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TAUNTING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TIFFING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TING",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TINGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TINNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TINTING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TUFTING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TUGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TUNING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "UNFITTING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "UNITING",
+            "score": 4,
+            "pangram": false
+        }
+    ]
+}

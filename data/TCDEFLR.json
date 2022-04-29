@@ -1,0 +1,266 @@
+{
+    "letters": "TCDEFLR",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 153,
+    "word_count": 48,
+    "pangram_count": 1,
+    "pangram_list": [
+        "REFLECTED"
+    ],
+    "word_list": [
+        {
+            "word": "CLEFT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DEFECT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEFECTED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DEFLECT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DEFLECTED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DEFT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DEFTER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DELETE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DELETED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DETECT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DETECTED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DETER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DETERRED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "EFFECT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EFFECTED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ELECT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ELECTED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ERECT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ERECTED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FEET",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FELT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FELTED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FERRET",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FERRETED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FETE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FETED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FETTER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FETTERED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FLEET",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FLEETED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FLEETER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FRET",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FRETTED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "LEFT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LEFTER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LETTER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LETTERED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "REELECT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "REELECTED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "REFLECT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "REFLECTED",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "TEED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TEETER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TEETERED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TELLER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TREE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TREED",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

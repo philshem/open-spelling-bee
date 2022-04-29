@@ -1,0 +1,151 @@
+{
+    "letters": "YAFINRT",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 61,
+    "word_count": 25,
+    "pangram_count": 1,
+    "pangram_list": [
+        "INFANTRY"
+    ],
+    "word_list": [
+        {
+            "word": "AFFINITY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "AIRY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ARRAY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FAIRY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FATTY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FIFTY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FRAY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "INFANTRY",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "INFINITY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "NATTY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NIFTY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NINNY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RAINY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RARITY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RATIFY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RATTY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TARRY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TATTY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TINNY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TINY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TRAY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TRINITY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TYRANNY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TYRANT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "YARN",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

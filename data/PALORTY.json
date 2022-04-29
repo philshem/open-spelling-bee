@@ -1,0 +1,261 @@
+{
+    "letters": "PALORTY",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 98,
+    "word_count": 47,
+    "pangram_count": 1,
+    "pangram_list": [
+        "PORTRAYAL"
+    ],
+    "word_list": [
+        {
+            "word": "APART",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "APPAL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "APPALL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "APPLY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "APTLY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LOOP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OPAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PALL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PALLOR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PALTRY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PAPA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PAPAL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PAPAYA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PARLOR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PARROT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PART",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PARTLY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PARTY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PATROL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PATTY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PAYROLL",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PLAY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PLOP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PLOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PLOY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POLAR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "POLL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POLO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POLYP",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "POOL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POOP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POOR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POORLY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "POPLAR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "POPPY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PORT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PORTAL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PORTLY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PORTRAY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PORTRAYAL",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "POTATO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PRAY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PROP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RAPPORT",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RAPT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TRAP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TROOP",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

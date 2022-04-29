@@ -1,0 +1,161 @@
+{
+    "letters": "DAGINSV",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 80,
+    "word_count": 27,
+    "pangram_count": 1,
+    "pangram_list": [
+        "ADVISING"
+    ],
+    "word_list": [
+        {
+            "word": "ADDING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ADDS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ADVISING",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "AIDING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "AIDS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AVID",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DADS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DAIS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DIGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DIGS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DINING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DINNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DINS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DISDAIN",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DISDAINING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "DISDAINS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DIVIDING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DIVING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DIVINING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "INVADING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "SAID",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SAND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SANDING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "SANDS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SIDING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SIDINGS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "VIVID",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

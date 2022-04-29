@@ -1,0 +1,276 @@
+{
+    "letters": "NAILMOT",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 160,
+    "word_count": 50,
+    "pangram_count": 1,
+    "pangram_list": [
+        "LIMITATION"
+    ],
+    "word_list": [
+        {
+            "word": "AMMONIA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ANAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ANIMAL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ANIMATION",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ANNOTATION",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "ANOINT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ANON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ATTAIN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "IMITATION",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "INITIAL",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "INITIATION",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "INTIMATION",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "INTO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "INTONATION",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "LAIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LIMITATION",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "LINT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LION",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOTION",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MAILMAN",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MAIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MAINTAIN",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MAMMALIAN",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MANIA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MILITANT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MILLION",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MINIMAL",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MINION",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MINT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOTION",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NAIL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NATION",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NATIONAL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "NOMINAL",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "NOMINATION",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "NOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NOTATION",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "NOTION",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NOTIONAL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ONION",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ONTO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TAINT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TALON",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TINT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TONAL",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

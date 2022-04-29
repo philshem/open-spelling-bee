@@ -1,0 +1,181 @@
+{
+    "letters": "MAGINOW",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 89,
+    "word_count": 31,
+    "pangram_count": 1,
+    "pangram_list": [
+        "MIAOWING"
+    ],
+    "word_list": [
+        {
+            "word": "AIMING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "AMMONIA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "AMONG",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GAMING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GAMMA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "IMAGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "IMAGINING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MAIM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MAIMING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MAIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MAMA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MAMMA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MANAGING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MANGO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MANIA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MANNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MIAOW",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MIAOWING",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "MIMING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MINING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MINION",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MINNOW",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MOAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOANING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MOOING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOONING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MOWING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NAMING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WIGWAM",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WOMAN",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

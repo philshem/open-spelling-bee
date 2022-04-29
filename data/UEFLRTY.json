@@ -1,0 +1,206 @@
+{
+    "letters": "UEFLRTY",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 81,
+    "word_count": 36,
+    "pangram_count": 1,
+    "pangram_list": [
+        "FRETFULLY"
+    ],
+    "word_list": [
+        {
+            "word": "FLUE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FLUFF",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FLUFFY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FLURRY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FLUTE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FLUTTER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FRETFUL",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FRETFULLY",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "FUEL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FULLER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FULLY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FURL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FURRY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FURY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FUTURE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LURE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LUTE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "REFUEL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REFUTE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RUEFUL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RUFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RUFFLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RULE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RULER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TRUE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TRUER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TRUFFLE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TRULY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TUFT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TURF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TURRET",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TURTLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "UTTER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UTTERLY",
+            "score": 4,
+            "pangram": false
+        }
+    ]
+}

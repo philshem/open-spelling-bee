@@ -1,0 +1,166 @@
+{
+    "letters": "WDEILMN",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 74,
+    "word_count": 28,
+    "pangram_count": 1,
+    "pangram_list": [
+        "WINDMILLED"
+    ],
+    "word_list": [
+        {
+            "word": "DWELL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DWINDLE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DWINDLED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LEWD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MEWED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MILDEW",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MILDEWED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "WEDDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WEED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WEEDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WELD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WELDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WELLED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WIDE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WIDEN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WIDENED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WIELD",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WIELDED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WILD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WILLED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WIND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WINDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WINDMILL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "WINDMILLED",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "WINE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WINED",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

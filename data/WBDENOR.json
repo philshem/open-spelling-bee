@@ -1,0 +1,256 @@
+{
+    "letters": "WBDENOR",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 115,
+    "word_count": 46,
+    "pangram_count": 1,
+    "pangram_list": [
+        "BROWNED"
+    ],
+    "word_list": [
+        {
+            "word": "BORROW",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BORROWED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BOWED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BREW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BREWED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BROW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BROWN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BROWNED",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "BROWNER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DOWN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOWNED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DREW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DROWN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DROWNED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ENDOW",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ENDOWED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "NEWBORN",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "NEWER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OWED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OWNED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OWNER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RENEW",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RENEWED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RENOWN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RENOWNED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ROWED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WEBBED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WEDDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WEDDER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WEED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WEEDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WEER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WERE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WONDER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WONDERED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "WOOD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WOODED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WOODEN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WOODENER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "WOOED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WORD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WORDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WORE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WORN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WOWED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WREN",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

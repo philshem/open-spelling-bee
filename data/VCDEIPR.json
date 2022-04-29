@@ -1,0 +1,246 @@
+{
+    "letters": "VCDEIPR",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 141,
+    "word_count": 44,
+    "pangram_count": 1,
+    "pangram_list": [
+        "PERCEIVED"
+    ],
+    "word_list": [
+        {
+            "word": "CIVIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CREVICE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DECEIVE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DECEIVED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DEPRIVE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DEPRIVED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DERIVE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DERIVED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DEVICE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DIVE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DIVED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DIVER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DIVIDE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DIVIDED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DRIVE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DRIVER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EVER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PEEVE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PEEVED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PERCEIVE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PERCEIVED",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "PRIVIER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RECEIVE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RECEIVED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RECEIVER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "REPRIEVE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "REPRIEVED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "REVERE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REVERED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "REVERIE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "REVIVE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REVIVED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "REVVED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RIVER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VEER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VEERED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VERIER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VERVE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VICE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VICED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VIED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VIPER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VIVID",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VIVIDER",
+            "score": 4,
+            "pangram": false
+        }
+    ]
+}

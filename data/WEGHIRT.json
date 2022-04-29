@@ -1,0 +1,186 @@
+{
+    "letters": "WEGHIRT",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 76,
+    "word_count": 32,
+    "pangram_count": 1,
+    "pangram_list": [
+        "WEIGHTIER"
+    ],
+    "word_list": [
+        {
+            "word": "GREW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HEREWITH",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "REWRITE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "THREW",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TWEE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TWEET",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TWIG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TWITTER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WEER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WEIGH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WEIGHT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WEIGHTIER",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "WERE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WETTER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WHERE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WHET",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WHETHER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WHEW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WHIR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WHIRR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WHITE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WHITER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WIRE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WIRIER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WITH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WITHER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WITTIER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WRIGHT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WRIT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WRITE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WRITER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WRITHE",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

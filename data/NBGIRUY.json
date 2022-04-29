@@ -1,0 +1,206 @@
+{
+    "letters": "NBGIRUY",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 111,
+    "word_count": 36,
+    "pangram_count": 1,
+    "pangram_list": [
+        "BURYING"
+    ],
+    "word_list": [
+        {
+            "word": "BINNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BRIBING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BRING",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BRINGING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BRINY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BUGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BUNG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BUNNY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BURN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BURNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BURRING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BURYING",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "BUYING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GIBING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GIGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GINNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GRIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GRINNING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GRUBBING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GUNNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GUYING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GYBING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "INNING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NINNY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RIBBING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RIGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RING",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RINGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RUBBING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RUIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RUING",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RUINING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RUNG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RUNNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RUNNY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "URGING",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

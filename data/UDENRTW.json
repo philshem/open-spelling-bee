@@ -1,0 +1,246 @@
+{
+    "letters": "UDENRTW",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 113,
+    "word_count": 44,
+    "pangram_count": 1,
+    "pangram_list": [
+        "UNDERWENT"
+    ],
+    "word_list": [
+        {
+            "word": "DUDE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUDED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DUET",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUNE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ENDURE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ENDURED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "NEUTER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NEUTERED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "NUDE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NUDER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NURTURE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "NURTURED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "NUTTED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RETURN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RETURNED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RUDDER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RUDE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RUDER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RUED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RUNE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RUNNER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RUNT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RUTTED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TENURE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TENURED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TRUE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TRUED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TRUER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TUNE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TUNED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TUNER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TUREEN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TURN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TURNED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TURNER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TURRET",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "UDDER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UNDER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UNDERWENT",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "UNDUE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UNTRUE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "UNTRUER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "UTTER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UTTERED",
+            "score": 4,
+            "pangram": false
+        }
+    ]
+}

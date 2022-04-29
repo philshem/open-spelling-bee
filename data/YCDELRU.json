@@ -1,0 +1,156 @@
+{
+    "letters": "YCDELRU",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 61,
+    "word_count": 26,
+    "pangram_count": 1,
+    "pangram_list": [
+        "CRUDELY"
+    ],
+    "word_list": [
+        {
+            "word": "CELERY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CRUDELY",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "CRUELLY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CUDDLY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CURLY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CURRY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CYCLE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CYCLED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DECRY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DRYER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DRYLY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DULLY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DULY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DYED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EDDY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ELDERLY",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "EYED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LEERY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LYRE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RECYCLE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RECYCLED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RELY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RUDDY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RUDELY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "YELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YELLED",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

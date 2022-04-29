@@ -1,0 +1,276 @@
+{
+    "letters": "PAEIRTZ",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 124,
+    "word_count": 50,
+    "pangram_count": 1,
+    "pangram_list": [
+        "APPETIZER"
+    ],
+    "word_list": [
+        {
+            "word": "APART",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "APPEAR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "APPETITE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "APPETIZER",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "APTER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PAIR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PAPA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PAPER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PARE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PART",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PATE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PATTER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PEAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PEAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PEEP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PEER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PEPPER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PERPETRATE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "PERT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PERTER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PETER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PETITE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PETTIER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PIER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PIPE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PIRATE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PIZZA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PRAIRIE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PREPARE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PRETTIER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PRIZE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RAPE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RAPT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "REAP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "REAPER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REAPPEAR",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "REPAIR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REPATRIATE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "REPEAT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RIPE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RIPER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TAPE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TAPER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TEPEE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TRAP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TRAPEZE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TRAPPER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TRIP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TRIPE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ZIPPER",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

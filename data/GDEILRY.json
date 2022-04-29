@@ -1,0 +1,276 @@
+{
+    "letters": "GDEILRY",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 129,
+    "word_count": 50,
+    "pangram_count": 1,
+    "pangram_list": [
+        "GREEDILY"
+    ],
+    "word_list": [
+        {
+            "word": "DEGREE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DIRGE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DREDGE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DREDGED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "EDGE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EDGED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EDGER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EDGIER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EDGY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EGGED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ELEGY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GEED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GELD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GELDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GIDDIER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GIDDY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GIGGED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GIGGLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GIGGLED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GILD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GILDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GIRDER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GIRDLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GIRDLED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GIRL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GLEE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GLIDE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GLIDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GLIDER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GREED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GREEDIER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GREEDILY",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "GREEDY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GREY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GREYED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GREYER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GRID",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GRIDDLE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GRILL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GRILLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GRILLED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "LEDGE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LEDGER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LEGGED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RIDGE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RIDGED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RIGGED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RIGID",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RIGIDLY",
+            "score": 4,
+            "pangram": false
+        }
+    ]
+}

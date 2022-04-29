@@ -1,0 +1,171 @@
+{
+    "letters": "ODEFLUY",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 71,
+    "word_count": 29,
+    "pangram_count": 1,
+    "pangram_list": [
+        "DOLEFULLY"
+    ],
+    "word_list": [
+        {
+            "word": "DODO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOLE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOLED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DOLEFUL",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DOLEFULLY",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "DOLL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOLLED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DOLLY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DOODLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DOODLED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FLOOD",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FLOODED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "FOLD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FOLDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FOLLY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "FOOD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FOOL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FOOLED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "FOUL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FOULED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LOLL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOLLED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LOUD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOUDLY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ODDLY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "OFFED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "YODEL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "YODELED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "YODELLED",
+            "score": 5,
+            "pangram": false
+        }
+    ]
+}

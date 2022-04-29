@@ -1,0 +1,256 @@
+{
+    "letters": "GDEHIRT",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 133,
+    "word_count": 46,
+    "pangram_count": 1,
+    "pangram_list": [
+        "RIGHTED"
+    ],
+    "word_list": [
+        {
+            "word": "DEGREE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DIGIT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DIRGE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DREDGE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DREDGED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "EDGE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EDGED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EDGER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EDGIER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EGGED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EIGHT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EIGHTH",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EIGHTIETH",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "GEED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GIDDIER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GIGGED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GIRDER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GIRTH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GREED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GREEDIER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GREET",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GREETED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GRID",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GRIT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GRITTED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GRITTIER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "HEDGE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "HEDGED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HEIGHT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HIGH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HIGHER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REGRET",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REGRETTED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "RIDGE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RIDGED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RIGGED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RIGHT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RIGHTED",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "RIGHTER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RIGID",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "THIGH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TIGER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TIGHT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TIGHTER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TRIGGER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TRIGGERED",
+            "score": 6,
+            "pangram": false
+        }
+    ]
+}

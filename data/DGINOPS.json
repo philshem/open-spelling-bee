@@ -1,0 +1,186 @@
+{
+    "letters": "DGINOPS",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 240,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true
+    },
+    "total_score": 80,
+    "word_count": 32,
+    "pangram_count": 1,
+    "pangram_list": [
+        "DISPOSING"
+    ],
+    "word_list": [
+        {
+            "word": "DIGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DIGS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DINING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DINNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DINS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DIPPING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DIPS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DISPOSING",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "DODGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DODO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DOGS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOING",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DONS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOPING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DOSING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GODS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOOD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOODS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "INDIGO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "INSIPID",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "NODDING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "NODS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ODDS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PODDING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PODS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PONDS",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "SIDING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "SIDINGS",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "SODDING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "SODS",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}
